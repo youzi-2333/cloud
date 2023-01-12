@@ -1,0 +1,80 @@
+[11:11:06.498] [Start] 程序版本：Release 2.4.4（272）
+[11:11:06.500] [Start] 识别码：3602-C152-B0B9-7E77
+[11:11:06.500] [Start] 程序路径：C:\Data\Minecraft\PCL2\Plain Craft Launcher 2.exe
+[11:11:06.506] [Start] 第一阶段加载用时：63 ms
+[11:11:06.628] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[11:11:06.629] [Start] 第二阶段加载用时：110 ms
+[11:11:06.650] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[11:11:06.859] [Start] 加载 DLL：Json
+[11:11:06.859] [System] 获取资源：Json
+[11:11:06.957] [Java] 缓存中有 5 个可用的 Java
+[11:11:07.005] [System] 窗口已置顶，位置：(358.4, 162.4), 818.4 x 490.4
+[11:11:07.012] [Animation] 动画线程开始
+[11:11:07.014] [Start] 第三阶段加载用时：187 ms
+[11:11:07.031] [Launch] Minecraft 文件夹：C:\Data\Minecraft\PCL2\.minecraft\
+[11:11:07.082] [Loader] 加载器 Loader Skin Auth 状态改变：Loading
+[11:11:07.091] [Loader] 加载器 Loader Skin Auth 状态改变：Finished
+[11:11:07.162] [Skin] 载入头像成功：Loader Skin Auth
+[11:11:07.164] [Minecraft] 启动按钮：Minecraft 版本：C:\Data\Minecraft\PCL2\.minecraft\versions\1.19.2-Forge_43.1.47-OptiFine_H9\
+[11:11:07.172] [Loader] 加载器 登录 状态改变：Loading
+[11:11:07.175] [Launch] 登录加载已开始
+[11:11:07.176] [Loader] 加载器 Loader Login Auth 状态改变：Loading
+[11:11:07.191] [Launch] 登录方式：Authlib-Injector（***********@163.com）
+[11:11:07.192] [Launch] 验证登录开始（Validate, Auth）
+[11:11:07.206] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/validate），最大超时 15000
+[11:11:07.282] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[11:11:07.294] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[11:11:07.308] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[11:11:07.309] [Server] 正在连接到 PCL2 服务器
+[11:11:07.326] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1673493067-7a431783-0-57914a7aee0c564045151c04b77bc61d，最大超时 10000
+[11:11:07.623] [System] DPI：120，工作区尺寸：1920 x 1020，系统版本：10.0.22621.0
+[11:11:07.850] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1673493068-564d1678-0-f7541ac6cc9f094e3802fc22c971501b，最大超时 30000
+[11:11:07.893] 获取 PCL2 服务器状态失败：获取结果失败，远程服务器返回错误: (404) 未找到。（http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1673493067-7a431783-0-57914a7aee0c564045151c04b77bc61d）
+→ 远程服务器返回错误: (404) 未找到。
+   在 PCL.ModNet.NetGetCodeByRequestRetry(String Url, Encoding Encode, String Accept, Boolean IsJson, String BackupUrl)
+   在 PCL.ModMain.ServerSubReal()
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetGetCodeRequest(String Url, Encoding Encode, Int32 Timeout, Boolean IsJson, String Accept)
+错误类型：System.Net.WebException
+[11:11:07.894] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[11:11:15.769] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[11:11:18.440] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/validate），最大超时 25000
+[11:11:29.073] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/validate），最大超时 4000
+[11:11:33.103] [Launch] 验证登录失败：连接服务器超时，请检查你的网络环境是否良好（https://littleskin.cn/api/yggdrasil/authserver/validate）：你的网络环境不佳，导致难以连接到服务器。请重试，或尝试使用 VPN。
+[11:11:33.103] [Launch] 已触发超时登录失败
+[11:11:33.104] 加载线程 Loader Login Auth (15) 发生运行时错误：$登录失败：连接登录服务器超时。
+请检查你的网络状况是否良好，或尝试使用 VPN！
+你的网络环境不佳，导致难以连接到服务器。请重试，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[11:11:33.104] [Loader] 加载器 Loader Login Auth 状态改变：Failed
+[11:11:33.112] 加载线程 登录 (14) 发生运行时错误：$登录失败：连接登录服务器超时。
+请检查你的网络状况是否良好，或尝试使用 VPN！
+你的网络环境不佳，导致难以连接到服务器。请重试，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 
+   在 PCL.ModLoader.LoaderBase.WaitForExit(Object Input, LoaderBase LoaderToSyncProgress, Boolean IsForceRestart)
+   在 PCL.ModLaunch.McLoginStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLoginServerStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[11:11:33.112] [Loader] 加载器 登录 状态改变：Failed
+[11:13:02.735] [Control] 按下图标按钮：BtnTitleMin
+[11:13:30.711] [Control] 按下单选按钮：更多
+[11:13:30.774] [Loader] 加载器 Help Page 状态改变：Loading
+[11:13:30.781] [Help] 正在检查内置帮助文件
+[11:13:30.785] [Control] 切换主要页面：Other, -1
+[11:13:30.810] [System] 获取资源：Help
+[11:13:30.905] [Help] 已解压内置帮助文件：False
+[11:13:30.905] [Help] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+[11:13:30.907] [Help] 已扫描缓存文件夹下的帮助文件，目前总计 32 条
+[11:13:30.975] [Loader] 加载器 Help Page 状态改变：Finished
+[11:13:32.160] [Control] 按下单选列表项：关于与鸣谢
+[11:13:42.247] [Control] 按下图标按钮：BtnTitleMin
+[11:13:51.667] [Control] 按下图标按钮：BtnTitleClose
+[11:13:51.669] [System] 收到关闭指令
+[11:13:51.948] [System] 程序已退出，返回值：Success
