@@ -1,0 +1,18 @@
+[00:05:24] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
+[00:05:24] [main/WARN]: Mod resolution failed
+[00:05:24] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE appleskin 2.4.3+mc1.19.4 {depends fabric-api @ [*]}, ROOT_FORCELOAD_SINGLE appleskin 2.4.3+mc1.19.4]
+[00:05:24] [main/INFO]: Reason: [HARD_DEP appleskin 2.4.3+mc1.19.4 {depends fabric-api @ [*]}, HARD_DEP xaerominimap 23.4.4 {depends fabric @ [>=0.43.1]}]
+[00:05:24] [main/INFO]: Fix: add [add:fabric-api 1 ([(-¡Þ,¡Þ)]), add:fabric 0.43.1 ([[0.43.1,¡Þ)])], remove [], replace []
+[00:05:24] [main/ERROR]: Incompatible mod set!
+net.fabricmc.loader.impl.FormattedException: Mod resolution encountered an incompatible mod set!
+A potential solution has been determined:
+	 - Install fabric-api, any version.
+	 - Install fabric, version 0.43.1 or later.
+Unmet dependency listing:
+	 - Mod 'AppleSkin' (appleskin) 2.4.3+mc1.19.4 requires any version of fabric-api, which is missing!
+	 - Mod 'Xaero's Minimap' (xaerominimap) 23.4.4 requires version 0.43.1 or later of fabric, which is missing!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:192) ~[fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:148) ~[fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) ~[fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.19.jar:?]

@@ -1,0 +1,1029 @@
+[21:48:33.262] [Start] 程序版本：Snapshot 2.5.3（288）
+[21:48:33.432] [Start] 识别码：C5CE-B73C-7F60-D1A3
+[21:48:33.432] [Start] 程序路径：C:\Users\Administrator\Desktop\Plain Craft Launcher 2.exe
+[21:48:33.503] [Start] 第一阶段加载用时：1547 ms
+[21:48:36.737] [UI] 刷新主题：13
+[21:48:36.972] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[21:48:36.972] [Start] 第二阶段加载用时：3062 ms
+[21:48:37.493] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[21:48:40.352] [System] 窗口已置顶，位置：(278, 129), 810 x 470
+[21:48:40.362] [Start] 第三阶段加载用时：484 ms
+[21:48:40.362] [Animation] 动画线程开始
+[21:48:40.382] [Launch] Minecraft 文件夹：C:\Users\Administrator\Desktop\999\
+[21:48:40.387] [Start] 加载 DLL：Json
+[21:48:40.387] [System] 获取资源：Json
+[21:48:41.103] [Java] 缓存中有 2 个可用的 Java
+[21:48:41.322] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[21:48:41.327] [UI] 解锁隐藏主题：6
+[21:48:41.332] [Loader] 加载器 PCL 服务 状态改变：Loading
+[21:48:41.332] [Server] 正在连接到 PCL 服务器
+[21:48:41.342] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[21:48:41.382] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1682862521-54242154-0-0dc03fafbc9a61439369d3455944ff72，最大超时 10000
+[21:48:41.642] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[21:48:41.712] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[21:48:41.897] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\
+[21:48:41.902] [Loader] 加载器 登录 状态改变：Loading
+[21:48:41.902] [Animation] 两个动画帧间隔 1547 ms
+[21:48:41.937] [Launch] 登录加载已开始
+[21:48:41.937] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[21:48:41.942] [Launch] 登录方式：离线（000）
+[21:48:41.947] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[21:48:41.952] [Launch] 登录加载已结束
+[21:48:41.952] [Loader] 加载器 登录 状态改变：Finished
+[21:48:41.972] [Skin] 载入头像成功：Loader Skin Legacy
+[21:48:41.972] [System] DPI：96，系统版本：10.0.19045.0，PCL 位置：C:\Users\Administrator\Desktop\Plain Craft Launcher 2.exe
+[21:48:42.178] [Server] 服务器公告：102|289|286|5，无需更新
+[21:48:42.252] [Loader] 加载器 PCL 服务 状态改变：Finished
+[21:48:42.692] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[21:48:44.053] [Animation] 两个动画帧间隔 266 ms
+[21:48:44.442] [Control] 按下单选按钮：下载
+[21:48:44.587] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[21:48:44.592] [Control] 切换主要页面：Download, -1
+[21:48:44.607] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[21:48:44.607] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
+[21:48:44.607] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，最大超时 10000
+[21:48:44.624] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[21:48:44.632] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[21:48:44.632] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[21:48:44.639] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[21:48:44.640] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[21:48:44.640] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[21:48:44.640] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，最大超时 10000
+[21:48:44.642] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，最大超时 10000
+[21:48:44.642] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，最大超时 10000
+[21:48:44.642] [Download] 刷新 Forge 推荐版本缓存开始
+[21:48:44.713] [Loader] 加载器 源码获取 193# 状态改变：Loading
+[21:48:44.847] [Download] -1798645995_192 209#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[21:48:44.887] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[21:48:44.891] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[21:48:44.924] [Loader] 加载器 DlClientList Bmclapi 状态改变：Finished
+[21:48:45.007] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[21:48:45.032] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[21:48:45.082] [Download] -1798645995_192：文件大小 45359 B（44.3 K）
+[21:48:45.091] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[21:48:45.106] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[21:48:45.112] [Download] -1798645995_192：已完成，剩余文件 0
+[21:48:45.112] [Loader] 加载器 源码获取 193# 状态改变：Finished
+[21:48:45.142] [Download] 刷新 Forge 推荐版本缓存成功
+[21:48:45.158] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[21:49:01.051] [Control] 按下单选列表项：Mod
+[21:49:01.128] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[21:49:01.155] [Comp] 工程列表搜索原始文本：
+[21:49:01.162] [Comp] 工程列表搜索最终文本：
+[21:49:01.182] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0
+[21:49:01.182] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0，最大超时 10000
+[21:49:01.186] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]
+[21:49:01.186] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]，最大超时 10000
+[21:49:01.532] [Report] FPS 0, 动画 17, 下载中 0（0 B/s）
+[21:49:02.442] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 8568 个）
+[21:49:02.482] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 42417 个）
+[21:49:02.502] [System] 获取资源：ModData
+[21:49:02.542] [Comp] 将 Fabric API (fabric-api) 与 Fabric API (fabric-api) 认定为相似工程
+[21:49:02.562] [Comp] 将 Cloth Config API (cloth-config) 与 Cloth Config API (Fabric/Forge) (cloth-config) 认定为相似工程
+[21:49:02.562] [Comp] 将 Architectury API (architectury-api) 与 Architectury API (Fabric/Forge) (architectury-api) 认定为相似工程
+[21:49:02.562] [Comp] 去重后累计新增结果 77 个
+[21:49:02.582] [Animation] 两个动画帧间隔 250 ms
+[21:49:02.582] [Comp] 开始可视化 Mod 列表，已储藏 77 个结果，当前在第 1 页
+[21:49:03.802] [Animation] 两个动画帧间隔 1204 ms
+[21:49:03.822] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[21:49:04.206] [Animation] 两个动画帧间隔 250 ms
+[21:49:04.870] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[21:49:04.871] [Comp] 工程列表搜索原始文本：nei
+[21:49:04.871] [Comp] 工程列表搜索最终文本：nei
+[21:49:04.871] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=nei
+[21:49:04.871] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=nei，最大超时 10000
+[21:49:04.871] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=nei&facets=[["project_type:mod"]]
+[21:49:04.871] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=nei&facets=[["project_type:mod"]]，最大超时 10000
+[21:49:05.533] [Comp] 从 CurseForge 获取到了 18 个工程（已获取 18 个，共 18 个）
+[21:49:05.633] [Comp] 从 Modrinth 获取到了 5 个工程（已获取 5 个，共 5 个）
+[21:49:05.633] [Comp] 去重后累计新增结果 23 个
+[21:49:05.634] [Comp] 总结果数需求最少 40 个，仅获得了 23 个
+[21:49:05.634] [Comp] 无法继续加载，将强制结束
+[21:49:05.700] [Comp] 开始可视化 Mod 列表，已储藏 23 个结果，当前在第 1 页
+[21:49:05.716] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/5/823/64/64/635351434418961385.png
+[21:49:05.718] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/218/753/64/64/637013033508034974.png
+[21:49:05.721] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/40/796/64/64/635985966576992812.png
+[21:49:05.723] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/218/443/64/64/637011515399416994.png
+[21:49:05.727] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/245/121/64/64/637149788087059561.png
+[21:49:05.730] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/235/186/64/64/637083838976551204.png
+[21:49:05.735] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/15/692/64/64/635631462476198049.png
+[21:49:05.739] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/11/611/64/64/635496774814911579.png
+[21:49:05.761] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/16/86/64/64/635640082917753659.png
+[21:49:05.765] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/85/673/64/64/636203700817582342.png
+[21:49:05.768] [Net] 直接下载文件：https://cdn.modrinth.com/data/yiHNcY51/icon.png
+[21:49:05.771] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/13/134/64/64/635553744683590344.png
+[21:49:05.851] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/145/958/64/64/636566402882196088.png
+[21:49:05.854] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/229/909/64/64/637058063844516177.png
+[21:49:05.857] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/43/9/64/64/636016266256782206.png
+[21:49:05.863] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/103/278/64/64/636337080444589493.png
+[21:49:05.866] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/346/565/64/64/637495439930372848.png
+[21:49:05.869] [Net] 直接下载文件：https://cdn.modrinth.com/data/YfOlc91N/icon.png
+[21:49:05.872] [Net] 直接下载文件：https://cdn.modrinth.com/data/Mhsb2DzL/ff60c820a782d8864b28f29dbacfdcdd07b43c21.png
+[21:49:05.884] [Net] 直接下载文件：https://cdn.modrinth.com/data/c8zyAYHe/icon.png
+[21:49:05.887] [Net] 直接下载文件：https://cdn.modrinth.com/data/xWVNd1Pt/27002068e89238214647d0ad219b995425e1ae3c.png
+[21:49:05.909] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[21:49:12.152] [Loader] 加载器 Comp File 状态改变：Loading
+[21:49:12.152] [Control] 切换主要页面：CompDetail, 0
+[21:49:12.152] [Control] 按下资源工程列表项：NEI Recipe Handlers
+[21:49:12.162] [Comp] 开始获取文件列表：335035
+[21:49:12.162] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[21:49:13.042] [Comp] 335035 文件列表中还需要获取信息的前置 Mod：222211，222213
+[21:49:13.042] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods），最大超时 15000
+[21:49:13.612] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/8/473/64/64/635404785886717614.jpeg
+[21:49:13.672] [Loader] 加载器 Comp File 状态改变：Finished
+[21:49:15.742] [Control] 切换主要页面：CompDetail, 0
+[21:49:15.742] [Control] 按下资源工程列表项：NEI物品管理器 
+[21:49:15.902] [Loader] 加载器 Comp File 状态改变：Loading
+[21:49:15.902] [Comp] 开始获取文件列表：222211
+[21:49:15.902] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[21:49:16.482] [Loader] 加载器 Comp File 状态改变：Finished
+[21:49:18.472] [Control] 展开卡片：1.7.10
+[21:49:19.752] [Control] 按下单击列表项：NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+[21:49:19.762] [Comp] 允许 Forge：未知，允许 Fabric：未知
+[21:49:19.766] [Comp] 使用当前版本的 mods 文件夹作为默认下载位置（1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7）
+[21:49:21.202] [Animation] 两个动画帧间隔 1438 ms
+[21:49:22.162] [Animation] 两个动画帧间隔 735 ms
+[21:49:22.522] [Animation] 两个动画帧间隔 234 ms
+[21:49:22.542] [Animation] 两个动画帧间隔 360 ms
+[21:49:23.962] [UI] 选择文件返回：C:\Users\Administrator\Desktop\999\mods\[NEI物品管理器] NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+[21:49:23.962] [Loader] 加载器 Mod 下载：NotEnoughItems-1.7.10-1.0.5.120-universal.jar  状态改变：Loading
+[21:49:23.962] [Loader] 加载器 下载文件 状态改变：Loading
+[21:49:23.982] [Animation] 两个动画帧间隔 219 ms
+[21:49:23.982] [Download] [NEI物品管理器] NotEnoughItems-1.7.10-1.0.5.120-universal.jar 630#：开始，起始点 0，https://media.forgecdn.net/files/2302/312/NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+[21:49:24.062] [Download] [NEI物品管理器] NotEnoughItems-1.7.10-1.0.5.120-universal.jar：文件大小 513136 B（501 K）
+[21:49:24.402] [Download] [NEI物品管理器] NotEnoughItems-1.7.10-1.0.5.120-universal.jar：已完成，剩余文件 0
+[21:49:24.402] [Loader] 加载器 下载文件 状态改变：Finished
+[21:49:24.402] [Loader] 加载器 Mod 下载：NotEnoughItems-1.7.10-1.0.5.120-universal.jar  状态改变：Finished
+[21:49:24.442] [UI] 弹出提示：Mod 下载：NotEnoughItems-1.7.10-1.0.5.120-universal.jar 成功！
+[21:49:24.582] [Control] 切换主要页面：CompDetail, 0
+[21:49:24.582] [Control] 按下资源工程列表项：鸡块核心 
+[21:49:24.762] [Loader] 加载器 Comp File 状态改变：Loading
+[21:49:24.762] [Comp] 开始获取文件列表：222213
+[21:49:24.762] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[21:49:25.342] [Loader] 加载器 Comp File 状态改变：Finished
+[21:49:27.092] [Control] 展开卡片：1.7.10
+[21:49:27.822] [Control] 按下单击列表项：CodeChickenCore-1.7.10-1.0.7.48-universal.jar
+[21:49:27.822] [Comp] 允许 Forge：True，允许 Fabric：False
+[21:49:27.822] [Comp] 使用上次下载时的文件夹作为默认下载位置
+[21:49:29.302] [Animation] 两个动画帧间隔 297 ms
+[21:49:31.637] [UI] 选择文件返回：C:\Users\Administrator\Desktop\999\mods\[鸡块核心] CodeChickenCore-1.7.10-1.0.7.48-universal.jar
+[21:49:31.642] [Loader] 加载器 Mod 下载：CodeChickenCore-1.7.10-1.0.7.48-universal.jar  状态改变：Loading
+[21:49:31.642] [Loader] 加载器 下载文件 状态改变：Loading
+[21:49:31.682] [Download] [鸡块核心] CodeChickenCore-1.7.10-1.0.7.48-universal.jar 699#：开始，起始点 0，https://media.forgecdn.net/files/3293/859/CodeChickenCore-1.7.10-1.0.7.48-universal.jar
+[21:49:31.782] [Download] [鸡块核心] CodeChickenCore-1.7.10-1.0.7.48-universal.jar：文件大小 143985 B（141 K）
+[21:49:31.857] [Download] [鸡块核心] CodeChickenCore-1.7.10-1.0.7.48-universal.jar：已完成，剩余文件 0
+[21:49:31.857] [Loader] 加载器 下载文件 状态改变：Finished
+[21:49:31.857] [Loader] 加载器 Mod 下载：CodeChickenCore-1.7.10-1.0.7.48-universal.jar  状态改变：Finished
+[21:49:31.882] [UI] 弹出提示：Mod 下载：CodeChickenCore-1.7.10-1.0.7.48-universal.jar 成功！
+[21:49:33.902] [Control] 按下图标按钮：BtnTitleInner
+[21:49:33.902] [Control] 切换主要页面：CompDetail, -1
+[21:49:34.072] [Loader] 加载器 Comp File 状态改变：Loading
+[21:49:34.112] [Loader] 加载器 Comp File 状态改变：Finished
+[21:49:35.530] [Control] 按下图标按钮：BtnTitleInner
+[21:49:35.530] [Control] 切换主要页面：CompDetail, -1
+[21:49:35.702] [Loader] 加载器 Comp File 状态改变：Loading
+[21:49:35.742] [Loader] 加载器 Comp File 状态改变：Finished
+[21:49:36.832] [Control] 按下图标按钮：BtnTitleInner
+[21:49:36.832] [Control] 切换主要页面：Download, -1
+[21:49:38.802] [Control] 按下单选按钮：启动
+[21:49:38.802] [Control] 切换主要页面：Launch, -1
+[21:49:45.242] [Control] 按下按钮：启动游戏
+[21:49:45.242] [Loader] 加载器 Loader Launch 状态改变：Loading
+[21:49:45.252] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\PCL\hints.txt
+[21:49:45.267] [Launch] 预检测已通过
+[21:49:45.272] [Download] 开始后台更新资源文件索引
+[21:49:45.272] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[21:49:45.272] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[21:49:45.272] [Loader] 加载器 登录 状态改变：Waiting
+[21:49:45.272] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[21:49:45.272] [Loader] 加载器 获取 Java 状态改变：Loading
+[21:49:45.272] [Loader] 加载器 登录 状态改变：Loading
+[21:49:45.272] [Loader] 加载器 补全文件 状态改变：Loading
+[21:49:45.272] [Download] 版本 1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7 对应的资源文件索引为 1.7.10
+[21:49:45.272] [Launch] 登录加载已开始
+[21:49:45.272] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[21:49:45.272] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[21:49:45.272] [Launch] 登录加载已结束
+[21:49:45.272] [Loader] 加载器 登录 状态改变：Finished
+[21:49:45.272] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[21:49:45.272] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[21:49:45.272] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[21:49:45.272] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[21:49:45.272] [Launch] Java 版本需求：最低 0.0.0.0，最高 1.8.999.999
+[21:49:45.272] [Download] 版本 1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7 对应的资源文件索引为 1.7.10
+[21:49:45.292] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\
+[21:49:45.338] [Download] 1.7.10.json 912#：开始，起始点 0，https://download.mcbbs.net/v1/packages/1863782e33ce7b584fc45b037325a1964e095d3e/1.7.10.json
+[21:49:45.412] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[21:49:45.412] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[21:49:45.412] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[21:49:45.412] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[21:49:45.452] [Download] 1.7.10.json：文件大小 72996 B（71.3 K）
+[21:49:45.497] [Download] 1.7.10.json：已完成，剩余文件 0
+[21:49:45.497] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[21:49:45.497] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[21:49:45.502] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.7.10.json
+[21:49:45.502] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[21:49:45.502] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[21:49:45.592] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\999\
+[21:49:45.602] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\
+[21:49:45.612] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[21:49:45.612] [Loader] 加载器 下载资源文件 状态改变：Loading
+[21:49:45.612] [Loader] 加载器 下载资源文件 状态改变：Finished
+[21:49:45.612] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[21:49:45.638] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jre1.8.0_351\bin\java.exe -version
+[21:49:45.742] [Minecraft] 获取支持库列表：1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7
+[21:49:46.192] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[21:49:46.192] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[21:49:46.192] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[21:49:46.192] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[21:49:46.192] [Loader] 加载器 补全文件 状态改变：Finished
+[21:49:46.438] [Java] 选定的 Java：JRE 8 (8.0.351)，64 位：C:\Program Files\Java\jre1.8.0_351\bin\
+[21:49:46.438] [Launch] 选择的 Java：JRE 8 (8.0.351)，64 位：C:\Program Files\Java\jre1.8.0_351\bin\
+[21:49:46.438] [Loader] 加载器 获取 Java 状态改变：Finished
+[21:49:46.438] [Loader] 加载器 获取启动参数 状态改变：Loading
+[21:49:46.442] [Launch] 开始获取 Minecraft 启动参数
+[21:49:46.442] [Launch] 获取旧版 JVM 参数
+[21:49:46.452] [System] 获取资源：JavaWrapper
+[21:49:46.452] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[21:49:46.452] [Launch] 旧版 JVM 参数获取成功：
+[21:49:46.452] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx7680m "-Djava.library.path=C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7-natives" -cp ${classpath} -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch
+[21:49:46.452] [Launch] 获取旧版 Game 参数
+[21:49:46.452] [Launch] 发现正确的 OptiFineForge TweakClass，目前参数：--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${autXXXXXXXXXXoken} --userProperties ${user_properties} --userType ${user_type} --tweakClass optifine.OptiFineForgeTweaker --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --height ${resolution_height} --width ${resolution_width}
+[21:49:46.452] [Launch] 旧版 Game 参数获取成功
+[21:49:46.452] [Launch] 获取新版 Game 参数
+[21:49:46.452] [Launch] 新版 Game 参数获取成功
+[21:49:46.462] [Minecraft] 获取支持库列表：1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7
+[21:49:46.472] [Launch] Minecraft 启动参数：
+[21:49:46.472] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx7680m "-Djava.library.path=C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7-natives" -cp "C:\Users\Administrator\Desktop\999\libraries\com\mojang\netty\1.8.8\netty-1.8.8.jar;C:\Users\Administrator\Desktop\999\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Administrator\Desktop\999\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Administrator\Desktop\999\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar;C:\Users\Administrator\Desktop\999\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\Administrator\Desktop\999\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Administrator\Desktop\999\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Administrator\Desktop\999\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar;C:\Users\Administrator\Desktop\999\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\Administrator\Desktop\999\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\Administrator\Desktop\999\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\Administrator\Desktop\999\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Administrator\Desktop\999\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Administrator\Desktop\999\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\Administrator\Desktop\999\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\Administrator\Desktop\999\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar;C:\Users\Administrator\Desktop\999\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar;C:\Users\Administrator\Desktop\999\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\Administrator\Desktop\999\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1614-1.7.10\forge-1.7.10-10.13.4.1614-1.7.10.jar;C:\Users\Administrator\Desktop\999\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar;C:\Users\Administrator\Desktop\999\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\Administrator\Desktop\999\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\Administrator\Desktop\999\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\Administrator\Desktop\999\libraries\optifine\OptiFine\1.7.10_HD_U_E7\OptiFine-1.7.10_HD_U_E7.jar;C:\Users\Administrator\Desktop\999\libraries\com\mumfrey\liteloader\1.7.10_04\liteloader-1.7.10_04.jar;C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7.jar" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch --username 000 --version 1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7 --gameDir "C:\Users\Administrator\Desktop\999" --assetsDir "C:\Users\Administrator\Desktop\999\assets" --assetIndex 1.7.10 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX5E4BD --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX5E4BD --userProperties {} --userType msa --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --height 480 --width 854 --tweakClass optifine.OptiFineForgeTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker 
+[21:49:46.472] [Loader] 加载器 获取启动参数 状态改变：Finished
+[21:49:46.482] [Loader] 加载器 解压文件 状态改变：Loading
+[21:49:46.542] [Launch] 正在解压 Natives 文件
+[21:49:46.602] [Loader] 加载器 解压文件 状态改变：Finished
+[21:49:46.602] [Loader] 加载器 预启动处理 状态改变：Loading
+[21:49:46.622] [Launch] 并非首次启动，不修改语言
+[21:49:46.639] [Launch] 正在构建自定义皮肤资源包，格式为：1
+[21:49:46.652] [UI] 弹出提示：此 Minecraft 版本尚不支持 Alex 皮肤，你的皮肤可能会显示为 Steve！
+[21:49:46.652] [Launch] 该 Minecraft 版本不支持双层皮肤，已进行裁剪
+[21:49:46.712] [Loader] 加载器 预启动处理 状态改变：Finished
+[21:49:46.722] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[21:49:46.732] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[21:49:46.732] [Loader] 加载器 启动进程 状态改变：Loading
+[21:49:46.912] [Launch] 已启动游戏进程：C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+[21:49:46.952] [Loader] 加载器 启动进程 状态改变：Finished
+[21:49:46.977] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[21:49:46.992] [Launch] 
+[21:49:46.992] [Launch] ~ 基础参数 ~
+[21:49:46.992] [Launch] PCL 版本：Snapshot 2.5.3 (288)
+[21:49:46.992] [Launch] 游戏版本：1.7.10, Forge 10.13.4.1614, OptiFine E7, LiteLoader（7.10）
+[21:49:46.992] [Launch] 资源版本：1.7.10
+[21:49:46.992] [Launch] 版本继承：无
+[21:49:46.992] [Launch] 分配的内存：7.5 GB（7680 MB）
+[21:49:46.992] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\999\
+[21:49:46.992] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\
+[21:49:46.992] [Launch] 版本隔离：False
+[21:49:46.992] [Launch] HMCL 格式：False
+[21:49:46.992] [Launch] Java 信息：JRE 8 (8.0.351)，64 位：C:\Program Files\Java\jre1.8.0_351\bin\
+[21:49:46.997] [Launch] 环境变量：未设置
+[21:49:46.997] [Launch] 
+[21:49:46.997] [Launch] ~ 登录参数 ~
+[21:49:46.997] [Launch] 玩家用户名：000
+[21:49:46.997] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX5E4BD
+[21:49:46.997] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX5E4BD
+[21:49:46.997] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX5E4BD
+[21:49:46.997] [Launch] 登录方式：Legacy
+[21:49:46.997] [Launch] 
+[21:49:47.012] [Launch] [2356] 开始 Minecraft 日志监控
+[21:49:47.017] [Launch] [全局] 出现运行中的 Minecraft
+[21:49:47.832] [Launch] [2356] 日志 1/5：已出现日志输出
+[21:49:49.852] [Launch] [2356] Minecraft 已退出，返回值：1
+[21:49:49.852] [Launch] [2356] Minecraft 尚未加载完成，可能已崩溃
+[21:49:49.854] [Launch] [全局] 已无运行中的 Minecraft
+[21:49:49.854] [Launch] [2356] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[21:49:49.936] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[21:49:50.016] 加载线程 等待游戏窗口出现 (74) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[21:49:50.016] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[21:49:50.016] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[21:49:50.067] [Launch] [2356] Minecraft 日志监控已退出
+[21:49:50.078] 加载线程 Loader Launch (59) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[21:49:50.078] [Loader] 加载器 Loader Launch 状态改变：Failed
+[21:49:51.859] [Launch] [2356] 崩溃分析开始
+[21:49:51.961] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\235624960773\
+[21:49:51.991] [Crash] 步骤 1：收集日志文件
+[21:49:52.016] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\999\logs\latest.log（0 分钟）
+[21:49:52.044] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+[21:49:49] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:49:49] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:49:49] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[21:49:49] [main/INFO]: Loading tweak class name com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[21:49:49] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:49:49] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[21:49:49] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_351, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_351
+[21:49:49] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:49:49] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.NoClassDefFoundError: codechicken/lib/asm/ASMInit
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at codechicken.nei.asm.NEICorePlugin.<init>(NEICorePlugin.java:18)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.Class.newInstance(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.ClassNotFoundException: codechicken.lib.asm.ASMInit
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 21 more
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NullPointerException
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 23 more
+[21:49:49] [main/ERROR]: An error occurred trying to configure the minecraft home at C:\Users\Administrator\Desktop\999 for Forge Mod Loader
+java.lang.NoClassDefFoundError: codechicken/lib/asm/ASMInit
+	at codechicken.nei.asm.NEICorePlugin.<init>(NEICorePlugin.java:18) ~[%5BNEI物品管理器%5D%20NotEnoughItems-1.7.10-1.0.5.120-universal.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.Class.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.ClassNotFoundException: codechicken.lib.asm.ASMInit
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	... 21 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	... 21 more
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.reflect.InvocationTargetException
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NoClassDefFoundError: codechicken/lib/asm/ASMInit
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at codechicken.nei.asm.NEICorePlugin.<init>(NEICorePlugin.java:18)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.Class.newInstance(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 6 more
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.ClassNotFoundException: codechicken.lib.asm.ASMInit
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 21 more
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NullPointerException
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+[21:49:49] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 23 more
+Exception in thread "main" 
+[21:49:52.046] [Crash] 步骤 1：收集日志文件完成，收集到 2 个文件
+[21:49:52.084] [Crash] 步骤 2：准备日志文本
+[21:49:52.086] [Crash] latest.log 分类为 MinecraftLog
+[21:49:52.086] [Crash] RawOutput.log 分类为 MinecraftLog
+[21:49:52.087] [Crash] 输出报告：C:\Users\Administrator\Desktop\999\logs\latest.log，作为 Minecraft 或启动器日志
+[21:49:52.087] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\235624960773\RawOutput.log，作为 Minecraft 或启动器日志
+[21:49:52.096] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\235624960773\RawOutput.log，作为启动器日志
+[21:49:52.096] [Crash] 导入分析：C:\Users\Administrator\Desktop\999\logs\latest.log，作为 Minecraft 日志
+[21:49:52.096] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[21:49:52.099] [Crash] 步骤 3：分析崩溃原因
+[21:49:52.113] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[21:49:52.115] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[21:49:52.120] [System] 窗口已置顶，位置：(278, 129), 810 x 470
+[21:49:52.155] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[21:49:55.022] [Control] 按下按钮：确定
+[21:49:55.022] [Control] 普通弹框返回：1
+[21:49:55.642] [Control] 按下按钮：版本设置
+[21:49:55.678] [Control] 切换主要页面：VersionSetup, 0
+[21:49:57.042] [Control] 按下单选列表项：Mod 管理
+[21:49:57.196] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[21:49:57.196] [System] 已刷新 Mod 列表
+[21:49:58.265] Mod 文件无法打开（C:\Users\Administrator\Desktop\999\mods\1.7.10\ForgeMultipart-1.7.10-1.2.0.345-universal.jar）：中央目录损坏。
+→ 试图将文件指针移到文件开头之前。
+
+   在 System.IO.Compression.ZipArchive.ReadEndOfCentralDirectory()
+   在 System.IO.Compression.ZipArchive.Init(Stream stream, ZipArchiveMode mode, Boolean leaveOpen)
+   在 PCL.ModMinecraft.McMod.Load(Boolean ForceReload)
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.SeekCore(Int64 offset, SeekOrigin origin)
+   在 System.IO.FileStream.Seek(Int64 offset, SeekOrigin origin)
+   在 System.IO.Compression.ZipArchive.ReadEndOfCentralDirectory()
+错误类型：System.IO.IOException
+[21:49:58.344] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[21:50:07.026] [Control] 按下图标按钮
+[21:50:07.320] [UI] 弹出提示：已将 ForgeMultipart-1.7.10-1.2.0.345-universal.jar 删除到回收站！
+[21:50:07.337] [Animation] 两个动画帧间隔 281 ms
+[21:50:15.641] [Report] FPS 0, 动画 27, 下载中 0（0 B/s）
+[21:50:19.353] [Control] 按下图标按钮：BtnTitleInner
+[21:50:19.354] [Control] 切换主要页面：Launch, -1
+[21:50:20.767] [Control] 按下单选按钮：下载
+[21:50:20.767] [Control] 切换主要页面：Download, -1
+[21:50:23.722] [Control] 切换主要页面：CompDetail, 0
+[21:50:23.722] [Control] 按下资源工程列表项：NEI Recipe Handlers
+[21:50:23.902] [Loader] 加载器 Comp File 状态改变：Loading
+[21:50:23.954] [Loader] 加载器 Comp File 状态改变：Finished
+[21:50:24.954] [Control] 切换主要页面：CompDetail, 0
+[21:50:24.954] [Control] 按下资源工程列表项：NEI物品管理器 
+[21:50:25.110] [Loader] 加载器 Comp File 状态改变：Loading
+[21:50:25.155] [Loader] 加载器 Comp File 状态改变：Finished
+[21:50:26.164] [Control] 展开卡片：1.7.10
+[21:50:28.022] [Control] 按下单击列表项：NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+[21:50:28.022] [Comp] 允许 Forge：未知，允许 Fabric：未知
+[21:50:28.022] [Comp] 使用上次下载时的文件夹作为默认下载位置
+[21:50:30.979] [UI] 选择文件返回：C:\Users\Administrator\Desktop\999\mods\[NEI物品管理器] NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+[21:50:30.979] [Loader] 加载器 Mod 下载：NotEnoughItems-1.7.10-1.0.5.120-universal.jar  状态改变：Loading
+[21:50:30.980] [Loader] 加载器 下载文件 状态改变：Loading
+[21:50:31.463] [Download] [NEI物品管理器] NotEnoughItems-1.7.10-1.0.5.120-universal.jar 1767#：开始，起始点 0，https://media.forgecdn.net/files/2302/312/NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+[21:50:31.566] [Download] [NEI物品管理器] NotEnoughItems-1.7.10-1.0.5.120-universal.jar：文件大小 513136 B（501 K）
+[21:50:31.872] [Download] [NEI物品管理器] NotEnoughItems-1.7.10-1.0.5.120-universal.jar：已完成，剩余文件 0
+[21:50:31.872] [Loader] 加载器 下载文件 状态改变：Finished
+[21:50:31.872] [Loader] 加载器 Mod 下载：NotEnoughItems-1.7.10-1.0.5.120-universal.jar  状态改变：Finished
+[21:50:31.916] [UI] 弹出提示：Mod 下载：NotEnoughItems-1.7.10-1.0.5.120-universal.jar 成功！
+[21:50:31.972] [Control] 按下图标按钮：BtnTitleInner
+[21:50:31.972] [Control] 切换主要页面：CompDetail, -1
+[21:50:32.150] [Loader] 加载器 Comp File 状态改变：Loading
+[21:50:32.199] [Loader] 加载器 Comp File 状态改变：Finished
+[21:50:33.288] [Control] 按下图标按钮：BtnTitleInner
+[21:50:33.288] [Control] 切换主要页面：Download, -1
+[21:50:34.393] [Control] 按下单选按钮：启动
+[21:50:34.394] [Control] 切换主要页面：Launch, -1
+[21:50:35.472] [Control] 按下按钮：启动游戏
+[21:50:35.472] [Loader] 加载器 Loader Launch 状态改变：Loading
+[21:50:35.472] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\PCL\hints.txt
+[21:50:35.484] [Launch] 预检测已通过
+[21:50:35.484] [Download] 开始后台更新资源文件索引
+[21:50:35.484] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[21:50:35.484] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[21:50:35.485] [Download] 版本 1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7 对应的资源文件索引为 1.7.10
+[21:50:35.485] [Loader] 加载器 登录 状态改变：Waiting
+[21:50:35.485] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[21:50:35.485] [Loader] 加载器 获取 Java 状态改变：Loading
+[21:50:35.485] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[21:50:35.485] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[21:50:35.485] [Launch] Java 版本需求：最低 0.0.0.0，最高 1.8.999.999
+[21:50:35.485] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\
+[21:50:35.486] [Loader] 加载器 登录 状态改变：Loading
+[21:50:35.486] [Loader] 加载器 补全文件 状态改变：Loading
+[21:50:35.486] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[21:50:35.486] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[21:50:35.488] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[21:50:35.488] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[21:50:35.489] [Download] 版本 1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7 对应的资源文件索引为 1.7.10
+[21:50:35.504] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\999\
+[21:50:35.504] [Launch] 登录加载已开始
+[21:50:35.505] [Minecraft] 获取支持库列表：1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7
+[21:50:35.513] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[21:50:35.516] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[21:50:35.517] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[21:50:35.517] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[21:50:35.519] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\
+[21:50:35.520] [Java] 选定的 Java：JRE 8 (8.0.351)，64 位：C:\Program Files\Java\jre1.8.0_351\bin\
+[21:50:35.520] [Launch] 选择的 Java：JRE 8 (8.0.351)，64 位：C:\Program Files\Java\jre1.8.0_351\bin\
+[21:50:35.520] [Loader] 加载器 获取 Java 状态改变：Finished
+[21:50:35.524] [Launch] 登录加载已结束
+[21:50:35.524] [Loader] 加载器 登录 状态改变：Finished
+[21:50:35.564] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[21:50:35.564] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[21:50:35.564] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[21:50:35.564] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[21:50:35.571] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[21:50:35.571] [Loader] 加载器 下载资源文件 状态改变：Loading
+[21:50:35.576] [Loader] 加载器 下载资源文件 状态改变：Finished
+[21:50:35.576] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[21:50:35.576] [Loader] 加载器 补全文件 状态改变：Finished
+[21:50:35.576] [Loader] 加载器 获取启动参数 状态改变：Loading
+[21:50:35.577] [Launch] 开始获取 Minecraft 启动参数
+[21:50:35.577] [Launch] 获取旧版 JVM 参数
+[21:50:35.577] [System] 获取资源：JavaWrapper
+[21:50:35.579] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[21:50:35.579] [Launch] 旧版 JVM 参数获取成功：
+[21:50:35.579] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx7680m "-Djava.library.path=C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7-natives" -cp ${classpath} -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch
+[21:50:35.579] [Launch] 获取旧版 Game 参数
+[21:50:35.580] [Launch] 发现正确的 OptiFineForge TweakClass，目前参数：--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${autXXXXXXXXXXoken} --userProperties ${user_properties} --userType ${user_type} --tweakClass optifine.OptiFineForgeTweaker --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --height ${resolution_height} --width ${resolution_width}
+[21:50:35.580] [Launch] 旧版 Game 参数获取成功
+[21:50:35.580] [Launch] 获取新版 Game 参数
+[21:50:35.580] [Launch] 新版 Game 参数获取成功
+[21:50:35.580] [Minecraft] 获取支持库列表：1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7
+[21:50:35.590] [Launch] Minecraft 启动参数：
+[21:50:35.597] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx7680m "-Djava.library.path=C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7-natives" -cp "C:\Users\Administrator\Desktop\999\libraries\com\mojang\netty\1.8.8\netty-1.8.8.jar;C:\Users\Administrator\Desktop\999\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Administrator\Desktop\999\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Administrator\Desktop\999\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar;C:\Users\Administrator\Desktop\999\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\Administrator\Desktop\999\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Administrator\Desktop\999\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Administrator\Desktop\999\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar;C:\Users\Administrator\Desktop\999\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\Administrator\Desktop\999\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\Administrator\Desktop\999\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\Administrator\Desktop\999\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Administrator\Desktop\999\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Administrator\Desktop\999\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\Administrator\Desktop\999\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\Administrator\Desktop\999\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar;C:\Users\Administrator\Desktop\999\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar;C:\Users\Administrator\Desktop\999\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\Administrator\Desktop\999\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1614-1.7.10\forge-1.7.10-10.13.4.1614-1.7.10.jar;C:\Users\Administrator\Desktop\999\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar;C:\Users\Administrator\Desktop\999\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\Administrator\Desktop\999\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\Administrator\Desktop\999\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\Administrator\Desktop\999\libraries\optifine\OptiFine\1.7.10_HD_U_E7\OptiFine-1.7.10_HD_U_E7.jar;C:\Users\Administrator\Desktop\999\libraries\com\mumfrey\liteloader\1.7.10_04\liteloader-1.7.10_04.jar;C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7.jar" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch --username 000 --version 1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7 --gameDir "C:\Users\Administrator\Desktop\999" --assetsDir "C:\Users\Administrator\Desktop\999\assets" --assetIndex 1.7.10 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX5E4BD --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX5E4BD --userProperties {} --userType msa --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --height 480 --width 854 --tweakClass optifine.OptiFineForgeTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker 
+[21:50:35.597] [Loader] 加载器 获取启动参数 状态改变：Finished
+[21:50:35.598] [Download] 1.7.10.json 1906#：开始，起始点 0，https://download.mcbbs.net/v1/packages/1863782e33ce7b584fc45b037325a1964e095d3e/1.7.10.json
+[21:50:35.607] [Loader] 加载器 解压文件 状态改变：Loading
+[21:50:35.608] [Launch] 正在解压 Natives 文件
+[21:50:35.611] [Loader] 加载器 解压文件 状态改变：Finished
+[21:50:35.623] [Download] 1.7.10.json：文件大小 72996 B（71.3 K）
+[21:50:35.634] [Loader] 加载器 预启动处理 状态改变：Loading
+[21:50:35.636] [Launch] 并非首次启动，不修改语言
+[21:50:35.637] [Launch] 正在构建自定义皮肤资源包，格式为：1
+[21:50:35.646] [Launch] 该 Minecraft 版本不支持双层皮肤，已进行裁剪
+[21:50:35.655] [Loader] 加载器 预启动处理 状态改变：Finished
+[21:50:35.664] [UI] 弹出提示：此 Minecraft 版本尚不支持 Alex 皮肤，你的皮肤可能会显示为 Steve！
+[21:50:35.664] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[21:50:35.677] [Download] 1.7.10.json：已完成，剩余文件 0
+[21:50:35.677] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[21:50:35.677] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[21:50:35.679] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[21:50:35.682] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.7.10.json
+[21:50:35.682] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[21:50:35.682] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[21:50:35.702] [Loader] 加载器 启动进程 状态改变：Loading
+[21:50:35.792] [Launch] 已启动游戏进程：C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+[21:50:35.793] [Loader] 加载器 启动进程 状态改变：Finished
+[21:50:35.794] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[21:50:35.794] [Launch] 
+[21:50:35.795] [Launch] ~ 基础参数 ~
+[21:50:35.795] [Launch] PCL 版本：Snapshot 2.5.3 (288)
+[21:50:35.795] [Launch] 游戏版本：1.7.10, Forge 10.13.4.1614, OptiFine E7, LiteLoader（7.10）
+[21:50:35.795] [Launch] 资源版本：1.7.10
+[21:50:35.795] [Launch] 版本继承：无
+[21:50:35.795] [Launch] 分配的内存：7.5 GB（7680 MB）
+[21:50:35.795] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\999\
+[21:50:35.795] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\
+[21:50:35.795] [Launch] 版本隔离：False
+[21:50:35.795] [Launch] HMCL 格式：False
+[21:50:35.795] [Launch] Java 信息：JRE 8 (8.0.351)，64 位：C:\Program Files\Java\jre1.8.0_351\bin\
+[21:50:35.795] [Launch] 环境变量：未设置
+[21:50:35.795] [Launch] 
+[21:50:35.795] [Launch] ~ 登录参数 ~
+[21:50:35.795] [Launch] 玩家用户名：000
+[21:50:35.795] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX5E4BD
+[21:50:35.795] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX5E4BD
+[21:50:35.795] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX5E4BD
+[21:50:35.795] [Launch] 登录方式：Legacy
+[21:50:35.795] [Launch] 
+[21:50:35.795] [Launch] [14804] 开始 Minecraft 日志监控
+[21:50:35.795] [Launch] [全局] 出现运行中的 Minecraft
+[21:50:36.011] [Launch] [14804] 日志 1/5：已出现日志输出
+[21:50:36.895] [Report] FPS 0, 动画 9, 下载中 0（0 B/s）
+[21:50:37.284] [Launch] [14804] Minecraft 已退出，返回值：1
+[21:50:37.284] [Launch] [14804] Minecraft 尚未加载完成，可能已崩溃
+[21:50:37.284] [Launch] [全局] 已无运行中的 Minecraft
+[21:50:37.284] [Launch] [14804] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[21:50:37.321] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[21:50:37.383] 加载线程 等待游戏窗口出现 (43) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[21:50:37.383] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[21:50:37.383] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[21:50:37.415] 加载线程 Loader Launch (38) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[21:50:37.415] [Loader] 加载器 Loader Launch 状态改变：Failed
+[21:50:37.487] [Launch] [14804] Minecraft 日志监控已退出
+[21:50:39.291] [Launch] [14804] 崩溃分析开始
+[21:50:39.293] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1480470106603\
+[21:50:39.293] [Crash] 步骤 1：收集日志文件
+[21:50:39.293] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\999\logs\latest.log（0 分钟）
+[21:50:39.302] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+[21:50:36] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:50:36] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:50:36] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[21:50:36] [main/INFO]: Loading tweak class name com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[21:50:36] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:50:36] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[21:50:36] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_351, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_351
+[21:50:37] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:50:37] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.NoClassDefFoundError: codechicken/lib/asm/ASMInit
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at codechicken.nei.asm.NEICorePlugin.<init>(NEICorePlugin.java:18)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.Class.newInstance(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.ClassNotFoundException: codechicken.lib.asm.ASMInit
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 21 more
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NullPointerException
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 23 more
+[21:50:37] [main/ERROR]: An error occurred trying to configure the minecraft home at C:\Users\Administrator\Desktop\999 for Forge Mod Loader
+java.lang.NoClassDefFoundError: codechicken/lib/asm/ASMInit
+	at codechicken.nei.asm.NEICorePlugin.<init>(NEICorePlugin.java:18) ~[%5BNEI物品管理器%5D%20NotEnoughItems-1.7.10-1.0.5.120-universal.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.Class.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.ClassNotFoundException: codechicken.lib.asm.ASMInit
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	... 21 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	... 21 more
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.reflect.InvocationTargetException
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NoClassDefFoundError: codechicken/lib/asm/ASMInit
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at codechicken.nei.asm.NEICorePlugin.<init>(NEICorePlugin.java:18)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.Class.newInstance(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 6 more
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.ClassNotFoundException: codechicken.lib.asm.ASMInit
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 21 more
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NullPointerException
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+[21:50:37] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 23 more
+Exception in thread "main" 
+[21:50:39.307] [Crash] 步骤 1：收集日志文件完成，收集到 2 个文件
+[21:50:39.307] [Crash] 步骤 2：准备日志文本
+[21:50:39.307] [Crash] latest.log 分类为 MinecraftLog
+[21:50:39.307] [Crash] RawOutput.log 分类为 MinecraftLog
+[21:50:39.307] [Crash] 输出报告：C:\Users\Administrator\Desktop\999\logs\latest.log，作为 Minecraft 或启动器日志
+[21:50:39.307] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1480470106603\RawOutput.log，作为 Minecraft 或启动器日志
+[21:50:39.307] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1480470106603\RawOutput.log，作为启动器日志
+[21:50:39.307] [Crash] 导入分析：C:\Users\Administrator\Desktop\999\logs\latest.log，作为 Minecraft 日志
+[21:50:39.307] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[21:50:39.307] [Crash] 步骤 3：分析崩溃原因
+[21:50:39.308] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[21:50:39.308] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[21:50:39.342] [System] 窗口已置顶，位置：(278, 129), 810 x 470
+[21:50:39.347] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[21:50:39.347] [Control] 按下按钮：版本设置
+[21:50:39.356] [Control] 切换主要页面：VersionSetup, 0
+[21:50:40.857] [Control] 按下按钮：确定
+[21:50:40.858] [Control] 普通弹框返回：1
+[21:50:41.530] [Control] 按下单选列表项：Mod 管理
+[21:50:41.672] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[21:50:41.672] [System] 已刷新 Mod 列表
+[21:50:42.147] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[21:51:27.721] [Control] 按下单选列表项：设置
+[21:51:29.554] [Control] 按下图标按钮：BtnTitleInner
+[21:51:29.554] [Control] 切换主要页面：Launch, -1
+[21:51:30.377] [Control] 按下按钮：启动游戏
+[21:51:30.377] [Loader] 加载器 Loader Launch 状态改变：Loading
+[21:51:30.378] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\PCL\hints.txt
+[21:51:30.391] [Launch] 预检测已通过
+[21:51:30.391] [Download] 开始后台更新资源文件索引
+[21:51:30.391] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[21:51:30.391] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[21:51:30.391] [Loader] 加载器 登录 状态改变：Waiting
+[21:51:30.391] [Download] 版本 1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7 对应的资源文件索引为 1.7.10
+[21:51:30.391] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[21:51:30.391] [Loader] 加载器 获取 Java 状态改变：Loading
+[21:51:30.391] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[21:51:30.391] [Launch] Java 版本需求：最低 0.0.0.0，最高 1.8.999.999
+[21:51:30.391] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\
+[21:51:30.391] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[21:51:30.391] [Loader] 加载器 登录 状态改变：Loading
+[21:51:30.391] [Loader] 加载器 补全文件 状态改变：Loading
+[21:51:30.391] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[21:51:30.391] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[21:51:30.391] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[21:51:30.391] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[21:51:30.391] [Download] 版本 1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7 对应的资源文件索引为 1.7.10
+[21:51:30.408] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[21:51:30.408] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[21:51:30.411] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[21:51:30.411] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[21:51:30.413] [Minecraft] 获取支持库列表：1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7
+[21:51:30.416] [Launch] 登录加载已开始
+[21:51:30.416] [Launch] 登录加载已结束
+[21:51:30.416] [Loader] 加载器 登录 状态改变：Finished
+[21:51:30.431] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\999\
+[21:51:30.443] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\
+[21:51:30.444] [Java] 选定的 Java：JRE 8 (8.0.351)，64 位：C:\Program Files\Java\jre1.8.0_351\bin\
+[21:51:30.444] [Launch] 选择的 Java：JRE 8 (8.0.351)，64 位：C:\Program Files\Java\jre1.8.0_351\bin\
+[21:51:30.444] [Loader] 加载器 获取 Java 状态改变：Finished
+[21:51:30.457] [Download] 1.7.10.json 2593#：开始，起始点 0，https://download.mcbbs.net/v1/packages/1863782e33ce7b584fc45b037325a1964e095d3e/1.7.10.json
+[21:51:30.461] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[21:51:30.461] [Loader] 加载器 下载资源文件 状态改变：Loading
+[21:51:30.461] [Loader] 加载器 下载资源文件 状态改变：Finished
+[21:51:30.461] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[21:51:30.470] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[21:51:30.470] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[21:51:30.470] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[21:51:30.471] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[21:51:30.471] [Loader] 加载器 补全文件 状态改变：Finished
+[21:51:30.471] [Loader] 加载器 获取启动参数 状态改变：Loading
+[21:51:30.471] [Launch] 开始获取 Minecraft 启动参数
+[21:51:30.471] [Launch] 获取旧版 JVM 参数
+[21:51:30.471] [System] 获取资源：JavaWrapper
+[21:51:30.473] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[21:51:30.473] [Launch] 旧版 JVM 参数获取成功：
+[21:51:30.473] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx7680m "-Djava.library.path=C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7-natives" -cp ${classpath} -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch
+[21:51:30.473] [Launch] 获取旧版 Game 参数
+[21:51:30.473] [Launch] 发现正确的 OptiFineForge TweakClass，目前参数：--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${autXXXXXXXXXXoken} --userProperties ${user_properties} --userType ${user_type} --tweakClass optifine.OptiFineForgeTweaker --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --height ${resolution_height} --width ${resolution_width}
+[21:51:30.473] [Launch] 旧版 Game 参数获取成功
+[21:51:30.473] [Launch] 获取新版 Game 参数
+[21:51:30.473] [Launch] 新版 Game 参数获取成功
+[21:51:30.473] [Minecraft] 获取支持库列表：1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7
+[21:51:30.484] [Launch] Minecraft 启动参数：
+[21:51:30.486] [Download] 1.7.10.json：文件大小 72996 B（71.3 K）
+[21:51:30.490] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx7680m "-Djava.library.path=C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7-natives" -cp "C:\Users\Administrator\Desktop\999\libraries\com\mojang\netty\1.8.8\netty-1.8.8.jar;C:\Users\Administrator\Desktop\999\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Administrator\Desktop\999\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Administrator\Desktop\999\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar;C:\Users\Administrator\Desktop\999\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\Administrator\Desktop\999\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Administrator\Desktop\999\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\Administrator\Desktop\999\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Administrator\Desktop\999\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar;C:\Users\Administrator\Desktop\999\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\Administrator\Desktop\999\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\Administrator\Desktop\999\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\Administrator\Desktop\999\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Administrator\Desktop\999\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Administrator\Desktop\999\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\Administrator\Desktop\999\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\Administrator\Desktop\999\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\Administrator\Desktop\999\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar;C:\Users\Administrator\Desktop\999\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar;C:\Users\Administrator\Desktop\999\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\Administrator\Desktop\999\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1614-1.7.10\forge-1.7.10-10.13.4.1614-1.7.10.jar;C:\Users\Administrator\Desktop\999\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar;C:\Users\Administrator\Desktop\999\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\Administrator\Desktop\999\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\Administrator\Desktop\999\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\Administrator\Desktop\999\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\Administrator\Desktop\999\libraries\optifine\OptiFine\1.7.10_HD_U_E7\OptiFine-1.7.10_HD_U_E7.jar;C:\Users\Administrator\Desktop\999\libraries\com\mumfrey\liteloader\1.7.10_04\liteloader-1.7.10_04.jar;C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7.jar" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch --username 000 --version 1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7 --gameDir "C:\Users\Administrator\Desktop\999" --assetsDir "C:\Users\Administrator\Desktop\999\assets" --assetIndex 1.7.10 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX5E4BD --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX5E4BD --userProperties {} --userType msa --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --height 480 --width 854 --tweakClass optifine.OptiFineForgeTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker 
+[21:51:30.491] [Loader] 加载器 获取启动参数 状态改变：Finished
+[21:51:30.493] [Loader] 加载器 解压文件 状态改变：Loading
+[21:51:30.493] [Launch] 正在解压 Natives 文件
+[21:51:30.502] [Loader] 加载器 解压文件 状态改变：Finished
+[21:51:30.527] [Download] 1.7.10.json：已完成，剩余文件 0
+[21:51:30.527] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[21:51:30.527] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[21:51:30.529] [Loader] 加载器 预启动处理 状态改变：Loading
+[21:51:30.531] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.7.10.json
+[21:51:30.531] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[21:51:30.531] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[21:51:30.534] [Launch] 并非首次启动，不修改语言
+[21:51:30.536] [Launch] 正在构建自定义皮肤资源包，格式为：1
+[21:51:30.542] [Launch] 该 Minecraft 版本不支持双层皮肤，已进行裁剪
+[21:51:30.552] [Loader] 加载器 预启动处理 状态改变：Finished
+[21:51:30.561] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[21:51:30.578] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[21:51:30.591] [UI] 弹出提示：此 Minecraft 版本尚不支持 Alex 皮肤，你的皮肤可能会显示为 Steve！
+[21:51:30.591] [Loader] 加载器 启动进程 状态改变：Loading
+[21:51:30.691] [Launch] 已启动游戏进程：C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+[21:51:30.691] [Loader] 加载器 启动进程 状态改变：Finished
+[21:51:30.726] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[21:51:30.726] [Launch] 
+[21:51:30.726] [Launch] ~ 基础参数 ~
+[21:51:30.726] [Launch] PCL 版本：Snapshot 2.5.3 (288)
+[21:51:30.726] [Launch] 游戏版本：1.7.10, Forge 10.13.4.1614, OptiFine E7, LiteLoader（7.10）
+[21:51:30.726] [Launch] 资源版本：1.7.10
+[21:51:30.726] [Launch] 版本继承：无
+[21:51:30.726] [Launch] 分配的内存：7.5 GB（7680 MB）
+[21:51:30.726] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\999\
+[21:51:30.726] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\999\versions\1.7.10-Forge_10.13.4.1614-LiteLoader-OptiFine_E7\
+[21:51:30.726] [Launch] 版本隔离：False
+[21:51:30.726] [Launch] HMCL 格式：False
+[21:51:30.726] [Launch] Java 信息：JRE 8 (8.0.351)，64 位：C:\Program Files\Java\jre1.8.0_351\bin\
+[21:51:30.726] [Launch] 环境变量：未设置
+[21:51:30.726] [Launch] 
+[21:51:30.726] [Launch] ~ 登录参数 ~
+[21:51:30.726] [Launch] 玩家用户名：000
+[21:51:30.726] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX5E4BD
+[21:51:30.726] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX5E4BD
+[21:51:30.726] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX5E4BD
+[21:51:30.726] [Launch] 登录方式：Legacy
+[21:51:30.726] [Launch] 
+[21:51:30.726] [Launch] [9972] 开始 Minecraft 日志监控
+[21:51:30.726] [Launch] [全局] 出现运行中的 Minecraft
+[21:51:30.940] [Launch] [9972] 日志 1/5：已出现日志输出
+[21:51:32.020] [Launch] [9972] Minecraft 已退出，返回值：1
+[21:51:32.020] [Launch] [9972] Minecraft 尚未加载完成，可能已崩溃
+[21:51:32.020] [Launch] [全局] 已无运行中的 Minecraft
+[21:51:32.020] [Launch] [9972] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[21:51:32.075] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[21:51:32.107] 加载线程 等待游戏窗口出现 (90) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[21:51:32.107] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[21:51:32.107] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[21:51:32.224] [Launch] [9972] Minecraft 日志监控已退出
+[21:51:32.296] 加载线程 Loader Launch (30) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[21:51:32.296] [Loader] 加载器 Loader Launch 状态改变：Failed
+[21:51:34.036] [Launch] [9972] 崩溃分析开始
+[21:51:34.039] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\997239379721\
+[21:51:34.040] [Crash] 步骤 1：收集日志文件
+[21:51:34.041] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\999\logs\latest.log（0 分钟）
+[21:51:34.055] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+[21:51:31] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:51:31] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:51:31] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[21:51:31] [main/INFO]: Loading tweak class name com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[21:51:31] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:51:31] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[21:51:31] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_351, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_351
+[21:51:31] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:51:31] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.NoClassDefFoundError: codechicken/lib/asm/ASMInit
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at codechicken.nei.asm.NEICorePlugin.<init>(NEICorePlugin.java:18)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.Class.newInstance(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.ClassNotFoundException: codechicken.lib.asm.ASMInit
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 21 more
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NullPointerException
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 23 more
+[21:51:31] [main/ERROR]: An error occurred trying to configure the minecraft home at C:\Users\Administrator\Desktop\999 for Forge Mod Loader
+java.lang.NoClassDefFoundError: codechicken/lib/asm/ASMInit
+	at codechicken.nei.asm.NEICorePlugin.<init>(NEICorePlugin.java:18) ~[%5BNEI物品管理器%5D%20NotEnoughItems-1.7.10-1.0.5.120-universal.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.Class.newInstance(Unknown Source) ~[?:1.8.0_351]
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.ClassNotFoundException: codechicken.lib.asm.ASMInit
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	... 21 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	... 21 more
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.reflect.InvocationTargetException
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NoClassDefFoundError: codechicken/lib/asm/ASMInit
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at codechicken.nei.asm.NEICorePlugin.<init>(NEICorePlugin.java:18)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.Class.newInstance(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:501)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 6 more
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.ClassNotFoundException: codechicken.lib.asm.ASMInit
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 21 more
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NullPointerException
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+[21:51:31] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 23 more
+Exception in thread "main" 
+[21:51:34.058] [Crash] 步骤 1：收集日志文件完成，收集到 2 个文件
+[21:51:34.058] [Crash] 步骤 2：准备日志文本
+[21:51:34.059] [Crash] latest.log 分类为 MinecraftLog
+[21:51:34.059] [Crash] RawOutput.log 分类为 MinecraftLog
+[21:51:34.059] [Crash] 输出报告：C:\Users\Administrator\Desktop\999\logs\latest.log，作为 Minecraft 或启动器日志
+[21:51:34.059] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\997239379721\RawOutput.log，作为 Minecraft 或启动器日志
+[21:51:34.059] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\997239379721\RawOutput.log，作为启动器日志
+[21:51:34.059] [Crash] 导入分析：C:\Users\Administrator\Desktop\999\logs\latest.log，作为 Minecraft 日志
+[21:51:34.059] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[21:51:34.059] [Crash] 步骤 3：分析崩溃原因
+[21:51:34.061] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[21:51:34.061] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[21:51:34.100] [System] 窗口已置顶，位置：(278, 129), 810 x 470
+[21:51:34.103] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[21:51:36.450] [Control] 按下按钮：导出错误报告
+[21:51:36.450] [Control] 普通弹框返回：3
+[21:51:41.134] [UI] 选择文件返回：C:\Users\Administrator\Desktop\错误报告-2023-4-30_21.51.36.zip
+[21:51:41.435] [System] 诊断信息：
+操作系统：Microsoft Windows 10 家庭版
+剩余内存：4395 M / 8148 M
+DPI：96（100%）
+MC 文件夹：C:\Users\Administrator\Desktop\999\
+文件位置：C:\Users\Administrator\Desktop\

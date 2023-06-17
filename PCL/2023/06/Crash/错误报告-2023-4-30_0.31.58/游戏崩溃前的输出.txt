@@ -1,0 +1,77 @@
+2023-04-30 00:31:50,272 main WARN Advanced terminal features are not available in this environment
+[00:31:50] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, mcyouzhe, --version, 1.18.2-Forge_40.2.0-OptiFine_H9_pre3, --gameDir, D:\pcl II\.minecraft\versions\1.18.2-Forge_40.2.0-OptiFine_H9_pre3, --assetsDir, D:\pcl II\.minecraft\assets, --assetIndex, 1.18, --uuid, 9d231c94146b4f18901a1fdad8f69bef, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, Mojang, --versionType, PCL2, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, --tweakClass, optifine.OptiFineForgeTweaker]
+[00:31:50] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.2 by Eclipse Adoptium
+[00:31:50] [main/INFO] [op.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[00:31:50] [main/INFO] [op.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/D:/pcl%20II/.minecraft/libraries/optifine/OptiFine/1.18.2_HD_U_H9_pre3/OptiFine-1.18.2_HD_U_H9_pre3.jar%2352!/
+[00:31:50] [main/INFO] [op.OptiFineTransformationService/]: OptiFine ZIP file: D:\pcl II\.minecraft\libraries\optifine\OptiFine\1.18.2_HD_U_H9_pre3\OptiFine-1.18.2_HD_U_H9_pre3.jar
+[00:31:50] [main/INFO] [op.OptiFineTransformer/]: Target.PRE_CLASS is available
+[00:31:50] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/pcl%20II/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2349!/ Service=ModLauncher Env=CLIENT
+[00:31:50] [main/INFO] [op.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[00:31:51] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\pcl II\.minecraft\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.0\fmlcore-1.18.2-40.2.0.jar is missing mods.toml file
+[00:31:51] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\pcl II\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.0\javafmllanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[00:31:51] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\pcl II\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.0\lowcodelanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[00:31:51] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\pcl II\.minecraft\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.0\mclanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[00:31:51] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[00:31:51] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'geckolib3', Requested by: 'duneons', Expected range: '[0,)', Actual version: '[MISSING]'
+	Mod ID: 'dungeons_libraries', Requested by: 'dungeons_gear', Expected range: '[1.18.2-2.0.3-beta,)', Actual version: '[MISSING]'
+	Mod ID: 'dungeons_libraries', Requested by: 'dungeons_mobs', Expected range: '[1.18.2-2.0.3-beta,)', Actual version: '[MISSING]'
+	Mod ID: 'geckolib3', Requested by: 'dungeons_gear', Expected range: '[3.0.28,)', Actual version: '[MISSING]'
+	Mod ID: 'geckolib3', Requested by: 'dungeons_mobs', Expected range: '[3.0.55,)', Actual version: '[MISSING]'
+[00:31:51] [main/INFO] [op.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[00:31:51] [main/INFO] [op.OptiFineTransformer/]: Targets: 360
+[00:31:52] [main/INFO] [op.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[00:31:53] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[00:31:53] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.18.2-Forge_40.2.0-OptiFine_H9_pre3, --gameDir, D:\pcl II\.minecraft\versions\1.18.2-Forge_40.2.0-OptiFine_H9_pre3, --assetsDir, D:\pcl II\.minecraft\assets, --uuid, 9d231c94146b4f18901a1fdad8f69bef, --username, mcyouzhe, --assetIndex, 1.18, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, Mojang, --versionType, PCL2, --width, 854, --height, 480, --tweakClass, optifine.OptiFineForgeTweaker]
+[00:31:53] [main/WARN] [IMixinConfigPlugin/]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[00:31:53] [main/INFO] [IMixinConfigPlugin/]: Inventory Profiles Next dependency resolution failed! Probably missing libIPN.
+Completely ignored arguments: [--tweakClass, optifine.OptiFineForgeTweaker]
+[00:31:54] [main/WARN] [mixin/]: Error loading class: com/infamous/dungeons_libraries/utils/ArrowHelper (java.lang.ClassNotFoundException: com.infamous.dungeons_libraries.utils.ArrowHelper)
+Exception in thread "main" java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:39)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
+	... 7 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:110)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.lambda$findClass$16(ModuleClassLoader.java:216)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:226)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:216)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:132)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at TRANSFORMER/net.optifine/net.optifine.reflect.Reflector.<clinit>(Reflector.java:497)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.CrashReport.m_127526_(CrashReport.java:173)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.CrashReport.m_127529_(CrashReport.java:343)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.main.Main.main(Main.java:137)
+	... 13 more
+Caused by: org.spongepowered.asm.mixin.throwables.ClassMetadataNotFoundException: com.infamous.dungeons_libraries.utils.ArrowHelper
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transformMethod(MixinPreProcessorStandard.java:754)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transform(MixinPreProcessorStandard.java:739)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:310)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:280)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1288)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:292)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+	... 30 more

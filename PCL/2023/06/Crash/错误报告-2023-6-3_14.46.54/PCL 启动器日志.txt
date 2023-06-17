@@ -1,0 +1,1630 @@
+[14:17:38.371] [Start] 程序版本：Snapshot 2.6.2（294）
+[14:17:38.371] [Start] 识别码：F288-6641-768B-C893
+[14:17:38.371] [Start] 程序路径：D:\桌面\Plain Craft Launcher 2.exe
+[14:17:38.371] [Start] 第一阶段加载用时：47 ms
+[14:17:38.498] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[14:17:38.498] [Start] 第二阶段加载用时：125 ms
+[14:17:38.530] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[14:17:38.693] [UI] 加载背景图片：D:\桌面\PCL\Pictures\novaskin-minecraft-wallpaper.png
+[14:17:38.753] [System] 窗口已置顶，位置：(362.4, 164), 810.4 x 487.2
+[14:17:38.763] [Start] 第三阶段加载用时：79 ms
+[14:17:38.763] [Start] 加载 DLL：Json
+[14:17:38.763] [System] 获取资源：Json
+[14:17:38.769] [Launch] Minecraft 文件夹：D:\ZSX\1.19.2整合包\.minecraft\
+[14:17:38.800] [Loader] 加载器 Loader Skin Auth 状态改变：Loading
+[14:17:38.816] [Loader] 加载器 Loader Skin Auth 状态改变：Finished
+[14:17:38.842] [Java] 缓存中有 2 个可用的 Java
+[14:17:38.852] [Skin] 载入头像成功：Loader Skin Auth
+[14:17:38.852] [Minecraft] 启动按钮：Minecraft 版本：D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\
+[14:17:38.864] [Loader] 加载器 登录 状态改变：Loading
+[14:17:38.864] [Launch] 登录加载已开始
+[14:17:38.864] [Loader] 加载器 Loader Login Auth 状态改变：Loading
+[14:17:38.864] [Launch] 登录方式：Authlib-Injector（**********@qq.com）
+[14:17:38.864] [Launch] 验证登录开始（Validate, Auth）
+[14:17:38.864] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/validate），最大超时 15000
+[14:17:39.054] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[14:17:39.054] [UI] 解锁隐藏主题：6
+[14:17:39.054] [Loader] 加载器 PCL 服务 状态改变：Loading
+[14:17:39.054] [Server] 正在连接到 PCL 服务器
+[14:17:39.054] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[14:17:39.064] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1685773059-1b4ff314-0-93e83a11403afeb546dac6d80c06af08，最大超时 10000
+[14:17:39.181] [Launch] 验证登录成功（Validate, Auth）
+[14:17:39.181] [Loader] 加载器 Loader Login Auth 状态改变：Finished
+[14:17:39.197] [Launch] 登录加载已结束
+[14:17:39.197] [Loader] 加载器 登录 状态改变：Finished
+[14:17:39.261] [Server] 服务器公告：108|294|293|5，无需更新
+[14:17:39.261] [Loader] 加载器 PCL 服务 状态改变：Finished
+[14:17:39.466] [System] DPI：120，系统版本：10.0.22000.0，PCL 位置：D:\桌面\Plain Craft Launcher 2.exe
+[14:17:39.603] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[14:17:42.918] [System] 正在打开网页：https://littleskin.cn/user/closet
+[14:20:34.329] [Control] 按下图标按钮：BtnEdit
+[14:20:34.334] [Loader] 加载器 登录 状态改变：Loading
+[14:20:34.334] [Launch] 登录加载已开始
+[14:20:34.334] [Loader] 加载器 Loader Login Auth 状态改变：Loading
+[14:20:34.334] [Launch] 登录方式：Authlib-Injector（**********@qq.com）
+[14:20:34.334] [Launch] 登录开始（Login, Auth）
+[14:20:34.334] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/authenticate），最大超时 15000
+[14:20:34.350] [UI] 弹出提示：正在尝试更换，请稍候！
+[14:20:34.635] [Launch] 要求玩家选择角色
+[14:20:34.667] [Control] 选择弹窗：选择使用的角色
+[14:20:35.760] [Control] 按下单选框：ChangGeCG
+[14:20:36.590] [Control] 按下按钮：确定
+[14:20:36.590] [Control] 选择弹框返回：0
+[14:20:36.590] [Launch] 玩家选择的角色：ChangGeCG
+[14:20:36.602] [Launch] 登录成功（Login, Auth）
+[14:20:36.602] [Launch] 刷新登录开始（Refresh, Auth）
+[14:20:36.602] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/refresh），最大超时 15000
+[14:20:36.824] [Launch] 刷新登录成功（Refresh, Auth）
+[14:20:36.824] [Loader] 加载器 Loader Login Auth 状态改变：Finished
+[14:20:36.840] [Launch] 登录加载已结束
+[14:20:36.840] [Loader] 加载器 登录 状态改变：Finished
+[14:20:36.856] [Loader] 加载器 Loader Skin Auth 状态改变：Loading
+[14:20:36.856] [Loader] 加载器 Loader Skin Auth 状态改变：Finished
+[14:20:36.856] [Skin] 载入头像成功：Loader Skin Auth
+[14:20:37.636] [System] 正在打开网页：https://littleskin.cn/user/closet
+[14:20:41.142] [Skin] 正在清空皮肤缓存
+[14:20:41.147] [Loader] 加载器 Loader Skin Auth 状态改变：Loading
+[14:20:41.147] [Net] 获取网络结果：https://littleskin.cn/api/yggdrasil/sessionserver/session/minecraft/profile/7057c5695b1b483baf672194a08c6b51，最大超时 10000
+[14:20:41.190] [UI] 弹出提示：正在刷新头像……
+[14:20:41.637] [Skin] UUID 7057c5695b1b483baf672194a08c6b51 对应的皮肤文件为 https://littleskin.cn/textures/0dc3f778eec6d78b5afe2c25bdbfbfe357681b8a083d170604e2e1704311ea71
+[14:20:41.638] [Net] 直接下载文件：https://littleskin.cn/textures/0dc3f778eec6d78b5afe2c25bdbfbfe357681b8a083d170604e2e1704311ea71
+[14:20:41.703] [Minecraft] 皮肤下载成功：C:\Users\周思鑫\AppData\Local\Temp\PCL\Cache\Skin\8088199157921287788.png
+[14:20:41.703] [Loader] 加载器 Loader Skin Auth 状态改变：Finished
+[14:20:41.703] [Skin] 载入头像成功：Loader Skin Auth
+[14:20:41.717] [UI] 弹出提示：已刷新头像！
+[14:20:42.908] [Control] 按下按钮：启动游戏
+[14:20:42.908] [Loader] 加载器 Loader Launch 状态改变：Loading
+[14:20:42.908] [System] 欲读取的文件不存在，已返回空字符串：D:\桌面\PCL\hints.txt
+[14:20:42.944] [Launch] 预检测已通过
+[14:20:42.944] [Download] 开始后台更新资源文件索引
+[14:20:42.944] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[14:20:42.944] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[14:20:42.944] [Loader] 加载器 登录 状态改变：Waiting
+[14:20:42.944] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[14:20:42.944] [Loader] 加载器 获取 Java 状态改变：Loading
+[14:20:42.944] [Loader] 加载器 登录 状态改变：Loading
+[14:20:42.944] [Loader] 加载器 补全文件 状态改变：Loading
+[14:20:42.944] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[14:20:42.944] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[14:20:42.944] [Launch] 登录加载已开始
+[14:20:42.944] [Launch] 登录加载已结束
+[14:20:42.944] [Loader] 加载器 登录 状态改变：Finished
+[14:20:42.944] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[14:20:42.944] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[14:20:42.944] [Download] 版本 1.19.2 对应的资源文件索引为 1.19
+[14:20:42.944] [Download] 版本 1.19.2 对应的资源文件索引为 1.19
+[14:20:42.955] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[14:20:42.956] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[14:20:42.956] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[14:20:42.956] [Java] 开始完全遍历查找：D:\ZSX\1.19.2整合包\
+[14:20:42.966] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[14:20:42.966] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[14:20:42.972] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[14:20:42.972] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[14:20:42.972] [Java] 开始完全遍历查找：D:\ZSX\1.19.2整合包\.minecraft\
+[14:20:43.003] [Java] 开始完全遍历查找：D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\
+[14:20:43.003] [Java] 用户指定的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:20:43.003] [Java] 开始确认列表 Java 状态，共 1 项
+[14:20:43.003] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-17.0.3.1\bin\java.exe -version
+[14:20:43.019] [Minecraft] 获取支持库列表：1.19.2
+[14:20:43.035] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[14:20:43.035] [Loader] 加载器 下载资源文件 状态改变：Loading
+[14:20:43.035] [Loader] 加载器 下载资源文件 状态改变：Finished
+[14:20:43.035] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[14:20:43.098] [Java] 疑似 X.0.X.X 格式版本号：17.0.3.1
+[14:20:43.098] [Java] JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:20:43.114] [Java] 检查后找到 1 个特定的 Java
+[14:20:43.114] [Java] 使用用户指定的 Java：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:20:43.114] [Java] 选定的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:20:43.114] [Launch] 选择的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:20:43.114] [Loader] 加载器 获取 Java 状态改变：Finished
+[14:20:43.114] [Download] 1.19.json 272#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/f7033757bcb91e11d79f0f31330d680cc787631f/1.19.json
+[14:20:43.177] [Minecraft] 开始获取 Authlib-Injector 下载信息
+[14:20:43.177] [Loader] 加载器 源码获取 275# 状态改变：Loading
+[14:20:43.225] [Download] -1076201258_274 278#：开始，起始点 0，https://download.mcbbs.net/mirrors/authlib-injector/artifact/latest.json
+[14:20:43.341] [Download] -1076201258_274：文件大小 267 B（267 B）
+[14:20:43.341] [Download] -1076201258_274：已完成，剩余文件 1
+[14:20:43.341] [Loader] 加载器 源码获取 275# 状态改变：Finished
+[14:20:43.352] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[14:20:43.352] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[14:20:43.352] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[14:20:43.352] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[14:20:43.352] [Loader] 加载器 补全文件 状态改变：Finished
+[14:20:43.352] [Loader] 加载器 获取启动参数 状态改变：Loading
+[14:20:43.352] [Launch] 开始获取 Minecraft 启动参数
+[14:20:43.352] [Launch] 获取新版 JVM 参数
+[14:20:43.361] [Launch] 当前剩余内存：10.9G
+[14:20:43.361] [Net] 获取网络结果：https://littleskin.cn/api/yggdrasil，最大超时 10000
+[14:20:43.432] [Java] Wrapper：AppData 路径与 Temp 路径中均包含非 ASCII 字符，换用 ProgramData 目录
+[14:20:43.432] [Java] Wrapper：AppData 路径与 Temp 路径中均包含非 ASCII 字符，换用 ProgramData 目录
+[14:20:43.432] [System] 获取资源：JavaWrapper
+[14:20:43.432] [Java] 已释放 Java Wrapper：C:\ProgramData\PCL\JavaWrapper.jar
+[14:20:43.432] [Launch] 新版 JVM 参数获取成功：
+[14:20:43.432] [Launch] -Doolloo.jlw.tmpdir="C:\ProgramData\PCL" -javaagent:"C:\Users\周思鑫\AppData\Roaming\PCL\authlib-injector.jar"=https://littleskin.cn/api/yggdrasil -Dauthlibinjector.side=client -Dauthlibinjector.yggdrasil.prefetched=eyJtZXRhIjp7InNlcnZlck5hbWUiOiJMaXR0bGVTa2luIiwiaW1wbGVtZW50YXRpb25OYW1lIjoiWWdnZHJhc2lsIEFQSSBmb3IgQmxlc3NpbmcgU2tpbiIsImltcGxlbWVudGF0aW9uVmVyc2lvbiI6IjUuMS4xIiwibGlua3MiOnsiaG9tZXBhZ2UiOiJodHRwczpcL1wvbGl0dGxlc2tpbi5jbiIsInJlZ2lzdGVyIjoiaHR0cHM6XC9cL2xpdHRsZXNraW4uY25cL2F1dGhcL3JlZ2lzdGVyIn0sImZlYXR1cmUubm9uX2VtYWlsX2xvZ2luIjp0cnVlfSwic2tpbkRvbWFpbnMiOlsic2tpbi5wcmluemV1Z2VuLm5ldCIsIiIsImxpdHRsZXNraW4uY24iXSwic2lnbmF0dXJlUHVibGlja2V5IjoiLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS1cbk1JSUNJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBZzhBTUlJQ0NnS0NBZ0VBckdjTk9PRklxTEpTcW9FM3UwaGpcbnRPRW5PY0VUM3dqOURyc3MxQkU2c0JxZ1BvMGJNdWxPVUxocWprY1wvdUhcL3d5b3NZbnp3M3hhYXpKdDg3alRIaFxuSjhCUE14Q2VRTW95RWRSb1MzSm5qMUcwS2V6ajRBMmI2MVBKSk0xRHB2REFjcVFCWXNyU2RwQkorNTJNam9HU1xudkpvZVFPNVhVbEpWUW0yMVwvSG1KbnFzUGh6Y0E2SGdZNzFSSFlFNXhuaHBXSmlQeExLVVB0bXQ2Q05ZVVFRb1Ncbm8ydjM2WFdnTW1MQlpoQWJOT1B4WVgrMWlveEthbWpoTE8yOVVod3RnWTlVNlBXRU83XC9TQmZYenlSUFR6aFBWXG4ybkhxN0tKcWQ4SUlybHRzbHY2aVwvNEZFTTgxaXZTXC9tbStQTjNoWWxJWUs2ejZZbWlpMW5yUUFwbHNKNjdPR3FcbllIdFdLT3ZwZlR6T29sbHVnc1JpaGtBRzRPQjZoTTBQcjQ1ampDM1RJYzdlTzdrT2dJY0dVR1VRR3V1dWdERXpcbkoxTjlGRlduTlwvSDZQOXVrRmVnNVNtR0M1K3dtVVBaWkN0TkJMcjhvOHNJNUg3UWhLN05nd0NhR0ZvWXVpQUdMXG5nejNrXC8zWXdKNDBCYndRYXlRMmdJcWVueitYT0ZJQWxhanYrXC9ueWZjRHZaSDl2R05LUDlsVmNIWFVUNVlSblNcblpTSG81bHd2VnJZVXJxRUFiaFwvekR6OFFNRXlpdWpXdlVrUGhaczlmaDZmaW1VR3h0bThtRklQQ3RQSlZYamVZXG53RDNMdnQzYUlCMUpIZFVUSlIzZUVjNGVJYVRLTXdNUHlKUnpWbjV6S3NpdGFaejNublwvY09BXC93WkM5b3F5RVVcbm1jOWg2Wk1SVFJVRUU0VHRhSnlnOWxNQ0F3RUFBUT09XG4tLS0tLUVORCBQVUJMSUMgS0VZLS0tLS1cbiJ9 -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Xmn256m -Xmx7680m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\ProgramData\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient
+[14:20:43.432] [Launch] 获取新版 Game 参数
+[14:20:43.442] [Launch] 新版 Game 参数获取成功
+[14:20:43.447] [Minecraft] 获取支持库列表：1.19.2
+[14:20:43.447] [Launch] Minecraft 启动参数：
+[14:20:43.447] [Launch] -Doolloo.jlw.tmpdir="C:\ProgramData\PCL" -javaagent:"C:\Users\周思鑫\AppData\Roaming\PCL\authlib-injector.jar"=https://littleskin.cn/api/yggdrasil -Dauthlibinjector.side=client -Dauthlibinjector.yggdrasil.prefetched=eyJtZXRhIjp7InNlcnZlck5hbWUiOiJMaXR0bGVTa2luIiwiaW1wbGVtZW50YXRpb25OYW1lIjoiWWdnZHJhc2lsIEFQSSBmb3IgQmxlc3NpbmcgU2tpbiIsImltcGxlbWVudGF0aW9uVmVyc2lvbiI6IjUuMS4xIiwibGlua3MiOnsiaG9tZXBhZ2UiOiJodHRwczpcL1wvbGl0dGxlc2tpbi5jbiIsInJlZ2lzdGVyIjoiaHR0cHM6XC9cL2xpdHRsZXNraW4uY25cL2F1dGhcL3JlZ2lzdGVyIn0sImZlYXR1cmUubm9uX2VtYWlsX2xvZ2luIjp0cnVlfSwic2tpbkRvbWFpbnMiOlsic2tpbi5wcmluemV1Z2VuLm5ldCIsIiIsImxpdHRsZXNraW4uY24iXSwic2lnbmF0dXJlUHVibGlja2V5IjoiLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS1cbk1JSUNJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBZzhBTUlJQ0NnS0NBZ0VBckdjTk9PRklxTEpTcW9FM3UwaGpcbnRPRW5PY0VUM3dqOURyc3MxQkU2c0JxZ1BvMGJNdWxPVUxocWprY1wvdUhcL3d5b3NZbnp3M3hhYXpKdDg3alRIaFxuSjhCUE14Q2VRTW95RWRSb1MzSm5qMUcwS2V6ajRBMmI2MVBKSk0xRHB2REFjcVFCWXNyU2RwQkorNTJNam9HU1xudkpvZVFPNVhVbEpWUW0yMVwvSG1KbnFzUGh6Y0E2SGdZNzFSSFlFNXhuaHBXSmlQeExLVVB0bXQ2Q05ZVVFRb1Ncbm8ydjM2WFdnTW1MQlpoQWJOT1B4WVgrMWlveEthbWpoTE8yOVVod3RnWTlVNlBXRU83XC9TQmZYenlSUFR6aFBWXG4ybkhxN0tKcWQ4SUlybHRzbHY2aVwvNEZFTTgxaXZTXC9tbStQTjNoWWxJWUs2ejZZbWlpMW5yUUFwbHNKNjdPR3FcbllIdFdLT3ZwZlR6T29sbHVnc1JpaGtBRzRPQjZoTTBQcjQ1ampDM1RJYzdlTzdrT2dJY0dVR1VRR3V1dWdERXpcbkoxTjlGRlduTlwvSDZQOXVrRmVnNVNtR0M1K3dtVVBaWkN0TkJMcjhvOHNJNUg3UWhLN05nd0NhR0ZvWXVpQUdMXG5nejNrXC8zWXdKNDBCYndRYXlRMmdJcWVueitYT0ZJQWxhanYrXC9ueWZjRHZaSDl2R05LUDlsVmNIWFVUNVlSblNcblpTSG81bHd2VnJZVXJxRUFiaFwvekR6OFFNRXlpdWpXdlVrUGhaczlmaDZmaW1VR3h0bThtRklQQ3RQSlZYamVZXG53RDNMdnQzYUlCMUpIZFVUSlIzZUVjNGVJYVRLTXdNUHlKUnpWbjV6S3NpdGFaejNublwvY09BXC93WkM5b3F5RVVcbm1jOWg2Wk1SVFJVRUU0VHRhSnlnOWxNQ0F3RUFBUT09XG4tLS0tLUVORCBQVUJMSUMgS0VZLS0tLS1cbiJ9 -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\1.19.2-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=294 -cp "D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\tiny-mappings-parser\0.3.0+build.17\tiny-mappings-parser-0.3.0+build.17.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\sponge-mixin\0.12.4+mixin.0.8.5\sponge-mixin-0.12.4+mixin.0.8.5.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\tiny-remapper\0.8.2\tiny-remapper-0.8.2.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\access-widener\2.1.0\access-widener-2.1.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm\9.4\asm-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-analysis\9.4\asm-analysis-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-commons\9.4\asm-commons-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-tree\9.4\asm-tree-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-util\9.4\asm-util-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\intermediary\1.19.2\intermediary-1.19.2.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\fabric-loader\0.14.19\fabric-loader-0.14.19.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\1.19.2.jar" -Xmn256m -Xmx7680m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\ProgramData\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient --username ChangGeCG --version 1.19.2 --gameDir "D:\ZSX\1.19.2整合包\.minecraft" --assetsDir "D:\ZSX\1.19.2整合包\.minecraft\assets" --assetIndex 1.19 --uuid 7057c5695b1b483baf672194a08c6b51 --accessToken eyJ0eXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXiwzVA --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 
+[14:20:43.447] [Loader] 加载器 获取启动参数 状态改变：Finished
+[14:20:43.447] [Loader] 加载器 解压文件 状态改变：Loading
+[14:20:43.447] [Launch] 正在解压 Natives 文件
+[14:20:43.463] [Loader] 加载器 解压文件 状态改变：Finished
+[14:20:43.473] [Download] 1.19.json：文件大小 385610 B（377 K）
+[14:20:43.505] [Loader] 加载器 预启动处理 状态改变：Loading
+[14:20:43.511] [Launch] 当前语言为 zh_cn，无需修改
+[14:20:43.511] [Loader] 加载器 预启动处理 状态改变：Finished
+[14:20:43.558] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[14:20:43.568] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[14:20:43.605] [Loader] 加载器 启动进程 状态改变：Loading
+[14:20:43.605] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-17.0.3.1\bin\javaw.exe
+[14:20:43.605] [Loader] 加载器 启动进程 状态改变：Finished
+[14:20:43.669] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[14:20:43.669] [Launch] 
+[14:20:43.669] [Launch] ~ 基础参数 ~
+[14:20:43.669] [Launch] PCL 版本：Snapshot 2.6.2 (294)
+[14:20:43.669] [Launch] 游戏版本：1.19.2, Fabric 0.14.19（19.2）
+[14:20:43.669] [Launch] 资源版本：1.19
+[14:20:43.669] [Launch] 版本继承：无
+[14:20:43.680] [Launch] 分配的内存：7.5 GB（7680 MB）
+[14:20:43.680] [Launch] MC 文件夹：D:\ZSX\1.19.2整合包\.minecraft\
+[14:20:43.680] [Launch] 版本文件夹：D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\
+[14:20:43.680] [Launch] 版本隔离：False
+[14:20:43.680] [Launch] HMCL 格式：False
+[14:20:43.680] [Launch] Java 信息：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:20:43.680] [Launch] 环境变量：未设置
+[14:20:43.680] [Launch] 
+[14:20:43.680] [Launch] ~ 登录参数 ~
+[14:20:43.680] [Launch] 玩家用户名：ChangGeCG
+[14:20:43.680] [Launch] AccessToken：eyJ0eXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXiwzVA
+[14:20:43.680] [Launch] ClientToken：ebac30738e9544b6b6dd29b13c545239
+[14:20:43.680] [Launch] UUID：7057c5695b1b483baf672194a08c6b51
+[14:20:43.680] [Launch] 登录方式：Auth
+[14:20:43.680] [Launch] 
+[14:20:43.680] [Launch] [3648] 开始 Minecraft 日志监控
+[14:20:43.684] [Launch] [全局] 出现运行中的 Minecraft
+[14:20:43.922] [Launch] [3648] 日志 1/5：已出现日志输出
+[14:20:43.942] [Download] 1.19.json：已完成，剩余文件 0
+[14:20:43.942] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[14:20:43.942] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[14:20:43.942] [Launch] 后台更新资源文件索引成功：C:\Users\周思鑫\AppData\Local\Temp\PCL\Cache\1.19.json
+[14:20:43.942] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[14:20:43.942] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[14:20:55.699] [Report] FPS 0, 动画 8, 下载中 0（0 B/s）
+[14:20:59.281] [Launch] [3648] 日志 2/5：游戏用户已设置
+[14:21:07.727] [Report] FPS 0, 动画 6, 下载中 0（0 B/s）
+[14:21:09.132] [Launch] [3648] 日志 3/5：LWJGL 版本已确认
+[14:21:09.370] [Launch] [3648] Minecraft 窗口已加载：Minecraft* 1.19.2（1967450）
+[14:21:09.837] [Launch] [3648] Minecraft 加载已完成
+[14:21:09.853] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[14:21:09.893] [Loader] 加载器 结束处理 状态改变：Loading
+[14:21:09.895] [Launch] 开始启动结束处理
+[14:21:09.895] [Launch] 启动器可见性：4
+[14:21:09.895] [Launch] 已根据设置，在启动后最小化启动器
+[14:21:09.896] [Loader] 加载器 结束处理 状态改变：Finished
+[14:21:09.963] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[14:21:10.049] [Loader] 加载器 Loader Launch 状态改变：Finished
+[14:21:10.106] [UI] 弹出提示：1.19.2 启动成功！
+[14:21:15.033] [Launch] [3648] 日志 4/5：OpenAL 已加载
+[14:21:15.033] [Launch] [3648] 日志 5/5：材质已加载
+[14:22:33.514] [Launch] [3648] Minecraft 已退出，返回值：0
+[14:22:33.515] [Launch] [全局] 已无运行中的 Minecraft
+[14:22:33.750] [Launch] [3648] Minecraft 日志监控已退出
+[14:22:39.941] [System] 正在打开网页：https://littleskin.cn/user/closet
+[14:29:36.924] [System] 正在打开网页：https://littleskin.cn/user/closet
+[14:33:08.106] [Skin] 正在清空皮肤缓存
+[14:33:08.108] [Loader] 加载器 Loader Skin Auth 状态改变：Loading
+[14:33:08.108] [Net] 获取网络结果：https://littleskin.cn/api/yggdrasil/sessionserver/session/minecraft/profile/7057c5695b1b483baf672194a08c6b51，最大超时 10000
+[14:33:08.130] [UI] 弹出提示：正在刷新头像……
+[14:33:08.455] [Skin] UUID 7057c5695b1b483baf672194a08c6b51 对应的皮肤文件为 https://littleskin.cn/textures/517c361b6ee6143aa141c67f3e23d68a4e2deeda2eb3f3d4285129389a375056
+[14:33:08.455] [Net] 直接下载文件：https://littleskin.cn/textures/517c361b6ee6143aa141c67f3e23d68a4e2deeda2eb3f3d4285129389a375056
+[14:33:08.511] [Minecraft] 皮肤下载成功：C:\Users\周思鑫\AppData\Local\Temp\PCL\Cache\Skin\6620443998209515118.png
+[14:33:08.511] [Loader] 加载器 Loader Skin Auth 状态改变：Finished
+[14:33:08.512] [Skin] 载入头像成功：Loader Skin Auth
+[14:33:08.574] [UI] 弹出提示：已刷新头像！
+[14:33:09.513] [Control] 按下按钮：启动游戏
+[14:33:09.513] [Loader] 加载器 Loader Launch 状态改变：Loading
+[14:33:09.514] [System] 欲读取的文件不存在，已返回空字符串：D:\桌面\PCL\hints.txt
+[14:33:09.517] [Launch] 预检测已通过
+[14:33:09.517] [Download] 开始后台更新资源文件索引
+[14:33:09.517] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[14:33:09.517] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[14:33:09.518] [Download] 版本 1.19.2 对应的资源文件索引为 1.19
+[14:33:09.518] [Loader] 加载器 登录 状态改变：Waiting
+[14:33:09.518] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[14:33:09.518] [Loader] 加载器 获取 Java 状态改变：Loading
+[14:33:09.518] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[14:33:09.518] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[14:33:09.518] [Java] 开始完全遍历查找：D:\ZSX\1.19.2整合包\
+[14:33:09.518] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[14:33:09.518] [Loader] 加载器 登录 状态改变：Loading
+[14:33:09.519] [Loader] 加载器 补全文件 状态改变：Loading
+[14:33:09.519] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[14:33:09.519] [Launch] 登录加载已开始
+[14:33:09.519] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[14:33:09.519] [Loader] 加载器 Loader Login Auth 状态改变：Loading
+[14:33:09.519] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[14:33:09.519] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[14:33:09.519] [Launch] 登录方式：Authlib-Injector（**********@qq.com）
+[14:33:09.519] [Launch] 验证登录开始（Validate, Auth）
+[14:33:09.519] [Download] 版本 1.19.2 对应的资源文件索引为 1.19
+[14:33:09.519] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/validate），最大超时 15000
+[14:33:09.525] [Java] 开始完全遍历查找：D:\ZSX\1.19.2整合包\.minecraft\
+[14:33:09.533] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[14:33:09.533] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[14:33:09.533] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[14:33:09.534] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[14:33:09.550] [Java] 开始完全遍历查找：D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\
+[14:33:09.550] [Java] 用户指定的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:33:09.550] [Java] 开始确认列表 Java 状态，共 1 项
+[14:33:09.551] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-17.0.3.1\bin\java.exe -version
+[14:33:09.573] [Download] 1.19.json 536#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/f7033757bcb91e11d79f0f31330d680cc787631f/1.19.json
+[14:33:09.596] [Minecraft] 获取支持库列表：1.19.2
+[14:33:09.602] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[14:33:09.603] [Loader] 加载器 下载资源文件 状态改变：Loading
+[14:33:09.603] [Loader] 加载器 下载资源文件 状态改变：Finished
+[14:33:09.603] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[14:33:09.661] [Java] 疑似 X.0.X.X 格式版本号：17.0.3.1
+[14:33:09.661] [Java] JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:33:09.669] [Java] 检查后找到 1 个特定的 Java
+[14:33:09.669] [Java] 使用用户指定的 Java：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:33:09.669] [Java] 选定的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:33:09.669] [Launch] 选择的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:33:09.669] [Loader] 加载器 获取 Java 状态改变：Finished
+[14:33:09.710] [Launch] 验证登录成功（Validate, Auth）
+[14:33:09.710] [Loader] 加载器 Loader Login Auth 状态改变：Finished
+[14:33:09.717] [Launch] 登录加载已结束
+[14:33:09.717] [Loader] 加载器 登录 状态改变：Finished
+[14:33:09.732] [Minecraft] 开始获取 Authlib-Injector 下载信息
+[14:33:09.732] [Loader] 加载器 源码获取 545# 状态改变：Loading
+[14:33:09.827] [Download] -1076201258_544 549#：开始，起始点 0，https://download.mcbbs.net/mirrors/authlib-injector/artifact/latest.json
+[14:33:09.877] [Download] 1.19.json：文件大小 385610 B（377 K）
+[14:33:09.947] [Download] -1076201258_544：文件大小 267 B（267 B）
+[14:33:09.948] [Download] -1076201258_544：已完成，剩余文件 1
+[14:33:09.948] [Loader] 加载器 源码获取 545# 状态改变：Finished
+[14:33:09.956] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[14:33:09.956] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[14:33:09.956] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[14:33:09.956] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[14:33:09.956] [Loader] 加载器 补全文件 状态改变：Finished
+[14:33:09.956] [Loader] 加载器 获取启动参数 状态改变：Loading
+[14:33:09.957] [Launch] 开始获取 Minecraft 启动参数
+[14:33:09.957] [Launch] 获取新版 JVM 参数
+[14:33:09.958] [Launch] 当前剩余内存：11.3G
+[14:33:09.958] [Net] 获取网络结果：https://littleskin.cn/api/yggdrasil，最大超时 10000
+[14:33:10.134] [Java] Wrapper：AppData 路径与 Temp 路径中均包含非 ASCII 字符，换用 ProgramData 目录
+[14:33:10.134] [Java] Wrapper：AppData 路径与 Temp 路径中均包含非 ASCII 字符，换用 ProgramData 目录
+[14:33:10.134] [System] 获取资源：JavaWrapper
+[14:33:10.134] [Java] 已释放 Java Wrapper：C:\ProgramData\PCL\JavaWrapper.jar
+[14:33:10.134] [Launch] 新版 JVM 参数获取成功：
+[14:33:10.134] [Launch] -Doolloo.jlw.tmpdir="C:\ProgramData\PCL" -javaagent:"C:\Users\周思鑫\AppData\Roaming\PCL\authlib-injector.jar"=https://littleskin.cn/api/yggdrasil -Dauthlibinjector.side=client -Dauthlibinjector.yggdrasil.prefetched=eyJtZXRhIjp7InNlcnZlck5hbWUiOiJMaXR0bGVTa2luIiwiaW1wbGVtZW50YXRpb25OYW1lIjoiWWdnZHJhc2lsIEFQSSBmb3IgQmxlc3NpbmcgU2tpbiIsImltcGxlbWVudGF0aW9uVmVyc2lvbiI6IjUuMS4xIiwibGlua3MiOnsiaG9tZXBhZ2UiOiJodHRwczpcL1wvbGl0dGxlc2tpbi5jbiIsInJlZ2lzdGVyIjoiaHR0cHM6XC9cL2xpdHRsZXNraW4uY25cL2F1dGhcL3JlZ2lzdGVyIn0sImZlYXR1cmUubm9uX2VtYWlsX2xvZ2luIjp0cnVlfSwic2tpbkRvbWFpbnMiOlsic2tpbi5wcmluemV1Z2VuLm5ldCIsIiIsImxpdHRsZXNraW4uY24iXSwic2lnbmF0dXJlUHVibGlja2V5IjoiLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS1cbk1JSUNJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBZzhBTUlJQ0NnS0NBZ0VBckdjTk9PRklxTEpTcW9FM3UwaGpcbnRPRW5PY0VUM3dqOURyc3MxQkU2c0JxZ1BvMGJNdWxPVUxocWprY1wvdUhcL3d5b3NZbnp3M3hhYXpKdDg3alRIaFxuSjhCUE14Q2VRTW95RWRSb1MzSm5qMUcwS2V6ajRBMmI2MVBKSk0xRHB2REFjcVFCWXNyU2RwQkorNTJNam9HU1xudkpvZVFPNVhVbEpWUW0yMVwvSG1KbnFzUGh6Y0E2SGdZNzFSSFlFNXhuaHBXSmlQeExLVVB0bXQ2Q05ZVVFRb1Ncbm8ydjM2WFdnTW1MQlpoQWJOT1B4WVgrMWlveEthbWpoTE8yOVVod3RnWTlVNlBXRU83XC9TQmZYenlSUFR6aFBWXG4ybkhxN0tKcWQ4SUlybHRzbHY2aVwvNEZFTTgxaXZTXC9tbStQTjNoWWxJWUs2ejZZbWlpMW5yUUFwbHNKNjdPR3FcbllIdFdLT3ZwZlR6T29sbHVnc1JpaGtBRzRPQjZoTTBQcjQ1ampDM1RJYzdlTzdrT2dJY0dVR1VRR3V1dWdERXpcbkoxTjlGRlduTlwvSDZQOXVrRmVnNVNtR0M1K3dtVVBaWkN0TkJMcjhvOHNJNUg3UWhLN05nd0NhR0ZvWXVpQUdMXG5nejNrXC8zWXdKNDBCYndRYXlRMmdJcWVueitYT0ZJQWxhanYrXC9ueWZjRHZaSDl2R05LUDlsVmNIWFVUNVlSblNcblpTSG81bHd2VnJZVXJxRUFiaFwvekR6OFFNRXlpdWpXdlVrUGhaczlmaDZmaW1VR3h0bThtRklQQ3RQSlZYamVZXG53RDNMdnQzYUlCMUpIZFVUSlIzZUVjNGVJYVRLTXdNUHlKUnpWbjV6S3NpdGFaejNublwvY09BXC93WkM5b3F5RVVcbm1jOWg2Wk1SVFJVRUU0VHRhSnlnOWxNQ0F3RUFBUT09XG4tLS0tLUVORCBQVUJMSUMgS0VZLS0tLS1cbiJ9 -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Xmn256m -Xmx7987m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\ProgramData\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient
+[14:33:10.134] [Launch] 获取新版 Game 参数
+[14:33:10.134] [Launch] 新版 Game 参数获取成功
+[14:33:10.135] [Minecraft] 获取支持库列表：1.19.2
+[14:33:10.143] [Launch] Minecraft 启动参数：
+[14:33:10.145] [Launch] -Doolloo.jlw.tmpdir="C:\ProgramData\PCL" -javaagent:"C:\Users\周思鑫\AppData\Roaming\PCL\authlib-injector.jar"=https://littleskin.cn/api/yggdrasil -Dauthlibinjector.side=client -Dauthlibinjector.yggdrasil.prefetched=eyJtZXRhIjp7InNlcnZlck5hbWUiOiJMaXR0bGVTa2luIiwiaW1wbGVtZW50YXRpb25OYW1lIjoiWWdnZHJhc2lsIEFQSSBmb3IgQmxlc3NpbmcgU2tpbiIsImltcGxlbWVudGF0aW9uVmVyc2lvbiI6IjUuMS4xIiwibGlua3MiOnsiaG9tZXBhZ2UiOiJodHRwczpcL1wvbGl0dGxlc2tpbi5jbiIsInJlZ2lzdGVyIjoiaHR0cHM6XC9cL2xpdHRsZXNraW4uY25cL2F1dGhcL3JlZ2lzdGVyIn0sImZlYXR1cmUubm9uX2VtYWlsX2xvZ2luIjp0cnVlfSwic2tpbkRvbWFpbnMiOlsic2tpbi5wcmluemV1Z2VuLm5ldCIsIiIsImxpdHRsZXNraW4uY24iXSwic2lnbmF0dXJlUHVibGlja2V5IjoiLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS1cbk1JSUNJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBZzhBTUlJQ0NnS0NBZ0VBckdjTk9PRklxTEpTcW9FM3UwaGpcbnRPRW5PY0VUM3dqOURyc3MxQkU2c0JxZ1BvMGJNdWxPVUxocWprY1wvdUhcL3d5b3NZbnp3M3hhYXpKdDg3alRIaFxuSjhCUE14Q2VRTW95RWRSb1MzSm5qMUcwS2V6ajRBMmI2MVBKSk0xRHB2REFjcVFCWXNyU2RwQkorNTJNam9HU1xudkpvZVFPNVhVbEpWUW0yMVwvSG1KbnFzUGh6Y0E2SGdZNzFSSFlFNXhuaHBXSmlQeExLVVB0bXQ2Q05ZVVFRb1Ncbm8ydjM2WFdnTW1MQlpoQWJOT1B4WVgrMWlveEthbWpoTE8yOVVod3RnWTlVNlBXRU83XC9TQmZYenlSUFR6aFBWXG4ybkhxN0tKcWQ4SUlybHRzbHY2aVwvNEZFTTgxaXZTXC9tbStQTjNoWWxJWUs2ejZZbWlpMW5yUUFwbHNKNjdPR3FcbllIdFdLT3ZwZlR6T29sbHVnc1JpaGtBRzRPQjZoTTBQcjQ1ampDM1RJYzdlTzdrT2dJY0dVR1VRR3V1dWdERXpcbkoxTjlGRlduTlwvSDZQOXVrRmVnNVNtR0M1K3dtVVBaWkN0TkJMcjhvOHNJNUg3UWhLN05nd0NhR0ZvWXVpQUdMXG5nejNrXC8zWXdKNDBCYndRYXlRMmdJcWVueitYT0ZJQWxhanYrXC9ueWZjRHZaSDl2R05LUDlsVmNIWFVUNVlSblNcblpTSG81bHd2VnJZVXJxRUFiaFwvekR6OFFNRXlpdWpXdlVrUGhaczlmaDZmaW1VR3h0bThtRklQQ3RQSlZYamVZXG53RDNMdnQzYUlCMUpIZFVUSlIzZUVjNGVJYVRLTXdNUHlKUnpWbjV6S3NpdGFaejNublwvY09BXC93WkM5b3F5RVVcbm1jOWg2Wk1SVFJVRUU0VHRhSnlnOWxNQ0F3RUFBUT09XG4tLS0tLUVORCBQVUJMSUMgS0VZLS0tLS1cbiJ9 -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\1.19.2-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=294 -cp "D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\tiny-mappings-parser\0.3.0+build.17\tiny-mappings-parser-0.3.0+build.17.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\sponge-mixin\0.12.4+mixin.0.8.5\sponge-mixin-0.12.4+mixin.0.8.5.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\tiny-remapper\0.8.2\tiny-remapper-0.8.2.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\access-widener\2.1.0\access-widener-2.1.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm\9.4\asm-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-analysis\9.4\asm-analysis-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-commons\9.4\asm-commons-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-tree\9.4\asm-tree-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-util\9.4\asm-util-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\intermediary\1.19.2\intermediary-1.19.2.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\fabric-loader\0.14.19\fabric-loader-0.14.19.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\1.19.2.jar" -Xmn256m -Xmx7987m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\ProgramData\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient --username ChangGeCG --version 1.19.2 --gameDir "D:\ZSX\1.19.2整合包\.minecraft" --assetsDir "D:\ZSX\1.19.2整合包\.minecraft\assets" --assetIndex 1.19 --uuid 7057c5695b1b483baf672194a08c6b51 --accessToken eyJ0eXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXiwzVA --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 
+[14:33:10.145] [Loader] 加载器 获取启动参数 状态改变：Finished
+[14:33:10.163] [Loader] 加载器 解压文件 状态改变：Loading
+[14:33:10.164] [Launch] 正在解压 Natives 文件
+[14:33:10.164] [Loader] 加载器 解压文件 状态改变：Finished
+[14:33:10.211] [Loader] 加载器 预启动处理 状态改变：Loading
+[14:33:10.211] [Report] FPS 0, 动画 9, 下载中 1（289 K/s）
+[14:33:10.211] [Launch] 当前语言为 zh_cn，无需修改
+[14:33:10.211] [Loader] 加载器 预启动处理 状态改变：Finished
+[14:33:10.257] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[14:33:10.260] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[14:33:10.261] [Loader] 加载器 启动进程 状态改变：Loading
+[14:33:10.264] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-17.0.3.1\bin\javaw.exe
+[14:33:10.264] [Loader] 加载器 启动进程 状态改变：Finished
+[14:33:10.324] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[14:33:10.324] [Launch] 
+[14:33:10.324] [Launch] ~ 基础参数 ~
+[14:33:10.324] [Launch] PCL 版本：Snapshot 2.6.2 (294)
+[14:33:10.324] [Launch] 游戏版本：1.19.2, Fabric 0.14.19（19.2）
+[14:33:10.324] [Launch] 资源版本：1.19
+[14:33:10.324] [Launch] 版本继承：无
+[14:33:10.325] [Launch] 分配的内存：7.8 GB（7987 MB）
+[14:33:10.325] [Launch] MC 文件夹：D:\ZSX\1.19.2整合包\.minecraft\
+[14:33:10.325] [Launch] 版本文件夹：D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\
+[14:33:10.325] [Launch] 版本隔离：False
+[14:33:10.325] [Launch] HMCL 格式：False
+[14:33:10.325] [Launch] Java 信息：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:33:10.325] [Launch] 环境变量：未设置
+[14:33:10.325] [Launch] 
+[14:33:10.325] [Launch] ~ 登录参数 ~
+[14:33:10.326] [Launch] 玩家用户名：ChangGeCG
+[14:33:10.326] [Launch] AccessToken：eyJ0eXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXiwzVA
+[14:33:10.326] [Launch] ClientToken：ebac30738e9544b6b6dd29b13c545239
+[14:33:10.326] [Launch] UUID：7057c5695b1b483baf672194a08c6b51
+[14:33:10.326] [Launch] 登录方式：Auth
+[14:33:10.326] [Launch] 
+[14:33:10.326] [Launch] [18684] 开始 Minecraft 日志监控
+[14:33:10.326] [Launch] [全局] 出现运行中的 Minecraft
+[14:33:10.556] [Launch] [18684] 日志 1/5：已出现日志输出
+[14:33:10.599] [Download] 1.19.json：已完成，剩余文件 0
+[14:33:10.599] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[14:33:10.599] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[14:33:10.601] [Launch] 后台更新资源文件索引成功：C:\Users\周思鑫\AppData\Local\Temp\PCL\Cache\1.19.json
+[14:33:10.601] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[14:33:10.601] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[14:33:18.379] [Control] 按下单选按钮：设置
+[14:33:18.494] [Control] 切换主要页面：Setup, -1
+[14:33:18.564] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[14:33:18.568] [Net] 获取网络结果：https://api.mojang.com/users/profiles/minecraft/pianmu，最大超时 10000
+[14:33:19.008] [Net] 获取网络结果：https://sessionserver.mojang.com/session/minecraft/profile/c33241de102d483d87458dea6aeb45c0，最大超时 10000
+[14:33:19.131] [Control] 按下单选按钮：下载
+[14:33:19.198] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[14:33:19.200] [Control] 切换主要页面：Download, -1
+[14:33:19.206] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[14:33:19.207] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
+[14:33:19.207] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，最大超时 10000
+[14:33:19.296] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[14:33:19.298] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[14:33:19.300] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[14:33:19.303] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[14:33:19.304] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[14:33:19.306] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[14:33:19.307] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，最大超时 10000
+[14:33:19.308] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，最大超时 10000
+[14:33:19.313] [Download] 刷新 Forge 推荐版本缓存开始
+[14:33:19.313] [Loader] 加载器 源码获取 807# 状态改变：Loading
+[14:33:19.366] [Loader] 加载器 DlClientList Bmclapi 状态改变：Finished
+[14:33:19.388] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[14:33:19.392] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[14:33:19.425] [Download] -1798645995_806 827#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[14:33:19.434] [Skin] UUID c33241de102d483d87458dea6aeb45c0 对应的皮肤文件为 http://textures.minecraft.net/texture/762a267e0fd93f2aa45efa6c12fd56acdbe6b8afd00665076669e31081ef6578
+[14:33:19.434] [Net] 直接下载文件：http://textures.minecraft.net/texture/762a267e0fd93f2aa45efa6c12fd56acdbe6b8afd00665076669e31081ef6578
+[14:33:19.503] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[14:33:19.522] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[14:33:19.534] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[14:33:19.566] [Minecraft] 皮肤下载成功：C:\Users\周思鑫\AppData\Local\Temp\PCL\Cache\Skin\14420855626946595383.png
+[14:33:19.566] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[14:33:19.603] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[14:33:19.613] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[14:33:19.816] [Download] -1798645995_806：文件大小 45318 B（44.3 K）
+[14:33:19.832] [Download] -1798645995_806：已完成，剩余文件 0
+[14:33:19.832] [Loader] 加载器 源码获取 807# 状态改变：Finished
+[14:33:19.838] [Download] 刷新 Forge 推荐版本缓存成功
+[14:33:19.867] [Control] 按下单选按钮：启动
+[14:33:19.867] [Control] 切换主要页面：Launch, -1
+[14:33:21.147] [Control] 按下图标按钮：BtnTitleMin
+[14:33:27.013] [Launch] [18684] 日志 2/5：游戏用户已设置
+[14:33:36.543] [Launch] [18684] 日志 3/5：LWJGL 版本已确认
+[14:33:36.769] [Launch] [18684] Minecraft 窗口已加载：Minecraft* 1.19.2（2622782）
+[14:33:37.241] [Launch] [18684] Minecraft 加载已完成
+[14:33:37.352] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[14:33:37.353] [Loader] 加载器 结束处理 状态改变：Loading
+[14:33:37.353] [Launch] 开始启动结束处理
+[14:33:37.353] [Launch] 启动器可见性：4
+[14:33:37.353] [Launch] 已根据设置，在启动后最小化启动器
+[14:33:37.354] [Loader] 加载器 结束处理 状态改变：Finished
+[14:33:37.417] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[14:33:37.521] [Loader] 加载器 Loader Launch 状态改变：Finished
+[14:33:37.542] [UI] 弹出提示：1.19.2 启动成功！
+[14:33:41.987] [Launch] [18684] 日志 4/5：OpenAL 已加载
+[14:33:42.225] [Launch] [18684] 日志 5/5：材质已加载
+[14:42:52.393] [Launch] [18684] 识别为崩溃的 Log：#@!@# Game crashed! Crash report saved to: #@!@# D:\ZSX\1.19.2整合包\.minecraft\crash-reports\crash-2023-06-03_14.42.52-client.txt
+[14:42:52.393] [Launch] [全局] 已无运行中的 Minecraft
+[14:42:52.393] [Launch] [18684] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[14:42:52.475] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[14:42:52.598] [Launch] [18684] Minecraft 日志监控已退出
+[14:42:54.397] [Launch] [18684] 崩溃分析开始
+[14:42:54.405] [Crash] 崩溃分析暂存文件夹：C:\Users\周思鑫\AppData\Local\Temp\PCL\CrashAnalyzer\1868419979458\
+[14:42:54.408] [Crash] 步骤 1：收集日志文件
+[14:42:54.409] [Crash] 可能可用的日志文件：D:\ZSX\1.19.2整合包\.minecraft\crash-reports\crash-2023-06-03_14.42.52-client.txt（0 分钟）
+[14:42:54.409] [Crash] 可能可用的日志文件：D:\ZSX\1.19.2整合包\.minecraft\logs\latest.log（0 分钟）
+[14:42:54.410] [Crash] 以下为游戏输出的最后一段内容：
+[14:34:15] [REI-ReloadPlugins/INFO]: [REI] Plugins (3):
+[14:34:15] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[14:34:15] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[14:34:15] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[14:34:15] [REI-ReloadPlugins/INFO]: [REI] ****************************************
+[14:34:15] [REI-ReloadPlugins/INFO]: [REI] REIPlugin finished post-reload for END in 515.5 μs, totaling 104.7 ms.
+[14:34:15] [REI-ReloadPlugins/INFO]: [REI] REIClientPlugin finished post-reload for END in 398.0 μs, totaling 396.8 ms.
+[14:34:15] [REI-ReloadPlugins/INFO]: [REI] REIServerPlugin finished post-reload for END in 335.9 μs, totaling 17.99 ms.
+[14:34:15] [Render thread/INFO]: Animated skins loaded and ready to use!
+[14:34:15] [Render thread/INFO]: Reloading entity icon resources...
+[14:34:15] [Render thread/INFO]: Done!
+[14:34:15] [Render thread/INFO]: DurabilityViewer did not find Trinkets API
+[14:34:15] [Render thread/INFO]: DurabilityViewer did not find Tech Reborn
+[14:34:15] [Render thread/INFO]: [STDOUT]: Update HUD
+[14:34:19] [Server thread/INFO]: Saving and pausing game...
+[14:34:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:overworld
+[14:34:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_end
+[14:34:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_nether
+[14:34:22] [Render thread/INFO]: Using default channel type
+[14:34:22] [Render thread/INFO]: Started serving on 54120
+[14:34:22] [Render thread/INFO]: [System] [CHAT] 本地游戏已在端口54120上开启
+[14:34:25] [Render thread/INFO]: [System] [CHAT] Inventory Profiles Next: 版本：'1.10.1' 已更新。\n下载链接："Modrinth" 或 "CurseForge"
+[14:34:39] [Server thread/INFO]: xlsdwtt1[/127.0.0.1:65346] logged in with entity id 492 at (926.6999999880791, 71.0, -1391.8491010238195)
+[14:34:39] [Server thread/INFO]: xlsdwtt1加入了游戏
+[14:34:39] [Render thread/INFO]: [System] [CHAT] xlsdwtt1加入了游戏
+[14:34:39] [Render thread/INFO]: [STDOUT]: Player queue for update: 1
+[14:34:39] [Render thread/INFO]: [STDOUT]: Player queue for update: 1
+[14:34:39] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了目标 [轻盈如猫]
+[14:34:39] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了进度 [我不喜欢沙子]
+[14:34:39] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了进度 [楼梯？不uuuu！]
+[14:34:39] [Render thread/INFO]: [System] [CHAT] 您解锁了建筑标签页
+[14:34:39] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了进度 [馅饼]
+[14:34:39] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了目标 [天选之子]
+[14:34:39] [Render thread/INFO]: [System] [CHAT] 您解锁了农业标签页
+[14:34:39] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了进度 [耕种时间到！]
+[14:34:39] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了目标 [独具匠心的矩矱绳尺]
+[14:34:39] [Render thread/INFO]: Loaded 1049 advancements
+[14:34:39] [Render thread/INFO]: Loaded 1049 advancements
+[14:34:39] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了目标 [车？听都没听说过！]
+[14:34:39] [Render thread/INFO]: Loaded 1049 advancements
+[14:34:43] [Server thread/INFO]: Player xlsdwtt1 joined with a matching carpet client
+[14:37:50] [Render thread/INFO]: [System] [CHAT] 材料列表写入文件 'material_list_2023-06-03_14.37.50.txt'
+[14:38:11] [Render thread/INFO]: Loaded 1049 advancements
+[14:38:30] [Render thread/INFO]: [System] [CHAT] 已将截图保存为2023-06-03_14.38.30.png
+[14:40:24] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了进度 [小道]
+[14:40:24] [Render thread/INFO]: Loaded 1050 advancements
+[14:40:25] [Render thread/INFO]: Loaded 1050 advancements
+[14:40:31] [Render thread/INFO]: [System] [CHAT] 已将截图保存为2023-06-03_14.40.31.png
+[14:42:35] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了进度 [平滑圣手]
+[14:42:36] [Render thread/INFO]: Loaded 1052 advancements
+[14:42:38] [Render thread/INFO]: Loaded 1052 advancements
+[14:42:49] [Render thread/INFO]: [STDOUT]: Player queue for update: 1
+[14:42:50] [Server thread/INFO]: Stopping server
+[14:42:50] [Server thread/INFO]: Saving players
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: java.util.concurrent.RejectedExecutionException: Server already shutting down
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_40000(MinecraftServer.java:1246)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2600.method_11074(class_2600.java:19)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2600.method_11073(class_2600.java:14)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_3244.method_12063(class_3244.java:875)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2828.method_12272(class_2828.java:114)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:42)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.method_10759(class_2535.java:167)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.redirect$ckh000$masa_gadget_mod-1_19_2$redirectGenericsFtw(class_2535.java:2024)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.method_10770(class_2535.java:152)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.channelRead0(class_2535.java:50)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[14:42:50] [Netty Server IO #3/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[14:42:50] [Server thread/INFO]: ChangGeCG lost connection: 连接中断
+[14:42:50] [Server thread/INFO]: ChangGeCG退出了游戏
+[14:42:50] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[14:42:50] [Server thread/INFO]: Saving worlds
+[14:42:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:overworld
+[14:42:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_end
+[14:42:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_nether
+[14:42:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (原版生存? つ ?_? ?つ): All chunks are saved
+[14:42:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:42:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:42:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:42:51] [Server thread/WARN]: Found outdated translation keys in extension 'dev.dubhe.gugle.carpet.GcaExtension'!
+These won't be supported in a later Carpet version!
+Carpet will now try to map them to the correct keys in a best-effort basis
+[14:42:51] [Render thread/INFO]: Minimap session finalized.
+[14:42:51] [Render thread/INFO]: Finalizing world map session...
+[14:42:51] [Thread-18/INFO]: World map force-cleaned!
+[14:42:52] [Render thread/INFO]: World map session finalized.
+[14:42:52] [Render thread/INFO]: Stopping worker threads
+[14:42:52] [Render thread/ERROR]: Reported exception thrown!
+net.minecraft.class_148: Rendering entity in world
+	at net.minecraft.class_898.method_3954(class_898.java:172) ~[client-intermediary.jar:?]
+	at net.minecraft.class_761.method_22977(class_761.java:1568) ~[client-intermediary.jar:?]
+	at net.minecraft.class_761.method_22710(class_761.java:1316) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3188(class_757.java:1039) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:816) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1177) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:768) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:244) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.19.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.renderWithItems(HumanoidItemLayer.java:278) ~[【武器大师】weaponmaster-multi-fabric-1.19-3.0.2.jar:?]
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.renderPlayerWithItems(HumanoidItemLayer.java:29) ~[【武器大师】weaponmaster-multi-fabric-1.19-3.0.2.jar:?]
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.render(HumanoidItemLayer.java:76) ~[【武器大师】weaponmaster-multi-fabric-1.19-3.0.2.jar:?]
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.method_4199(HumanoidItemLayer.java:22) ~[【武器大师】weaponmaster-multi-fabric-1.19-3.0.2.jar:?]
+	at net.minecraft.class_922.method_4054(class_922.java:145) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1007.method_4215(class_1007.java:63) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1007.method_3936(class_1007.java:41) ~[client-intermediary.jar:?]
+	at net.minecraft.class_898.method_3954(class_898.java:141) ~[client-intermediary.jar:?]
+	... 17 more
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 2023-06-03 14:42:52
+Description: Rendering entity in world
+
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.renderWithItems(HumanoidItemLayer.java:278)
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.renderPlayerWithItems(HumanoidItemLayer.java:29)
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.render(HumanoidItemLayer.java:76)
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.method_4199(HumanoidItemLayer.java:22)
+	at net.minecraft.class_922.method_4054(class_922.java:145)
+	at net.minecraft.class_1007.method_4215(class_1007.java:63)
+	at net.minecraft.class_1007.method_3936(class_1007.java:41)
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+	at net.minecraft.class_757.method_3192(class_757.java:816)
+	at net.minecraft.class_310.method_1523(class_310.java:1177)
+	at net.minecraft.class_310.method_1514(class_310.java:768)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.renderWithItems(HumanoidItemLayer.java:278)
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.renderPlayerWithItems(HumanoidItemLayer.java:29)
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.render(HumanoidItemLayer.java:76)
+	at com.minecraftserverzone.weaponmaster.itemlayers.HumanoidItemLayer.method_4199(HumanoidItemLayer.java:22)
+	at net.minecraft.class_922.method_4054(class_922.java:145)
+	at net.minecraft.class_1007.method_4215(class_1007.java:63)
+	at net.minecraft.class_1007.method_3936(class_1007.java:41)
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+
+-- Entity being rendered --
+Details:
+	Entity Type: minecraft:player (net.minecraft.class_745)
+	Entity ID: 492
+	Entity Name: xlsdwtt1
+	Entity's Exact location: 852.83, 65.46, -1340.37
+	Entity's Block location: World: (852,65,-1341), Section: (at 4,1,3 in 53,4,-84; chunk contains blocks 848,-64,-1344 to 863,319,-1329), Region: (1,-3; contains chunks 32,-96 to 63,-65, blocks 512,-64,-1536 to 1023,319,-1025)
+	Entity's Momentum: 0.19, -0.21, 0.39
+	Entity's Passengers: []
+	Entity's Vehicle: null
+Stacktrace:
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+	at net.minecraft.class_757.method_3192(class_757.java:816)
+	at net.minecraft.class_310.method_1523(class_310.java:1177)
+	at net.minecraft.class_310.method_1514(class_310.java:768)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- Renderer details --
+Details:
+	Assigned renderer: net.minecraft.class_1007@1feaeb4f
+	Location: -19.37,-16.75,17.88 - World: (-20,-17,17), Section: (at 12,15,1 in -2,-2,1; chunk contains blocks -32,-64,16 to -17,319,31), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,-64,0 to -1,319,511)
+	Rotation: -23.90625
+	Delta: 0.1799643
+Stacktrace:
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+	at net.minecraft.class_757.method_3192(class_757.java:816)
+	at net.minecraft.class_310.method_1523(class_310.java:1177)
+	at net.minecraft.class_310.method_1514(class_310.java:768)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- Affected level --
+Details:
+	All players: 2 total; [class_746['ChangGeCG'/81, l='ClientLevel', x=870.70, y=82.21, z=-1358.32], class_745['xlsdwtt1'/492, l='ClientLevel', x=852.83, y=65.46, z=-1340.37]]
+	Chunk stats: 1024, 324
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (0,64,0), Section: (at 0,0,0 in 0,4,0; chunk contains blocks 0,-64,0 to 15,319,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,-64,0 to 511,319,511)
+	Level time: 6299548 game time, 7619593 day time
+	Server brand: fabric
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.class_638.method_8538(class_638.java:453)
+	at net.minecraft.class_310.method_1587(class_310.java:2341)
+	at net.minecraft.class_310.method_1514(class_310.java:787)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- Last reload --
+Details:
+	Reload number: 1
+	Reload reason: initial
+	Finished: Yes
+	Packs: Default, Fabric Mods, armorchroma/alternative-icons, continuity/default, MASA全家桶汉化包.zip, Xaeros-地图+OPAC模组汉化包.zip, 任务进阶翻译包.zip, 【发光矿石】glowing-ores-e2060.zip, 【高级附魔工具提示】AdvancedEnchantmentTooltips.zip, 更好的魔影龙.zip, 【3D作物】better-crops-3d-16x.zip, 【PBR】UltimaCraft_PBR_(v.1.2).zip, 【透明玻璃】clearvisionglass.zip, §l梧桐加减法v6.3.zip, §l叶片覆盖包α.zip, 耳塞, 【大灾变鞘翅】cataclysm-elytra.zip, 【紫色血条】.zip, 改良下界盔甲.zip, 坤坤图腾.zip, replaymod_lang
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.3.1, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 3565736184 bytes (3400 MiB) / 5892997120 bytes (5620 MiB) up to 8376025088 bytes (7988 MiB)
+	CPUs: 12
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 5 5600H with Radeon Graphics         
+	Identifier: AuthenticAMD Family 25 Model 80 Stepping 0
+	Microarchitecture: Zen 3
+	Frequency (GHz): 3.29
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+	Graphics card #0 vendor: NVIDIA (0x10de)
+	Graphics card #0 VRAM (MB): 4095.00
+	Graphics card #0 deviceId: 0x25e0
+	Graphics card #0 versionInfo: DriverVersion=31.0.15.2799
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 25452.06
+	Virtual memory used (MB): 16733.87
+	Swap memory total (MB): 9216.00
+	Swap memory used (MB): 8.00
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx7987m
+	Fabric Mods: 
+		advancementinfo: AdvancementInfo 1.19.1-fabric0.58.5-1.3.1
+		appleskin: AppleSkin 2.4.1+mc1.19
+		architectury: Architectury 6.5.77
+		armorchroma: Armor Chroma 1.2.3
+		badpackets: Bad Packets 0.2.1
+		betterf3: BetterF3 4.0.0
+		boatiview: Boat Item View Fabric 0.0.4
+		bowinfinityfix: Bow Infinity Fix 2.5.0
+		carpet: Carpet Mod 1.4.84
+		carpetskyadditions: Carpet Sky Additions 1.19.2-4.2.0
+		citresewn: CIT Resewn 1.1.2+1.19.2
+			citresewn-defaults: CIT Resewn: Defaults 1.1.2+1.19.2
+		cloth-api: Cloth API 4.0.65
+			cloth-basic-math: cloth-basic-math 0.6.1
+			cloth-client-events-v0: Cloth Client Events v0 4.0.65
+			cloth-common-events-v1: Cloth Common Events v1 4.0.65
+			cloth-scissors-api-v1: Cloth Scissors API v1 4.0.65
+			cloth-utils-v1: Cloth Utils v1 4.0.65
+		cloth-config: Cloth Config v8 8.2.88
+		continuity: Continuity 2.0.2+1.19
+		controlling: Controlling For Fabric 10.0+7
+		customskinloader: CustomSkinLoader 14.16
+		draggable-resource-packs: Draggable Resource Packs 3.0.1+build.9
+		durabilityviewer: Giselbaers Durability Viewer 1.19.1-fabric0.58.5-1.10.3
+			crowdin-translate: CrowdinTranslate 1.4+1.19
+			gbfabrictools: GBfabrictools 1.3.4+1.19
+		entityculling: EntityCulling-Fabric 1.6.1-mc1.19.2
+		explayerenderer: ExtraPlayerRenderer 2.2.0
+		fabric-api: Fabric API 0.76.0+1.19.2
+			fabric-api-base: Fabric API Base 0.4.15+8f4e8eb390
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.14+93d8cb8290
+			fabric-biome-api-v1: Fabric Biome API (v1) 9.1.1+16f1e31390
+			fabric-block-api-v1: Fabric Block API (v1) 1.0.2+e415d50e90
+			fabric-blockrenderlayer-v1: Fabric BlockRenderLayer Registration (v1) 1.1.25+cafc6e8e90
+			fabric-client-tags-api-v1: Fabric Client Tags 1.0.5+b35fea8390
+			fabric-command-api-v1: Fabric Command API (v1) 1.2.16+f71b366f90
+			fabric-command-api-v2: Fabric Command API (v2) 2.2.1+413cbbc790
+			fabric-commands-v0: Fabric Commands (v0) 0.2.33+df3654b390
+			fabric-containers-v0: Fabric Containers (v0) 0.1.41+df3654b390
+			fabric-content-registries-v0: Fabric Content Registries (v0) 3.5.2+7c6cd14d90
+			fabric-convention-tags-v1: Fabric Convention Tags 1.3.0+4bc6e26290
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.2.8+aeb40ebe90
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 5.3.8+413cbbc790
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 2.1.35+0d0f210290
+			fabric-entity-events-v1: Fabric Entity Events (v1) 1.5.4+9244241690
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.4.34+562bff6e90
+			fabric-events-lifecycle-v0: Fabric Events Lifecycle (v0) 0.2.36+df3654b390
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.24+b6b6abb490
+			fabric-item-api-v1: Fabric Item API (v1) 1.6.6+b7d1888890
+			fabric-item-groups-v0: Fabric Item Groups (v0) 0.3.39+9244241690
+			fabric-key-binding-api-v1: Fabric Key Binding API (v1) 1.0.25+5c4fce2890
+			fabric-keybindings-v0: Fabric Key Bindings (v0) 0.2.23+df3654b390
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.2.4+1b46dc7890
+			fabric-loot-api-v2: Fabric Loot API (v2) 1.1.13+83a8659290
+			fabric-loot-tables-v1: Fabric Loot Tables (v1) 1.1.16+9e7660c690
+			fabric-message-api-v1: Fabric Message API (v1) 5.0.7+93d8cb8290
+			fabric-mining-level-api-v1: Fabric Mining Level API (v1) 2.1.24+33fbc73890
+			fabric-models-v0: Fabric Models (v0) 0.3.21+c6af733c90
+			fabric-networking-api-v1: Fabric Networking API (v1) 1.2.11+10eb22f490
+			fabric-networking-v0: Fabric Networking (v0) 0.3.28+df3654b390
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 4.2.2+d8ef690890
+			fabric-particles-v1: Fabric Particles (v1) 1.0.14+4d0d570390
+			fabric-recipe-api-v1: Fabric Recipe API (v1) 1.0.1+413cbbc790
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 0.9.32+9244241690
+			fabric-renderer-api-v1: Fabric Renderer API (v1) 1.2.1+1adbf27790
+			fabric-renderer-indigo: Fabric Renderer - Indigo 0.8.0+1adbf27790
+			fabric-renderer-registries-v1: Fabric Renderer Registries (v1) 3.2.24+df3654b390
+			fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.3.19+6e0787e690
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.0.11+4d0d570390
+			fabric-rendering-v0: Fabric Rendering (v0) 1.1.27+df3654b390
+			fabric-rendering-v1: Fabric Rendering (v1) 1.12.1+d8ef690890
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 2.1.2+aae9039d90
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 0.8.4+edbdcddb90
+			fabric-screen-api-v1: Fabric Screen API (v1) 1.0.32+4d0d570390
+			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.7+1cc24b1b90
+			fabric-sound-api-v1: Fabric Sound API (v1) 1.0.2+c4f28df590
+			fabric-textures-v0: Fabric Textures (v0) 1.0.24+aeb40ebe90
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 2.1.6+413cbbc790
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 1.3.3+08b73de490
+		fabric-language-kotlin: Fabric Language Kotlin 1.9.4+kotlin.1.8.21
+			org_jetbrains_kotlin_kotlin-reflect: kotlin-reflect 1.8.21
+			org_jetbrains_kotlin_kotlin-stdlib: kotlin-stdlib 1.8.21
+			org_jetbrains_kotlin_kotlin-stdlib-jdk7: kotlin-stdlib-jdk7 1.8.21
+			org_jetbrains_kotlin_kotlin-stdlib-jdk8: kotlin-stdlib-jdk8 1.8.21
+			org_jetbrains_kotlinx_atomicfu-jvm: atomicfu-jvm 0.20.2
+			org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: kotlinx-coroutines-core-jvm 1.6.4
+			org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: kotlinx-coroutines-jdk8 1.6.4
+			org_jetbrains_kotlinx_kotlinx-datetime-jvm: kotlinx-datetime-jvm 0.4.0
+			org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm: kotlinx-serialization-cbor-jvm 1.5.0
+			org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: kotlinx-serialization-core-jvm 1.5.0
+			org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: kotlinx-serialization-json-jvm 1.5.0
+		fabricloader: Fabric Loader 0.14.19
+		ferritecore: FerriteCore 5.0.3
+		fpsreducer: FPS Reducer 1.19.2-2.1
+		gameinfo: GameInfo 2.1.3a-1.19-build-Test 1.19
+			org_openjdk_nashorn_nashorn-core: nashorn-core 15.2
+		gca: GugleCarpetAddition 2.6.0-1.19
+		held-item-info: Held Item Info 1.4.0
+		horseinfo: Horse Info 0.4.2-1.19
+		identifier-translation: 标识符翻译 1_1.19-1.19.2
+		indium: Indium 1.0.9+mc1.19.2
+		ingameime: IngameIME 1.6.6
+		inventoryprofilesnext: Inventory Profiles Next 1.9.5
+		iris: Iris 1.6.2
+			io_github_douira_glsl-transformer: glsl-transformer 2.0.0-pre13
+			org_anarres_jcpp: jcpp 1.4.14
+			org_antlr_antlr4-runtime: antlr4-runtime 4.11.1
+		itemscroller: Item Scroller 0.17.1
+		java: Java HotSpot(TM) 64-Bit Server VM 17
+		lambdynlights: LambDynamicLights 2.2.0+1.19.2
+			pride: Pride Lib 1.1.2+1.19
+			spruceui: SpruceUI 4.1.0+1.19.2
+		lazydfu: LazyDFU 0.1.3
+		libipn: libIPN 2.0.4
+		litematica: Litematica 0.12.7
+		logical_zoom: Logical Zoom 0.0.17
+		magiclib: MagicLib 0.7.293+17aa28c-stable
+		magiclib-1_19_2: MagicLib for 1.19.2 0.7.318+85c565a-beta
+		malilib: MaLiLib 0.13.0
+		masa_gadget_mod: Masa Gadget 3.1.289+1ca4352-stable
+			masa_gadget_mod-1_19_2: Masa Gadget for 1.19.2 3.1.289+1ca4352-stable
+		mcwifipnp: LAN World Plug-n-Play 1.6.2
+		minecraft: Minecraft 1.19.2
+		minihud: MiniHUD 0.23.3
+		modmenu: Mod Menu 4.2.0-beta.2
+		mousewheelie: Mouse Wheelie 1.10.7+mc1.19.2
+			amecsapi: Amecs API 1.3.7+mc22w17a
+			coat: Coat 1.0.0-beta.19+mc22w17a
+			tweed4_annotated: tweed4_annotated 1.3.1+mc22w17a
+			tweed4_base: tweed4_base 1.7.1+mc22w17a
+			tweed4_data: tweed4_data 1.2.1+mc22w17a
+			tweed4_data_hjson: tweed4_data_hjson 1.1.1+mc22w17a
+			tweed4_tailor_coat: tweed4_tailor_coat 1.1.3+mc22w17a
+			tweed4_tailor_screen: tweed4_tailor_screen 1.1.3+mc22w17a
+		nme: Not Mutually Exclusive 1.19.2
+		noexpensive: NoExpensive 1.19-Fabric-1.4.0
+		ommc-1_19_2: Oh My Minecraft Client for 1.19.2 0.5.276+a478f8a-beta
+		presencefootsteps: Presence Footsteps 1.6.4
+			kirin: Kirin UI 1.11.1
+		reeses-sodium-options: Reese's Sodium Options 1.4.9+mc1.19.2-build.67
+		replaymod: Replay Mod 1.19.2-2.6.12
+		roughlyenoughitems: Roughly Enough Items 9.1.595
+			error_notifier: Error Notifier 1.0.9
+		satin: Satin 1.9.0
+		skinlayers: 3d Skin Layers 1.5.2-mc1.19.1
+		smoothboot: Smooth Boot 1.19-1.7.1
+		sodium: Sodium 0.4.4+build.18
+			org_joml_joml: joml 1.10.4
+		sodium-extra: Sodium Extra 0.4.16+mc1.19.2-build.90
+			caffeineconfig: CaffeineConfig 1.0.0+1.17
+		tweakeroo: Tweakeroo 0.14.3
+		waveycapes: WaveyCapes 1.3.2
+		weaponmaster: YDM's Weapon Master 3.0.2
+		worldedit: WorldEdit 7.2.12+6240-87f4ae1
+		wthit: wthit 5.15.1
+		xaerominimap: Xaero's Minimap 23.4.4
+		xaeroworldmap: Xaero's World Map 1.30.3
+	Loaded Shaderpack: (off)
+	NEC status: No NEC detected
+	Launched Version: 1.19.2
+	Backend library: LWJGL version 3.3.1 SNAPSHOT
+	Backend API: NVIDIA GeForce RTX 3050 Ti Laptop GPU/PCIe/SSE2 GL version 3.2.0 NVIDIA 527.99, NVIDIA Corporation
+	Window size: 1920x1080
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fabric'; Server brand changed to 'fabric'
+	Type: Integrated Server (map_client.txt)
+	Graphics mode: fancy
+	Resource Packs: vanilla, Fabric Mods, armorchroma/alternative-icons (incompatible), continuity/default, file/MASA全家桶汉化包.zip (incompatible), file/Xaeros-地图+OPAC模组汉化包.zip (incompatible), file/任务进阶翻译包.zip (incompatible), file/【发光矿石】glowing-ores-e2060.zip, file/【高级附魔工具提示】AdvancedEnchantmentTooltips.zip (incompatible), file/更好的魔影龙.zip (incompatible), file/【3D作物】better-crops-3d-16x.zip (incompatible), file/【PBR】UltimaCraft_PBR_(v.1.2).zip (incompatible), file/【透明玻璃】clearvisionglass.zip (incompatible), file/§l梧桐加减法v6.3.zip (incompatible), file/§l叶片覆盖包α.zip, file/耳塞, file/【大灾变鞘翅】cataclysm-elytra.zip (incompatible), file/【紫色血条】.zip (incompatible), file/改良下界盔甲.zip (incompatible), file/坤坤图腾.zip (incompatible)
+	Current Language: 简体中文 (中国大陆)
+	CPU: 12x AMD Ryzen 5 5600H with Radeon Graphics 
+	Server Running: true
+	Player Count: 2 / 10; [class_3222['ChangGeCG'/81, l='ServerLevel[原版生存? つ ?_? ?つ]', x=870.70, y=82.21, z=-1358.32], class_3222['xlsdwtt1'/492, l='ServerLevel[原版生存? つ ?_? ?つ]', x=853.93, y=65.00, z=-1338.10]]
+	Data Packs: vanilla, Fabric Mods, file/任务进阶.zip, file/经验球修复.zip (incompatible), file/回收装备.zip (incompatible)
+	World Generation: Stable
+#@!@# Game crashed! Crash report saved to: #@!@# D:\ZSX\1.19.2整合包\.minecraft\crash-reports\crash-2023-06-03_14.42.52-client.txt
+[14:42:54.412] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[14:42:54.422] [Crash] 步骤 2：准备日志文本
+[14:42:54.423] [Crash] crash-2023-06-03_14.42.52-client.txt 分类为 CrashReport
+[14:42:54.423] [Crash] latest.log 分类为 MinecraftLog
+[14:42:54.423] [Crash] RawOutput.log 分类为 ExtraLog
+[14:42:54.423] [Crash] 输出报告：D:\ZSX\1.19.2整合包\.minecraft\logs\latest.log，作为 Minecraft 或启动器日志
+[14:42:54.424] [Crash] 导入分析：D:\ZSX\1.19.2整合包\.minecraft\logs\latest.log，作为 Minecraft 日志
+[14:42:54.424] [Crash] 输出报告：C:\Users\周思鑫\AppData\Local\Temp\PCL\CrashAnalyzer\1868419979458\RawOutput.log，作为额外日志
+[14:42:54.429] [Crash] 输出报告：D:\ZSX\1.19.2整合包\.minecraft\crash-reports\crash-2023-06-03_14.42.52-client.txt，作为 Minecraft 崩溃报告
+[14:42:54.429] [Crash] 导入分析：D:\ZSX\1.19.2整合包\.minecraft\crash-reports\crash-2023-06-03_14.42.52-client.txt，作为 Minecraft 崩溃报告
+[14:42:54.429] [Crash] 步骤 2：准备日志文本完成，找到游戏日志、崩溃日志用作分析
+[14:42:54.431] [Crash] 步骤 3：分析崩溃原因
+[14:42:54.438] [Crash] 开始进行崩溃日志堆栈分析
+[14:42:54.539] [Crash] 找到 1 条可能的堆栈信息
+[14:42:54.539] [Crash]  - com.minecraftserverzone.weaponmaster.itemlayers
+[14:42:54.539] [Crash] 从堆栈信息中找到 3 个可能的 Mod ID 关键词
+[14:42:54.539] [Crash]  - minecraftserverzone, weaponmaster, itemlayers
+[14:42:54.543] [Crash] 检测到 Fabric Mod 信息格式
+[14:42:54.543] [Crash] 找到 0 个可能的 Mod 项目行
+[14:42:54.543] [Crash] 找到 0 个可能的崩溃 Mod 匹配行
+[14:42:54.543] [Crash] 找到 0 个可能的崩溃 Mod 文件名
+[14:42:54.545] [Crash] 可能的崩溃原因：崩溃日志堆栈分析发现关键字（minecraftserverzone；weaponmaster；itemlayers）
+[14:42:54.545] [Crash] 步骤 3：分析崩溃原因完成，找到 1 条可能的原因
+[14:42:54.545] [Crash]  - 崩溃日志堆栈分析发现关键字（minecraftserverzone；weaponmaster；itemlayers）
+[14:42:54.563] [System] 窗口已置顶，位置：(362.4, 164), 810.4 x 487.2
+[14:42:54.600] [Control] 普通弹窗：Minecraft 出现错误
+你的游戏遇到了一些问题，这可能是某些 Mod 所引起的，PCL 找到了以下可疑的关键词：
+ - minecraftserverzone, weaponmaster, itemlayers
+
+如果你知道这些关键词对应的 Mod，那么有可能就是它引起的错误，你也可以查看错误报告获取详情。
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+[14:42:59.403] [Control] 按下按钮：确定
+[14:42:59.405] [Control] 普通弹框返回：1
+[14:43:04.404] [Control] 按下按钮：启动游戏
+[14:43:04.404] [Loader] 加载器 Loader Launch 状态改变：Loading
+[14:43:04.405] [System] 欲读取的文件不存在，已返回空字符串：D:\桌面\PCL\hints.txt
+[14:43:04.407] [Launch] 预检测已通过
+[14:43:04.407] [Download] 开始后台更新资源文件索引
+[14:43:04.407] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[14:43:04.407] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[14:43:04.408] [Download] 版本 1.19.2 对应的资源文件索引为 1.19
+[14:43:04.408] [Loader] 加载器 登录 状态改变：Waiting
+[14:43:04.408] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[14:43:04.408] [Loader] 加载器 获取 Java 状态改变：Loading
+[14:43:04.408] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[14:43:04.408] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[14:43:04.408] [Java] 开始完全遍历查找：D:\ZSX\1.19.2整合包\
+[14:43:04.408] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[14:43:04.408] [Loader] 加载器 登录 状态改变：Loading
+[14:43:04.408] [Loader] 加载器 补全文件 状态改变：Loading
+[14:43:04.408] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[14:43:04.408] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[14:43:04.408] [Launch] 登录加载已开始
+[14:43:04.409] [Loader] 加载器 Loader Login Auth 状态改变：Loading
+[14:43:04.409] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[14:43:04.409] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[14:43:04.409] [Launch] 登录方式：Authlib-Injector（**********@qq.com）
+[14:43:04.409] [Launch] 验证登录开始（Validate, Auth）
+[14:43:04.409] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/validate），最大超时 15000
+[14:43:04.409] [Download] 版本 1.19.2 对应的资源文件索引为 1.19
+[14:43:04.412] [Java] 开始完全遍历查找：D:\ZSX\1.19.2整合包\.minecraft\
+[14:43:04.424] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[14:43:04.424] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[14:43:04.425] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[14:43:04.425] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[14:43:04.445] [Java] 开始完全遍历查找：D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\
+[14:43:04.446] [Java] 用户指定的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:43:04.446] [Java] 开始确认列表 Java 状态，共 1 项
+[14:43:04.447] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-17.0.3.1\bin\java.exe -version
+[14:43:04.482] [Minecraft] 获取支持库列表：1.19.2
+[14:43:04.491] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[14:43:04.491] [Loader] 加载器 下载资源文件 状态改变：Loading
+[14:43:04.491] [Loader] 加载器 下载资源文件 状态改变：Finished
+[14:43:04.491] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[14:43:04.510] [Download] 1.19.json 1066#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/f7033757bcb91e11d79f0f31330d680cc787631f/1.19.json
+[14:43:04.550] [Java] 疑似 X.0.X.X 格式版本号：17.0.3.1
+[14:43:04.550] [Java] JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:43:04.558] [Java] 检查后找到 1 个特定的 Java
+[14:43:04.558] [Java] 使用用户指定的 Java：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:43:04.558] [Java] 选定的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:43:04.558] [Launch] 选择的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:43:04.558] [Loader] 加载器 获取 Java 状态改变：Finished
+[14:43:04.626] [Minecraft] 开始获取 Authlib-Injector 下载信息
+[14:43:04.626] [Loader] 加载器 源码获取 1069# 状态改变：Loading
+[14:43:04.637] [Download] -1076201258_1068 1072#：开始，起始点 0，https://download.mcbbs.net/mirrors/authlib-injector/artifact/latest.json
+[14:43:04.656] [Launch] 验证登录成功（Validate, Auth）
+[14:43:04.656] [Loader] 加载器 Loader Login Auth 状态改变：Finished
+[14:43:04.669] [Launch] 登录加载已结束
+[14:43:04.669] [Loader] 加载器 登录 状态改变：Finished
+[14:43:04.790] [Download] -1076201258_1068：文件大小 267 B（267 B）
+[14:43:04.792] [Download] -1076201258_1068：已完成，剩余文件 1
+[14:43:04.792] [Loader] 加载器 源码获取 1069# 状态改变：Finished
+[14:43:04.797] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[14:43:04.797] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[14:43:04.797] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[14:43:04.797] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[14:43:04.797] [Loader] 加载器 补全文件 状态改变：Finished
+[14:43:04.797] [Loader] 加载器 获取启动参数 状态改变：Loading
+[14:43:04.798] [Launch] 开始获取 Minecraft 启动参数
+[14:43:04.798] [Launch] 获取新版 JVM 参数
+[14:43:04.799] [Launch] 当前剩余内存：11.1G
+[14:43:04.800] [Net] 获取网络结果：https://littleskin.cn/api/yggdrasil，最大超时 10000
+[14:43:04.954] [Download] 1.19.json：文件大小 385610 B（377 K）
+[14:43:04.963] [Java] Wrapper：AppData 路径与 Temp 路径中均包含非 ASCII 字符，换用 ProgramData 目录
+[14:43:04.963] [Java] Wrapper：AppData 路径与 Temp 路径中均包含非 ASCII 字符，换用 ProgramData 目录
+[14:43:04.963] [System] 获取资源：JavaWrapper
+[14:43:04.964] [Java] 已释放 Java Wrapper：C:\ProgramData\PCL\JavaWrapper.jar
+[14:43:04.964] [Launch] 新版 JVM 参数获取成功：
+[14:43:04.964] [Launch] -Doolloo.jlw.tmpdir="C:\ProgramData\PCL" -javaagent:"C:\Users\周思鑫\AppData\Roaming\PCL\authlib-injector.jar"=https://littleskin.cn/api/yggdrasil -Dauthlibinjector.side=client -Dauthlibinjector.yggdrasil.prefetched=eyJtZXRhIjp7InNlcnZlck5hbWUiOiJMaXR0bGVTa2luIiwiaW1wbGVtZW50YXRpb25OYW1lIjoiWWdnZHJhc2lsIEFQSSBmb3IgQmxlc3NpbmcgU2tpbiIsImltcGxlbWVudGF0aW9uVmVyc2lvbiI6IjUuMS4xIiwibGlua3MiOnsiaG9tZXBhZ2UiOiJodHRwczpcL1wvbGl0dGxlc2tpbi5jbiIsInJlZ2lzdGVyIjoiaHR0cHM6XC9cL2xpdHRsZXNraW4uY25cL2F1dGhcL3JlZ2lzdGVyIn0sImZlYXR1cmUubm9uX2VtYWlsX2xvZ2luIjp0cnVlfSwic2tpbkRvbWFpbnMiOlsic2tpbi5wcmluemV1Z2VuLm5ldCIsIiIsImxpdHRsZXNraW4uY24iXSwic2lnbmF0dXJlUHVibGlja2V5IjoiLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS1cbk1JSUNJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBZzhBTUlJQ0NnS0NBZ0VBckdjTk9PRklxTEpTcW9FM3UwaGpcbnRPRW5PY0VUM3dqOURyc3MxQkU2c0JxZ1BvMGJNdWxPVUxocWprY1wvdUhcL3d5b3NZbnp3M3hhYXpKdDg3alRIaFxuSjhCUE14Q2VRTW95RWRSb1MzSm5qMUcwS2V6ajRBMmI2MVBKSk0xRHB2REFjcVFCWXNyU2RwQkorNTJNam9HU1xudkpvZVFPNVhVbEpWUW0yMVwvSG1KbnFzUGh6Y0E2SGdZNzFSSFlFNXhuaHBXSmlQeExLVVB0bXQ2Q05ZVVFRb1Ncbm8ydjM2WFdnTW1MQlpoQWJOT1B4WVgrMWlveEthbWpoTE8yOVVod3RnWTlVNlBXRU83XC9TQmZYenlSUFR6aFBWXG4ybkhxN0tKcWQ4SUlybHRzbHY2aVwvNEZFTTgxaXZTXC9tbStQTjNoWWxJWUs2ejZZbWlpMW5yUUFwbHNKNjdPR3FcbllIdFdLT3ZwZlR6T29sbHVnc1JpaGtBRzRPQjZoTTBQcjQ1ampDM1RJYzdlTzdrT2dJY0dVR1VRR3V1dWdERXpcbkoxTjlGRlduTlwvSDZQOXVrRmVnNVNtR0M1K3dtVVBaWkN0TkJMcjhvOHNJNUg3UWhLN05nd0NhR0ZvWXVpQUdMXG5nejNrXC8zWXdKNDBCYndRYXlRMmdJcWVueitYT0ZJQWxhanYrXC9ueWZjRHZaSDl2R05LUDlsVmNIWFVUNVlSblNcblpTSG81bHd2VnJZVXJxRUFiaFwvekR6OFFNRXlpdWpXdlVrUGhaczlmaDZmaW1VR3h0bThtRklQQ3RQSlZYamVZXG53RDNMdnQzYUlCMUpIZFVUSlIzZUVjNGVJYVRLTXdNUHlKUnpWbjV6S3NpdGFaejNublwvY09BXC93WkM5b3F5RVVcbm1jOWg2Wk1SVFJVRUU0VHRhSnlnOWxNQ0F3RUFBUT09XG4tLS0tLUVORCBQVUJMSUMgS0VZLS0tLS1cbiJ9 -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Xmn256m -Xmx7884m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\ProgramData\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient
+[14:43:04.964] [Launch] 获取新版 Game 参数
+[14:43:04.964] [Launch] 新版 Game 参数获取成功
+[14:43:04.964] [Minecraft] 获取支持库列表：1.19.2
+[14:43:04.966] [Launch] Minecraft 启动参数：
+[14:43:04.969] [Launch] -Doolloo.jlw.tmpdir="C:\ProgramData\PCL" -javaagent:"C:\Users\周思鑫\AppData\Roaming\PCL\authlib-injector.jar"=https://littleskin.cn/api/yggdrasil -Dauthlibinjector.side=client -Dauthlibinjector.yggdrasil.prefetched=eyJtZXRhIjp7InNlcnZlck5hbWUiOiJMaXR0bGVTa2luIiwiaW1wbGVtZW50YXRpb25OYW1lIjoiWWdnZHJhc2lsIEFQSSBmb3IgQmxlc3NpbmcgU2tpbiIsImltcGxlbWVudGF0aW9uVmVyc2lvbiI6IjUuMS4xIiwibGlua3MiOnsiaG9tZXBhZ2UiOiJodHRwczpcL1wvbGl0dGxlc2tpbi5jbiIsInJlZ2lzdGVyIjoiaHR0cHM6XC9cL2xpdHRsZXNraW4uY25cL2F1dGhcL3JlZ2lzdGVyIn0sImZlYXR1cmUubm9uX2VtYWlsX2xvZ2luIjp0cnVlfSwic2tpbkRvbWFpbnMiOlsic2tpbi5wcmluemV1Z2VuLm5ldCIsIiIsImxpdHRsZXNraW4uY24iXSwic2lnbmF0dXJlUHVibGlja2V5IjoiLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS1cbk1JSUNJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBZzhBTUlJQ0NnS0NBZ0VBckdjTk9PRklxTEpTcW9FM3UwaGpcbnRPRW5PY0VUM3dqOURyc3MxQkU2c0JxZ1BvMGJNdWxPVUxocWprY1wvdUhcL3d5b3NZbnp3M3hhYXpKdDg3alRIaFxuSjhCUE14Q2VRTW95RWRSb1MzSm5qMUcwS2V6ajRBMmI2MVBKSk0xRHB2REFjcVFCWXNyU2RwQkorNTJNam9HU1xudkpvZVFPNVhVbEpWUW0yMVwvSG1KbnFzUGh6Y0E2SGdZNzFSSFlFNXhuaHBXSmlQeExLVVB0bXQ2Q05ZVVFRb1Ncbm8ydjM2WFdnTW1MQlpoQWJOT1B4WVgrMWlveEthbWpoTE8yOVVod3RnWTlVNlBXRU83XC9TQmZYenlSUFR6aFBWXG4ybkhxN0tKcWQ4SUlybHRzbHY2aVwvNEZFTTgxaXZTXC9tbStQTjNoWWxJWUs2ejZZbWlpMW5yUUFwbHNKNjdPR3FcbllIdFdLT3ZwZlR6T29sbHVnc1JpaGtBRzRPQjZoTTBQcjQ1ampDM1RJYzdlTzdrT2dJY0dVR1VRR3V1dWdERXpcbkoxTjlGRlduTlwvSDZQOXVrRmVnNVNtR0M1K3dtVVBaWkN0TkJMcjhvOHNJNUg3UWhLN05nd0NhR0ZvWXVpQUdMXG5nejNrXC8zWXdKNDBCYndRYXlRMmdJcWVueitYT0ZJQWxhanYrXC9ueWZjRHZaSDl2R05LUDlsVmNIWFVUNVlSblNcblpTSG81bHd2VnJZVXJxRUFiaFwvekR6OFFNRXlpdWpXdlVrUGhaczlmaDZmaW1VR3h0bThtRklQQ3RQSlZYamVZXG53RDNMdnQzYUlCMUpIZFVUSlIzZUVjNGVJYVRLTXdNUHlKUnpWbjV6S3NpdGFaejNublwvY09BXC93WkM5b3F5RVVcbm1jOWg2Wk1SVFJVRUU0VHRhSnlnOWxNQ0F3RUFBUT09XG4tLS0tLUVORCBQVUJMSUMgS0VZLS0tLS1cbiJ9 -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\1.19.2-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=294 -cp "D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\tiny-mappings-parser\0.3.0+build.17\tiny-mappings-parser-0.3.0+build.17.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\sponge-mixin\0.12.4+mixin.0.8.5\sponge-mixin-0.12.4+mixin.0.8.5.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\tiny-remapper\0.8.2\tiny-remapper-0.8.2.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\access-widener\2.1.0\access-widener-2.1.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm\9.4\asm-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-analysis\9.4\asm-analysis-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-commons\9.4\asm-commons-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-tree\9.4\asm-tree-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\ow2\asm\asm-util\9.4\asm-util-9.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\intermediary\1.19.2\intermediary-1.19.2.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\fabricmc\fabric-loader\0.14.19\fabric-loader-0.14.19.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9.jar;D:\ZSX\1.19.2整合包\.minecraft\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9-natives-windows.jar;D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\1.19.2.jar" -Xmn256m -Xmx7884m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\ProgramData\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient --username ChangGeCG --version 1.19.2 --gameDir "D:\ZSX\1.19.2整合包\.minecraft" --assetsDir "D:\ZSX\1.19.2整合包\.minecraft\assets" --assetIndex 1.19 --uuid 7057c5695b1b483baf672194a08c6b51 --accessToken eyJ0eXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXiwzVA --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 
+[14:43:04.969] [Loader] 加载器 获取启动参数 状态改变：Finished
+[14:43:04.976] [Loader] 加载器 解压文件 状态改变：Loading
+[14:43:04.976] [Launch] 正在解压 Natives 文件
+[14:43:04.977] [Loader] 加载器 解压文件 状态改变：Finished
+[14:43:05.027] [Loader] 加载器 预启动处理 状态改变：Loading
+[14:43:05.027] [Launch] 当前语言为 zh_cn，无需修改
+[14:43:05.027] [Loader] 加载器 预启动处理 状态改变：Finished
+[14:43:05.072] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[14:43:05.076] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[14:43:05.118] [Loader] 加载器 启动进程 状态改变：Loading
+[14:43:05.121] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-17.0.3.1\bin\javaw.exe
+[14:43:05.121] [Loader] 加载器 启动进程 状态改变：Finished
+[14:43:05.176] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[14:43:05.176] [Launch] 
+[14:43:05.176] [Launch] ~ 基础参数 ~
+[14:43:05.176] [Launch] PCL 版本：Snapshot 2.6.2 (294)
+[14:43:05.176] [Launch] 游戏版本：1.19.2, Fabric 0.14.19（19.2）
+[14:43:05.176] [Launch] 资源版本：1.19
+[14:43:05.176] [Launch] 版本继承：无
+[14:43:05.177] [Launch] 分配的内存：7.7 GB（7885 MB）
+[14:43:05.177] [Launch] MC 文件夹：D:\ZSX\1.19.2整合包\.minecraft\
+[14:43:05.177] [Launch] 版本文件夹：D:\ZSX\1.19.2整合包\.minecraft\versions\1.19.2\
+[14:43:05.177] [Launch] 版本隔离：False
+[14:43:05.177] [Launch] HMCL 格式：False
+[14:43:05.177] [Launch] Java 信息：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[14:43:05.177] [Launch] 环境变量：未设置
+[14:43:05.177] [Launch] 
+[14:43:05.177] [Launch] ~ 登录参数 ~
+[14:43:05.177] [Launch] 玩家用户名：ChangGeCG
+[14:43:05.177] [Launch] AccessToken：eyJ0eXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXiwzVA
+[14:43:05.177] [Launch] ClientToken：ebac30738e9544b6b6dd29b13c545239
+[14:43:05.177] [Launch] UUID：7057c5695b1b483baf672194a08c6b51
+[14:43:05.177] [Launch] 登录方式：Auth
+[14:43:05.177] [Launch] 
+[14:43:05.177] [Launch] [2988] 开始 Minecraft 日志监控
+[14:43:05.177] [Launch] [全局] 出现运行中的 Minecraft
+[14:43:05.413] [Launch] [2988] 日志 1/5：已出现日志输出
+[14:43:05.470] [Download] 1.19.json：已完成，剩余文件 0
+[14:43:05.470] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[14:43:05.470] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[14:43:05.472] [Launch] 后台更新资源文件索引成功：C:\Users\周思鑫\AppData\Local\Temp\PCL\Cache\1.19.json
+[14:43:05.472] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[14:43:05.473] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[14:43:22.483] [Launch] [2988] 日志 2/5：游戏用户已设置
+[14:43:29.636] [Report] FPS 0, 动画 13, 下载中 0（0 B/s）
+[14:43:32.222] [Launch] [2988] Minecraft 窗口已加载：Minecraft* 1.19.2（330138）
+[14:43:32.222] [Launch] [2988] 日志 3/5：LWJGL 版本已确认
+[14:43:32.222] [Launch] [2988] Minecraft 加载已完成
+[14:43:32.314] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[14:43:32.314] [Loader] 加载器 结束处理 状态改变：Loading
+[14:43:32.314] [Launch] 开始启动结束处理
+[14:43:32.315] [Launch] 启动器可见性：4
+[14:43:32.315] [Launch] 已根据设置，在启动后最小化启动器
+[14:43:32.315] [Loader] 加载器 结束处理 状态改变：Finished
+[14:43:32.320] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[14:43:32.510] [Loader] 加载器 Loader Launch 状态改变：Finished
+[14:43:32.567] [UI] 弹出提示：1.19.2 启动成功！
+[14:43:38.100] [Launch] [2988] 日志 4/5：OpenAL 已加载
+[14:43:38.100] [Launch] [2988] 日志 5/5：材质已加载
+[14:46:35.601] [Launch] [2988] Minecraft 已退出，返回值：-805306369
+[14:46:35.601] [Launch] [2988] Minecraft 返回值异常，可能已崩溃
+[14:46:35.601] [Launch] [全局] 已无运行中的 Minecraft
+[14:46:35.601] [Launch] [2988] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[14:46:35.667] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[14:46:35.837] [Launch] [2988] Minecraft 日志监控已退出
+[14:46:37.611] [Launch] [2988] 崩溃分析开始
+[14:46:37.614] [Crash] 崩溃分析暂存文件夹：C:\Users\周思鑫\AppData\Local\Temp\PCL\CrashAnalyzer\298885724891\
+[14:46:37.614] [Crash] 步骤 1：收集日志文件
+[14:46:37.615] [Crash] 可能可用的日志文件：D:\ZSX\1.19.2整合包\.minecraft\authlib-injector.log（2.5 分钟）
+[14:46:37.615] [Crash] 可能可用的日志文件：D:\ZSX\1.19.2整合包\.minecraft\logs\latest.log（0.2 分钟）
+[14:46:37.615] [Crash] 以下为游戏输出的最后一段内容：
+[14:43:23] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:request_tags_s2c
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider ReiRecipeAction [wthit] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[14:43:24] [Render thread/INFO]: [STDOUT]: All 86 have been set properly
+[14:43:24] [Render thread/INFO]: Initialize YDM's WeaponMaster Mod!
+[14:43:24] [Render thread/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@18e173fe]
+[14:43:24] [Render thread/INFO]: WorldEdit for Fabric (version 7.2.12+6240-87f4ae1) is loaded
+[14:43:25] [Render thread/WARN]: [WTHIT] Plugin net.pancham138.horseinfo.HorseInfo is using the default namespace minecraft:horseinfo
+[14:43:25] [Render thread/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[14:43:25] [Render thread/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[authlib-injector] [INFO] Transformed [mcp.mobius.waila.plugin.vanilla.provider.PetOwnerProvider] with [Constant URL Transformer]
+[14:43:25] [Render thread/INFO]: [WTHIT] Registering plugin minecraft:horseinfo at net.pancham138.horseinfo.HorseInfo
+[14:43:25] [Render thread/INFO]: [Hwyla Addon Horse Info] Registering 
+[14:43:25] [Render thread/INFO]: [WTHIT] Using mcp.mobius.waila.plugin.core.pick.ObjectPicker as the object picker
+[14:43:25] [Render thread/INFO]: [WTHIT] Plugin config reloaded
+[14:43:25] [Render thread/INFO]: AdvancementInfo initialized
+[14:43:25] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[14:43:25] [Render thread/INFO]: [BetterF3] Loading...
+[14:43:25] [Render thread/INFO]: [BetterF3] All done!
+[14:43:25] [Render thread/WARN]: Found outdated translation keys in extension 'dev.dubhe.gugle.carpet.GcaExtension'!
+These won't be supported in a later Carpet version!
+Carpet will now try to map them to the correct keys in a best-effort basis
+[14:43:25] [Render thread/WARN]: Found outdated translation keys in extension 'dev.dubhe.gugle.carpet.GcaExtension'!
+These won't be supported in a later Carpet version!
+Carpet will now try to map them to the correct keys in a best-effort basis
+[14:43:25] [Render thread/WARN]: Found outdated translation keys in extension 'dev.dubhe.gugle.carpet.GcaExtension'!
+These won't be supported in a later Carpet version!
+Carpet will now try to map them to the correct keys in a best-effort basis
+[14:43:25] [Render thread/INFO]: [citresewn] Registering CIT Conditions
+[14:43:25] [Render thread/INFO]: [citresewn] Registering CIT Types
+[14:43:26] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[14:43:26] [Render thread/INFO]: [STDOUT]: HUD Path: D:\ZSX\1.19.2整合包\.minecraft/gameinfo-resource/
+[14:43:26] [Render thread/INFO]: [STDOUT]: GameInfo: Load Config
+[14:43:27] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_23182 in sodium.mixins.json:features.item.MixinItemRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[14:43:28] [Render thread/INFO]: it is Windows OS! Loading mod...
+[14:43:28] [Render thread/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[14:43:28] [Render thread/INFO]: [LambDynLights] Configuration loaded.
+[14:43:28] [Render thread/INFO]: [MagicLib|Client]: Mod initialized - Version: 0.7.318+85c565a-beta
+[14:43:28] [Worker-Main-1/INFO]: Checking mod updates...
+[14:43:29] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIClientPlugin
+[14:43:29] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
+[14:43:29] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[14:43:29] [Render thread/INFO]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
+[14:43:29] [Render thread/INFO]: [REI] Registered plugin provider ReiRecipeAction [wthit] for REIClientPlugin
+[14:43:29] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:ci_msg
+[14:43:29] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:og_not_enough
+[14:43:29] [Render thread/INFO]: Reloaded configs for mousewheelie (universal/highest)
+[14:43:29] [Render thread/INFO]: Loading Xaero's Minimap - Stage 1/2
+[14:43:30] [Render thread/INFO]: Loading Xaero's World Map - Stage 1/2
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'inventoryprofilesnext@1.9.5', (-> fabric-1.19.2-1.10.2)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'mousewheelie@1.10.7+mc1.19.2', (-> 1.11.1+mc1.19.2)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'nme@1.19.2', (-> 1.0.0)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'wthit@5.15.1', (-> fabric-5.16.1)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'libipn@2.0.4', (-> fabric-1.19.2-3.0.1)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'noexpensive@1.19-Fabric-1.4.0', (-> 1.19.4-1.5.0)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'roughlyenoughitems@9.1.595', (-> 9.1.615+fabric)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'architectury@6.5.77', (-> 6.5.85+fabric)
+[14:43:31] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] Failed to get update info!
+java.net.ConnectException: Connection refused: connect
+	at sun.nio.ch.Net.connect0(Native Method) ~[?:?]
+	at sun.nio.ch.Net.connect(Net.java:579) ~[?:?]
+	at sun.nio.ch.Net.connect(Net.java:568) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.net.Socket.connect(Socket.java:633) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:299) ~[?:?]
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174) ~[?:?]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:183) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:498) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:603) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at java.net.URL.openStream(URL.java:1161) ~[?:?]
+	at net.coderbot.iris.UpdateChecker.lambda$checkForUpdates$0(UpdateChecker.java:84) ~[【光影着色器】iris-mc1.19.2-1.6.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[14:43:32] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[14:43:32] [Render thread/INFO]: Debug functionality is disabled.
+[14:43:32] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[14:43:32] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[14:43:32] [Render thread/INFO]: Shaders are disabled
+[14:43:32] [Render thread/WARN]: Couldn't get pack info for: net.minecraft.class_3266: 'pack.mcmeta' in ResourcePack 'D:\ZSX\1.19.2整合包\.minecraft\resourcepacks\Bed Wars V1.3.0.zip'
+[14:43:32] [Render thread/WARN]: Couldn't get pack info for: java.util.zip.ZipException: invalid CEN header (bad entry name)
+[14:43:32] [Render thread/WARN]: Couldn't get pack info for: java.util.zip.ZipException: invalid CEN header (bad entry name)
+[14:43:33] [Render thread/INFO]: Hardware information:
+[14:43:33] [Render thread/INFO]: CPU: 12x AMD Ryzen 5 5600H with Radeon Graphics 
+[14:43:33] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 527.99)
+[14:43:33] [Render thread/INFO]: OS: Windows 10 (10.0)
+[14:43:34] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[14:43:34] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (AdvancementInfo, Amecs API, AppleSkin, Armor Chroma, BetterF3, Boat Item View Fabric, CaffeineConfig, Carpet Mod, Carpet Sky Additions, CIT Resewn, CIT Resewn: Defaults, Cloth Config v8, Coat, Continuity, Controlling For Fabric, Draggable Resource Packs, Giselbaers Durability Viewer, EntityCulling-Fabric, ExtraPlayerRenderer, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric Block API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Client Tags, Fabric Command API (v1), Fabric Command API (v2), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Language Kotlin, Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Message API (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Recipe API (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Sound API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, FPS Reducer, GameInfo, GBfabrictools, GugleCarpetAddition, Held Item Info, Horse Info, 标识符翻译, Indium, IngameIME, Inventory Profiles Next, Iris, Item Scroller, LambDynamicLights, LazyDFU, libIPN, Litematica, Logical Zoom, MagicLib, MagicLib for 1.19.2, MaLiLib, Masa Gadget, Masa Gadget for 1.19.2, LAN World Plug-n-Play, MiniHUD, Mod Menu, Mouse Wheelie, Not Mutually Exclusive, NoExpensive, Oh My Minecraft Client for 1.19.2, Presence Footsteps, Pride Lib, Reese's Sodium Options, Replay Mod, Roughly Enough Items, Satin, 3d Skin Layers, Smooth Boot, Sodium, Sodium Extra, SpruceUI, Tweakeroo, tweed4_annotated, tweed4_base, tweed4_data, tweed4_data_hjson, tweed4_tailor_coat, tweed4_tailor_screen, WaveyCapes, YDM's Weapon Master, WorldEdit, wthit, Xaero's Minimap, Xaero's World Map), armorchroma/alternative-icons, continuity/default, MASA全家桶汉化包.zip, Xaeros-地图+OPAC模组汉化包.zip, 任务进阶翻译包.zip, 【发光矿石】glowing-ores-e2060.zip, 【高级附魔工具提示】AdvancedEnchantmentTooltips.zip, 更好的魔影龙.zip, 【3D作物】better-crops-3d-16x.zip, 【PBR】UltimaCraft_PBR_(v.1.2).zip, 【透明玻璃】clearvisionglass.zip, §l梧桐加减法v6.3.zip, §l叶片覆盖包α.zip, 耳塞, 【大灾变鞘翅】cataclysm-elytra.zip, 【紫色血条】.zip, 改良下界盔甲.zip, 坤坤图腾.zip, replaymod_lang
+[14:43:34] [ForkJoinPool.commonPool-worker-1/INFO]: [Armor Chroma] Loaded icons for 0 mods
+[14:43:34] [Worker-Main-7/WARN]: Unknown block 'minecraft:tinted_glass_pane' in 'matchBlocks' element 'tinted_glass_pane' at index 0 in file 'minecraft:optifine/ctm/1-glass/18-tinted/tinted_glass_pane.properties' in pack '【PBR】UltimaCraft_PBR_(v.1.2).zip'
+[14:43:34] [Worker-Main-7/INFO]: [citresewn] Loading item CIT models...
+[14:43:34] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[14:43:35] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[14:43:35] [Render thread/INFO]: Current IME State:false
+[14:43:35] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[14:43:35] [Render thread/INFO]: New world map region cache hash code: 2105907782
+[14:43:35] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[14:43:35] [Render thread/INFO]: No Optifine!
+[14:43:35] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[14:43:35] [Render thread/INFO]: Xaero's World Map: Iris found!
+[14:43:35] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:item/giant_spawn_egg' referenced from: minecraft:zombie_spawn_egg#inventory: java.io.FileNotFoundException: minecraft:models/item/giant_spawn_egg.json
+[14:43:36] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/brewing_stand_bottle2
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/potato/potatoes_stage4_blue
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/potato/potatoes_stage4_blue_poisonous
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/potato/potatoes_stage4_purple
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/potato/potatoes_stage4_purple_poisonous
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/pumpkin/pumpkin_stem_stage1
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/pumpkin/pumpkin_stem_stage2
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/melon/melon_stem_stage2
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/melon/melon_stem_stage1
+[14:43:36] [Worker-Main-7/WARN]: Texture minecraft:block/melon_stem_stage1 with size 8x8 limits mip level from 4 to 3
+[14:43:36] [Worker-Main-7/WARN]: Texture minecraft:block/melon_stem_stage0 with size 4x4 limits mip level from 3 to 2
+[14:43:36] [Worker-Main-7/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 2, because of minimum power of two: 4
+[14:43:37] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[14:43:37] [Render thread/INFO]: No Optifine!
+[14:43:37] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[14:43:37] [Render thread/INFO]: Xaero's Minimap: Iris found!
+[14:43:37] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:43:37] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:43:37] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 耳机 (Realtek(R) Audio)
+[14:43:37] [Render thread/INFO]: Sound engine started
+[14:43:38] [Render thread/INFO]: Created: 2048x2048x2 minecraft:textures/atlas/blocks.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:43:38] [Render thread/INFO]: [citresewn] Linking baked models to item CITs...
+[14:43:39] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
+[14:43:39] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
+[14:43:39] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[14:43:40] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[14:43:40] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[14:43:40] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:43:40] [Render thread/INFO]: Skipping non-result value minecraft:lantern=UNASSIGNED
+[14:43:40] [Render thread/INFO]: Skipping non-result value minecraft:soul_lantern=UNASSIGNED
+[14:43:40] [Render thread/INFO]: Reloaded configs for mousewheelie (client/smallest)
+[14:43:40] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[14:43:40] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[14:43:56] [Render thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[14:43:56] [Render thread/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinCloneCommand from mod tweakeroo->@ModifyConstant::getBlockCountLimit(I)I with priority 999, already redirected by carpet.mixins.json:CloneCommands_fillUpdatesMixin from mod carpet->@ModifyConstant::fillLimit(I)I with priority 1000
+[14:43:56] [Render thread/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinCloneCommand from mod tweakeroo->@ModifyConstant::getBlockCountLimit(I)I with priority 999, already redirected by carpet.mixins.json:CloneCommands_fillUpdatesMixin from mod carpet->@ModifyConstant::fillLimit(I)I with priority 1000
+[14:43:56] [Render thread/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinFillCommand from mod tweakeroo->@ModifyConstant::getBlockCountLimit(I)I with priority 999, already redirected by carpet.mixins.json:FillCommandMixin from mod carpet->@ModifyConstant::fillLimit(I)I with priority 1000
+[14:43:56] [Render thread/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinFillCommand from mod tweakeroo->@ModifyConstant::getBlockCountLimit(I)I with priority 999, already redirected by carpet.mixins.json:FillCommandMixin from mod carpet->@ModifyConstant::fillLimit(I)I with priority 1000
+[14:43:56] [Render thread/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[14:43:58] [Render thread/ERROR]: Parsing error loading recipe recycle:diamonds/pants
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:diamond_pants'
+	at net.minecraft.class_1869.method_17878(class_1869.java:253) ~[client-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:253) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:162) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:145) ~[client-intermediary.jar:?]
+	at net.minecraft.class_3957.method_17736(class_3957.java:29) ~[client-intermediary.jar:?]
+	at net.minecraft.class_3957.method_8121(class_3957.java:11) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:157) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:131) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:140) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41900(class_7196.java:136) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41891(class_7196.java:117) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41899(class_7196.java:150) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41894(class_7196.java:57) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_20174(class_528.java:528) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_20164(class_528.java:436) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_25402(class_528.java:367) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25402(class_350.java:372) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4069.method_25402(class_4069.java:27) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_1611(class_312.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25412(class_437.java:489) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_1601(class_312.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_22686(class_312.java:165) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.execute(class_1255.java:103) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_22684(class_312.java:165) ~[client-intermediary.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallback$Container.invoke(GLFWMouseButtonCallback.java:81) [lwjgl-glfw-3.3.1.jar:?]
+	at bre2el.fpsreducer.handler.glfw.InputEventHandler$MouseButtonEventHandler.invoke(InputEventHandler.java:133) [【FPS减速器】FpsReducer2-fabric-1.19.2-2.1.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) [lwjgl-glfw-3.3.1.jar:?]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar:?]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3474) [lwjgl-glfw-3.3.1.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.handler$bnn000$fpsreducer$handleWaitEventsTimeout(RenderSystem.java:1483) [client-intermediary.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java) [client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1208) [client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:768) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:244) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.19.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+[14:43:58] [Render thread/ERROR]: Parsing error loading recipe recycle:netherite/pants
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:netherite_pants'
+	at net.minecraft.class_1869.method_17878(class_1869.java:253) ~[client-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:253) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:162) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:145) ~[client-intermediary.jar:?]
+	at net.minecraft.class_3957.method_17736(class_3957.java:29) ~[client-intermediary.jar:?]
+	at net.minecraft.class_3957.method_8121(class_3957.java:11) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:157) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:131) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:140) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41900(class_7196.java:136) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41891(class_7196.java:117) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41899(class_7196.java:150) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41894(class_7196.java:57) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_20174(class_528.java:528) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_20164(class_528.java:436) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_25402(class_528.java:367) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25402(class_350.java:372) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4069.method_25402(class_4069.java:27) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_1611(class_312.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25412(class_437.java:489) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_1601(class_312.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_22686(class_312.java:165) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.execute(class_1255.java:103) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_22684(class_312.java:165) ~[client-intermediary.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallback$Container.invoke(GLFWMouseButtonCallback.java:81) [lwjgl-glfw-3.3.1.jar:?]
+	at bre2el.fpsreducer.handler.glfw.InputEventHandler$MouseButtonEventHandler.invoke(InputEventHandler.java:133) [【FPS减速器】FpsReducer2-fabric-1.19.2-2.1.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) [lwjgl-glfw-3.3.1.jar:?]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar:?]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3474) [lwjgl-glfw-3.3.1.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.handler$bnn000$fpsreducer$handleWaitEventsTimeout(RenderSystem.java:1483) [client-intermediary.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java) [client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1208) [client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:768) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:244) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.19.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+[14:43:58] [Render thread/INFO]: Loaded 7 recipes
+[14:43:58] [Render thread/INFO]: Loaded 2187 advancements
+[14:43:58] [Render thread/INFO]: Reloaded configs for mousewheelie (server/smallest)
+[14:43:59] [Render thread/INFO]: pcaSyncProtocol onDisconnect.
+[14:43:59] [Render thread/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on IngameIME-fabric.mixins.json:MixinBookEditScreen from mod ingameime::handler$bpa000$ingameime$onCaret_Book exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[14:43:59] [Render thread/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 2.197 ms
+[14:43:59] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[14:43:59] [Server thread/INFO]: Starting integrated minecraft server version 1.19.2
+[14:43:59] [Server thread/INFO]: Generating keypair
+[14:43:59] [Server thread/WARN]: Found outdated translation keys in extension 'dev.dubhe.gugle.carpet.GcaExtension'!
+These won't be supported in a later Carpet version!
+Carpet will now try to map them to the correct keys in a best-effort basis
+[14:43:59] [Server thread/WARN]: Found outdated translation keys in extension 'dev.dubhe.gugle.carpet.GcaExtension'!
+These won't be supported in a later Carpet version!
+Carpet will now try to map them to the correct keys in a best-effort basis
+[14:43:59] [Server thread/INFO]: [CM] Loaded 2 settings from carpet.conf
+[14:44:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:03] [Render thread/INFO]: 准备生成区域中：60%
+[14:44:03] [Render thread/INFO]: Time elapsed: 3124 ms
+[14:44:04] [Server thread/INFO]: Reloaded configs for mousewheelie (universal/world)
+[14:44:04] [Server thread/INFO]: Changing view distance to 8, from 10
+[14:44:04] [Server thread/INFO]: Changing simulation distance to 8, from 0
+6月 03, 2023 2:44:06 下午 com.replaymod.replaystudio.lib.viaversion.protocols.protocol1_13to1_12_2.blockconnections.ConnectionData init
+信息: Loading block connection mappings ...
+6月 03, 2023 2:44:06 下午 com.replaymod.replaystudio.lib.viaversion.protocols.protocol1_13to1_12_2.storage.BlockConnectionStorage <clinit>
+信息: Using FastUtil Long2ObjectOpenHashMap for block connections
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.properties.Property] with [Yggdrasil Public Key Transformer]
+[14:44:07] [Server thread/INFO]: ChangGeCG[local:E:e9f4bacf] logged in with entity id 81 at (870.6989605843023, 82.21118015028912, -1358.3196081812532)
+[14:44:07] [Server thread/INFO]: ChangGeCG加入了游戏
+[14:44:07] [Render thread/INFO]: New minimap session initialized!
+[14:44:07] [Render thread/INFO]: New world map session initialized!
+[14:44:08] [Render thread/WARN]: @Redirect conflict. Skipping mixins.iris.compat.sodium.json:vertex_format.MixinFluidRenderer from mod iris->@Redirect::iris$fixSidewaysInnerFaceNormal(Lme/jellysquid/mods/sodium/client/model/IndexBufferBuilder;ILme/jellysquid/mods/sodium/client/model/quad/properties/ModelQuadWinding;Lnet/minecraft/class_1920;Lnet/minecraft/class_3610;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;Lme/jellysquid/mods/sodium/client/render/chunk/compile/buffers/ChunkModelBuilder;)V with priority 1000, already redirected by mixins.iris.compat.sodium.json:vertex_format.MixinFluidRenderer from mod iris->@Redirect::iris$fixBackwardUpFaceNormal(Lme/jellysquid/mods/sodium/client/model/IndexBufferBuilder;ILme/jellysquid/mods/sodium/client/model/quad/properties/ModelQuadWinding;Lnet/minecraft/class_1920;Lnet/minecraft/class_3610;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;Lme/jellysquid/mods/sodium/client/render/chunk/compile/buffers/ChunkModelBuilder;)V with priority 1000
+[14:44:08] [Render thread/INFO]: Started 6 worker threads
+[14:44:08] [Render thread/INFO]: [Inventory Profiles Next] Loaded 0 external GUI hints
+[14:44:08] [Render thread/INFO]: [Inventory Profiles Next] Loaded 769 build-in GUI hints
+[14:44:08] [Render thread/INFO]: [Inventory Profiles Next] Effective GUI hints after merge: 769
+[14:44:08] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[14:44:09] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ########################################
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIPlugin starting main-reload for START.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (8):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REITooltipPlugin of REITooltipPlugin [appleskin]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiRecipeAction of ReiRecipeAction [wthit]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ########################################
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIClientPlugin starting main-reload for START.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (5):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REITooltipPlugin of REITooltipPlugin [appleskin]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiRecipeAction of ReiRecipeAction [wthit]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[14:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ----------------------------------------
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIServerPlugin starting main-reload for START.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (3):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ----------------------------------------
+[14:44:09] [REI-ReloadPlugins/INFO]: [WTHIT] Show recipe action set for Roughly Enough Items
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIPlugin finished post-reload for START in 1.748 ms, totaling 64.06 ms.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIClientPlugin finished post-reload for START in 448.4 μs, totaling 317.5 ms.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIServerPlugin finished post-reload for START in 359.3 μs, totaling 3.535 ms.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIPlugin starting main-reload for END.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (8):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REITooltipPlugin of REITooltipPlugin [appleskin]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiRecipeAction of ReiRecipeAction [wthit]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[14:44:09] [Render thread/INFO]: Loaded 1052 advancements
+[14:44:09] [Render thread/INFO]: [WTHIT] Received config from the server: {"minecraft:attribute.health":true,"minecraft:furnace_contents":true,"minecraft:spawner_type":true,"minecraft:attribute.armor":true,"minecraft:note_block.type":true,"minecraft:pet.owner":true,"minecraft:level.composter":true,"minecraft:attribute.absorption":true,"minecraft:override.infested":true,"minecraft:timer.grow":true,"minecraft:redstone.level":true,"minecraft:item_entity":true,"minecraft:breaking_progress.enabled":true,"minecraft:level.honey":true,"minecraft:redstone.lever":true,"minecraft:jukebox.record":true,"minecraft:crop_progress":true,"minecraft:timer.breed":true,"minecraft:redstone.repeater":true,"minecraft:player_head.name":true,"minecraft:redstone.comparator":true,"minecraft:override.powder_snow":true,"minecraft:override.trapped_chest":true}
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ----------------------------------------
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIClientPlugin starting main-reload for END.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (5):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REITooltipPlugin of REITooltipPlugin [appleskin]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiRecipeAction of ReiRecipeAction [wthit]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ----------------------------------------
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ****************************************
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIServerPlugin starting main-reload for END.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (3):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ****************************************
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIPlugin finished post-reload for END in 738.0 μs, totaling 79.62 ms.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIClientPlugin finished post-reload for END in 481.0 μs, totaling 373.8 ms.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIServerPlugin finished post-reload for END in 315.7 μs, totaling 15.65 ms.
+[14:44:10] [Render thread/INFO]: Animated skins loaded and ready to use!
+[14:44:10] [Render thread/INFO]: Reloading entity icon resources...
+[14:44:10] [Render thread/INFO]: Done!
+[14:44:10] [Render thread/INFO]: DurabilityViewer did not find Trinkets API
+[14:44:10] [Render thread/INFO]: DurabilityViewer did not find Tech Reborn
+[14:44:10] [Render thread/INFO]: [STDOUT]: Update HUD
+[14:44:16] [Render thread/INFO]: Loaded 1053 advancements
+[14:44:16] [Render thread/INFO]: Forgot about advancement blazeandcave:technical/lucky_break_check
+[14:44:16] [Render thread/INFO]: Loaded 1052 advancements
+[14:44:18] [Server thread/INFO]: Saving and pausing game...
+[14:44:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:overworld
+[14:44:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_end
+[14:44:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_nether
+[14:44:19] [Render thread/INFO]: Using default channel type
+[14:44:19] [Render thread/INFO]: Started serving on 54120
+[14:44:19] [Render thread/INFO]: [System] [CHAT] 本地游戏已在端口54120上开启
+[14:44:19] [Render thread/INFO]: [System] [CHAT] Inventory Profiles Next: 版本：'1.10.1' 已更新。\n下载链接："Modrinth" 或 "CurseForge"
+[14:44:28] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[14:44:28] [Render thread/INFO]: Loaded 1052 advancements
+[14:44:34] [Render thread/INFO]: [System] [CHAT] ChangGeCG 达成了进度 [它充满墨水]
+[14:44:34] [Render thread/INFO]: Loaded 1056 advancements
+[14:44:35] [Server thread/INFO]: xlsdwtt1[/127.0.0.1:49160] logged in with entity id 639 at (856.1149921063462, 67.27211446566227, -1333.8998936760554)
+[14:44:35] [Server thread/INFO]: xlsdwtt1加入了游戏
+[14:44:35] [Render thread/INFO]: [System] [CHAT] xlsdwtt1加入了游戏
+[14:44:35] [Render thread/INFO]: [STDOUT]: Player queue for update: 1
+[14:44:36] [Server thread/INFO]: Player xlsdwtt1 joined with a matching carpet client
+[14:44:47] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了进度 [浑身是刺！]
+[14:44:47] [Render thread/INFO]: Loaded 1057 advancements
+[14:44:48] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了进度 [这是？仙人掌！]
+[14:44:48] [Render thread/INFO]: Loaded 1057 advancements
+[14:45:16] [Render thread/WARN]: Received passengers for unknown entity
+[14:45:52] [Render thread/INFO]: Loaded 1057 advancements
+[14:46:13] [Render thread/INFO]: Loaded 1060 advancements
+[14:46:14] [Render thread/INFO]: Forgot about advancement blazeandcave:technical/castaway_fail
+[14:46:14] [Render thread/INFO]: Forgot about advancement blazeandcave:technical/just_keeps_going_fail
+[14:46:14] [Render thread/INFO]: Forgot about advancement blazeandcave:technical/a_wizards_breakfast_fail
+[14:46:14] [Render thread/INFO]: Loaded 1057 advancements
+[14:46:23] [Render thread/INFO]: [STDOUT]: Player queue for update: 1
+[14:46:25] [Server thread/INFO]: Stopping server
+[14:46:25] [Server thread/INFO]: Saving players
+[14:46:25] [Server thread/INFO]: ChangGeCG lost connection: 连接中断
+[14:46:25] [Server thread/INFO]: ChangGeCG退出了游戏
+[14:46:25] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[14:46:25] [Server thread/INFO]: Saving worlds
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: java.util.concurrent.RejectedExecutionException: Server already shutting down
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_40000(MinecraftServer.java:1246)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2600.method_11074(class_2600.java:19)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2600.method_11073(class_2600.java:14)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_3244.method_12063(class_3244.java:875)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2828.method_12272(class_2828.java:114)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:42)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.method_10759(class_2535.java:167)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.redirect$ckh000$masa_gadget_mod-1_19_2$redirectGenericsFtw(class_2535.java:2024)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.method_10770(class_2535.java:152)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.channelRead0(class_2535.java:50)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[14:46:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:overworld
+[14:46:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_end
+[14:46:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_nether
+[14:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (原版生存? つ ?_? ?つ): All chunks are saved
+[14:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:46:37.617] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[14:46:37.617] [Crash] 步骤 2：准备日志文本
+[14:46:37.617] [Crash] authlib-injector.log 分类为 ExtraLog
+[14:46:37.617] [Crash] latest.log 分类为 MinecraftLog
+[14:46:37.617] [Crash] RawOutput.log 分类为 ExtraLog
+[14:46:37.617] [Crash] 输出报告：D:\ZSX\1.19.2整合包\.minecraft\logs\latest.log，作为 Minecraft 或启动器日志
+[14:46:37.617] [Crash] 导入分析：D:\ZSX\1.19.2整合包\.minecraft\logs\latest.log，作为 Minecraft 日志
+[14:46:37.617] [Crash] 输出报告：D:\ZSX\1.19.2整合包\.minecraft\authlib-injector.log，作为额外日志
+[14:46:37.617] [Crash] 输出报告：C:\Users\周思鑫\AppData\Local\Temp\PCL\CrashAnalyzer\298885724891\RawOutput.log，作为额外日志
+[14:46:37.617] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[14:46:37.617] [Crash] 步骤 3：分析崩溃原因
+[14:46:37.620] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[14:46:37.621] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[14:46:37.739] [System] 窗口已置顶，位置：(362.4, 164), 810.4 x 487.2
+[14:46:37.744] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[14:46:40.811] [Control] 按下按钮：查看日志
+[14:46:40.812] [System] 执行外部命令：D:\ZSX\1.19.2整合包\.minecraft\logs\latest.log 
+[14:46:54.989] [Control] 按下按钮：导出错误报告
+[14:46:54.989] [Control] 普通弹框返回：3
+[14:46:59.194] [UI] 选择文件返回：D:\桌面\PCL\错误报告-2023-6-3_14.46.54.zip
+[14:46:59.289] [System] 诊断信息：
+操作系统：Microsoft Windows 11 家庭中文版
+剩余内存：11440 M / 16236 M
+DPI：120（125%）
+MC 文件夹：D:\ZSX\1.19.2整合包\.minecraft\
+文件位置：D:\桌面\

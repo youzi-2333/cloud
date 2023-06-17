@@ -1,0 +1,464 @@
+[19:30:20.783] [Start] 绋嬪簭鐗堟湰锛歊elease 2.5.2锛?286锛?
+[19:30:20.784] [Start] 璇嗗埆鐮侊細95E3-DF15-C675-9F41
+[19:30:20.784] [Start] 绋嬪簭璺緞锛欴:\妗岄潰\鏂板缓鏂囦欢澶筡Plain Craft Launcher 2.exe
+[19:30:20.788] [Start] 绗竴闃舵鍔犺浇鐢ㄦ椂锛?47 ms
+[19:30:20.903] [Loader] 鍔犺浇鍣? Minecraft Folder List 鐘舵?佹敼鍙橈細Loading
+[19:30:20.903] [Start] 绗簩闃舵鍔犺浇鐢ㄦ椂锛?110 ms
+[19:30:20.920] [Loader] 鍔犺浇鍣? Minecraft Folder List 鐘舵?佹敼鍙橈細Finished
+[19:30:21.083] [System] 绐楀彛宸茬疆椤讹紝浣嶇疆锛?(512, 243), 896 x 554
+[19:30:21.088] [Start] 绗笁闃舵鍔犺浇鐢ㄦ椂锛?31 ms
+[19:30:21.088] [Animation] 鍔ㄧ敾绾跨▼寮?濮?
+[19:30:21.090] [Start] 鍔犺浇 DLL锛欽son
+[19:30:21.090] [System] 鑾峰彇璧勬簮锛欽son
+[19:30:21.097] [Launch] Minecraft 鏂囦欢澶癸細C:\Users\娲嬫磱\AppData\Roaming\.minecraft\
+[19:30:21.132] [Loader] 鍔犺浇鍣? Loader Skin Ms 鐘舵?佹敼鍙橈細Loading
+[19:30:21.137] [Loader] 鍔犺浇鍣? Loader Skin Ms 鐘舵?佹敼鍙橈細Finished
+[19:30:21.161] [Skin] 杞藉叆澶村儚鎴愬姛锛歀oader Skin Ms
+[19:30:21.161] [Java] 缂撳瓨涓湁 1 涓彲鐢ㄧ殑 Java
+[19:30:21.178] [Minecraft] 鍚姩鎸夐挳锛歁inecraft 鐗堟湰锛欳:\Users\娲嬫磱\AppData\Roaming\.minecraft\versions\1.19.4\
+[19:30:21.185] [Loader] 鍔犺浇鍣? 鐧诲綍 鐘舵?佹敼鍙橈細Loading
+[19:30:21.188] [Launch] 鐧诲綍鍔犺浇宸插紑濮?
+[19:30:21.189] [Loader] 鍔犺浇鍣? Loader Login Ms 鐘舵?佹敼鍙橈細Loading
+[19:30:21.190] [Launch] 鐧诲綍鏂瑰紡锛氬井杞鐗堬紙twjopq锛?
+[19:30:21.191] [Launch] 寮?濮嬪井杞櫥褰曟楠? 2锛堝埛鏂扮櫥褰曪級
+[19:30:21.194] [Net] 鍙戣捣缃戠粶璇锋眰锛圥OST锛宧ttps://login.live.com/oauth20_token.srf锛夛紝鏈?澶ц秴鏃? 30000
+[19:30:21.365] [Loader] 鍔犺浇鍣? DlClientList Mojang 鐘舵?佹敼鍙橈細Loading
+[19:30:21.366] [Loader] 鍔犺浇鍣? PCL 鏈嶅姟 鐘舵?佹敼鍙橈細Loading
+[19:30:21.367] [Server] 姝ｅ湪杩炴帴鍒? PCL 鏈嶅姟鍣?
+[19:30:21.370] [Net] 鑾峰彇缃戠粶缁撴灉锛歨ttps://launchermeta.mojang.com/mc/game/version_manifest.json锛屾渶澶ц秴鏃? 10000
+[19:30:21.373] [Net] 鑾峰彇缃戠粶缁撴灉锛歨ttps://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1683027021-0c0cf73a-0-8cdbd104930e893dbc999961ecf5b8e1锛屾渶澶ц秴鏃? 10000
+[19:30:21.472] [Server] 鏈嶅姟鍣ㄥ叕鍛婏細102|289|286|5锛屾棤闇?鏇存柊
+[19:30:21.477] [Loader] 鍔犺浇鍣? PCL 鏈嶅姟 鐘舵?佹敼鍙橈細Finished
+[19:30:21.801] [System] DPI锛?96锛岀郴缁熺増鏈細10.0.19044.0锛孭CL 浣嶇疆锛欴:\妗岄潰\鏂板缓鏂囦欢澶筡Plain Craft Launcher 2.exe
+[19:30:21.928] [Loader] 鍔犺浇鍣? DlClientList Mojang 鐘舵?佹敼鍙橈細Finished
+[19:30:22.075] [Launch] 寮?濮嬪井杞櫥褰曟楠? 3
+[19:30:22.075] [Net] 鍙戣捣缃戠粶璇锋眰锛圥OST锛宧ttps://user.auth.xboxlive.com/user/authenticate锛夛紝鏈?澶ц秴鏃? 30000
+[19:30:22.331] [Net] 鍙戣捣缃戠粶璇锋眰锛圥OST锛宧ttps://user.auth.xboxlive.com/user/authenticate锛夛紝鏈?澶ц秴鏃? 30000
+[19:30:22.843] [Net] 鍙戣捣缃戠粶璇锋眰锛圥OST锛宧ttps://user.auth.xboxlive.com/user/authenticate锛夛紝鏈?澶ц秴鏃? 30000
+[19:30:23.606] [Launch] 寮?濮嬪井杞櫥褰曟楠? 4
+[19:30:23.606] [Net] 鍙戣捣缃戠粶璇锋眰锛圥OST锛宧ttps://xsts.auth.xboxlive.com/xsts/authorize锛夛紝鏈?澶ц秴鏃? 30000
+[19:30:23.868] [Net] 鍙戣捣缃戠粶璇锋眰锛圥OST锛宧ttps://xsts.auth.xboxlive.com/xsts/authorize锛夛紝鏈?澶ц秴鏃? 30000
+[19:30:24.374] [Net] 鍙戣捣缃戠粶璇锋眰锛圥OST锛宧ttps://xsts.auth.xboxlive.com/xsts/authorize锛夛紝鏈?澶ц秴鏃? 30000
+[19:30:25.129] [Launch] 寮?濮嬪井杞櫥褰曟楠? 5
+[19:30:25.130] [Net] 鍙戣捣缃戠粶璇锋眰锛圥OST锛宧ttps://api.minecraftservices.com/authentication/login_with_xbox锛夛紝鏈?澶ц秴鏃? 30000
+[19:30:25.393] [Net] 鍙戣捣缃戠粶璇锋眰锛圥OST锛宧ttps://api.minecraftservices.com/authentication/login_with_xbox锛夛紝鏈?澶ц秴鏃? 30000
+[19:30:25.906] [Launch] 寮?濮嬪井杞櫥褰曟楠? 6
+[19:30:25.907] [Net] 鍙戣捣缃戠粶璇锋眰锛圙ET锛宧ttps://api.minecraftservices.com/minecraft/profile锛夛紝鏈?澶ц秴鏃? 30000
+[19:30:26.172] [Net] 鍙戣捣缃戠粶璇锋眰锛圙ET锛宧ttps://api.minecraftservices.com/minecraft/profile锛夛紝鏈?澶ц秴鏃? 30000
+[19:30:26.683] [Launch] 寰蒋鐧诲綍瀹屾垚
+[19:30:26.683] [Loader] 鍔犺浇鍣? Loader Login Ms 鐘舵?佹敼鍙橈細Finished
+[19:30:26.698] [Launch] 鐧诲綍鍔犺浇宸茬粨鏉?
+[19:30:26.698] [Loader] 鍔犺浇鍣? 鐧诲綍 鐘舵?佹敼鍙橈細Finished
+[19:30:33.867] [Control] 鎸変笅鎸夐挳锛氬惎鍔ㄦ父鎴?
+[19:30:33.868] [Loader] 鍔犺浇鍣? Loader Launch 鐘舵?佹敼鍙橈細Loading
+[19:30:33.875] [System] 娆茶鍙栫殑鏂囦欢涓嶅瓨鍦紝宸茶繑鍥炵┖瀛楃涓诧細D:\妗岄潰\鏂板缓鏂囦欢澶筡PCL\hints.txt
+[19:30:33.902] [Launch] 棰勬娴嬪凡閫氳繃
+[19:30:33.905] [Download] 寮?濮嬪悗鍙版洿鏂拌祫婧愭枃浠剁储寮?
+[19:30:33.906] [Loader] 鍔犺浇鍣? 鍚庡彴鏇存柊璧勬簮鏂囦欢绱㈠紩 鐘舵?佹敼鍙橈細Loading
+[19:30:33.907] [Loader] 鍔犺浇鍣? 鍚庡彴鍒嗘瀽璧勬簮鏂囦欢绱㈠紩鍦板潃 鐘舵?佹敼鍙橈細Loading
+[19:30:33.908] [Loader] 鍔犺浇鍣? 鐧诲綍 鐘舵?佹敼鍙橈細Waiting
+[19:30:33.908] [Loader] 鍔犺浇鍣? Minecraft 鍚姩 鐘舵?佹敼鍙橈細Loading
+[19:30:33.908] [Loader] 鍔犺浇鍣? Java 澶勭悊 鐘舵?佹敼鍙橈細Loading
+[19:30:33.909] [Download] 鐗堟湰 1.19.4 瀵瑰簲鐨勮祫婧愭枃浠剁储寮曚负 3
+[19:30:33.910] [Loader] 鍔犺浇鍣? 鍚庡彴鍒嗘瀽璧勬簮鏂囦欢绱㈠紩鍦板潃 鐘舵?佹敼鍙橈細Finished
+[19:30:33.911] [Loader] 鍔犺浇鍣? Java 楠岃瘉 鐘舵?佹敼鍙橈細Loading
+[19:30:33.912] [Loader] 鍔犺浇鍣? 鍚庡彴涓嬭浇璧勬簮鏂囦欢绱㈠紩 鐘舵?佹敼鍙橈細Loading
+[19:30:33.912] [Loader] 鍔犺浇鍣? 鐧诲綍 鐘舵?佹敼鍙橈細Loading
+[19:30:33.912] [Loader] 鍔犺浇鍣? 琛ュ叏鏂囦欢 鐘舵?佹敼鍙橈細Loading
+[19:30:33.912] [Loader] 鍔犺浇鍣? 涓嬭浇鏀寔搴撴枃浠讹紙涓诲姞杞藉櫒锛? 鐘舵?佹敼鍙橈細Loading
+[19:30:33.912] [Loader] 鍔犺浇鍣? 鍒嗘瀽缂哄け鏀寔搴撴枃浠? 鐘舵?佹敼鍙橈細Loading
+[19:30:33.912] [Launch] 鐧诲綍鍔犺浇宸插紑濮?
+[19:30:33.912] [Loader] 鍔犺浇鍣? Loader Login Ms 鐘舵?佹敼鍙橈細Loading
+[19:30:33.913] [Launch] 鐧诲綍鏂瑰紡锛氬井杞鐗堬紙twjopq锛?
+[19:30:33.913] [Launch] 寰蒋鐧诲綍瀹屾垚
+[19:30:33.913] [Loader] 鍔犺浇鍣? Loader Login Ms 鐘舵?佹敼鍙橈細Finished
+[19:30:33.913] [Loader] 鍔犺浇鍣? 涓嬭浇璧勬簮鏂囦欢锛堜富鍔犺浇鍣級 鐘舵?佹敼鍙橈細Loading
+[19:30:33.913] [Loader] 鍔犺浇鍣? 鍒嗘瀽璧勬簮鏂囦欢绱㈠紩鍦板潃 鐘舵?佹敼鍙橈細Loading
+[19:30:33.913] [Download] 鐗堟湰 1.19.4 瀵瑰簲鐨勮祫婧愭枃浠剁储寮曚负 3
+[19:30:33.915] [Launch] Java 鐗堟湰闇?姹傦細鏈?浣? 1.17.0.0锛屾渶楂? 999.999.999.999
+[19:30:33.924] [Java] 寮?濮嬪畬鍏ㄩ亶鍘嗘煡鎵撅細C:\Users\娲嬫磱\AppData\Roaming\
+[19:30:33.925] [Loader] 鍔犺浇鍣? 鍒嗘瀽璧勬簮鏂囦欢绱㈠紩鍦板潃 鐘舵?佹敼鍙橈細Finished
+[19:30:33.925] [Loader] 鍔犺浇鍣? 涓嬭浇璧勬簮鏂囦欢绱㈠紩 鐘舵?佹敼鍙橈細Loading
+[19:30:33.925] [Loader] 鍔犺浇鍣? 涓嬭浇璧勬簮鏂囦欢绱㈠紩 鐘舵?佹敼鍙橈細Finished
+[19:30:33.925] [Loader] 鍔犺浇鍣? 鍒嗘瀽缂哄け璧勬簮鏂囦欢 鐘舵?佹敼鍙橈細Loading
+[19:30:33.937] [Launch] 鐧诲綍鍔犺浇宸茬粨鏉?
+[19:30:33.937] [Loader] 鍔犺浇鍣? 鐧诲綍 鐘舵?佹敼鍙橈細Finished
+[19:30:33.976] [Java] 寮?濮嬪畬鍏ㄩ亶鍘嗘煡鎵撅細C:\Users\娲嬫磱\AppData\Roaming\.minecraft\
+[19:30:33.980] [Java] 寮?濮嬪畬鍏ㄩ亶鍘嗘煡鎵撅細C:\Users\娲嬫磱\AppData\Roaming\.minecraft\versions\1.19.4\
+[19:30:33.982] [Minecraft] 鑾峰彇鏀寔搴撳垪琛細1.19.4
+[19:30:33.983] [System] 鎵ц澶栭儴鍛戒护骞剁瓑寰呰繑鍥炵粨鏋滐細C:\Program Files\Java\jdk-17.0.2\bin\java.exe -version
+[19:30:34.062] [Java] 閫夊畾鐨? Java锛欽DK 17 (17.0.2)锛?64 浣嶏細C:\Program Files\Java\jdk-17.0.2\bin\
+[19:30:34.062] [Launch] 閫夋嫨鐨? Java锛欽DK 17 (17.0.2)锛?64 浣嶏細C:\Program Files\Java\jdk-17.0.2\bin\
+[19:30:34.062] [Loader] 鍔犺浇鍣? Java 楠岃瘉 鐘舵?佹敼鍙橈細Finished
+[19:30:34.062] [Loader] 鍔犺浇鍣? Java 澶勭悊 鐘舵?佹敼鍙橈細Finished
+[19:30:34.066] [Download] 3.json 159#锛氬紑濮嬶紝璧峰鐐? 0锛宧ttps://piston-meta.mojang.com/v1/packages/101181ddae083d4cf828eff70e4edea5d519d7e3/3.json
+[19:30:34.136] [Loader] 鍔犺浇鍣? 鍒嗘瀽缂哄け鏀寔搴撴枃浠? 鐘舵?佹敼鍙橈細Finished
+[19:30:34.136] [Loader] 鍔犺浇鍣? 涓嬭浇鏀寔搴撴枃浠? 鐘舵?佹敼鍙橈細Loading
+[19:30:34.136] [Loader] 鍔犺浇鍣? 涓嬭浇鏀寔搴撴枃浠? 鐘舵?佹敼鍙橈細Finished
+[19:30:34.136] [Loader] 鍔犺浇鍣? 涓嬭浇鏀寔搴撴枃浠讹紙涓诲姞杞藉櫒锛? 鐘舵?佹敼鍙橈細Finished
+[19:30:34.183] [Loader] 鍔犺浇鍣? 鍒嗘瀽缂哄け璧勬簮鏂囦欢 鐘舵?佹敼鍙橈細Finished
+[19:30:34.183] [Loader] 鍔犺浇鍣? 涓嬭浇璧勬簮鏂囦欢 鐘舵?佹敼鍙橈細Loading
+[19:30:34.183] [Loader] 鍔犺浇鍣? 涓嬭浇璧勬簮鏂囦欢 鐘舵?佹敼鍙橈細Finished
+[19:30:34.183] [Loader] 鍔犺浇鍣? 涓嬭浇璧勬簮鏂囦欢锛堜富鍔犺浇鍣級 鐘舵?佹敼鍙橈細Finished
+[19:30:34.183] [Loader] 鍔犺浇鍣? 琛ュ叏鏂囦欢 鐘舵?佹敼鍙橈細Finished
+[19:30:34.184] [Loader] 鍔犺浇鍣? 鑾峰彇鍚姩鍙傛暟 鐘舵?佹敼鍙橈細Loading
+[19:30:34.185] [Launch] 寮?濮嬭幏鍙? Minecraft 鍚姩鍙傛暟
+[19:30:34.185] [Launch] 鑾峰彇鏂扮増 JVM 鍙傛暟
+[19:30:34.188] [Launch] 褰撳墠鍓╀綑鍐呭瓨锛?9.4G
+[19:30:34.193] [Java] Wrapper锛欰ppData 璺緞涓? Temp 璺緞涓潎鍖呭惈闈? ASCII 瀛楃锛屾崲鐢? ProgramData 鐩綍
+[19:30:34.194] [Java] Wrapper锛欰ppData 璺緞涓? Temp 璺緞涓潎鍖呭惈闈? ASCII 瀛楃锛屾崲鐢? ProgramData 鐩綍
+[19:30:34.194] [System] 鑾峰彇璧勬簮锛欽avaWrapper
+[19:30:34.194] [Java] 宸查噴鏀? Java Wrapper锛欳:\ProgramData\PCL\JavaWrapper.jar
+[19:30:34.194] [Launch] 鏂扮増 JVM 鍙傛暟鑾峰彇鎴愬姛锛?
+[19:30:34.194] [Launch] -Doolloo.jlw.tmpdir="C:\ProgramData\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Xmn256m -Xmx5324m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\ProgramData\PCL\JavaWrapper.jar" net.minecraft.client.main.Main
+[19:30:34.194] [Launch] 鑾峰彇鏂扮増 Game 鍙傛暟
+[19:30:34.196] [Launch] 鏂扮増 Game 鍙傛暟鑾峰彇鎴愬姛
+[19:30:34.198] [Minecraft] 鑾峰彇鏀寔搴撳垪琛細1.19.4
+[19:30:34.199] [Launch] Minecraft 鍚姩鍙傛暟锛?
+[19:30:34.201] [Launch] -Doolloo.jlw.tmpdir="C:\ProgramData\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\娲嬫磱\AppData\Roaming\.minecraft\versions\1.19.4\1.19.4-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=286 -cp "C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\3.18.38\authlib-3.18.38.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\6.0.6\datafixerupper-6.0.6.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;C:\Users\娲嬫磱\AppData\Roaming\.minecraft\versions\1.19.4\1.19.4.jar" -Xmn256m -Xmx5324m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\ProgramData\PCL\JavaWrapper.jar" net.minecraft.client.main.Main --username twjopq --version 1.19.4 --gameDir "C:\Users\娲嬫磱\AppData\Roaming\.minecraft" --assetsDir "C:\Users\娲嬫磱\AppData\Roaming\.minecraft\assets" --assetIndex 3 --uuid e95e3d53070d4b72a9d1d12e186a3cb2 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXc6f8M --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 
+[19:30:34.201] [Loader] 鍔犺浇鍣? 鑾峰彇鍚姩鍙傛暟 鐘舵?佹敼鍙橈細Finished
+[19:30:34.237] [Loader] 鍔犺浇鍣? 瑙ｅ帇鏂囦欢 鐘舵?佹敼鍙橈細Loading
+[19:30:34.241] [Launch] 姝ｅ湪瑙ｅ帇 Natives 鏂囦欢
+[19:30:34.241] [Loader] 鍔犺浇鍣? 瑙ｅ帇鏂囦欢 鐘舵?佹敼鍙橈細Finished
+[19:30:34.275] [Loader] 鍔犺浇鍣? 棰勫惎鍔ㄥ鐞? 鐘舵?佹敼鍙橈細Loading
+[19:30:34.289] [Launch] 宸叉洿鏂? launcher_profiles.json
+[19:30:34.289] [Launch] 骞堕潪棣栨鍚姩锛屼笉淇敼璇█
+[19:30:34.290] [Loader] 鍔犺浇鍣? 棰勫惎鍔ㄥ鐞? 鐘舵?佹敼鍙橈細Finished
+[19:30:34.321] [Loader] 鍔犺浇鍣? 鎵ц鑷畾涔夊懡浠? 鐘舵?佹敼鍙橈細Loading
+[19:30:34.327] [Loader] 鍔犺浇鍣? 鎵ц鑷畾涔夊懡浠? 鐘舵?佹敼鍙橈細Finished
+[19:30:34.356] [Loader] 鍔犺浇鍣? 鍚姩杩涚▼ 鐘舵?佹敼鍙橈細Loading
+[19:30:34.360] [Launch] 宸插惎鍔ㄦ父鎴忚繘绋嬶細C:\Program Files\Java\jdk-17.0.2\bin\javaw.exe
+[19:30:34.360] [Loader] 鍔犺浇鍣? 鍚姩杩涚▼ 鐘舵?佹敼鍙橈細Finished
+[19:30:34.393] [Loader] 鍔犺浇鍣? 绛夊緟娓告垙绐楀彛鍑虹幇 鐘舵?佹敼鍙橈細Loading
+[19:30:34.395] [Launch] 
+[19:30:34.395] [Launch] ~ 鍩虹鍙傛暟 ~
+[19:30:34.395] [Launch] PCL 鐗堟湰锛歊elease 2.5.2 (286)
+[19:30:34.395] [Launch] 娓告垙鐗堟湰锛氬師鐗? 1.19.4锛?19.4锛?
+[19:30:34.395] [Launch] 璧勬簮鐗堟湰锛?3
+[19:30:34.395] [Launch] 鐗堟湰缁ф壙锛氭棤
+[19:30:34.395] [Launch] 鍒嗛厤鐨勫唴瀛橈細5.2 GB锛?5325 MB锛?
+[19:30:34.395] [Launch] MC 鏂囦欢澶癸細C:\Users\娲嬫磱\AppData\Roaming\.minecraft\
+[19:30:34.395] [Launch] 鐗堟湰鏂囦欢澶癸細C:\Users\娲嬫磱\AppData\Roaming\.minecraft\versions\1.19.4\
+[19:30:34.395] [Launch] 鐗堟湰闅旂锛欶alse
+[19:30:34.395] [Launch] HMCL 鏍煎紡锛欶alse
+[19:30:34.395] [Launch] Java 淇℃伅锛欽DK 17 (17.0.2)锛?64 浣嶏細C:\Program Files\Java\jdk-17.0.2\bin\
+[19:30:34.395] [Launch] 鐜鍙橀噺锛氭湭璁剧疆
+[19:30:34.395] [Launch] 
+[19:30:34.395] [Launch] ~ 鐧诲綍鍙傛暟 ~
+[19:30:34.395] [Launch] 鐜╁鐢ㄦ埛鍚嶏細twjopq
+[19:30:34.395] [Launch] AccessToken锛歟yJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXc6f8M
+[19:30:34.395] [Launch] ClientToken锛歟95e3d53070d4b72a9d1d12e186a3cb2
+[19:30:34.395] [Launch] UUID锛歟95e3d53070d4b72a9d1d12e186a3cb2
+[19:30:34.395] [Launch] 鐧诲綍鏂瑰紡锛歁icrosoft
+[19:30:34.395] [Launch] 
+[19:30:34.397] [Launch] [13204] 寮?濮? Minecraft 鏃ュ織鐩戞帶
+[19:30:34.398] [Launch] [鍏ㄥ眬] 鍑虹幇杩愯涓殑 Minecraft
+[19:30:34.468] [Download] 3.json锛氭枃浠跺ぇ灏? 409894 B锛?400 K锛?
+[19:30:34.627] [Launch] [13204] 鏃ュ織 1/5锛氬凡鍑虹幇鏃ュ織杈撳嚭
+[19:30:35.135] [Download] 3.json锛氬凡瀹屾垚锛屽墿浣欐枃浠? 0
+[19:30:35.136] [Loader] 鍔犺浇鍣? 鍚庡彴涓嬭浇璧勬簮鏂囦欢绱㈠紩 鐘舵?佹敼鍙橈細Finished
+[19:30:35.136] [Loader] 鍔犺浇鍣? 鍚庡彴澶嶅埗璧勬簮鏂囦欢绱㈠紩 鐘舵?佹敼鍙橈細Loading
+[19:30:35.138] [Launch] 鍚庡彴鏇存柊璧勬簮鏂囦欢绱㈠紩鎴愬姛锛欳:\Users\娲嬫磱\AppData\Local\Temp\PCL\Cache\3.json
+[19:30:35.138] [Loader] 鍔犺浇鍣? 鍚庡彴澶嶅埗璧勬簮鏂囦欢绱㈠紩 鐘舵?佹敼鍙橈細Finished
+[19:30:35.138] [Loader] 鍔犺浇鍣? 鍚庡彴鏇存柊璧勬簮鏂囦欢绱㈠紩 鐘舵?佹敼鍙橈細Finished
+[19:30:38.793] [Launch] [13204] 鏃ュ織 2/5锛氭父鎴忕敤鎴峰凡璁剧疆
+[19:30:38.793] [Launch] [13204] 鏃ュ織 3/5锛歀WJGL 鐗堟湰宸茬‘璁?
+[19:30:39.027] [Launch] [13204] Minecraft 绐楀彛宸插姞杞斤細Minecraft 1.19.4锛?853782锛?
+[19:30:39.484] [Launch] [13204] 璇嗗埆涓哄穿婧冪殑 Log锛?#@!@# Game crashed! Crash report saved to: #@!@# C:\Users\锟斤拷锟斤拷\AppData\Roaming\.minecraft\crash-reports\crash-2023-05-02_19.30.39-client.txt
+[19:30:39.485] [Launch] [鍏ㄥ眬] 宸叉棤杩愯涓殑 Minecraft
+[19:30:39.485] [Launch] [13204] Minecraft 宸插穿婧冿紝灏嗗湪 2 绉掑悗寮?濮嬪穿婧冨垎鏋?
+[19:30:39.527] [UI] 寮瑰嚭鎻愮ず锛氭娴嬪埌 Minecraft 鍑虹幇閿欒锛岄敊璇垎鏋愬凡寮?濮嬧?︹??
+[19:30:39.598] 鍔犺浇绾跨▼ 绛夊緟娓告垙绐楀彛鍑虹幇 (11) 鍙戠敓杩愯鏃堕敊璇細$$
+   鍦? PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   鍦? PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[19:30:39.598] [Loader] 鍔犺浇鍣? 绛夊緟娓告垙绐楀彛鍑虹幇 鐘舵?佹敼鍙橈細Failed
+[19:30:39.598] [Loader] 鍔犺浇鍣? Minecraft 鍚姩 鐘舵?佹敼鍙橈細Failed
+[19:30:39.719] [Launch] [13204] Minecraft 鏃ュ織鐩戞帶宸查??鍑?
+[19:30:39.782] 鍔犺浇绾跨▼ Loader Launch (29) 鍙戠敓杩愯鏃堕敊璇細绛夊緟娓告垙绐楀彛鍑虹幇澶辫触
+鈫? $$
+   鍦? PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   鍦? PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   鍦? PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   鍦? PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[19:30:39.782] [Loader] 鍔犺浇鍣? Loader Launch 鐘舵?佹敼鍙橈細Failed
+[19:30:41.496] [Launch] [13204] 宕╂簝鍒嗘瀽寮?濮?
+[19:30:41.501] [Crash] 宕╂簝鍒嗘瀽鏆傚瓨鏂囦欢澶癸細C:\Users\娲嬫磱\AppData\Local\Temp\PCL\CrashAnalyzer\1320461146043\
+[19:30:41.503] [Crash] 姝ラ 1锛氭敹闆嗘棩蹇楁枃浠?
+[19:30:41.504] [Crash] 鍙兘鍙敤鐨勬棩蹇楁枃浠讹細C:\Users\娲嬫磱\AppData\Roaming\.minecraft\crash-reports\crash-2023-05-02_19.27.51-client.txt锛?2.8 鍒嗛挓锛?
+[19:30:41.504] [Crash] 鍙兘鍙敤鐨勬棩蹇楁枃浠讹細C:\Users\娲嬫磱\AppData\Roaming\.minecraft\crash-reports\crash-2023-05-02_19.30.39-client.txt锛?0 鍒嗛挓锛?
+[19:30:41.505] [Crash] 鍙兘鍙敤鐨勬棩蹇楁枃浠讹細C:\Users\娲嬫磱\AppData\Roaming\.minecraft\logs\latest.log锛?0 鍒嗛挓锛?
+[19:30:41.505] [Crash] 浠ヤ笅涓烘父鎴忚緭鍑虹殑鏈?鍚庝竴娈靛唴瀹癸細
+WARNING: Unknown module: cpw.mods.bootstraplauncher specified to --add-exports
+jlw: native file exists: 'C:\ProgramData\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+[19:30:35] [main/WARN]: Failed retrieving info for group processor
+java.lang.UnsatisfiedLinkError: C:\Users\锟斤拷锟斤拷\AppData\Local\Temp\jna-893280\jna371254655416468708.dll: Can't find dependent libraries
+	at jdk.internal.loader.NativeLibraries.load(Native Method) ~[?:?]
+	at jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:388) ~[?:?]
+	at jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:232) ~[?:?]
+	at jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:174) ~[?:?]
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:2389) ~[?:?]
+	at java.lang.Runtime.load0(Runtime.java:755) ~[?:?]
+	at java.lang.System.load(System.java:1953) ~[?:?]
+	at com.sun.jna.Native.loadNativeDispatchLibraryFromClasspath(Native.java:1045) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Native.loadNativeDispatchLibrary(Native.java:1015) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Native.<clinit>(Native.java:221) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.setAlignType(Structure.java:291) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:208) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:204) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:191) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:183) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.WinNT$OSVERSIONINFOEX.<init>(WinNT.java:1980) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindowsVersionOrGreater(VersionHelpers.java:59) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindows8OrGreater(VersionHelpers.java:170) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at oshi.hardware.platform.windows.WindowsCentralProcessor.<clinit>(WindowsCentralProcessor.java:88) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createProcessor(WindowsHardwareAbstractionLayer.java:61) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.util.Memoizer$1.get(Memoizer.java:87) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:68) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.c(SourceFile:75) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:75) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.h(SourceFile:274) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:152) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+[19:30:35] [main/WARN]: Failed retrieving info for group graphics
+java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+	at com.sun.jna.Structure.setAlignType(Structure.java:291) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:208) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:204) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:191) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:183) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.WinNT$OSVERSIONINFOEX.<init>(WinNT.java:1980) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindowsVersionOrGreater(VersionHelpers.java:59) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindowsVistaOrGreater(VersionHelpers.java:127) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at oshi.hardware.platform.windows.WindowsGraphicsCard.<clinit>(WindowsGraphicsCard.java:49) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.getGraphicsCards(WindowsHardwareAbstractionLayer.java:106) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.b(SourceFile:76) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:76) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.h(SourceFile:274) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:152) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+[19:30:35] [main/WARN]: Failed retrieving info for group memory
+java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+	at com.sun.jna.Structure.setAlignType(Structure.java:291) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:208) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:204) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:191) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:183) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.WinNT$OSVERSIONINFOEX.<init>(WinNT.java:1980) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindowsVersionOrGreater(VersionHelpers.java:59) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindows10OrGreater(VersionHelpers.java:194) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at oshi.hardware.platform.windows.WindowsGlobalMemory.<clinit>(WindowsGlobalMemory.java:60) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createMemory(WindowsHardwareAbstractionLayer.java:56) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.util.Memoizer$1.get(Memoizer.java:87) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getMemory(AbstractHardwareAbstractionLayer.java:80) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.a(SourceFile:77) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:77) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.h(SourceFile:274) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:152) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+[19:30:37] [Datafixer Bootstrap/INFO]: 180 Datafixer optimizations took 80 milliseconds
+[19:30:37] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:30:38] [Render thread/INFO]: Setting user: twjopq
+[19:30:38] [Render thread/WARN]: Skipping bad option: 
+[19:30:38] [Render thread/WARN]: Skipping bad option: 
+[19:30:38] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[19:30:39] [Render thread/WARN]: Failed retrieving info for group processor
+java.lang.NoClassDefFoundError: Could not initialize class oshi.hardware.platform.windows.WindowsCentralProcessor
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createProcessor(WindowsHardwareAbstractionLayer.java:61) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.util.Memoizer$1.get(Memoizer.java:87) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:68) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.c(SourceFile:75) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:75) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.a(SourceFile:266) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+[19:30:39] [Render thread/WARN]: Failed retrieving info for group graphics
+java.lang.NoClassDefFoundError: Could not initialize class oshi.hardware.platform.windows.WindowsGraphicsCard
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.getGraphicsCards(WindowsHardwareAbstractionLayer.java:106) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.b(SourceFile:76) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:76) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.a(SourceFile:266) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+[19:30:39] [Render thread/WARN]: Failed retrieving info for group memory
+java.lang.NoClassDefFoundError: Could not initialize class oshi.hardware.platform.windows.WindowsGlobalMemory
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createMemory(WindowsHardwareAbstractionLayer.java:56) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.util.Memoizer$1.get(Memoizer.java:87) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getMemory(AbstractHardwareAbstractionLayer.java:80) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.a(SourceFile:77) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:77) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.a(SourceFile:266) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 2023-05-02 19:30:39
+Description: Initializing game
+
+java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+	at com.sun.jna.Structure.setAlignType(Structure.java:291)
+	at com.sun.jna.Structure.<init>(Structure.java:208)
+	at com.sun.jna.Structure.<init>(Structure.java:204)
+	at com.sun.jna.Structure.<init>(Structure.java:191)
+	at com.sun.jna.Structure.<init>(Structure.java:183)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:126)
+	at com.sun.jna.platform.win32.Guid$GUID.fromString(Guid.java:257)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:150)
+	at com.sun.jna.platform.win32.Guid$CLSID.<init>(Guid.java:460)
+	at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:16)
+	at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:42)
+	at elz.<init>(SourceFile:17)
+	at emh.<init>(SourceFile:647)
+	at net.minecraft.client.main.Main.main(SourceFile:198)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at com.sun.jna.Structure.setAlignType(Structure.java:291)
+	at com.sun.jna.Structure.<init>(Structure.java:208)
+	at com.sun.jna.Structure.<init>(Structure.java:204)
+	at com.sun.jna.Structure.<init>(Structure.java:191)
+	at com.sun.jna.Structure.<init>(Structure.java:183)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:126)
+	at com.sun.jna.platform.win32.Guid$GUID.fromString(Guid.java:257)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:150)
+	at com.sun.jna.platform.win32.Guid$CLSID.<init>(Guid.java:460)
+	at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:16)
+	at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:42)
+	at elz.<init>(SourceFile:17)
+	at emh.<init>(SourceFile:647)
+
+-- Initialization --
+Details:
+	Modules: ~~ERROR~~ NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+Stacktrace:
+	at net.minecraft.client.main.Main.main(SourceFile:198)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.4
+	Minecraft Version ID: 1.19.4
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.2, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 238911296 bytes (227 MiB) / 381681664 bytes (364 MiB) up to 5582618624 bytes (5324 MiB)
+	CPUs: 16
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx5324m
+	Launched Version: 1.19.4
+	Backend library: LWJGL version 3.3.1 build 7
+	Backend API: NVIDIA GeForce RTX 3050 Ti Laptop GPU/PCIe/SSE2 GL version 3.2.0 NVIDIA 531.41, NVIDIA Corporation
+	Window size: <not initialized>
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Probably not. Client jar signature and brand is untouched
+	Type: Client (map_client.txt)
+	CPU: <unknown>
+#@!@# Game crashed! Crash report saved to: #@!@# C:\Users\锟斤拷锟斤拷\AppData\Roaming\.minecraft\crash-reports\crash-2023-05-02_19.30.39-client.txt
+[19:30:41.506] [Crash] 姝ラ 1锛氭敹闆嗘棩蹇楁枃浠跺畬鎴愶紝鏀堕泦鍒? 4 涓枃浠?
+[19:30:41.510] [Crash] 姝ラ 2锛氬噯澶囨棩蹇楁枃鏈?
+[19:30:41.511] [Crash] crash-2023-05-02_19.27.51-client.txt 鍒嗙被涓? CrashReport
+[19:30:41.511] [Crash] crash-2023-05-02_19.30.39-client.txt 鍒嗙被涓? CrashReport
+[19:30:41.511] [Crash] latest.log 鍒嗙被涓? MinecraftLog
+[19:30:41.511] [Crash] RawOutput.log 鍒嗙被涓? MinecraftLog
+[19:30:41.512] [Crash] 杈撳嚭鎶ュ憡锛欳:\Users\娲嬫磱\AppData\Roaming\.minecraft\logs\latest.log锛屼綔涓? Minecraft 鎴栧惎鍔ㄥ櫒鏃ュ織
+[19:30:41.512] [Crash] 杈撳嚭鎶ュ憡锛欳:\Users\娲嬫磱\AppData\Local\Temp\PCL\CrashAnalyzer\1320461146043\RawOutput.log锛屼綔涓? Minecraft 鎴栧惎鍔ㄥ櫒鏃ュ織
+[19:30:41.512] [Crash] 瀵煎叆鍒嗘瀽锛欳:\Users\娲嬫磱\AppData\Local\Temp\PCL\CrashAnalyzer\1320461146043\RawOutput.log锛屼綔涓哄惎鍔ㄥ櫒鏃ュ織
+[19:30:41.512] [Crash] 瀵煎叆鍒嗘瀽锛欳:\Users\娲嬫磱\AppData\Roaming\.minecraft\logs\latest.log锛屼綔涓? Minecraft 鏃ュ織
+[19:30:41.515] [Crash] 杈撳嚭鎶ュ憡锛欳:\Users\娲嬫磱\AppData\Roaming\.minecraft\crash-reports\crash-2023-05-02_19.30.39-client.txt锛屼綔涓? Minecraft 宕╂簝鎶ュ憡
+[19:30:41.515] [Crash] 瀵煎叆鍒嗘瀽锛欳:\Users\娲嬫磱\AppData\Roaming\.minecraft\crash-reports\crash-2023-05-02_19.30.39-client.txt锛屼綔涓? Minecraft 宕╂簝鎶ュ憡
+[19:30:41.515] [Crash] 姝ラ 2锛氬噯澶囨棩蹇楁枃鏈畬鎴愶紝鎵惧埌娓告垙鏃ュ織銆佸穿婧冩棩蹇楃敤浣滃垎鏋?
+[19:30:41.516] [Crash] 姝ラ 3锛氬垎鏋愬穿婧冨師鍥?
+[19:30:41.521] [Crash] 鍙兘骞舵湭瀹夎 Mod锛屼笉杩涜鍫嗘爤鍒嗘瀽
+[19:30:41.522] [Crash] 姝ラ 3锛氬垎鏋愬穿婧冨師鍥犲畬鎴愶紝鏈壘鍒板彲鑳界殑鍘熷洜
+[19:30:41.534] [System] 绐楀彛宸茬疆椤讹紝浣嶇疆锛?(512, 243), 896 x 554
+[19:30:41.569] [Control] 鏅?氬脊绐楋細Minecraft 鍑虹幇閿欒
+寰堟姳姝夛紝浣犵殑娓告垙鍑虹幇浜嗕竴浜涢棶棰樷?︹??
+濡傛灉瑕佸姹傚府鍔╋紝璇峰悜浠栦汉鍙戦?侀敊璇姤鍛婃枃浠讹紝鑰屼笉鏄彂閫佽繖涓獥鍙ｇ殑鎴浘銆?
+浣犱篃鍙互鏌ョ湅閿欒鎶ュ憡锛屽叾涓彲鑳戒細鏈夊嚭閿欑殑鍘熷洜銆?
+[19:30:49.156] [Control] 鎸変笅鎸夐挳锛氬鍑洪敊璇姤鍛?
+[19:30:49.157] [Control] 鏅?氬脊妗嗚繑鍥烇細3
+[19:30:52.572] [UI] 閫夋嫨鏂囦欢杩斿洖锛欴:\妗岄潰\鏂板缓鏂囦欢澶? (2)\WeChat Files\閿欒鎶ュ憡-2023-5-2_19.30.49.zip
+[19:30:52.643] [System] 璇婃柇淇℃伅锛?
+鎿嶄綔绯荤粺锛歁icrosoft Windows 10 瀹跺涵涓枃鐗?
+鍓╀綑鍐呭瓨锛?9643 M / 16219 M
+DPI锛?96锛?100%锛?
+MC 鏂囦欢澶癸細C:\Users\娲嬫磱\AppData\Roaming\.minecraft\
+鏂囦欢浣嶇疆锛欴:\妗岄潰\鏂板缓鏂囦欢澶筡

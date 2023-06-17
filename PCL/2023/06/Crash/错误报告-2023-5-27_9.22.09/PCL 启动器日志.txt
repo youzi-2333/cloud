@@ -1,0 +1,1385 @@
+[09:19:17.596] [Start] 程序版本：Release 2.5.2（286）
+[09:19:17.596] [Start] 识别码：9157-EEB6-F650-5EB5
+[09:19:17.596] [Start] 程序路径：D:\万里生存服整合包\Plain Craft Launcher 2.exe
+[09:19:17.596] [Start] 第一阶段加载用时：46 ms
+[09:19:17.705] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[09:19:17.705] [Start] 第二阶段加载用时：110 ms
+[09:19:17.736] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[09:19:17.853] [UI] 加载背景图片：D:\万里生存服整合包\PCL\Pictures\273.jpg
+[09:19:17.932] [System] 窗口已置顶，位置：(533, 280), 854 x 473
+[09:19:17.938] [Start] 第三阶段加载用时：94 ms
+[09:19:17.938] [Animation] 动画线程开始
+[09:19:17.939] [Start] 加载 DLL：Json
+[09:19:17.939] [System] 获取资源：Json
+[09:19:17.947] [Launch] Minecraft 文件夹：D:\万里生存服整合包\.minecraft\
+[09:19:17.980] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[09:19:18.042] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[09:19:18.042] [Skin] 载入头像成功：Loader Skin Ms
+[09:19:18.136] [Java] 缓存中有 6 个可用的 Java
+[09:19:18.199] [Minecraft] 启动按钮：Minecraft 版本：D:\万里生存服整合包\.minecraft\versions\1.16.5-Forge_36.2.34-OptiFine_G8\
+[09:19:18.199] [Loader] 加载器 登录 状态改变：Loading
+[09:19:18.199] [Launch] 登录加载已开始
+[09:19:18.199] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[09:19:18.214] [Launch] 登录方式：微软正版（Sarpore_Guiwow）
+[09:19:18.214] [Launch] 开始微软登录步骤 2（刷新登录）
+[09:19:18.214] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[09:19:18.339] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[09:19:18.339] [Loader] 加载器 PCL 服务 状态改变：Loading
+[09:19:18.339] [Server] 正在连接到 PCL 服务器
+[09:19:18.339] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[09:19:18.339] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1685150358-53f00b08-0-dfba8048eb6dab26450063a2ede9dcb3，最大超时 10000
+[09:19:18.464] [Server] 服务器公告：107|291|293|5，无需更新
+[09:19:18.480] [Server] 重要等级 0，更新公告 True
+[09:19:18.480] [System] 更新已开始，静默：True
+[09:19:18.480] [Loader] 加载器 PCL 服务 状态改变：Finished
+[09:19:18.495] [Loader] 加载器 启动器更新 状态改变：Loading
+[09:19:18.495] [Loader] 加载器 下载更新文件 状态改变：Loading
+[09:19:18.527] [Download] Update.zip 86#：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/update/PubliT.zip?sign=1685150358-50458807-0-254e0c44ef5cf52f72f1573ed92e4259
+[09:19:18.589] [Download] Update.zip：文件大小 2016670 B（1.92 M）
+[09:19:18.652] [System] DPI：96，系统版本：10.0.22621.0，PCL 位置：D:\万里生存服整合包\Plain Craft Launcher 2.exe
+[09:19:18.808] [Control] 按下单选按钮：下载
+[09:19:18.886] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[09:19:18.917] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[09:19:18.917] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[09:19:18.917] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
+[09:19:18.917] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，最大超时 10000
+[09:19:18.917] [Control] 切换主要页面：Download, -1
+[09:19:18.964] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[09:19:18.964] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[09:19:18.964] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[09:19:18.964] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[09:19:18.980] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[09:19:18.980] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，最大超时 10000
+[09:19:18.980] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[09:19:18.980] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，最大超时 10000
+[09:19:18.980] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，最大超时 10000
+[09:19:18.980] [Download] 刷新 Forge 推荐版本缓存开始
+[09:19:18.980] [Loader] 加载器 源码获取 156# 状态改变：Loading
+[09:19:19.011] [Download] -1798645995_155 166#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[09:19:19.073] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[09:19:19.089] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[09:19:19.089] [Loader] 加载器 DlClientList Bmclapi 状态改变：Finished
+[09:19:19.167] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[09:19:19.183] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[09:19:19.198] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[09:19:19.261] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[09:19:19.276] [Download] -1798645995_155：文件大小 45318 B（44.3 K）
+[09:19:19.292] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[09:19:19.308] [Download] -1798645995_155：已完成，剩余文件 1
+[09:19:19.323] [Loader] 加载器 源码获取 156# 状态改变：Finished
+[09:19:19.339] [Download] 刷新 Forge 推荐版本缓存成功
+[09:19:19.386] [Launch] 开始微软登录步骤 3
+[09:19:19.386] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[09:19:19.652] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[09:19:20.166] [Launch] 开始微软登录步骤 4
+[09:19:20.166] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:19:20.433] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:19:20.949] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:19:21.078] [Download] Update.zip：已完成，剩余文件 0
+[09:19:21.078] [Loader] 加载器 下载更新文件 状态改变：Finished
+[09:19:21.078] [Loader] 加载器 安装更新 状态改变：Loading
+[09:19:21.078] [System] 无需清理目标更新文件：D:\万里生存服整合包\PCL\Plain Craft Launcher 2.exe
+[09:19:21.141] [System] 更新文件解压完成
+[09:19:21.156] [Loader] 加载器 安装更新 状态改变：Finished
+[09:19:21.156] [Loader] 加载器 启动器更新 状态改变：Finished
+[09:19:21.406] [Loader] 加载器 DlForgeVersion 1.19.4 状态改变：Loading
+[09:19:21.422] [Loader] 加载器 Fabric API List Loader 状态改变：Loading
+[09:19:21.422] [Loader] 加载器 OptiFabric List Loader 状态改变：Loading
+[09:19:21.422] [Control] 按下单击列表项：1.19.4
+[09:19:21.422] [Loader] 加载器 DlForgeVersion Bmclapi 状态改变：Loading
+[09:19:21.422] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/forge/minecraft/1.19.4，最大超时 10000
+[09:19:21.422] [Net] 获取网络结果：https://api.modrinth.com/v2/project/fabric-api，最大超时 10000
+[09:19:21.422] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/322385，最大超时 10000
+[09:19:21.594] [Loader] 加载器 DlForgeVersion Bmclapi 状态改变：Finished
+[09:19:21.609] [Loader] 加载器 DlForgeVersion 1.19.4 状态改变：Finished
+[09:19:21.703] [Launch] 开始微软登录步骤 5
+[09:19:21.703] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[09:19:21.812] [Comp] 开始获取文件列表：322385
+[09:19:21.812] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[09:19:21.964] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[09:19:22.422] [Comp] 开始获取文件列表：fabric-api
+[09:19:22.422] [Net] 获取网络结果：https://api.modrinth.com/v2/project/fabric-api/version，最大超时 10000
+[09:19:22.468] [Launch] 开始微软登录步骤 6
+[09:19:22.468] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[09:19:22.734] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[09:19:23.140] [Loader] 加载器 OptiFabric List Loader 状态改变：Finished
+[09:19:23.250] [Launch] 微软登录完成
+[09:19:23.250] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[09:19:23.250] [Control] 展开卡片：OptiFine
+[09:19:23.265] [Launch] 登录加载已结束
+[09:19:23.265] [Loader] 加载器 登录 状态改变：Finished
+[09:19:23.812] [Control] 折叠卡片：OptiFine
+[09:19:24.234] [Loader] 加载器 Fabric API List Loader 状态改变：Finished
+[09:19:24.968] [Control] 展开卡片：Fabric
+[09:19:26.436] [Download] 已自动选择 Fabric API：0.82.0
+[09:19:26.452] [Control] 按下单击列表项：0.14.21
+[09:19:29.183] [Control] 展开卡片：OptiFine
+[09:19:29.910] [Control] 按下单击列表项：1.19.4 I4
+[09:19:33.081] [Control] 展开卡片：OptiFabric
+[09:19:33.659] [Control] 按下单击列表项：1.13.24
+[09:19:35.416] [Control] 按下按钮：开始安装
+[09:19:35.965] [Download] 已清理合并安装缓存
+[09:19:35.965] [Download] OptiFine 将作为 Mod 进行下载
+[09:19:35.980] [Setup] 版本隔离使用全局设置：1.19.4-Fabric 0.14.21-OptiFine_I4
+[09:19:35.980] [Download] OptiFine 缓存：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\mods\
+[09:19:35.980] [Download] Fabric 缓存：C:\Users\40877\AppData\Local\Temp\PCL\Install\2021483434\versions\fabric-loader-0.14.21-1.19.4
+[09:19:35.980] [Download] 对应的原版版本：1.19.4
+[09:19:35.980] [Loader] 加载器 1.19.4-Fabric 0.14.21-OptiFine_I4 安装 状态改变：Loading
+[09:19:35.980] [Loader] 加载器 下载 Fabric API 状态改变：Loading
+[09:19:35.980] [Loader] 加载器 下载 OptiFabric 状态改变：Loading
+[09:19:35.980] [Loader] 加载器 下载原版 1.19.4 状态改变：Loading
+[09:19:35.980] [Loader] 加载器 下载原版 json 文件 状态改变：Loading
+[09:19:35.980] [Loader] 加载器 下载 OptiFine 1.19.4 I4 状态改变：Loading
+[09:19:35.996] [Loader] 加载器 获取 OptiFine 下载地址 状态改变：Loading
+[09:19:35.996] [Loader] 加载器 下载 Fabric 0.14.21 状态改变：Loading
+[09:19:35.996] [Loader] 加载器 获取 Fabric 主文件下载地址 状态改变：Loading
+[09:19:35.996] [Setup] 版本隔离使用全局设置：fabric-loader-0.14.21-1.19.4
+[09:19:35.996] [Loader] 加载器 获取 Fabric 主文件下载地址 状态改变：Finished
+[09:19:35.996] [Loader] 加载器 下载 Fabric 主文件 状态改变：Loading
+[09:19:35.996] [Net] 获取客户端网络结果：https://optifine.net/adloadx?f=OptiFine_1.19.4_HD_U_I4.jar，最大超时 15000
+[09:19:36.012] [Animation] 两个动画帧间隔 578 ms
+[09:19:36.074] [Download] optifabric-1.13.24.jar 958#：开始，起始点 0，https://media.forgecdn.net/files/4455/920/optifabric-1.13.24.jar
+[09:19:36.074] [Download] 1.19.4-Fabric 0.14.21-OptiFine_I4.json 959#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/bfb68117d7bcd8e3aa7ce80e827fb27d2ff3161a/1.19.4.json
+[09:19:36.074] [Download] fabric-api-0.82.0+1.19.4.jar 960#：开始，起始点 0，https://cdn.modrinth.com/data/P7dR8mSH/versions/B7GygbYq/fabric-api-0.82.0%2B1.19.4.jar
+[09:19:36.200] [Download] fabric-loader-0.14.21-1.19.4.json 961#：开始，起始点 0，https://download.mcbbs.net/fabric-meta/v2/versions/loader/1.19.4/0.14.21/profile/json
+[09:19:36.371] [Download] fabric-loader-0.14.21-1.19.4.json 961#：出错，远程服务器返回错误: (404) 未找到。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[09:19:36.371] [Download] fabric-loader-0.14.21-1.19.4.json 952#：下载源被禁用（0）：https://download.mcbbs.net/fabric-meta/v2/versions/loader/1.19.4/0.14.21/profile/json
+[09:19:36.387] 下载源 0 已被禁用：远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[09:19:36.387] [Download] optifabric-1.13.24.jar：文件大小 480065 B（469 K）
+[09:19:36.449] [Download] fabric-loader-0.14.21-1.19.4.json 963#：开始，起始点 0，https://meta.fabricmc.net/v2/versions/loader/1.19.4/0.14.21/profile/json
+[09:19:36.481] [Download] 1.19.4-Fabric 0.14.21-OptiFine_I4.json：文件大小 34407 B（33.6 K）
+[09:19:36.496] [Download] 1.19.4-Fabric 0.14.21-OptiFine_I4.json：已完成，剩余文件 3
+[09:19:36.496] [Loader] 加载器 下载原版 json 文件 状态改变：Finished
+[09:19:36.496] [Loader] 加载器 下载原版支持库文件 状态改变：Loading
+[09:19:36.496] [Loader] 加载器 分析原版支持库文件（副加载器） 状态改变：Loading
+[09:19:36.496] [Loader] 加载器 下载原版资源文件 状态改变：Loading
+[09:19:36.496] [Loader] 加载器 分析资源文件索引地址（副加载器） 状态改变：Loading
+[09:19:36.496] [Download] 开始分析原版支持库文件：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\
+[09:19:36.496] [Download] 版本 1.19.4-Fabric 0.14.21-OptiFine_I4 对应的资源文件索引为 3
+[09:19:36.512] [Loader] 加载器 分析资源文件索引地址（副加载器） 状态改变：Finished
+[09:19:36.512] [Loader] 加载器 下载资源文件索引（副加载器） 状态改变：Loading
+[09:19:36.512] [Minecraft] 无法完全确认 MC 版本号的版本：1.19.4-Fabric 0.14.21-OptiFine_I4
+[09:19:36.574] [Download] 3.json 969#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/50022b5d86a5ddfa8b53712abd05aad9f9039503/3.json
+[09:19:36.574] [Minecraft] 获取支持库列表：1.19.4-Fabric 0.14.21-OptiFine_I4
+[09:19:36.653] [Download] 3.json：文件大小 409894 B（400 K）
+[09:19:36.887] [Download] optifabric-1.13.24.jar：已完成，剩余文件 3
+[09:19:36.887] [Loader] 加载器 下载 OptiFabric 状态改变：Finished
+[09:19:37.059] [Download] OptiFine 1.19.4 I4 官方下载地址：https://download.mcbbs.net/optifine/1.19.4/HD_U/I4
+[09:19:37.059] [Loader] 加载器 获取 OptiFine 下载地址 状态改变：Finished
+[09:19:37.059] [Loader] 加载器 下载 OptiFine 主文件 状态改变：Loading
+[09:19:37.199] [Download] 3.json：已完成，剩余文件 3
+[09:19:37.199] [Loader] 加载器 下载资源文件索引（副加载器） 状态改变：Finished
+[09:19:37.199] [Loader] 加载器 分析所需资源文件（副加载器） 状态改变：Loading
+[09:19:37.324] [Download] OptiFine_1.19.4_HD_U_I4.jar 1002#：开始，起始点 0，https://download.mcbbs.net/optifine/1.19.4/HD_U/I4
+[09:19:37.418] [Download] OptiFine_1.19.4_HD_U_I4.jar：文件大小 7049104 B（6.72 M）
+[09:19:37.933] [Download] 速度下限已提升到 2.55 M
+[09:19:38.105] [Download] 速度下限已提升到 4.82 M
+[09:19:38.168] [Control] 按下附加按钮：下载管理
+[09:19:38.183] [Control] 切换主要页面：DownloadManager, 0
+[09:19:38.277] [Download] 速度下限已提升到 5.7 M
+[09:19:38.527] [Download] OptiFine_1.19.4_HD_U_I4.jar：已完成，剩余文件 2
+[09:19:38.527] [Loader] 加载器 下载 OptiFine 主文件 状态改变：Finished
+[09:19:38.527] [Loader] 加载器 下载 OptiFine 1.19.4 I4 状态改变：Finished
+[09:19:38.590] [Download] fabric-api-0.82.0+1.19.4.jar：文件大小 1986952 B（1.89 M）
+[09:19:38.652] [Download] fabric-loader-0.14.21-1.19.4.json：文件大小 1183 B（1.16 K）
+[09:19:38.652] [Download] fabric-loader-0.14.21-1.19.4.json：已完成，剩余文件 1
+[09:19:38.652] [Loader] 加载器 下载 Fabric 主文件 状态改变：Finished
+[09:19:38.652] [Loader] 加载器 下载 Fabric 0.14.21 状态改变：Finished
+[09:19:41.859] [Download] fabric-api-0.82.0+1.19.4.jar：已完成，剩余文件 0
+[09:19:41.859] [Loader] 加载器 下载 Fabric API 状态改变：Finished
+[09:19:44.253] [Loader] 加载器 分析原版支持库文件（副加载器） 状态改变：Finished
+[09:19:44.253] [Loader] 加载器 下载原版支持库文件（副加载器） 状态改变：Loading
+[09:19:44.317] [Download] 1.19.4-Fabric 0.14.21-OptiFine_I4.jar 1180#：开始，起始点 0，https://piston-data.mojang.com/v1/objects/958928a560c9167687bea0cefeb7375da1e552a8/client.jar
+[09:19:44.663] [Download] 1.19.4-Fabric 0.14.21-OptiFine_I4.jar：文件大小 23476620 B（22.4 M）
+[09:19:49.271] [Download] 速度下限已提升到 5.87 M
+[09:19:49.964] [Download] 速度下限已提升到 6.74 M
+[09:19:52.475] [Download] 1.19.4-Fabric 0.14.21-OptiFine_I4.jar：已完成，剩余文件 0
+[09:19:52.475] [Loader] 加载器 下载原版支持库文件（副加载器） 状态改变：Finished
+[09:19:52.475] [Loader] 加载器 下载原版支持库文件 状态改变：Finished
+[09:19:54.848] [Control] 按下图标按钮：BtnTitleInner
+[09:19:54.848] [Control] 切换主要页面：Download, -1
+[09:19:56.013] [Control] 按下单选按钮：启动
+[09:19:56.013] [Control] 切换主要页面：Launch, -1
+[09:19:57.184] [Control] 按下按钮：版本设置
+[09:19:57.387] [Control] 切换主要页面：VersionSetup, 0
+[09:19:57.403] [Animation] 两个动画帧间隔 203 ms
+[09:19:58.625] [Control] 按下图标按钮：BtnTitleInner
+[09:19:58.625] [Control] 切换主要页面：Launch, -1
+[09:19:59.343] [Control] 按下单选按钮：下载
+[09:19:59.343] [Control] 切换主要页面：Download, -1
+[09:20:00.796] [Control] 按下单选列表项：Mod
+[09:20:00.812] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[09:20:00.827] [Comp] 工程列表搜索原始文本：
+[09:20:00.827] [Comp] 工程列表搜索最终文本：
+[09:20:00.827] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0
+[09:20:00.827] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0，最大超时 10000
+[09:20:00.827] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]
+[09:20:00.827] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]，最大超时 10000
+[09:20:01.405] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 43071 个）
+[09:20:01.637] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 9110 个）
+[09:20:01.644] [System] 获取资源：ModData
+[09:20:01.665] [Comp] 将 Cloth Config API (cloth-config) 与 Cloth Config API (Fabric/Forge) (cloth-config) 认定为相似工程
+[09:20:01.667] [Comp] 去重后累计新增结果 79 个
+[09:20:01.683] [Comp] 开始可视化 Mod 列表，已储藏 79 个结果，当前在第 1 页
+[09:20:01.894] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[09:20:05.378] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[09:20:05.379] [Comp] 工程列表搜索原始文本：物理掉落
+[09:20:05.617] [Comp] 中文搜索原始关键词：itemphysic itemphysic itemphysic itemphysic lite itemphysic lite itemphysic 
+[09:20:05.617] [Comp] 中文搜索最终关键词：itemphysic itemphysic itemphysic itemphysic lite itemphysic lite itemphysic  
+[09:20:05.617] [Comp] 工程列表搜索最终文本：itemphysic lite
+[09:20:05.617] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=itemphysic+lite
+[09:20:05.617] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=itemphysic+lite，最大超时 10000
+[09:20:05.618] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=itemphysic+lite&facets=[["project_type:mod"]]
+[09:20:05.618] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=itemphysic+lite&facets=[["project_type:mod"]]，最大超时 10000
+[09:20:06.277] [Comp] 从 CurseForge 获取到了 26 个工程（已获取 26 个，共 26 个）
+[09:20:06.372] [Comp] 从 Modrinth 获取到了 2 个工程（已获取 2 个，共 2 个）
+[09:20:06.373] [Comp] 去重后累计新增结果 28 个
+[09:20:06.373] [Comp] 总结果数需求最少 40 个，仅获得了 28 个
+[09:20:06.373] [Comp] 无法继续加载，将强制结束
+[09:20:06.394] [Comp] 开始可视化 Mod 列表，已储藏 28 个结果，当前在第 1 页
+[09:20:06.406] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/87/478/64/64/636216263684584171.png
+[09:20:06.406] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/103/313/64/64/636337267977446572.png
+[09:20:06.409] [Net] 直接下载文件：https://cdn.modrinth.com/data/aT8BzaOj/2a66100b7f1b2c5aecee56db6685b2dc1e03b598.png
+[09:20:06.411] [Net] 直接下载文件：https://cdn.modrinth.com/data/OuyCgP8t/2a66100b7f1b2c5aecee56db6685b2dc1e03b598.png
+[09:20:06.416] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/349/249/64/64/637500986810296586.png
+[09:20:06.418] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/324/938/64/64/637441650435559273.png
+[09:20:06.420] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/375/916/64/64/637551551118764952.png
+[09:20:06.423] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/432/985/64/64/637671149874080057.png
+[09:20:06.425] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/394/288/64/64/637591104435922186.png
+[09:20:06.427] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/338/527/64/64/637477538567804704.png
+[09:20:06.429] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/380/286/64/64/637561800443006950.png
+[09:20:06.431] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/391/558/64/64/637584523974239384.png
+[09:20:06.433] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/541/194/64/64/637868212351578891.png
+[09:20:06.434] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/15/793/64/64/635633952426322253.png
+[09:20:06.436] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/294/312/64/64/637332785051152799.png
+[09:20:06.438] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/210/840/64/64/636989291616236375.png
+[09:20:06.440] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/14/694/64/64/635602867428421614.png
+[09:20:06.442] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/3/199/64/64/635351422276918679.png
+[09:20:06.443] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/137/378/64/64/636514550267374990.jpeg
+[09:20:06.446] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/635/458/64/64/638037180978490364.png
+[09:20:06.448] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/753/430/64/64/638092204817281854.png
+[09:20:06.450] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/544/128/64/64/637875510197871170.png
+[09:20:06.452] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/641/828/64/64/638044458792328308.png
+[09:20:06.453] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/410/208/64/64/637626464215445469.png
+[09:20:06.456] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/546/730/64/64/637882240988850427.png
+[09:20:06.458] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/634/423/64/64/638034716130841779.png
+[09:20:06.468] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/644/430/64/64/638045583072039273.jpeg
+[09:20:06.470] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/805/819/64/64/638173025695175024.png
+[09:20:06.490] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[09:20:08.404] [Loader] 加载器 Comp File 状态改变：Loading
+[09:20:08.404] [Comp] 开始获取文件列表：258587
+[09:20:08.404] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[09:20:08.405] [Control] 切换主要页面：CompDetail, 0
+[09:20:08.405] [Control] 按下资源工程列表项：物品物理掉落
+[09:20:09.015] [Loader] 加载器 Comp File 状态改变：Finished
+[09:20:11.191] [Control] 展开卡片：1.19.4
+[09:20:18.205] [Control] 折叠卡片：1.19.4
+[09:20:19.780] [Control] 按下图标按钮：BtnTitleInner
+[09:20:19.781] [Control] 切换主要页面：Download, -1
+[09:20:27.909] [Control] 按下单选按钮：启动
+[09:20:27.909] [Control] 切换主要页面：Launch, -1
+[09:20:29.659] [Control] 按下附加按钮：下载管理
+[09:20:29.659] [Control] 切换主要页面：DownloadManager, 0
+[09:20:35.055] [Loader] 加载器 分析所需资源文件（副加载器） 状态改变：Finished
+[09:20:35.071] [Loader] 加载器 下载资源文件（副加载器） 状态改变：Loading
+[09:20:35.165] [Download] babd29449f60b0e48bcb8933a221f13bc9b8c283 2130#：开始，起始点 0，https://download.mcbbs.net/assets/ba/babd29449f60b0e48bcb8933a221f13bc9b8c283
+[09:20:35.165] [Download] 081c3d9c6de55e8d08dc787685027f0ef3d1cb9b 2129#：开始，起始点 0，https://download.mcbbs.net/assets/08/081c3d9c6de55e8d08dc787685027f0ef3d1cb9b
+[09:20:35.165] [Download] dac192cf4d7f7e37845a875c8c1b0e98193d7a54 2131#：开始，起始点 0，https://download.mcbbs.net/assets/da/dac192cf4d7f7e37845a875c8c1b0e98193d7a54
+[09:20:35.180] [Download] dac192cf4d7f7e37845a875c8c1b0e98193d7a54：文件大小 511403 B（499 K）
+[09:20:35.227] [Download] babd29449f60b0e48bcb8933a221f13bc9b8c283：文件大小 408916 B（399 K）
+[09:20:35.258] [Download] 081c3d9c6de55e8d08dc787685027f0ef3d1cb9b：文件大小 607489 B（593 K）
+[09:20:35.289] [Download] 834c596e45d63cb8897e0be38160b7541341e8f5 2133#：开始，起始点 0，https://download.mcbbs.net/assets/83/834c596e45d63cb8897e0be38160b7541341e8f5
+[09:20:35.289] [Download] 678511c657fcbae5d5a4459163cf0596d63dd7ca 2132#：开始，起始点 0，https://download.mcbbs.net/assets/67/678511c657fcbae5d5a4459163cf0596d63dd7ca
+[09:20:35.289] [Download] bb648fb95c526cec374920fe99b1b3829ed97234 2135#：开始，起始点 0，https://download.mcbbs.net/assets/bb/bb648fb95c526cec374920fe99b1b3829ed97234
+[09:20:35.289] [Download] ce06b3871256fd5c2e3c08a012eb047b80634ef3 2136#：开始，起始点 0，https://download.mcbbs.net/assets/ce/ce06b3871256fd5c2e3c08a012eb047b80634ef3
+[09:20:35.289] [Download] eed15e8b32c2cc6975d724fd2bf71c9ae47742e8 2134#：开始，起始点 0，https://download.mcbbs.net/assets/ee/eed15e8b32c2cc6975d724fd2bf71c9ae47742e8
+[09:20:35.289] [Download] 8cc711dc990c2b89f15e0a793a5d6a03309208b9 2137#：开始，起始点 0，https://download.mcbbs.net/assets/8c/8cc711dc990c2b89f15e0a793a5d6a03309208b9
+[09:20:35.289] [Download] 952a8f2eaee05a60375e2840505781e09f84796e 2138#：开始，起始点 0，https://download.mcbbs.net/assets/95/952a8f2eaee05a60375e2840505781e09f84796e
+[09:20:35.289] [Download] 7654aab834e610007448eee90ba12ccfb099eac2 2139#：开始，起始点 0，https://download.mcbbs.net/assets/76/7654aab834e610007448eee90ba12ccfb099eac2
+[09:20:35.289] [Download] 5b4e0cd629d84fa79de98d30b932906117b638a6 2140#：开始，起始点 0，https://download.mcbbs.net/assets/5b/5b4e0cd629d84fa79de98d30b932906117b638a6
+[09:20:35.336] [Download] dac192cf4d7f7e37845a875c8c1b0e98193d7a54：已完成，剩余文件 123
+[09:20:35.368] [Download] 834c596e45d63cb8897e0be38160b7541341e8f5：文件大小 484783 B（473 K）
+[09:20:35.383] [Download] ce06b3871256fd5c2e3c08a012eb047b80634ef3：文件大小 413434 B（404 K）
+[09:20:35.383] [Download] babd29449f60b0e48bcb8933a221f13bc9b8c283：已完成，剩余文件 122
+[09:20:35.383] [Download] bb648fb95c526cec374920fe99b1b3829ed97234：文件大小 408327 B（399 K）
+[09:20:35.399] [Download] 7654aab834e610007448eee90ba12ccfb099eac2：文件大小 419906 B（410 K）
+[09:20:35.399] [Download] 8cc711dc990c2b89f15e0a793a5d6a03309208b9：文件大小 638092 B（623 K）
+[09:20:35.414] [Download] 054ab77747414297865c48e274e3b74b758719e8 2141#：开始，起始点 0，https://download.mcbbs.net/assets/05/054ab77747414297865c48e274e3b74b758719e8
+[09:20:35.414] [Download] 1fdbd3678211a46737dc906c67524b2286b083e8 2142#：开始，起始点 0，https://download.mcbbs.net/assets/1f/1fdbd3678211a46737dc906c67524b2286b083e8
+[09:20:35.414] [Download] 9dc8c9413a6d45eeb316611c49e28e94a8e2eebb 2144#：开始，起始点 0，https://download.mcbbs.net/assets/9d/9dc8c9413a6d45eeb316611c49e28e94a8e2eebb
+[09:20:35.414] [Download] aa07c38a1debb93a9f277a9dc43d764b8ac9b2fa 2145#：开始，起始点 0，https://download.mcbbs.net/assets/aa/aa07c38a1debb93a9f277a9dc43d764b8ac9b2fa
+[09:20:35.414] [Download] 700788fad2fb1b6fc482260a30696c6792ba317d 2143#：开始，起始点 0，https://download.mcbbs.net/assets/70/700788fad2fb1b6fc482260a30696c6792ba317d
+[09:20:35.414] [Download] f11bf6408d7b6aeea658e854c4bf499631651f78 2146#：开始，起始点 0，https://download.mcbbs.net/assets/f1/f11bf6408d7b6aeea658e854c4bf499631651f78
+[09:20:35.414] [Download] 1f4defde11fe7450fdee31aecc6e24c7848d14f0 2147#：开始，起始点 0，https://download.mcbbs.net/assets/1f/1f4defde11fe7450fdee31aecc6e24c7848d14f0
+[09:20:35.414] [Download] a9c9d4566a585cb01354ca1d0bc4c2c01601996f 2148#：开始，起始点 0，https://download.mcbbs.net/assets/a9/a9c9d4566a585cb01354ca1d0bc4c2c01601996f
+[09:20:35.414] [Download] 7d95e04b962ac698cd963fe5ad2349ce75fcbf84 2149#：开始，起始点 0，https://download.mcbbs.net/assets/7d/7d95e04b962ac698cd963fe5ad2349ce75fcbf84
+[09:20:35.414] [Download] 952a8f2eaee05a60375e2840505781e09f84796e：文件大小 525612 B（513 K）
+[09:20:35.414] [Download] 5b4e0cd629d84fa79de98d30b932906117b638a6：文件大小 466956 B（456 K）
+[09:20:35.414] [Download] eed15e8b32c2cc6975d724fd2bf71c9ae47742e8：文件大小 421598 B（412 K）
+[09:20:35.430] [Download] 678511c657fcbae5d5a4459163cf0596d63dd7ca：文件大小 409721 B（400 K）
+[09:20:35.477] [Download] aa07c38a1debb93a9f277a9dc43d764b8ac9b2fa：文件大小 527510 B（515 K）
+[09:20:35.493] [Download] 1fdbd3678211a46737dc906c67524b2286b083e8：文件大小 431869 B（422 K）
+[09:20:35.539] [Download] b875389ed9f9d66243d92d17359dcfe6c8ef0fba 2151#：开始，起始点 0，https://download.mcbbs.net/assets/b8/b875389ed9f9d66243d92d17359dcfe6c8ef0fba
+[09:20:35.539] [Download] d80e711c240108bd9440b7a3903020d61d7b71be 2150#：开始，起始点 0，https://download.mcbbs.net/assets/d8/d80e711c240108bd9440b7a3903020d61d7b71be
+[09:20:35.539] [Download] 4ca9a87b9ffc855c10d6ab648d0b90c8c571e0c8 2152#：开始，起始点 0，https://download.mcbbs.net/assets/4c/4ca9a87b9ffc855c10d6ab648d0b90c8c571e0c8
+[09:20:35.539] [Download] b8357e98c8f6704b21d2b063cd287d35cdb311f4 2153#：开始，起始点 0，https://download.mcbbs.net/assets/b8/b8357e98c8f6704b21d2b063cd287d35cdb311f4
+[09:20:35.539] [Download] 8c0eeae756c6898935b66c0b89918312fd07c0d7 2154#：开始，起始点 0，https://download.mcbbs.net/assets/8c/8c0eeae756c6898935b66c0b89918312fd07c0d7
+[09:20:35.539] [Download] 58361beb4d8b924e4e14faa0f384cb3fa0c6e8ec 2155#：开始，起始点 0，https://download.mcbbs.net/assets/58/58361beb4d8b924e4e14faa0f384cb3fa0c6e8ec
+[09:20:35.539] [Download] 51447d648d9d1f62cebcb4a8061130e45433b6f4 2157#：开始，起始点 0，https://download.mcbbs.net/assets/51/51447d648d9d1f62cebcb4a8061130e45433b6f4
+[09:20:35.539] [Download] 57ef581fff17d7f1f17922541b9273330cb315c5 2156#：开始，起始点 0，https://download.mcbbs.net/assets/57/57ef581fff17d7f1f17922541b9273330cb315c5
+[09:20:35.539] [Download] dad706e4eecb7707b9fa20c08bdf270099d01ae8 2158#：开始，起始点 0，https://download.mcbbs.net/assets/da/dad706e4eecb7707b9fa20c08bdf270099d01ae8
+[09:20:35.539] [Download] 991d505b03e4e8a8017add8e2d9879b31c4dd18b 2160#：开始，起始点 0，https://download.mcbbs.net/assets/99/991d505b03e4e8a8017add8e2d9879b31c4dd18b
+[09:20:35.539] [Download] ebd137bfc5b162077e6ea723136f602079a59fb3 2161#：开始，起始点 0，https://download.mcbbs.net/assets/eb/ebd137bfc5b162077e6ea723136f602079a59fb3
+[09:20:35.539] [Download] 39f7b069bb18b41a3ee3a727eb6a4302ee16dd33 2159#：开始，起始点 0，https://download.mcbbs.net/assets/39/39f7b069bb18b41a3ee3a727eb6a4302ee16dd33
+[09:20:35.539] [Download] 589dd2c6e2036c7e34b22115345db7e3f010d202 2162#：开始，起始点 0，https://download.mcbbs.net/assets/58/589dd2c6e2036c7e34b22115345db7e3f010d202
+[09:20:35.539] [Download] 435066d7ee709747f072b36be8be69cbc0715c43 2163#：开始，起始点 0，https://download.mcbbs.net/assets/43/435066d7ee709747f072b36be8be69cbc0715c43
+[09:20:35.539] [Download] 480b47b8d6a3c30304f7504c21561d503837faa8 2164#：开始，起始点 0，https://download.mcbbs.net/assets/48/480b47b8d6a3c30304f7504c21561d503837faa8
+[09:20:35.539] [Download] a02364e40fe5d6a1ccf52d69c3a94c1414773691 2165#：开始，起始点 0，https://download.mcbbs.net/assets/a0/a02364e40fe5d6a1ccf52d69c3a94c1414773691
+[09:20:35.539] [Download] a8c13f6fdb58591336e5e2c7ffd443dcdcb1b971 2166#：开始，起始点 0，https://download.mcbbs.net/assets/a8/a8c13f6fdb58591336e5e2c7ffd443dcdcb1b971
+[09:20:35.539] [Download] 45f3a0d5067458abe55b433332fad193845c2f57 2167#：开始，起始点 0，https://download.mcbbs.net/assets/45/45f3a0d5067458abe55b433332fad193845c2f57
+[09:20:35.539] [Download] 4a98de549f9a20cf50ae14b62811b4ea762b178a 2168#：开始，起始点 0，https://download.mcbbs.net/assets/4a/4a98de549f9a20cf50ae14b62811b4ea762b178a
+[09:20:35.617] [Download] 9dc8c9413a6d45eeb316611c49e28e94a8e2eebb：文件大小 407586 B（398 K）
+[09:20:35.633] [Download] 054ab77747414297865c48e274e3b74b758719e8：文件大小 418915 B（409 K）
+[09:20:35.633] [Download] f11bf6408d7b6aeea658e854c4bf499631651f78：文件大小 431200 B（421 K）
+[09:20:35.633] [Download] 700788fad2fb1b6fc482260a30696c6792ba317d：文件大小 410895 B（401 K）
+[09:20:35.664] [Download] 8cdb19e8f5fff3d22461716e952b3334d8c6fafc 2170#：开始，起始点 0，https://download.mcbbs.net/assets/8c/8cdb19e8f5fff3d22461716e952b3334d8c6fafc
+[09:20:35.664] [Download] 273f3abbfe9ccca11552da0be65d5f30da8d6416 2169#：开始，起始点 0，https://download.mcbbs.net/assets/27/273f3abbfe9ccca11552da0be65d5f30da8d6416
+[09:20:35.664] [Download] 231de9638867ae25636f83bcbe656785a05ccc23 2172#：开始，起始点 0，https://download.mcbbs.net/assets/23/231de9638867ae25636f83bcbe656785a05ccc23
+[09:20:35.664] [Download] 0292f21f894f50e581f0a08a54dbd52977f85168 2173#：开始，起始点 0，https://download.mcbbs.net/assets/02/0292f21f894f50e581f0a08a54dbd52977f85168
+[09:20:35.664] [Download] fce575d92058346fe2b07334b212d9c5007a8e3f 2171#：开始，起始点 0，https://download.mcbbs.net/assets/fc/fce575d92058346fe2b07334b212d9c5007a8e3f
+[09:20:35.664] [Download] 07b8be0675a15fc6dac83be77eccab499739951a 2174#：开始，起始点 0，https://download.mcbbs.net/assets/07/07b8be0675a15fc6dac83be77eccab499739951a
+[09:20:35.664] [Download] 46a651960826be34a0876d0bf48ab8221700be7a 2176#：开始，起始点 0，https://download.mcbbs.net/assets/46/46a651960826be34a0876d0bf48ab8221700be7a
+[09:20:35.664] [Download] 24101d8521baccba5026f565cc0ac9f52a8e0afe 2175#：开始，起始点 0，https://download.mcbbs.net/assets/24/24101d8521baccba5026f565cc0ac9f52a8e0afe
+[09:20:35.664] [Download] f537bb97f7db7b7f0a28476889e4e52e8d7b9b66 2177#：开始，起始点 0，https://download.mcbbs.net/assets/f5/f537bb97f7db7b7f0a28476889e4e52e8d7b9b66
+[09:20:35.664] [Download] a2481bf84f7883ffba2745d6ed8bb171308801ac 2178#：开始，起始点 0，https://download.mcbbs.net/assets/a2/a2481bf84f7883ffba2745d6ed8bb171308801ac
+[09:20:35.664] [Download] d7cc236cce3ae0ce991413c026a848b578c402be 2179#：开始，起始点 0，https://download.mcbbs.net/assets/d7/d7cc236cce3ae0ce991413c026a848b578c402be
+[09:20:35.664] [Download] 07a38583f84943e4549ef28b6c12156a4a5008e4 2180#：开始，起始点 0，https://download.mcbbs.net/assets/07/07a38583f84943e4549ef28b6c12156a4a5008e4
+[09:20:35.664] [Download] bd9111dcdeb770b6628b015eea082f1fa0baee92 2181#：开始，起始点 0，https://download.mcbbs.net/assets/bd/bd9111dcdeb770b6628b015eea082f1fa0baee92
+[09:20:35.696] [Download] 1f4defde11fe7450fdee31aecc6e24c7848d14f0：文件大小 417737 B（408 K）
+[09:20:35.711] [Download] a9c9d4566a585cb01354ca1d0bc4c2c01601996f：文件大小 422264 B（412 K）
+[09:20:35.727] [Download] 7d95e04b962ac698cd963fe5ad2349ce75fcbf84：文件大小 431547 B（421 K）
+[09:20:35.789] [Download] 9a4e41b6d72a71a9f9745d83915c605370bd4e89 2182#：开始，起始点 0，https://download.mcbbs.net/assets/9a/9a4e41b6d72a71a9f9745d83915c605370bd4e89
+[09:20:35.789] [Download] 46bbb31f46781def52b9c1d544e0b05fc3c200d6 2183#：开始，起始点 0，https://download.mcbbs.net/assets/46/46bbb31f46781def52b9c1d544e0b05fc3c200d6
+[09:20:35.789] [Download] 2df20dfc5e1a3d1b9fe5aa2e89ba9b123aade10a 2184#：开始，起始点 0，https://download.mcbbs.net/assets/2d/2df20dfc5e1a3d1b9fe5aa2e89ba9b123aade10a
+[09:20:35.789] [Download] cbc1deb4494713e4ad17672f39e5fc3cb796de51 2186#：开始，起始点 0，https://download.mcbbs.net/assets/cb/cbc1deb4494713e4ad17672f39e5fc3cb796de51
+[09:20:35.789] [Download] 00886b36913dd0f5467ca2f66ea4b06952e7141b 2185#：开始，起始点 0，https://download.mcbbs.net/assets/00/00886b36913dd0f5467ca2f66ea4b06952e7141b
+[09:20:35.789] [Download] 2089350f8ced628e9672e36aa8c7aa9b89083cc3 2187#：开始，起始点 0，https://download.mcbbs.net/assets/20/2089350f8ced628e9672e36aa8c7aa9b89083cc3
+[09:20:35.789] [Download] cccf53fefa56e86d080a89bda5df279ed10b9204 2188#：开始，起始点 0，https://download.mcbbs.net/assets/cc/cccf53fefa56e86d080a89bda5df279ed10b9204
+[09:20:35.789] [Download] f339b5ab75251b4c04ef22f1a9463ac308725363 2189#：开始，起始点 0，https://download.mcbbs.net/assets/f3/f339b5ab75251b4c04ef22f1a9463ac308725363
+[09:20:35.789] [Download] f65c3322f264a222e4522c993d02b7499e99a441 2191#：开始，起始点 0，https://download.mcbbs.net/assets/f6/f65c3322f264a222e4522c993d02b7499e99a441
+[09:20:35.789] [Download] a915dcd6f2aa9a3cb3c61248d5c1a3eda817811b 2190#：开始，起始点 0，https://download.mcbbs.net/assets/a9/a915dcd6f2aa9a3cb3c61248d5c1a3eda817811b
+[09:20:35.789] [Download] 666166b5beac2177fa9ec5e12ec689fe43409c75 2192#：开始，起始点 0，https://download.mcbbs.net/assets/66/666166b5beac2177fa9ec5e12ec689fe43409c75
+[09:20:35.789] [Download] 5d97efd8c5c32188164ac2398678f9a0ee5b5b21 2193#：开始，起始点 0，https://download.mcbbs.net/assets/5d/5d97efd8c5c32188164ac2398678f9a0ee5b5b21
+[09:20:35.789] [Download] a7859b5f7e312fd0893172689e288a4f4737ea23 2194#：开始，起始点 0，https://download.mcbbs.net/assets/a7/a7859b5f7e312fd0893172689e288a4f4737ea23
+[09:20:35.852] [Download] bb648fb95c526cec374920fe99b1b3829ed97234：已完成，剩余文件 121
+[09:20:35.899] [Download] 39f7b069bb18b41a3ee3a727eb6a4302ee16dd33：文件大小 537853 B（525 K）
+[09:20:35.899] [Download] b875389ed9f9d66243d92d17359dcfe6c8ef0fba：文件大小 418385 B（409 K）
+[09:20:35.914] [Download] d7806b7d4245cf2e6d6ee0e5bfdcd894c2bdbb5b 2195#：开始，起始点 0，https://download.mcbbs.net/assets/d7/d7806b7d4245cf2e6d6ee0e5bfdcd894c2bdbb5b
+[09:20:35.914] [Download] 5c60b01e3d0d373972d594231b606fa43a52dd4e 2196#：开始，起始点 0，https://download.mcbbs.net/assets/5c/5c60b01e3d0d373972d594231b606fa43a52dd4e
+[09:20:35.914] [Download] 589dd2c6e2036c7e34b22115345db7e3f010d202：文件大小 548010 B（535 K）
+[09:20:35.914] [Download] dad706e4eecb7707b9fa20c08bdf270099d01ae8：文件大小 418342 B（409 K）
+[09:20:35.914] [Download] 435066d7ee709747f072b36be8be69cbc0715c43：文件大小 511736 B（500 K）
+[09:20:35.914] [Download] 57ef581fff17d7f1f17922541b9273330cb315c5：文件大小 427402 B（417 K）
+[09:20:35.914] [Download] 45f3a0d5067458abe55b433332fad193845c2f57：文件大小 427642 B（418 K）
+[09:20:35.914] [Download] 4ca9a87b9ffc855c10d6ab648d0b90c8c571e0c8：文件大小 413712 B（404 K）
+[09:20:35.914] [Download] b8357e98c8f6704b21d2b063cd287d35cdb311f4：文件大小 423055 B（413 K）
+[09:20:35.914] [Download] 480b47b8d6a3c30304f7504c21561d503837faa8：文件大小 403656 B（394 K）
+[09:20:35.930] [Download] d80e711c240108bd9440b7a3903020d61d7b71be：文件大小 512234 B（500 K）
+[09:20:35.946] [Download] 4a98de549f9a20cf50ae14b62811b4ea762b178a：文件大小 414711 B（405 K）
+[09:20:35.946] [Download] 51447d648d9d1f62cebcb4a8061130e45433b6f4：文件大小 449271 B（439 K）
+[09:20:36.008] [Download] 07a38583f84943e4549ef28b6c12156a4a5008e4：文件大小 536498 B（524 K）
+[09:20:36.008] [Download] 0292f21f894f50e581f0a08a54dbd52977f85168：文件大小 425973 B（416 K）
+[09:20:36.039] [Download] d7806b7d4245cf2e6d6ee0e5bfdcd894c2bdbb5b：文件大小 417805 B（408 K）
+[09:20:36.070] [Download] 991d505b03e4e8a8017add8e2d9879b31c4dd18b：文件大小 419624 B（410 K）
+[09:20:36.102] [Download] a8c13f6fdb58591336e5e2c7ffd443dcdcb1b971：文件大小 400595 B（391 K）
+[09:20:36.102] [Download] a02364e40fe5d6a1ccf52d69c3a94c1414773691：文件大小 422119 B（412 K）
+[09:20:36.117] [Download] ebd137bfc5b162077e6ea723136f602079a59fb3：文件大小 427434 B（417 K）
+[09:20:36.117] [Download] 8c0eeae756c6898935b66c0b89918312fd07c0d7：文件大小 412455 B（403 K）
+[09:20:36.133] [Download] 1fdbd3678211a46737dc906c67524b2286b083e8：已完成，剩余文件 120
+[09:20:36.149] [Download] 24101d8521baccba5026f565cc0ac9f52a8e0afe：文件大小 437207 B（427 K）
+[09:20:36.149] [Download] 9a4e41b6d72a71a9f9745d83915c605370bd4e89：文件大小 536909 B（524 K）
+[09:20:36.149] [Download] f339b5ab75251b4c04ef22f1a9463ac308725363：文件大小 420239 B（410 K）
+[09:20:36.164] [Download] d0a0c4cfaaf7edb9d8c4d6b743cb1883984dff06 2197#：开始，起始点 0，https://download.mcbbs.net/assets/d0/d0a0c4cfaaf7edb9d8c4d6b743cb1883984dff06
+[09:20:36.164] [Download] 92b3249084dc99b39d90b9da2dc403077ba3683a 2198#：开始，起始点 0，https://download.mcbbs.net/assets/92/92b3249084dc99b39d90b9da2dc403077ba3683a
+[09:20:36.164] [Download] 834c596e45d63cb8897e0be38160b7541341e8f5：已完成，剩余文件 119
+[09:20:36.164] [Download] cccf53fefa56e86d080a89bda5df279ed10b9204：文件大小 618047 B（604 K）
+[09:20:36.164] [Download] 58361beb4d8b924e4e14faa0f384cb3fa0c6e8ec：文件大小 423710 B（414 K）
+[09:20:36.274] [Download] 8cdb19e8f5fff3d22461716e952b3334d8c6fafc：文件大小 424834 B（415 K）
+[09:20:36.289] [Download] 2089350f8ced628e9672e36aa8c7aa9b89083cc3：文件大小 415142 B（405 K）
+[09:20:36.305] [Download] 92b3249084dc99b39d90b9da2dc403077ba3683a：文件大小 420873 B（411 K）
+[09:20:36.321] [Download] fce575d92058346fe2b07334b212d9c5007a8e3f：文件大小 414113 B（404 K）
+[09:20:36.321] [Download] 00886b36913dd0f5467ca2f66ea4b06952e7141b：文件大小 427326 B（417 K）
+[09:20:36.321] [Download] a915dcd6f2aa9a3cb3c61248d5c1a3eda817811b：文件大小 428364 B（418 K）
+[09:20:36.336] [Download] d7cc236cce3ae0ce991413c026a848b578c402be：文件大小 653180 B（638 K）
+[09:20:36.336] [Download] 07b8be0675a15fc6dac83be77eccab499739951a：文件大小 439024 B（429 K）
+[09:20:36.336] [Download] 46a651960826be34a0876d0bf48ab8221700be7a：文件大小 447497 B（437 K）
+[09:20:36.477] [Download] a2481bf84f7883ffba2745d6ed8bb171308801ac：文件大小 413884 B（404 K）
+[09:20:36.492] [Download] f537bb97f7db7b7f0a28476889e4e52e8d7b9b66：文件大小 412262 B（403 K）
+[09:20:36.492] [Download] 666166b5beac2177fa9ec5e12ec689fe43409c75：文件大小 414659 B（405 K）
+[09:20:36.508] [Download] 46bbb31f46781def52b9c1d544e0b05fc3c200d6：文件大小 398551 B（389 K）
+[09:20:36.508] [Download] cbc1deb4494713e4ad17672f39e5fc3cb796de51：文件大小 426519 B（417 K）
+[09:20:36.508] [Download] bd9111dcdeb770b6628b015eea082f1fa0baee92：文件大小 393186 B（384 K）
+[09:20:36.523] [Download] a7859b5f7e312fd0893172689e288a4f4737ea23：文件大小 394320 B（385 K）
+[09:20:36.570] [Download] ce06b3871256fd5c2e3c08a012eb047b80634ef3：已完成，剩余文件 118
+[09:20:36.586] [Download] d0a0c4cfaaf7edb9d8c4d6b743cb1883984dff06：文件大小 413086 B（403 K）
+[09:20:36.633] [Download] 5c60b01e3d0d373972d594231b606fa43a52dd4e：文件大小 413325 B（404 K）
+[09:20:36.633] [Download] f65c3322f264a222e4522c993d02b7499e99a441：文件大小 419092 B（409 K）
+[09:20:36.680] [Download] 231de9638867ae25636f83bcbe656785a05ccc23：文件大小 417996 B（408 K）
+[09:20:36.695] [Download] 9dc8c9413a6d45eeb316611c49e28e94a8e2eebb：已完成，剩余文件 117
+[09:20:36.789] [Download] 4c245b722069b77f925cd5bc865056ce67d76f21 2200#：开始，起始点 0，https://download.mcbbs.net/assets/4c/4c245b722069b77f925cd5bc865056ce67d76f21
+[09:20:36.789] [Download] 998d81c84053a9b88dbf953e56f775106bde5720 2199#：开始，起始点 0，https://download.mcbbs.net/assets/99/998d81c84053a9b88dbf953e56f775106bde5720
+[09:20:36.867] [Download] eed15e8b32c2cc6975d724fd2bf71c9ae47742e8：已完成，剩余文件 116
+[09:20:36.867] [Download] 998d81c84053a9b88dbf953e56f775106bde5720：文件大小 427861 B（418 K）
+[09:20:36.883] [Download] 4c245b722069b77f925cd5bc865056ce67d76f21：文件大小 398631 B（389 K）
+[09:20:36.914] [Download] 2df20dfc5e1a3d1b9fe5aa2e89ba9b123aade10a：文件大小 578581 B（565 K）
+[09:20:36.930] [Download] 273f3abbfe9ccca11552da0be65d5f30da8d6416：文件大小 537531 B（525 K）
+[09:20:36.945] [Download] 054ab77747414297865c48e274e3b74b758719e8：已完成，剩余文件 115
+[09:20:36.961] [Download] 678511c657fcbae5d5a4459163cf0596d63dd7ca：已完成，剩余文件 114
+[09:20:37.008] [Download] 5d97efd8c5c32188164ac2398678f9a0ee5b5b21：文件大小 522222 B（510 K）
+[09:20:37.023] [Download] 5b4e0cd629d84fa79de98d30b932906117b638a6：已完成，剩余文件 113
+[09:20:37.039] [Download] 2c661a766b1e122024a15b6bc480d800209763a2 2202#：开始，起始点 0，https://download.mcbbs.net/assets/2c/2c661a766b1e122024a15b6bc480d800209763a2
+[09:20:37.039] [Download] f8b34d708fc4fd440f235aeecd3665a0efc3d2fa 2201#：开始，起始点 0，https://download.mcbbs.net/assets/f8/f8b34d708fc4fd440f235aeecd3665a0efc3d2fa
+[09:20:37.039] [Download] 603a44ee174ee1c712cee57caba27a94bdf41641 2203#：开始，起始点 0，https://download.mcbbs.net/assets/60/603a44ee174ee1c712cee57caba27a94bdf41641
+[09:20:37.039] [Download] e9bdd607988760dfefaf417187c4dd76c5e9d4d1 2204#：开始，起始点 0，https://download.mcbbs.net/assets/e9/e9bdd607988760dfefaf417187c4dd76c5e9d4d1
+[09:20:37.039] [Download] 952a8f2eaee05a60375e2840505781e09f84796e：已完成，剩余文件 112
+[09:20:37.164] [Download] 2fa5254db6baba9ea4c9cc7f58945e8b9c3d1cf2 2205#：开始，起始点 0，https://download.mcbbs.net/assets/2f/2fa5254db6baba9ea4c9cc7f58945e8b9c3d1cf2
+[09:20:37.164] [Download] 7654aab834e610007448eee90ba12ccfb099eac2：已完成，剩余文件 111
+[09:20:37.242] [Download] 2c661a766b1e122024a15b6bc480d800209763a2：文件大小 414128 B（404 K）
+[09:20:37.258] [Download] e9bdd607988760dfefaf417187c4dd76c5e9d4d1：文件大小 398550 B（389 K）
+[09:20:37.273] [Download] 603a44ee174ee1c712cee57caba27a94bdf41641：文件大小 491255 B（480 K）
+[09:20:37.367] [Download] f8b34d708fc4fd440f235aeecd3665a0efc3d2fa：文件大小 398557 B（389 K）
+[09:20:37.367] [Download] aa07c38a1debb93a9f277a9dc43d764b8ac9b2fa：已完成，剩余文件 110
+[09:20:37.414] [Download] 4de27256d4dc15abb2334970a556a56b6e9d89bf 2206#：开始，起始点 0，https://download.mcbbs.net/assets/4d/4de27256d4dc15abb2334970a556a56b6e9d89bf
+[09:20:37.414] [Download] 8913b4683c11081d69152b34f0544708144bd416 2207#：开始，起始点 0，https://download.mcbbs.net/assets/89/8913b4683c11081d69152b34f0544708144bd416
+[09:20:37.430] [Download] d7806b7d4245cf2e6d6ee0e5bfdcd894c2bdbb5b：已完成，剩余文件 109
+[09:20:37.492] [Download] 2fa5254db6baba9ea4c9cc7f58945e8b9c3d1cf2：文件大小 402968 B（394 K）
+[09:20:37.492] [Download] 081c3d9c6de55e8d08dc787685027f0ef3d1cb9b：已完成，剩余文件 108
+[09:20:37.539] [Download] 1e2ab4473fe5b9b21f32fee0df2cbcc44adf45c9 2209#：开始，起始点 0，https://download.mcbbs.net/assets/1e/1e2ab4473fe5b9b21f32fee0df2cbcc44adf45c9
+[09:20:37.539] [Download] b1b1d16d5e40938fb26c7e870afeb62dc5a31c9b 2208#：开始，起始点 0，https://download.mcbbs.net/assets/b1/b1b1d16d5e40938fb26c7e870afeb62dc5a31c9b
+[09:20:37.539] [Download] 8913b4683c11081d69152b34f0544708144bd416：文件大小 424746 B（415 K）
+[09:20:37.539] [Download] b8357e98c8f6704b21d2b063cd287d35cdb311f4：已完成，剩余文件 107
+[09:20:37.633] [Download] a9c9d4566a585cb01354ca1d0bc4c2c01601996f：已完成，剩余文件 106
+[09:20:37.633] [Download] 1e2ab4473fe5b9b21f32fee0df2cbcc44adf45c9：文件大小 433178 B（423 K）
+[09:20:37.633] [Download] b1b1d16d5e40938fb26c7e870afeb62dc5a31c9b：文件大小 424131 B（414 K）
+[09:20:37.648] [Download] 4de27256d4dc15abb2334970a556a56b6e9d89bf：文件大小 423808 B（414 K）
+[09:20:37.664] [Download] 8262f68784e32562fda8d3ef9900fd18d3dc0036 2210#：开始，起始点 0，https://download.mcbbs.net/assets/82/8262f68784e32562fda8d3ef9900fd18d3dc0036
+[09:20:37.664] [Download] 428cc6e8893b41821e477dd249cf42f47ae45108 2211#：开始，起始点 0，https://download.mcbbs.net/assets/42/428cc6e8893b41821e477dd249cf42f47ae45108
+[09:20:37.680] [Download] 8c0eeae756c6898935b66c0b89918312fd07c0d7：已完成，剩余文件 105
+[09:20:37.758] [Download] 8262f68784e32562fda8d3ef9900fd18d3dc0036：文件大小 412436 B（403 K）
+[09:20:37.758] [Download] 428cc6e8893b41821e477dd249cf42f47ae45108：文件大小 416019 B（406 K）
+[09:20:37.773] [Download] 991d505b03e4e8a8017add8e2d9879b31c4dd18b：已完成，剩余文件 104
+[09:20:37.789] [Download] ed147faa0e7b671367313f051991ee4908821f8d 2212#：开始，起始点 0，https://download.mcbbs.net/assets/ed/ed147faa0e7b671367313f051991ee4908821f8d
+[09:20:37.789] [Download] dffd7f784f554fe79a7203d2e086cc4d57352e83 2213#：开始，起始点 0，https://download.mcbbs.net/assets/df/dffd7f784f554fe79a7203d2e086cc4d57352e83
+[09:20:37.804] [Download] 速度下限已提升到 6.92 M
+[09:20:37.851] [Download] 4ca9a87b9ffc855c10d6ab648d0b90c8c571e0c8：已完成，剩余文件 103
+[09:20:37.883] [Download] ed147faa0e7b671367313f051991ee4908821f8d：文件大小 423060 B（413 K）
+[09:20:37.898] [Download] 8cc711dc990c2b89f15e0a793a5d6a03309208b9：已完成，剩余文件 102
+[09:20:37.914] [Download] b49a60b8f16ecf6b6f2232817caf62c26bbcfa4d 2215#：开始，起始点 0，https://download.mcbbs.net/assets/b4/b49a60b8f16ecf6b6f2232817caf62c26bbcfa4d
+[09:20:37.914] [Download] b16c7dea719764554b86cdb147fc86d6975cbba9 2214#：开始，起始点 0，https://download.mcbbs.net/assets/b1/b16c7dea719764554b86cdb147fc86d6975cbba9
+[09:20:37.930] [Download] 7d95e04b962ac698cd963fe5ad2349ce75fcbf84：已完成，剩余文件 101
+[09:20:37.992] [Download] dffd7f784f554fe79a7203d2e086cc4d57352e83：文件大小 437832 B（428 K）
+[09:20:38.039] [Download] b16c7dea719764554b86cdb147fc86d6975cbba9：文件大小 459118 B（448 K）
+[09:20:38.039] [Download] b49a60b8f16ecf6b6f2232817caf62c26bbcfa4d：文件大小 506541 B（495 K）
+[09:20:38.070] [Download] f11bf6408d7b6aeea658e854c4bf499631651f78：已完成，剩余文件 100
+[09:20:38.148] [Download] 速度下限已提升到 9.38 M
+[09:20:38.164] [Download] 13974fddc44286bf211de9e987ce215f6b466444 2217#：开始，起始点 0，https://download.mcbbs.net/assets/13/13974fddc44286bf211de9e987ce215f6b466444
+[09:20:38.164] [Download] 6b811634c0cd01415f850129da8eb75e750348f0 2216#：开始，起始点 0，https://download.mcbbs.net/assets/6b/6b811634c0cd01415f850129da8eb75e750348f0
+[09:20:38.320] [Download] 4c245b722069b77f925cd5bc865056ce67d76f21：已完成，剩余文件 99
+[09:20:38.336] [Download] 51447d648d9d1f62cebcb4a8061130e45433b6f4：已完成，剩余文件 98
+[09:20:38.367] [Download] d0a0c4cfaaf7edb9d8c4d6b743cb1883984dff06：已完成，剩余文件 97
+[09:20:38.382] [Download] cbc1deb4494713e4ad17672f39e5fc3cb796de51：已完成，剩余文件 96
+[09:20:38.382] [Download] a02364e40fe5d6a1ccf52d69c3a94c1414773691：已完成，剩余文件 95
+[09:20:38.414] [Download] 201ee76a565bcdba18826956029d1b3e3adee155 2218#：开始，起始点 0，https://download.mcbbs.net/assets/20/201ee76a565bcdba18826956029d1b3e3adee155
+[09:20:38.414] [Download] 13e90cace92ff588c80fb47ce936742a341be7e9 2219#：开始，起始点 0，https://download.mcbbs.net/assets/13/13e90cace92ff588c80fb47ce936742a341be7e9
+[09:20:38.414] [Download] e9576fe5dcc7ce224a7224527aa24fcde97e49fc 2220#：开始，起始点 0，https://download.mcbbs.net/assets/e9/e9576fe5dcc7ce224a7224527aa24fcde97e49fc
+[09:20:38.414] [Download] 300790f3650942f199d2c2755ed8717395866534 2221#：开始，起始点 0，https://download.mcbbs.net/assets/30/300790f3650942f199d2c2755ed8717395866534
+[09:20:38.461] [Download] 4de27256d4dc15abb2334970a556a56b6e9d89bf：已完成，剩余文件 94
+[09:20:38.476] [Download] bd9111dcdeb770b6628b015eea082f1fa0baee92：已完成，剩余文件 93
+[09:20:38.476] [Download] 8913b4683c11081d69152b34f0544708144bd416：已完成，剩余文件 92
+[09:20:38.476] [Download] 2c661a766b1e122024a15b6bc480d800209763a2：已完成，剩余文件 91
+[09:20:38.492] [Download] 1e2ab4473fe5b9b21f32fee0df2cbcc44adf45c9：已完成，剩余文件 90
+[09:20:38.492] [Download] 13974fddc44286bf211de9e987ce215f6b466444：文件大小 427004 B（417 K）
+[09:20:38.492] [Download] 435066d7ee709747f072b36be8be69cbc0715c43：已完成，剩余文件 89
+[09:20:38.492] [Download] 201ee76a565bcdba18826956029d1b3e3adee155：文件大小 418095 B（408 K）
+[09:20:38.507] [Download] b875389ed9f9d66243d92d17359dcfe6c8ef0fba：已完成，剩余文件 88
+[09:20:38.507] [Download] e9576fe5dcc7ce224a7224527aa24fcde97e49fc：文件大小 427470 B（417 K）
+[09:20:38.523] [Download] b1b1d16d5e40938fb26c7e870afeb62dc5a31c9b：已完成，剩余文件 87
+[09:20:38.539] [Download] 2784773a65ee18a253c690e7571773a28458c71a 2223#：开始，起始点 0，https://download.mcbbs.net/assets/27/2784773a65ee18a253c690e7571773a28458c71a
+[09:20:38.539] [Download] 6570a1d86f982a557dde0115c11a55c954fc2015 2222#：开始，起始点 0，https://download.mcbbs.net/assets/65/6570a1d86f982a557dde0115c11a55c954fc2015
+[09:20:38.539] [Download] ae77cc2e7e258b8ec0643ada67af3170e89cb957 2224#：开始，起始点 0，https://download.mcbbs.net/assets/ae/ae77cc2e7e258b8ec0643ada67af3170e89cb957
+[09:20:38.539] [Download] 66a8d54310cb57c0c3459db36114f1cead84b5b1 2225#：开始，起始点 0，https://download.mcbbs.net/assets/66/66a8d54310cb57c0c3459db36114f1cead84b5b1
+[09:20:38.539] [Download] 74299f577cb591c0c36799dd5dbfcc46d335d946 2226#：开始，起始点 0，https://download.mcbbs.net/assets/74/74299f577cb591c0c36799dd5dbfcc46d335d946
+[09:20:38.539] [Download] 5a312029518c94a538557c2d3aa77b3f7554d73c 2227#：开始，起始点 0，https://download.mcbbs.net/assets/5a/5a312029518c94a538557c2d3aa77b3f7554d73c
+[09:20:38.539] [Download] 5f1062d4e32e0dd903bfd484f77d9f69acb30ab3 2228#：开始，起始点 0，https://download.mcbbs.net/assets/5f/5f1062d4e32e0dd903bfd484f77d9f69acb30ab3
+[09:20:38.539] [Download] 38cd80299ad309d1b9cc63531f82d1b0af9d295d 2229#：开始，起始点 0，https://download.mcbbs.net/assets/38/38cd80299ad309d1b9cc63531f82d1b0af9d295d
+[09:20:38.570] [Download] 5d97efd8c5c32188164ac2398678f9a0ee5b5b21：已完成，剩余文件 86
+[09:20:38.570] [Download] 92b3249084dc99b39d90b9da2dc403077ba3683a：已完成，剩余文件 85
+[09:20:38.570] [Download] 589dd2c6e2036c7e34b22115345db7e3f010d202：已完成，剩余文件 84
+[09:20:38.570] [Download] 6b811634c0cd01415f850129da8eb75e750348f0：文件大小 418027 B（408 K）
+[09:20:38.586] [Download] 300790f3650942f199d2c2755ed8717395866534：文件大小 476792 B（466 K）
+[09:20:38.601] [Download] 13e90cace92ff588c80fb47ce936742a341be7e9：文件大小 429039 B（419 K）
+[09:20:38.648] [Download] d80e711c240108bd9440b7a3903020d61d7b71be：已完成，剩余文件 83
+[09:20:38.648] [Download] f8b34d708fc4fd440f235aeecd3665a0efc3d2fa：已完成，剩余文件 82
+[09:20:38.648] [Download] 5a312029518c94a538557c2d3aa77b3f7554d73c：文件大小 413068 B（403 K）
+[09:20:38.648] [Download] ae77cc2e7e258b8ec0643ada67af3170e89cb957：文件大小 427612 B（418 K）
+[09:20:38.648] [Download] 74299f577cb591c0c36799dd5dbfcc46d335d946：文件大小 405583 B（396 K）
+[09:20:38.648] [Download] 6570a1d86f982a557dde0115c11a55c954fc2015：文件大小 414709 B（405 K）
+[09:20:38.664] [Download] 8e94b46c4d003c82f8326a5c5a303e3c0926616a 2230#：开始，起始点 0，https://download.mcbbs.net/assets/8e/8e94b46c4d003c82f8326a5c5a303e3c0926616a
+[09:20:38.664] [Download] b8e12f3c313c9872c8b497b393437dadbb1be01c 2231#：开始，起始点 0，https://download.mcbbs.net/assets/b8/b8e12f3c313c9872c8b497b393437dadbb1be01c
+[09:20:38.664] [Download] 1c2d03d8e2a32bbd420516d24b79a14a5c053929 2232#：开始，起始点 0，https://download.mcbbs.net/assets/1c/1c2d03d8e2a32bbd420516d24b79a14a5c053929
+[09:20:38.664] [Download] 368ead16da832ef12f11a9efd740e6f6d12e8512 2233#：开始，起始点 0，https://download.mcbbs.net/assets/36/368ead16da832ef12f11a9efd740e6f6d12e8512
+[09:20:38.664] [Download] c578aa9cd29e5d870378406708a3bfda9466c09e 2234#：开始，起始点 0，https://download.mcbbs.net/assets/c5/c578aa9cd29e5d870378406708a3bfda9466c09e
+[09:20:38.664] [Download] 38cd80299ad309d1b9cc63531f82d1b0af9d295d：文件大小 665554 B（650 K）
+[09:20:38.664] [Download] 2784773a65ee18a253c690e7571773a28458c71a：文件大小 419271 B（409 K）
+[09:20:38.664] [Download] 66a8d54310cb57c0c3459db36114f1cead84b5b1：文件大小 399629 B（390 K）
+[09:20:38.679] [Download] 5f1062d4e32e0dd903bfd484f77d9f69acb30ab3：文件大小 425224 B（415 K）
+[09:20:38.695] [Download] 998d81c84053a9b88dbf953e56f775106bde5720：已完成，剩余文件 81
+[09:20:38.757] [Download] 368ead16da832ef12f11a9efd740e6f6d12e8512：文件大小 432914 B（423 K）
+[09:20:38.757] [Download] b8e12f3c313c9872c8b497b393437dadbb1be01c：文件大小 422168 B（412 K）
+[09:20:38.757] [Download] 1c2d03d8e2a32bbd420516d24b79a14a5c053929：文件大小 413348 B（404 K）
+[09:20:38.773] [Download] c578aa9cd29e5d870378406708a3bfda9466c09e：文件大小 423274 B（413 K）
+[09:20:38.789] [Download] ad4e5ff56d06f72ccd592ccf4b4f1bceadfa6dd9 2235#：开始，起始点 0，https://download.mcbbs.net/assets/ad/ad4e5ff56d06f72ccd592ccf4b4f1bceadfa6dd9
+[09:20:38.789] [Download] 80c4b4110971357f824fd0a17b869dadc3270c62 2236#：开始，起始点 0，https://download.mcbbs.net/assets/80/80c4b4110971357f824fd0a17b869dadc3270c62
+[09:20:38.804] [Download] 2fa5254db6baba9ea4c9cc7f58945e8b9c3d1cf2：已完成，剩余文件 80
+[09:20:38.867] [Download] 8e94b46c4d003c82f8326a5c5a303e3c0926616a：文件大小 414846 B（405 K）
+[09:20:38.898] [Download] ad4e5ff56d06f72ccd592ccf4b4f1bceadfa6dd9：文件大小 416734 B（407 K）
+[09:20:38.914] [Download] 1f4defde11fe7450fdee31aecc6e24c7848d14f0：已完成，剩余文件 79
+[09:20:38.914] [Download] e41dbb9f258d1668ccec36f7e60c61c3eae11399 2237#：开始，起始点 0，https://download.mcbbs.net/assets/e4/e41dbb9f258d1668ccec36f7e60c61c3eae11399
+[09:20:38.914] [Download] 032287273d87004ed7bb2fbe616885b2e8d749ba 2238#：开始，起始点 0，https://download.mcbbs.net/assets/03/032287273d87004ed7bb2fbe616885b2e8d749ba
+[09:20:39.023] [Download] 032287273d87004ed7bb2fbe616885b2e8d749ba：文件大小 403919 B（394 K）
+[09:20:39.023] [Download] e41dbb9f258d1668ccec36f7e60c61c3eae11399：文件大小 409228 B（400 K）
+[09:20:39.085] [Download] 428cc6e8893b41821e477dd249cf42f47ae45108：已完成，剩余文件 78
+[09:20:39.101] [Download] 700788fad2fb1b6fc482260a30696c6792ba317d：已完成，剩余文件 77
+[09:20:39.167] [Download] 6965bd05ce97634b08be82a9e811d33210bb7a53 2240#：开始，起始点 0，https://download.mcbbs.net/assets/69/6965bd05ce97634b08be82a9e811d33210bb7a53
+[09:20:39.197] [Download] 5c60b01e3d0d373972d594231b606fa43a52dd4e：已完成，剩余文件 76
+[09:20:39.197] [Download] 480b47b8d6a3c30304f7504c21561d503837faa8：已完成，剩余文件 75
+[09:20:39.275] [Download] 603a44ee174ee1c712cee57caba27a94bdf41641：已完成，剩余文件 74
+[09:20:39.291] [Download] 67d3c2dcc7f61d68ad4d8e69dd0836e09b69c2bf 2241#：开始，起始点 0，https://download.mcbbs.net/assets/67/67d3c2dcc7f61d68ad4d8e69dd0836e09b69c2bf
+[09:20:39.291] [Download] f1c794454e34f3e74de9c59bbd1a07bed02688e0 2242#：开始，起始点 0，https://download.mcbbs.net/assets/f1/f1c794454e34f3e74de9c59bbd1a07bed02688e0
+[09:20:39.291] [Download] 343a2d2d409c9ee2333cf939bf079df94e6d806d 2243#：开始，起始点 0，https://download.mcbbs.net/assets/34/343a2d2d409c9ee2333cf939bf079df94e6d806d
+[09:20:39.393] [Download] 343a2d2d409c9ee2333cf939bf079df94e6d806d：文件大小 415665 B（406 K）
+[09:20:39.394] [Download] dffd7f784f554fe79a7203d2e086cc4d57352e83：已完成，剩余文件 73
+[09:20:39.399] [Download] fce575d92058346fe2b07334b212d9c5007a8e3f：已完成，剩余文件 72
+[09:20:39.401] [Download] f1c794454e34f3e74de9c59bbd1a07bed02688e0：文件大小 405805 B（396 K）
+[09:20:39.402] [Download] 67d3c2dcc7f61d68ad4d8e69dd0836e09b69c2bf：文件大小 428251 B（418 K）
+[09:20:39.411] [Download] 6965bd05ce97634b08be82a9e811d33210bb7a53：文件大小 419908 B（410 K）
+[09:20:39.415] [Download] 5beb264d5eb3e7f81ecee81dc0d7b8c7028ca05d 2244#：开始，起始点 0，https://download.mcbbs.net/assets/5b/5beb264d5eb3e7f81ecee81dc0d7b8c7028ca05d
+[09:20:39.415] [Download] 41fcd2849caf06ba06515b163556c72884e71ba0 2245#：开始，起始点 0，https://download.mcbbs.net/assets/41/41fcd2849caf06ba06515b163556c72884e71ba0
+[09:20:39.415] [Download] bdfae9f9f4187ca319e04f45bf16c2a1cc492747 2246#：开始，起始点 0，https://download.mcbbs.net/assets/bd/bdfae9f9f4187ca319e04f45bf16c2a1cc492747
+[09:20:39.415] [Download] 57ef581fff17d7f1f17922541b9273330cb315c5：已完成，剩余文件 71
+[09:20:39.462] [Download] 8cdb19e8f5fff3d22461716e952b3334d8c6fafc：已完成，剩余文件 70
+[09:20:39.477] [Download] 07a38583f84943e4549ef28b6c12156a4a5008e4：已完成，剩余文件 69
+[09:20:39.493] [Download] 74299f577cb591c0c36799dd5dbfcc46d335d946：已完成，剩余文件 68
+[09:20:39.508] [Download] 5beb264d5eb3e7f81ecee81dc0d7b8c7028ca05d：文件大小 428804 B（419 K）
+[09:20:39.508] [Download] bdfae9f9f4187ca319e04f45bf16c2a1cc492747：文件大小 411755 B（402 K）
+[09:20:39.540] [Download] b18b35c32bd97e3bd6e7c4012334383ee1054e3b 2247#：开始，起始点 0，https://download.mcbbs.net/assets/b1/b18b35c32bd97e3bd6e7c4012334383ee1054e3b
+[09:20:39.540] [Download] 5f44e45b2f567c0ee1afd6f886dd69c8d5cc10a5 2248#：开始，起始点 0，https://download.mcbbs.net/assets/5f/5f44e45b2f567c0ee1afd6f886dd69c8d5cc10a5
+[09:20:39.540] [Download] e0610bae448b6ae0072b6849ec90869b45a96aa4 2249#：开始，起始点 0，https://download.mcbbs.net/assets/e0/e0610bae448b6ae0072b6849ec90869b45a96aa4
+[09:20:39.571] [Download] 07b8be0675a15fc6dac83be77eccab499739951a：已完成，剩余文件 67
+[09:20:39.602] [Download] 41fcd2849caf06ba06515b163556c72884e71ba0：文件大小 420059 B（410 K）
+[09:20:39.618] [Download] 2089350f8ced628e9672e36aa8c7aa9b89083cc3：已完成，剩余文件 66
+[09:20:39.633] [Download] 5f44e45b2f567c0ee1afd6f886dd69c8d5cc10a5：文件大小 520198 B（508 K）
+[09:20:39.665] [Download] 5618e1b4ab288136e9b520e896ab753f40e3ce78 2250#：开始，起始点 0，https://download.mcbbs.net/assets/56/5618e1b4ab288136e9b520e896ab753f40e3ce78
+[09:20:39.665] [Download] 07f65097f3562b97a526582e444df99415a5479f 2251#：开始，起始点 0，https://download.mcbbs.net/assets/07/07f65097f3562b97a526582e444df99415a5479f
+[09:20:39.712] [Download] a8c13f6fdb58591336e5e2c7ffd443dcdcb1b971：已完成，剩余文件 65
+[09:20:39.727] [Download] b16c7dea719764554b86cdb147fc86d6975cbba9：已完成，剩余文件 64
+[09:20:39.759] [Download] b18b35c32bd97e3bd6e7c4012334383ee1054e3b：文件大小 426148 B（416 K）
+[09:20:39.759] [Download] e0610bae448b6ae0072b6849ec90869b45a96aa4：文件大小 427488 B（417 K）
+[09:20:39.774] [Download] 07f65097f3562b97a526582e444df99415a5479f：文件大小 536076 B（524 K）
+[09:20:39.774] [Download] 5618e1b4ab288136e9b520e896ab753f40e3ce78：文件大小 505825 B（494 K）
+[09:20:39.790] [Download] 4df27a34c54dbec445a789a5dd1865a64d3ff857 2252#：开始，起始点 0，https://download.mcbbs.net/assets/4d/4df27a34c54dbec445a789a5dd1865a64d3ff857
+[09:20:39.790] [Download] d772ca7f400ff6498cab7b180c0ba8c1d5bc5268 2253#：开始，起始点 0，https://download.mcbbs.net/assets/d7/d772ca7f400ff6498cab7b180c0ba8c1d5bc5268
+[09:20:39.821] [Download] b49a60b8f16ecf6b6f2232817caf62c26bbcfa4d：已完成，剩余文件 63
+[09:20:39.821] [Download] 5f1062d4e32e0dd903bfd484f77d9f69acb30ab3：已完成，剩余文件 62
+[09:20:39.868] [Download] 00886b36913dd0f5467ca2f66ea4b06952e7141b：已完成，剩余文件 61
+[09:20:39.899] [Download] 4df27a34c54dbec445a789a5dd1865a64d3ff857：文件大小 396007 B（387 K）
+[09:20:39.899] [Download] d772ca7f400ff6498cab7b180c0ba8c1d5bc5268：文件大小 496968 B（485 K）
+[09:20:39.915] [Download] dad706e4eecb7707b9fa20c08bdf270099d01ae8：已完成，剩余文件 60
+[09:20:39.930] [Download] e41dbb9f258d1668ccec36f7e60c61c3eae11399：已完成，剩余文件 59
+[09:20:39.993] [Download] 0292f21f894f50e581f0a08a54dbd52977f85168：已完成，剩余文件 58
+[09:20:40.008] [Download] ae77cc2e7e258b8ec0643ada67af3170e89cb957：已完成，剩余文件 57
+[09:20:40.008] [Download] 13e90cace92ff588c80fb47ce936742a341be7e9：已完成，剩余文件 56
+[09:20:40.040] [Download] f537bb97f7db7b7f0a28476889e4e52e8d7b9b66：已完成，剩余文件 55
+[09:20:40.055] [Download] 66a8d54310cb57c0c3459db36114f1cead84b5b1：已完成，剩余文件 54
+[09:20:40.134] [Download] 8262f68784e32562fda8d3ef9900fd18d3dc0036：已完成，剩余文件 53
+[09:20:40.259] [Download] 1c2d03d8e2a32bbd420516d24b79a14a5c053929：已完成，剩余文件 52
+[09:20:40.275] [Download] ed147faa0e7b671367313f051991ee4908821f8d：已完成，剩余文件 51
+[09:20:40.291] [Download] c578aa9cd29e5d870378406708a3bfda9466c09e：已完成，剩余文件 50
+[09:20:40.337] [Download] a915dcd6f2aa9a3cb3c61248d5c1a3eda817811b：已完成，剩余文件 49
+[09:20:40.384] [Download] f1c794454e34f3e74de9c59bbd1a07bed02688e0：已完成，剩余文件 48
+[09:20:40.462] [Download] 45f3a0d5067458abe55b433332fad193845c2f57：已完成，剩余文件 47
+[09:20:40.478] [Download] 6b811634c0cd01415f850129da8eb75e750348f0：已完成，剩余文件 46
+[09:20:40.493] [Download] 4a98de549f9a20cf50ae14b62811b4ea762b178a：已完成，剩余文件 45
+[09:20:40.493] [Download] 80c4b4110971357f824fd0a17b869dadc3270c62：已完成，剩余文件 44
+[09:20:40.509] [Download] 41fcd2849caf06ba06515b163556c72884e71ba0：已完成，剩余文件 43
+[09:20:40.525] [Download] b18b35c32bd97e3bd6e7c4012334383ee1054e3b：已完成，剩余文件 42
+[09:20:40.603] [Download] e9bdd607988760dfefaf417187c4dd76c5e9d4d1：已完成，剩余文件 41
+[09:20:40.603] [Download] 6570a1d86f982a557dde0115c11a55c954fc2015：已完成，剩余文件 40
+[09:20:40.634] [Download] f339b5ab75251b4c04ef22f1a9463ac308725363：已完成，剩余文件 39
+[09:20:40.634] [Download] 6965bd05ce97634b08be82a9e811d33210bb7a53：已完成，剩余文件 38
+[09:20:40.634] [Download] ad4e5ff56d06f72ccd592ccf4b4f1bceadfa6dd9：已完成，剩余文件 37
+[09:20:40.650] [Download] 8e94b46c4d003c82f8326a5c5a303e3c0926616a：已完成，剩余文件 36
+[09:20:40.665] [Download] 67d3c2dcc7f61d68ad4d8e69dd0836e09b69c2bf：已完成，剩余文件 35
+[09:20:40.712] [Download] 4df27a34c54dbec445a789a5dd1865a64d3ff857：已完成，剩余文件 34
+[09:20:40.743] [Download] 5a312029518c94a538557c2d3aa77b3f7554d73c：已完成，剩余文件 33
+[09:20:40.806] [Download] bdfae9f9f4187ca319e04f45bf16c2a1cc492747：已完成，剩余文件 32
+[09:20:40.853] [Download] f65c3322f264a222e4522c993d02b7499e99a441：已完成，剩余文件 31
+[09:20:40.853] [Download] 368ead16da832ef12f11a9efd740e6f6d12e8512：已完成，剩余文件 30
+[09:20:40.853] [Download] 39f7b069bb18b41a3ee3a727eb6a4302ee16dd33：已完成，剩余文件 29
+[09:20:40.868] [Download] 231de9638867ae25636f83bcbe656785a05ccc23：已完成，剩余文件 28
+[09:20:40.884] [Download] e0610bae448b6ae0072b6849ec90869b45a96aa4：已完成，剩余文件 27
+[09:20:40.900] [Download] 300790f3650942f199d2c2755ed8717395866534：已完成，剩余文件 26
+[09:20:40.915] [Download] 201ee76a565bcdba18826956029d1b3e3adee155：已完成，剩余文件 25
+[09:20:40.915] [Download] 343a2d2d409c9ee2333cf939bf079df94e6d806d：已完成，剩余文件 24
+[09:20:40.915] [Download] 46bbb31f46781def52b9c1d544e0b05fc3c200d6：已完成，剩余文件 23
+[09:20:40.931] [Download] 13974fddc44286bf211de9e987ce215f6b466444：已完成，剩余文件 22
+[09:20:40.931] [Download] 24101d8521baccba5026f565cc0ac9f52a8e0afe：已完成，剩余文件 21
+[09:20:40.946] [Download] e9576fe5dcc7ce224a7224527aa24fcde97e49fc：已完成，剩余文件 20
+[09:20:40.946] [Download] 9a4e41b6d72a71a9f9745d83915c605370bd4e89：已完成，剩余文件 19
+[09:20:40.946] [Download] a7859b5f7e312fd0893172689e288a4f4737ea23：已完成，剩余文件 18
+[09:20:40.993] [Download] 5618e1b4ab288136e9b520e896ab753f40e3ce78：已完成，剩余文件 17
+[09:20:41.025] [Download] 032287273d87004ed7bb2fbe616885b2e8d749ba：已完成，剩余文件 16
+[09:20:41.040] [Download] ebd137bfc5b162077e6ea723136f602079a59fb3：已完成，剩余文件 15
+[09:20:41.056] [Download] d772ca7f400ff6498cab7b180c0ba8c1d5bc5268：已完成，剩余文件 14
+[09:20:41.056] [Download] b8e12f3c313c9872c8b497b393437dadbb1be01c：已完成，剩余文件 13
+[09:20:41.071] [Download] 07f65097f3562b97a526582e444df99415a5479f：已完成，剩余文件 12
+[09:20:41.103] [Download] 38cd80299ad309d1b9cc63531f82d1b0af9d295d：已完成，剩余文件 11
+[09:20:41.150] [Download] a2481bf84f7883ffba2745d6ed8bb171308801ac：已完成，剩余文件 10
+[09:20:41.181] [Download] 46a651960826be34a0876d0bf48ab8221700be7a：已完成，剩余文件 9
+[09:20:41.181] [Download] 5beb264d5eb3e7f81ecee81dc0d7b8c7028ca05d：已完成，剩余文件 8
+[09:20:41.196] [Download] 5f44e45b2f567c0ee1afd6f886dd69c8d5cc10a5：已完成，剩余文件 7
+[09:20:41.212] [Download] 58361beb4d8b924e4e14faa0f384cb3fa0c6e8ec：已完成，剩余文件 6
+[09:20:41.212] [Download] cccf53fefa56e86d080a89bda5df279ed10b9204：已完成，剩余文件 5
+[09:20:41.243] [Download] 666166b5beac2177fa9ec5e12ec689fe43409c75：已完成，剩余文件 4
+[09:20:41.259] [Download] 2784773a65ee18a253c690e7571773a28458c71a：已完成，剩余文件 3
+[09:20:41.259] [Download] 273f3abbfe9ccca11552da0be65d5f30da8d6416：已完成，剩余文件 2
+[09:20:41.259] [Download] 2df20dfc5e1a3d1b9fe5aa2e89ba9b123aade10a：已完成，剩余文件 1
+[09:20:41.322] [Download] d7cc236cce3ae0ce991413c026a848b578c402be：已完成，剩余文件 0
+[09:20:41.322] [Loader] 加载器 下载资源文件（副加载器） 状态改变：Finished
+[09:20:41.322] [Loader] 加载器 下载原版资源文件 状态改变：Finished
+[09:20:41.322] [Loader] 加载器 下载原版 1.19.4 状态改变：Finished
+[09:20:41.322] [Loader] 加载器 安装游戏 状态改变：Loading
+[09:20:41.337] [Download] 开始进行版本合并，输出：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\，Minecraft：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\，OptiFine：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\mods\，Fabric：C:\Users\40877\AppData\Local\Temp\PCL\Install\2021483434\versions\fabric-loader-0.14.21-1.19.4
+[09:20:41.353] [Download] 版本合并 1.19.4-Fabric 0.14.21-OptiFine_I4 完成
+[09:20:41.353] [Loader] 加载器 安装游戏 状态改变：Finished
+[09:20:41.353] [Loader] 加载器 下载游戏支持库文件 状态改变：Loading
+[09:20:41.353] [Loader] 加载器 分析游戏支持库文件（副加载器） 状态改变：Loading
+[09:20:41.446] [Minecraft] 获取支持库列表：1.19.4-Fabric 0.14.21-OptiFine_I4
+[09:20:42.524] [Loader] 加载器 分析游戏支持库文件（副加载器） 状态改变：Finished
+[09:20:42.524] [Loader] 加载器 下载游戏支持库文件（副加载器） 状态改变：Loading
+[09:20:42.665] [Download] sponge-mixin-0.12.5+mixin.0.8.5.jar 2271#：开始，起始点 0，https://download.mcbbs.net/maven/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar
+[09:20:42.696] [Download] sponge-mixin-0.12.5+mixin.0.8.5.jar：文件大小 1451874 B（1.38 M）
+[09:20:42.790] [Download] intermediary-1.19.4.jar 2272#：开始，起始点 0，https://download.mcbbs.net/maven/net/fabricmc/intermediary/1.19.4/intermediary-1.19.4.jar
+[09:20:42.821] [Download] intermediary-1.19.4.jar：文件大小 561002 B（548 K）
+[09:20:42.915] [Download] fabric-loader-0.14.21.jar 2273#：开始，起始点 0，https://download.mcbbs.net/maven/net/fabricmc/fabric-loader/0.14.21/fabric-loader-0.14.21.jar
+[09:20:43.056] [Download] fabric-loader-0.14.21.jar：文件大小 825864 B（807 K）
+[09:20:43.274] [Download] intermediary-1.19.4.jar：已完成，剩余文件 2
+[09:20:43.368] [Download] fabric-loader-0.14.21.jar：已完成，剩余文件 1
+[09:20:43.649] [Download] sponge-mixin-0.12.5+mixin.0.8.5.jar：已完成，剩余文件 0
+[09:20:43.649] [Loader] 加载器 下载游戏支持库文件（副加载器） 状态改变：Finished
+[09:20:43.649] [Loader] 加载器 下载游戏支持库文件 状态改变：Finished
+[09:20:43.649] [Loader] 加载器 1.19.4-Fabric 0.14.21-OptiFine_I4 安装 状态改变：Finished
+[09:20:44.665] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[09:20:44.665] [UI] 弹出提示：1.19.4-Fabric 0.14.21-OptiFine_I4 安装成功！
+[09:20:44.665] [Minecraft] 文件夹列表变更，重载所有版本
+[09:20:44.680] [Animation] 两个动画帧间隔 1015 ms
+[09:20:44.696] [Control] 切换主要页面：Launch, -1
+[09:20:44.821] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[09:20:45.868] [Setup] 当前选择的 Minecraft 版本：1.16.5-Forge_36.2.34-OptiFine_G8
+[09:20:45.868] [Minecraft] 选择该文件夹储存的 Minecraft 版本：D:\万里生存服整合包\.minecraft\versions\1.16.5-Forge_36.2.34-OptiFine_G8\
+[09:20:45.868] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[09:20:45.868] [Minecraft] 启动按钮：Minecraft 版本：D:\万里生存服整合包\.minecraft\versions\1.16.5-Forge_36.2.34-OptiFine_G8\
+[09:20:46.290] [Control] 按下按钮：版本选择
+[09:20:46.337] [Control] 切换主要页面：VersionSelect, 0
+[09:20:46.462] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > D:\万里生存服整合包\.minecraft\
+[09:20:46.477] [Minecraft] 有效的 Minecraft 文件夹：沙雕宝可梦 > D:\沙雕宝可梦\.minecraft\
+[09:20:47.758] [Control] 按下图标按钮：BtnTitleInner
+[09:20:47.758] [Control] 切换主要页面：Launch, -1
+[09:20:48.821] [Control] 按下按钮：版本选择
+[09:20:48.821] [Control] 切换主要页面：VersionSelect, 0
+[09:20:52.929] [Setup] 当前选择的 Minecraft 版本：1.19.4-Fabric 0.14.21-OptiFine_I4
+[09:20:52.929] [Control] 切换主要页面：Launch, -1
+[09:20:52.929] [Control] 按下单击列表项：1.19.4-Fabric 0.14.21-OptiFine_I4
+[09:20:53.054] [Minecraft] 启动按钮：Minecraft 版本：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\
+[09:21:00.107] [Control] 按下按钮：版本设置
+[09:21:00.107] [Control] 切换主要页面：VersionSetup, 0
+[09:21:01.439] [Control] 按下单选列表项：Mod 管理
+[09:21:01.579] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[09:21:01.579] [System] 已刷新 Mod 列表
+[09:21:01.704] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[09:21:02.674] [Control] 按下按钮：打开 Mod 文件夹
+[09:21:02.674] [System] 执行外部命令：explorer.exe "D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\mods\"
+[09:21:25.322] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[09:21:25.322] [System] 已刷新 Mod 列表
+[09:21:25.533] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[09:21:26.338] [Control] 按下图标按钮：BtnTitleInner
+[09:21:26.338] [Control] 切换主要页面：Launch, -1
+[09:21:27.205] [Control] 按下按钮：启动游戏
+[09:21:27.215] [Loader] 加载器 Loader Launch 状态改变：Loading
+[09:21:27.215] [System] 欲读取的文件不存在，已返回空字符串：D:\万里生存服整合包\PCL\hints.txt
+[09:21:27.215] [Launch] 预检测已通过
+[09:21:27.215] [Download] 开始后台更新资源文件索引
+[09:21:27.215] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[09:21:27.215] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[09:21:27.215] [Loader] 加载器 登录 状态改变：Waiting
+[09:21:27.215] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[09:21:27.215] [Download] 版本 1.19.4-Fabric 0.14.21-OptiFine_I4 对应的资源文件索引为 3
+[09:21:27.215] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[09:21:27.215] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[09:21:27.215] [Loader] 加载器 Java 处理 状态改变：Loading
+[09:21:27.230] [Loader] 加载器 Java 验证 状态改变：Loading
+[09:21:27.230] [Loader] 加载器 登录 状态改变：Loading
+[09:21:27.230] [Loader] 加载器 补全文件 状态改变：Loading
+[09:21:27.230] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[09:21:27.230] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[09:21:27.230] [Launch] 登录加载已开始
+[09:21:27.230] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[09:21:27.230] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[09:21:27.230] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[09:21:27.230] [Download] 版本 1.19.4-Fabric 0.14.21-OptiFine_I4 对应的资源文件索引为 3
+[09:21:27.230] [Launch] Java 版本需求：最低 1.17.0.0，最高 1.19.999.999
+[09:21:27.230] [Launch] 登录方式：微软正版（Sarpore_Guiwow）
+[09:21:27.230] [Launch] 微软登录完成
+[09:21:27.230] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[09:21:27.230] [Launch] 登录加载已结束
+[09:21:27.230] [Loader] 加载器 登录 状态改变：Finished
+[09:21:27.230] [Java] 开始完全遍历查找：D:\万里生存服整合包\
+[09:21:27.246] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[09:21:27.246] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[09:21:27.246] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[09:21:27.246] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[09:21:27.277] [Java] 开始完全遍历查找：D:\万里生存服整合包\.minecraft\
+[09:21:27.309] [Download] 3.json 2908#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/50022b5d86a5ddfa8b53712abd05aad9f9039503/3.json
+[09:21:27.309] [Minecraft] 获取支持库列表：1.19.4-Fabric 0.14.21-OptiFine_I4
+[09:21:27.309] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[09:21:27.309] [Loader] 加载器 下载资源文件 状态改变：Loading
+[09:21:27.309] [Loader] 加载器 下载资源文件 状态改变：Finished
+[09:21:27.309] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[09:21:27.450] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[09:21:27.450] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[09:21:27.450] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[09:21:27.450] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[09:21:27.450] [Loader] 加载器 补全文件 状态改变：Finished
+[09:21:27.795] [Java] 开始完全遍历查找：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\
+[09:21:27.806] [System] 执行外部命令并等待返回结果：C:\Program Files\Microsoft\jdk-17.0.6.10-hotspot\bin\java.exe -version
+[09:21:28.140] [Java] 选定的 Java：JDK 17 (17.0.6)，64 位：C:\Program Files\Microsoft\jdk-17.0.6.10-hotspot\bin\
+[09:21:28.140] [Launch] 选择的 Java：JDK 17 (17.0.6)，64 位：C:\Program Files\Microsoft\jdk-17.0.6.10-hotspot\bin\
+[09:21:28.140] [Loader] 加载器 Java 验证 状态改变：Finished
+[09:21:28.140] [Loader] 加载器 Java 处理 状态改变：Finished
+[09:21:28.140] [Loader] 加载器 获取启动参数 状态改变：Loading
+[09:21:28.140] [Launch] 开始获取 Minecraft 启动参数
+[09:21:28.140] [Launch] 获取新版 JVM 参数
+[09:21:28.156] [Launch] 当前剩余内存：2.9G
+[09:21:28.156] [System] 获取资源：JavaWrapper
+[09:21:28.171] [Java] 已释放 Java Wrapper：C:\Users\40877\AppData\Roaming\PCL\JavaWrapper.jar
+[09:21:28.171] [Launch] 新版 JVM 参数获取成功：
+[09:21:28.171] [Launch] -Doolloo.jlw.tmpdir="C:\Users\40877\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx5120m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\40877\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient
+[09:21:28.171] [Launch] 获取新版 Game 参数
+[09:21:28.171] [Launch] 新版 Game 参数获取成功
+[09:21:28.171] [Minecraft] 获取支持库列表：1.19.4-Fabric 0.14.21-OptiFine_I4
+[09:21:28.203] [Launch] Minecraft 启动参数：
+[09:21:28.203] [Launch] -Doolloo.jlw.tmpdir="C:\Users\40877\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\1.19.4-Fabric 0.14.21-OptiFine_I4-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=286 -cp "D:\万里生存服整合包\.minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;D:\万里生存服整合包\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;D:\万里生存服整合包\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\万里生存服整合包\.minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;D:\万里生存服整合包\.minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;D:\万里生存服整合包\.minecraft\libraries\com\mojang\authlib\3.18.38\authlib-3.18.38.jar;D:\万里生存服整合包\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\万里生存服整合包\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\万里生存服整合包\.minecraft\libraries\com\mojang\datafixerupper\6.0.6\datafixerupper-6.0.6.jar;D:\万里生存服整合包\.minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;D:\万里生存服整合包\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\万里生存服整合包\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;D:\万里生存服整合包\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\万里生存服整合包\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\万里生存服整合包\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\万里生存服整合包\.minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;D:\万里生存服整合包\.minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;D:\万里生存服整合包\.minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;D:\万里生存服整合包\.minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;D:\万里生存服整合包\.minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;D:\万里生存服整合包\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;D:\万里生存服整合包\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;D:\万里生存服整合包\.minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;D:\万里生存服整合包\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;D:\万里生存服整合包\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;D:\万里生存服整合包\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;D:\万里生存服整合包\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\万里生存服整合包\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\万里生存服整合包\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\万里生存服整合包\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\万里生存服整合包\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;D:\万里生存服整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;D:\万里生存服整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;D:\万里生存服整合包\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;D:\万里生存服整合包\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;D:\万里生存服整合包\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;D:\万里生存服整合包\.minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;D:\万里生存服整合包\.minecraft\libraries\net\fabricmc\tiny-mappings-parser\0.3.0+build.17\tiny-mappings-parser-0.3.0+build.17.jar;D:\万里生存服整合包\.minecraft\libraries\net\fabricmc\sponge-mixin\0.12.5+mixin.0.8.5\sponge-mixin-0.12.5+mixin.0.8.5.jar;D:\万里生存服整合包\.minecraft\libraries\net\fabricmc\tiny-remapper\0.8.2\tiny-remapper-0.8.2.jar;D:\万里生存服整合包\.minecraft\libraries\net\fabricmc\access-widener\2.1.0\access-widener-2.1.0.jar;D:\万里生存服整合包\.minecraft\libraries\org\ow2\asm\asm\9.5\asm-9.5.jar;D:\万里生存服整合包\.minecraft\libraries\org\ow2\asm\asm-analysis\9.5\asm-analysis-9.5.jar;D:\万里生存服整合包\.minecraft\libraries\org\ow2\asm\asm-commons\9.5\asm-commons-9.5.jar;D:\万里生存服整合包\.minecraft\libraries\org\ow2\asm\asm-tree\9.5\asm-tree-9.5.jar;D:\万里生存服整合包\.minecraft\libraries\org\ow2\asm\asm-util\9.5\asm-util-9.5.jar;D:\万里生存服整合包\.minecraft\libraries\net\fabricmc\intermediary\1.19.4\intermediary-1.19.4.jar;D:\万里生存服整合包\.minecraft\libraries\net\fabricmc\fabric-loader\0.14.21\fabric-loader-0.14.21.jar;D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\1.19.4-Fabric 0.14.21-OptiFine_I4.jar" -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx5120m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\40877\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient --username Sarpore_Guiwow --version "1.19.4-Fabric 0.14.21-OptiFine_I4" --gameDir "D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4" --assetsDir "D:\万里生存服整合包\.minecraft\assets" --assetIndex 3 --uuid bef59ce961b947429bcbc09d788c0d9b --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXhpy8 --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType VAPE_Client --width 854 --height 480 
+[09:21:28.203] [Loader] 加载器 获取启动参数 状态改变：Finished
+[09:21:28.203] [Loader] 加载器 解压文件 状态改变：Loading
+[09:21:28.207] [Launch] 正在解压 Natives 文件
+[09:21:28.207] [Loader] 加载器 解压文件 状态改变：Finished
+[09:21:28.266] [Loader] 加载器 预启动处理 状态改变：Loading
+[09:21:28.266] [Download] 3.json：文件大小 409894 B（400 K）
+[09:21:28.297] [Launch] 已更新 launcher_profiles.json
+[09:21:28.297] [Launch] 已根据设置自动修改语言为中文
+[09:21:28.313] [Loader] 加载器 预启动处理 状态改变：Finished
+[09:21:28.329] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[09:21:28.329] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[09:21:28.391] [Loader] 加载器 启动进程 状态改变：Loading
+[09:21:28.408] [Launch] 已启动游戏进程：C:\Program Files\Microsoft\jdk-17.0.6.10-hotspot\bin\javaw.exe
+[09:21:28.408] [Loader] 加载器 启动进程 状态改变：Finished
+[09:21:28.470] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[09:21:28.470] [Launch] 
+[09:21:28.470] [Launch] ~ 基础参数 ~
+[09:21:28.470] [Launch] PCL 版本：Release 2.5.2 (286)
+[09:21:28.470] [Launch] 游戏版本：1.19.4, Fabric 0.14.21（19.4）
+[09:21:28.470] [Launch] 资源版本：3
+[09:21:28.470] [Launch] 版本继承：无
+[09:21:28.470] [Launch] 分配的内存：5 GB（5120 MB）
+[09:21:28.470] [Launch] MC 文件夹：D:\万里生存服整合包\.minecraft\
+[09:21:28.470] [Launch] 版本文件夹：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\
+[09:21:28.470] [Launch] 版本隔离：True
+[09:21:28.470] [Launch] HMCL 格式：False
+[09:21:28.470] [Launch] Java 信息：JDK 17 (17.0.6)，64 位：C:\Program Files\Microsoft\jdk-17.0.6.10-hotspot\bin\
+[09:21:28.470] [Launch] 环境变量：已设置
+[09:21:28.470] [Launch] 
+[09:21:28.470] [Launch] ~ 登录参数 ~
+[09:21:28.470] [Launch] 玩家用户名：Sarpore_Guiwow
+[09:21:28.470] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXhpy8
+[09:21:28.470] [Launch] ClientToken：bef59ce961b947429bcbc09d788c0d9b
+[09:21:28.470] [Launch] UUID：bef59ce961b947429bcbc09d788c0d9b
+[09:21:28.470] [Launch] 登录方式：Microsoft
+[09:21:28.470] [Launch] 
+[09:21:28.470] [Launch] [13016] 开始 Minecraft 日志监控
+[09:21:28.470] [Launch] [13016] 要求窗口标题：VAPE_Client {time} Sarpore_Guiwow
+[09:21:28.470] [Launch] [全局] 出现运行中的 Minecraft
+[09:21:28.485] [Launch] [13016] 日志 1/5：已出现日志输出
+[09:21:29.254] [Download] 3.json：已完成，剩余文件 0
+[09:21:29.254] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[09:21:29.254] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[09:21:29.254] [Launch] 后台更新资源文件索引成功：C:\Users\40877\AppData\Local\Temp\PCL\Cache\3.json
+[09:21:29.254] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[09:21:29.254] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[09:21:52.421] [Animation] 两个动画帧间隔 219 ms
+[09:21:56.820] [Launch] [13016] Minecraft 已退出，返回值：1
+[09:21:56.820] [Launch] [13016] Minecraft 尚未加载完成，可能已崩溃
+[09:21:56.820] [Launch] [全局] 已无运行中的 Minecraft
+[09:21:56.820] [Launch] [13016] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[09:21:56.888] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[09:21:56.933] 加载线程 等待游戏窗口出现 (16) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[09:21:56.933] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[09:21:56.933] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[09:21:57.030] 加载线程 Loader Launch (154) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[09:21:57.030] [Loader] 加载器 Loader Launch 状态改变：Failed
+[09:21:57.046] [Launch] [13016] Minecraft 日志监控已退出
+[09:21:58.837] [Launch] [13016] 崩溃分析开始
+[09:21:58.837] [Crash] 崩溃分析暂存文件夹：C:\Users\40877\AppData\Local\Temp\PCL\CrashAnalyzer\1301656121357\
+[09:21:58.853] [Crash] 步骤 1：收集日志文件
+[09:21:58.853] [Crash] 可能可用的日志文件：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\logs\latest.log（0 分钟）
+[09:21:58.859] [Crash] 以下为游戏输出的最后一段内容：
+Same: notch/net/optifine/reflect/ReflectorMethod.class
+Same: notch/net/optifine/reflect/ReflectorRaw.class
+Same: notch/net/optifine/reflect/ReflectorResolver.class
+Same: notch/net/optifine/render/AabbFrame.class
+Same: notch/net/optifine/render/Blender.class
+Same: notch/net/optifine/render/BoxVertexPositions.class
+Same: notch/net/optifine/render/ChunkLayerMap.class
+Same: notch/net/optifine/render/ChunkLayerSet.class
+Same: notch/net/optifine/render/ChunkVisibility.class
+Same: notch/net/optifine/render/GLConst.class
+Same: notch/net/optifine/render/GlAlphaState.class
+Same: notch/net/optifine/render/GlBlendState.class
+Same: notch/net/optifine/render/GlCullState.class
+Same: notch/net/optifine/render/ICamera.class
+Same: notch/net/optifine/render/LightCacheOF.class
+Same: notch/net/optifine/render/MultiTextureBuilder.class
+Same: notch/net/optifine/render/MultiTextureData.class
+Same: notch/net/optifine/render/MultiTextureRenderer.class
+Same: notch/net/optifine/render/QuadVertexPositions.class
+Same: notch/net/optifine/render/RenderEnv.class
+Same: notch/net/optifine/render/RenderStateManager.class
+Same: notch/net/optifine/render/RenderTypes.class
+Same: notch/net/optifine/render/RenderUtils.class
+Same: notch/net/optifine/render/SpriteRenderData.class
+Same: notch/net/optifine/render/TestMath.class
+Same: notch/net/optifine/render/VboRange.class
+Same: notch/net/optifine/render/VboRegion.class
+Same: notch/net/optifine/render/VertexBuilderDummy.class
+Same: notch/net/optifine/render/VertexBuilderWrapper.class
+Same: notch/net/optifine/render/VertexPosition.class
+Same: notch/net/optifine/shaders/BlockAlias.class
+Same: notch/net/optifine/shaders/BlockAliases.class
+Same: notch/net/optifine/shaders/ClippingHelperDummy.class
+Same: notch/net/optifine/shaders/ClippingHelperShadow.class
+Same: notch/net/optifine/shaders/ComputeProgram.class
+Same: notch/net/optifine/shaders/CustomTexture.class
+Same: notch/net/optifine/shaders/CustomTextureLocation.class
+Same: notch/net/optifine/shaders/CustomTextureRaw$1.class
+Same: notch/net/optifine/shaders/CustomTextureRaw.class
+Same: notch/net/optifine/shaders/DefaultShaders.class
+Same: notch/net/optifine/shaders/DrawBuffers.class
+Same: notch/net/optifine/shaders/EntityAliases.class
+Same: notch/net/optifine/shaders/FixedFramebuffer.class
+Same: notch/net/optifine/shaders/FlipTextures.class
+Same: notch/net/optifine/shaders/GlState.class
+Same: notch/net/optifine/shaders/HFNoiseTexture.class
+Same: notch/net/optifine/shaders/ICustomTexture.class
+Same: notch/net/optifine/shaders/IShaderPack.class
+Same: notch/net/optifine/shaders/ITextureFormat.class
+Same: notch/net/optifine/shaders/ItemAliases.class
+Same: notch/net/optifine/shaders/Iterator3d.class
+Same: notch/net/optifine/shaders/IteratorAxis.class
+Same: notch/net/optifine/shaders/IteratorRenderChunks.class
+Same: notch/net/optifine/shaders/MultiTexID.class
+Same: notch/net/optifine/shaders/Program.class
+Same: notch/net/optifine/shaders/ProgramStack.class
+Same: notch/net/optifine/shaders/ProgramStage.class
+Same: notch/net/optifine/shaders/ProgramUtils.class
+Same: notch/net/optifine/shaders/Programs.class
+Same: notch/net/optifine/shaders/RenderStage.class
+Same: notch/net/optifine/shaders/SMCLog.class
+Same: notch/net/optifine/shaders/SMath.class
+Same: notch/net/optifine/shaders/SVertexAttrib.class
+Same: notch/net/optifine/shaders/SVertexBuilder.class
+Same: notch/net/optifine/shaders/SVertexFormat.class
+Same: notch/net/optifine/shaders/ShaderPackDefault.class
+Same: notch/net/optifine/shaders/ShaderPackFolder.class
+Same: notch/net/optifine/shaders/ShaderPackNone.class
+Same: notch/net/optifine/shaders/ShaderPackZip.class
+Same: notch/net/optifine/shaders/ShaderProgramData.class
+Same: notch/net/optifine/shaders/ShaderUtils.class
+Same: notch/net/optifine/shaders/Shaders$1.class
+Same: notch/net/optifine/shaders/Shaders.class
+Same: notch/net/optifine/shaders/ShadersCompatibility$1.class
+Same: notch/net/optifine/shaders/ShadersCompatibility.class
+Same: notch/net/optifine/shaders/ShadersFramebuffer.class
+Same: notch/net/optifine/shaders/ShadersRender.class
+Same: notch/net/optifine/shaders/ShadersTex.class
+Same: notch/net/optifine/shaders/ShadersTextureType.class
+Same: notch/net/optifine/shaders/ShadowFrustum.class
+Same: notch/net/optifine/shaders/ShadowUtils.class
+Same: notch/net/optifine/shaders/SimpleShaderTexture.class
+Same: notch/net/optifine/shaders/TextureFormatLabPbr.class
+Same: notch/net/optifine/shaders/config/EnumShaderOption.class
+Same: notch/net/optifine/shaders/config/ExpressionShaderOptionSwitch.class
+Same: notch/net/optifine/shaders/config/HeaderLine.class
+Same: notch/net/optifine/shaders/config/HeaderLineFunction.class
+Same: notch/net/optifine/shaders/config/HeaderLineText.class
+Same: notch/net/optifine/shaders/config/HeaderLineUniform.class
+Same: notch/net/optifine/shaders/config/HeaderLineVariable.class
+Same: notch/net/optifine/shaders/config/MacroExpressionResolver.class
+Same: notch/net/optifine/shaders/config/MacroProcessor.class
+Same: notch/net/optifine/shaders/config/MacroState.class
+Same: notch/net/optifine/shaders/config/Property.class
+Same: notch/net/optifine/shaders/config/PropertyDefaultFastFancyOff.class
+Same: notch/net/optifine/shaders/config/PropertyDefaultTrueFalse.class
+Same: notch/net/optifine/shaders/config/RenderScale.class
+Same: notch/net/optifine/shaders/config/ScreenShaderOptions.class
+Same: notch/net/optifine/shaders/config/ShaderLine$Type.class
+Same: notch/net/optifine/shaders/config/ShaderLine.class
+Same: notch/net/optifine/shaders/config/ShaderMacro.class
+Same: notch/net/optifine/shaders/config/ShaderMacros$1.class
+Same: notch/net/optifine/shaders/config/ShaderMacros.class
+Same: notch/net/optifine/shaders/config/ShaderOption.class
+Same: notch/net/optifine/shaders/config/ShaderOptionProfile.class
+Same: notch/net/optifine/shaders/config/ShaderOptionResolver.class
+Same: notch/net/optifine/shaders/config/ShaderOptionRest.class
+Same: notch/net/optifine/shaders/config/ShaderOptionScreen.class
+Same: notch/net/optifine/shaders/config/ShaderOptionSwitch.class
+Same: notch/net/optifine/shaders/config/ShaderOptionSwitchConst.class
+Same: notch/net/optifine/shaders/config/ShaderOptionVariable.class
+Same: notch/net/optifine/shaders/config/ShaderOptionVariableConst.class
+Same: notch/net/optifine/shaders/config/ShaderPackParser$1.class
+Same: notch/net/optifine/shaders/config/ShaderPackParser.class
+Same: notch/net/optifine/shaders/config/ShaderParser.class
+Same: notch/net/optifine/shaders/config/ShaderProfile.class
+Same: notch/net/optifine/shaders/config/ShaderType.class
+Same: notch/net/optifine/shaders/gui/GuiButtonDownloadShaders.class
+Same: notch/net/optifine/shaders/gui/GuiButtonEnumShaderOption$1.class
+Same: notch/net/optifine/shaders/gui/GuiButtonEnumShaderOption.class
+Same: notch/net/optifine/shaders/gui/GuiButtonShaderOption.class
+Same: notch/net/optifine/shaders/gui/GuiShaderOptions.class
+Same: notch/net/optifine/shaders/gui/GuiShaders$1.class
+Same: notch/net/optifine/shaders/gui/GuiShaders.class
+Same: notch/net/optifine/shaders/gui/GuiSliderShaderOption.class
+Same: notch/net/optifine/shaders/gui/GuiSlotShaders.class
+Same: notch/net/optifine/shaders/uniform/CustomUniform.class
+Same: notch/net/optifine/shaders/uniform/CustomUniforms.class
+Same: notch/net/optifine/shaders/uniform/ShaderExpressionResolver.class
+Same: notch/net/optifine/shaders/uniform/ShaderParameterBool$1.class
+Same: notch/net/optifine/shaders/uniform/ShaderParameterBool.class
+Same: notch/net/optifine/shaders/uniform/ShaderParameterFloat$1.class
+Same: notch/net/optifine/shaders/uniform/ShaderParameterFloat.class
+Same: notch/net/optifine/shaders/uniform/ShaderParameterIndexed.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform1f.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform1i.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform2f.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform2i.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform3f.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform4f.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform4i.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniformBase.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniformM3.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniformM4.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniforms.class
+Same: notch/net/optifine/shaders/uniform/Smoother.class
+Same: notch/net/optifine/shaders/uniform/UniformType$1.class
+Same: notch/net/optifine/shaders/uniform/UniformType.class
+Same: notch/net/optifine/texture/BlenderLinear.class
+Same: notch/net/optifine/texture/BlenderSplit.class
+Same: notch/net/optifine/texture/ColorBlenderAlpha.class
+Same: notch/net/optifine/texture/ColorBlenderKeepAlpha.class
+Same: notch/net/optifine/texture/ColorBlenderLabPbrSpecular.class
+Same: notch/net/optifine/texture/ColorBlenderLinear.class
+Same: notch/net/optifine/texture/ColorBlenderSeparate.class
+Same: notch/net/optifine/texture/IBlender.class
+Same: notch/net/optifine/texture/IColorBlender.class
+Same: notch/net/optifine/texture/InternalFormat.class
+Same: notch/net/optifine/texture/PixelFormat.class
+Same: notch/net/optifine/texture/PixelType.class
+Same: notch/net/optifine/texture/SpriteSourceCollector.class
+Same: notch/net/optifine/texture/TextureType.class
+Same: notch/net/optifine/util/ArrayCache.class
+Same: notch/net/optifine/util/ArrayCaches.class
+Same: notch/net/optifine/util/ArrayUtils.class
+Same: notch/net/optifine/util/BiomeCategory.class
+Same: notch/net/optifine/util/BiomeUtils.class
+Same: notch/net/optifine/util/BlockUtils$1.class
+Same: notch/net/optifine/util/BlockUtils$RenderSideCacheKey.class
+Same: notch/net/optifine/util/BlockUtils.class
+Same: notch/net/optifine/util/BufferUtil$1.class
+Same: notch/net/optifine/util/BufferUtil.class
+Same: notch/net/optifine/util/CacheLocal.class
+Same: notch/net/optifine/util/CacheLocalByte.class
+Same: notch/net/optifine/util/CacheObjectArray.class
+Same: notch/net/optifine/util/ChunkUtils.class
+Same: notch/net/optifine/util/CollectionUtils.class
+Same: notch/net/optifine/util/ColorSamplerM.class
+Same: notch/net/optifine/util/CompactArrayList.class
+Same: notch/net/optifine/util/CompareUtils.class
+Same: notch/net/optifine/util/CompoundIntKey.class
+Same: notch/net/optifine/util/CompoundKey.class
+Same: notch/net/optifine/util/CounterInt.class
+Same: notch/net/optifine/util/DebugUtils.class
+Same: notch/net/optifine/util/DisplayModeComparator.class
+Same: notch/net/optifine/util/DynamicDimension.class
+Same: notch/net/optifine/util/Either.class
+Same: notch/net/optifine/util/EnchantmentUtils.class
+Same: notch/net/optifine/util/EntityTypeUtils.class
+Same: notch/net/optifine/util/EntityUtils.class
+Same: notch/net/optifine/util/ExecutorProxy.class
+Same: notch/net/optifine/util/FastArrayList.class
+Same: notch/net/optifine/util/FileUtils.class
+Same: notch/net/optifine/util/FlagEvent.class
+Same: notch/net/optifine/util/FontUtils$1.class
+Same: notch/net/optifine/util/FontUtils.class
+Same: notch/net/optifine/util/FrameEvent.class
+Same: notch/net/optifine/util/GuiPoint.class
+Same: notch/net/optifine/util/GuiRect.class
+Same: notch/net/optifine/util/GuiUtils.class
+Same: notch/net/optifine/util/IntArray.class
+Same: notch/net/optifine/util/IntExpiringCache$Wrapper.class
+Same: notch/net/optifine/util/IntExpiringCache.class
+Same: notch/net/optifine/util/IntegratedServerUtils.class
+Same: notch/net/optifine/util/ItemUtils.class
+Same: notch/net/optifine/util/IteratorCache$IteratorReadOnly.class
+Same: notch/net/optifine/util/IteratorCache$IteratorReusable.class
+Same: notch/net/optifine/util/IteratorCache.class
+Same: notch/net/optifine/util/Json.class
+Same: notch/net/optifine/util/KeyUtils.class
+Same: notch/net/optifine/util/LineBuffer$Itr.class
+Same: notch/net/optifine/util/LineBuffer.class
+Same: notch/net/optifine/util/LinkedList$1.class
+Same: notch/net/optifine/util/LinkedList$Node.class
+Same: notch/net/optifine/util/LinkedList.class
+Same: notch/net/optifine/util/LinkedListTest.class
+Same: notch/net/optifine/util/LockCounter.class
+Same: notch/net/optifine/util/MathUtils.class
+Same: notch/net/optifine/util/MathUtilsTest$1.class
+Same: notch/net/optifine/util/MathUtilsTest$OPER.class
+Same: notch/net/optifine/util/MathUtilsTest.class
+Same: notch/net/optifine/util/MemoryMonitor.class
+Same: notch/net/optifine/util/NativeMemory$1.class
+Same: notch/net/optifine/util/NativeMemory$2.class
+Same: notch/net/optifine/util/NativeMemory$3.class
+Same: notch/net/optifine/util/NativeMemory.class
+Same: notch/net/optifine/util/NumUtils.class
+Same: notch/net/optifine/util/PacketRunnable.class
+Same: notch/net/optifine/util/PairInt.class
+Same: notch/net/optifine/util/PotionUtils.class
+Same: notch/net/optifine/util/PropertiesOrdered.class
+Same: notch/net/optifine/util/RandomUtils.class
+Same: notch/net/optifine/util/RenderChunkUtils.class
+Same: notch/net/optifine/util/ResUtils.class
+Same: notch/net/optifine/util/SingleIterable.class
+Same: notch/net/optifine/util/SmoothFloat.class
+Same: notch/net/optifine/util/StaticMap.class
+Same: notch/net/optifine/util/StrUtils.class
+Same: notch/net/optifine/util/TextureUtils$1.class
+Same: notch/net/optifine/util/TextureUtils$2.class
+Same: notch/net/optifine/util/TextureUtils$3.class
+Same: notch/net/optifine/util/TextureUtils.class
+Same: notch/net/optifine/util/TickableTexture.class
+Same: notch/net/optifine/util/TileEntityUtils.class
+Same: notch/net/optifine/util/TimedEvent.class
+Same: notch/net/optifine/util/UnsafeUtils.class
+Same: notch/net/optifine/util/VideoModeComparator.class
+Same: notch/net/optifine/util/WorldUtils.class
+Mod: notch/o.class
+Mod: notch/vd.class
+Same: optifine/AccessFixer.class
+Same: optifine/Differ.class
+Same: optifine/HashUtils.class
+Same: optifine/IOptiFineResourceLocator.class
+Same: optifine/IResourceProvider.class
+Same: optifine/Installer.class
+Same: optifine/InstallerFrame$IvjEventHandler.class
+Same: optifine/InstallerFrame.class
+Same: optifine/LaunchUtils.class
+Same: optifine/OptiFineClassTransformer.class
+Same: optifine/OptiFineForgeTweaker.class
+Same: optifine/OptiFineJar.class
+Same: optifine/OptiFineResourceLocator.class
+Same: optifine/OptiFineTransformationService.class
+Same: optifine/OptiFineTransformer.class
+Same: optifine/OptiFineTweaker.class
+Same: optifine/Patcher.class
+Same: optifine/ProfileIcon.class
+Same: optifine/Utils$OS.class
+Same: optifine/Utils.class
+Same: optifine/ZipResourceProvider.class
+Same: optifine/json/ContainerFactory.class
+Same: optifine/json/ContentHandler.class
+Same: optifine/json/ItemList.class
+Same: optifine/json/JSONArray.class
+Same: optifine/json/JSONAware.class
+Same: optifine/json/JSONObject.class
+Same: optifine/json/JSONParser.class
+Same: optifine/json/JSONStreamAware.class
+Same: optifine/json/JSONValue.class
+Same: optifine/json/JSONWriter.class
+Same: optifine/json/ParseException.class
+Same: optifine/json/Yylex.class
+Same: optifine/json/Yytoken.class
+Same: optifine/xdelta/BitArray.class
+Same: optifine/xdelta/ByteArraySeekableSource.class
+Same: optifine/xdelta/Checksum.class
+Same: optifine/xdelta/DebugDiffWriter.class
+Same: optifine/xdelta/Delta.class
+Same: optifine/xdelta/DeltaException.class
+Same: optifine/xdelta/DiffWriter.class
+Same: optifine/xdelta/EratosthenesPrimes.class
+Same: optifine/xdelta/GDiffPatcher.class
+Same: optifine/xdelta/GDiffWriter.class
+Same: optifine/xdelta/PatchException.class
+Same: optifine/xdelta/RandomAccessFileSeekableSource.class
+Same: optifine/xdelta/SeekableSource.class
+Same: optifine/xdelta/SeekableSourceInputStream.class
+Same: optifine/xdelta/SimplePrime.class
+Same: optifine/xdelta/licence.txt
+Same: patch.cfg
+De-Volderfiying jar
+Fuzzing aic#lambda$chunkGenerate$27(Ldds;Ljava/util/concurrent/Executor;Laib;Lclp;Lcom/mojang/datafixers/util/Either;)Ljava/util/concurrent/CompletionStage; as a(Lclp;Laib;Ldds;Ljava/util/concurrent/Executor;Lcom/mojang/datafixers/util/Either;)Ljava/util/concurrent/CompletionStage;
+Fuzzing aic#lambda$chunkGenerate$25(Ldds;Ljava/util/concurrent/Executor;Laib;Lclp;Ljava/util/List;)Ljava/util/concurrent/CompletableFuture; as a(Lclp;Laib;Ldds;Ljava/util/concurrent/Executor;Ljava/util/List;)Ljava/util/concurrent/CompletableFuture;
+Fuzzing ems#lambda$saveScreenshotRaw$2(Legf;Ljava/io/File;Ljava/lang/Object;Ljava/util/function/Consumer;)V as a(Legf;Ljava/io/File;Ljava/util/function/Consumer;)V
+Fuzzing fkc#lambda$renderItem$1(Lcze;Lfkd;Lehe;Lfig;II)V as a(Lfkd;Lcze;Lehe;Lfig;II)V
+Fuzzing frk#lambda$renderParrot$1(Lbym;ZLre;Lehe;Lfig;IFFFFLbfl;)V as a(Lehe;ZLbym;Lre;Lfig;IFFFFLbfl;)V
+Fuzzing fsx#lambda$loadAndStitch$5(Lalh;Ladd;I)Ljava/util/List; as a(Lalh;Ladd;)Ljava/util/List;
+Fuzzing fsx#lambda$getStitchedSprites$8(IILjava/util/Map;Lfsw;II)V as a(Ljava/util/Map;IILfsw;II)V
+Fuzzing vd#lambda$checkThreadAndEnqueue$0(Lvb;Lsx;)V as a(Lsx;Lvb;)V
+Remapping optifine from official to intermediary
+Found 410 patched classes
+[09:21:56] [main/ERROR]: Injection error: LVT in net/minecraft/class_757::method_3192(FJZ)V has incompatible changes at opcode 599 in callback fabric-screen-api-v1.mixins.json:GameRendererMixin from mod fabric-screen-api-v1->@Inject::onBeforeRenderScreen(FJZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;IILnet/minecraft/class_4587;Lnet/minecraft/class_4587;)V.
+ Expected: [I, I, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;]
+    Found: [I, I, Lnet/minecraft/class_1041;, F]
+Available: [I, I, Lnet/minecraft/class_1041;, F, Lorg/joml/Matrix4f;, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;, Ljava/lang/Throwable;, Lnet/minecraft/class_128;, Lnet/minecraft/class_129;]
+[09:21:56] [main/ERROR]: Injection error: LVT in net/minecraft/class_757::method_3192(FJZ)V has incompatible changes at opcode 610 in callback fabric-screen-api-v1.mixins.json:GameRendererMixin from mod fabric-screen-api-v1->@Inject::onAfterRenderScreen(FJZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;IILnet/minecraft/class_4587;Lnet/minecraft/class_4587;)V.
+ Expected: [I, I, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;]
+    Found: [I, I, Lnet/minecraft/class_1041;, F]
+Available: [I, I, Lnet/minecraft/class_1041;, F, Lorg/joml/Matrix4f;, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;, Ljava/lang/Throwable;, Lnet/minecraft/class_128;, Lnet/minecraft/class_129;]
+[09:21:56] [main/ERROR]: Mixin apply for mod optifabric failed optifabric.compat.fabric-screen-api.newerer-mixins.json:GameRendererNewererMixin from mod optifabric -> net.minecraft.class_757: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException Unexpecteded IllegalStateException whilst transforming the mixin class: [PostApply Phase -> optifabric.compat.fabric-screen-api.newerer-mixins.json:GameRendererNewererMixin from mod optifabric -> Plugin Post-Application]
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Unexpecteded IllegalStateException whilst transforming the mixin class: [PostApply Phase -> optifabric.compat.fabric-screen-api.newerer-mixins.json:GameRendererNewererMixin from mod optifabric -> Plugin Post-Application]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.postApply(MixinTargetContext.java:1286) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:346) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.21.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[?:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[?:?]
+Caused by: java.lang.IllegalStateException: Cannot find shim method onBeforeRenderScreen(FJZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;IILnet/minecraft/class_4587;)V in net/fabricmc/fabric/mixin/screen/GameRendererMixin
+	at me.modmuss50.optifabric.compat.InterceptingMixinPlugin.lambda$postApply$2(InterceptingMixinPlugin.java:135) ~[optifabric-1.13.24.jar:?]
+	at java.util.stream.Collectors.lambda$uniqKeysMapAccumulator$1(Collectors.java:180) ~[?:?]
+	at java.util.stream.ReduceOps$3ReducingSink.accept(ReduceOps.java:169) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at me.modmuss50.optifabric.compat.InterceptingMixinPlugin.postApply(InterceptingMixinPlugin.java:131) ~[optifabric-1.13.24.jar:?]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.postApply(PluginHandle.java:189) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.postApply(MixinInfo.java:1372) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.postApply(MixinTargetContext.java:1275) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	... 28 more
+[09:21:56] [main/ERROR]: Minecraft has crashed!
+net.fabricmc.loader.impl.FormattedException: java.lang.ExceptionInInitializerError
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:63) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.21.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[?:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more
+Caused by: java.lang.RuntimeException: Mixin transformation of net.minecraft.class_757 failed
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:427) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more
+Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [optifabric.compat.fabric-screen-api.newerer-mixins.json:GameRendererNewererMixin from mod optifabric] from phase [DEFAULT] in config [optifabric.compat.fabric-screen-api.newerer-mixins.json] FAILED during APPLY
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:638) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:589) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:379) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Unexpecteded IllegalStateException whilst transforming the mixin class: [PostApply Phase -> optifabric.compat.fabric-screen-api.newerer-mixins.json:GameRendererNewererMixin from mod optifabric -> Plugin Post-Application]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.postApply(MixinTargetContext.java:1286) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:346) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more
+Caused by: java.lang.IllegalStateException: Cannot find shim method onBeforeRenderScreen(FJZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;IILnet/minecraft/class_4587;)V in net/fabricmc/fabric/mixin/screen/GameRendererMixin
+	at me.modmuss50.optifabric.compat.InterceptingMixinPlugin.lambda$postApply$2(InterceptingMixinPlugin.java:135) ~[optifabric-1.13.24.jar:?]
+	at java.util.stream.Collectors.lambda$uniqKeysMapAccumulator$1(Collectors.java:180) ~[?:?]
+	at java.util.stream.ReduceOps$3ReducingSink.accept(ReduceOps.java:169) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at me.modmuss50.optifabric.compat.InterceptingMixinPlugin.postApply(InterceptingMixinPlugin.java:131) ~[optifabric-1.13.24.jar:?]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.postApply(PluginHandle.java:189) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.postApply(MixinInfo.java:1372) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.postApply(MixinTargetContext.java:1275) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:346) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more
+[09:21:58.859] [Crash] 步骤 1：收集日志文件完成，收集到 2 个文件
+[09:21:58.869] [Crash] 步骤 2：准备日志文本
+[09:21:58.869] [Crash] latest.log 分类为 MinecraftLog
+[09:21:58.869] [Crash] RawOutput.log 分类为 MinecraftLog
+[09:21:58.869] [Crash] 输出报告：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\logs\latest.log，作为 Minecraft 或启动器日志
+[09:21:58.869] [Crash] 输出报告：C:\Users\40877\AppData\Local\Temp\PCL\CrashAnalyzer\1301656121357\RawOutput.log，作为 Minecraft 或启动器日志
+[09:21:58.869] [Crash] 导入分析：C:\Users\40877\AppData\Local\Temp\PCL\CrashAnalyzer\1301656121357\RawOutput.log，作为启动器日志
+[09:21:58.869] [Crash] 导入分析：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\logs\latest.log，作为 Minecraft 日志
+[09:21:58.869] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[09:21:58.869] [Crash] 步骤 3：分析崩溃原因
+[09:21:58.869] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[09:21:58.869] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[09:21:58.919] [System] 窗口已置顶，位置：(687, 309), 854 x 473
+[09:21:58.926] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[09:22:01.103] [Control] 按下按钮：查看日志
+[09:22:01.103] [System] 执行外部命令：D:\万里生存服整合包\.minecraft\versions\1.19.4-Fabric 0.14.21-OptiFine_I4\logs\latest.log 
+[09:22:09.785] [Control] 按下按钮：导出错误报告
+[09:22:09.801] [Control] 普通弹框返回：3
+[09:22:10.130] [Animation] 两个动画帧间隔 235 ms
+[09:22:15.297] [UI] 选择文件返回：C:\Users\40877\Desktop\错误报告-2023-5-27_9.22.09.zip
+[09:22:15.344] [System] 诊断信息：
+操作系统：Microsoft Windows 11 专业版
+剩余内存：3470 M / 7961 M
+DPI：96（100%）
+MC 文件夹：D:\万里生存服整合包\.minecraft\
+文件位置：D:\万里生存服整合包\

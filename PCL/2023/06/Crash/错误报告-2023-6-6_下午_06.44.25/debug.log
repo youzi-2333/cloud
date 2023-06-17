@@ -1,0 +1,55 @@
+[066月2023 18:44:20.422] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Pinetum_KFZ, --version, 1.18.2, --gameDir, C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2, --assetsDir, C:\Users\Pinetum\AppData\Roaming\.minecraft\assets, --assetIndex, 1.18, --uuid, c4ebe5086f69444b82a830754e119070, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, Pinetum, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, --tweakClass, optifine.OptiFineForgeTweaker]
+[066月2023 18:44:20.436] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.2 by Eclipse Adoptium
+[066月2023 18:44:20.497] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [fmlclientdev,forgeclient,minecraft,forgegametestserverdev,fmlserveruserdev,fmlclient,fmldatauserdev,forgeserverdev,forgeserveruserdev,forgeclientdev,forgeclientuserdev,forgeserver,forgedatadev,fmlserver,fmlclientuserdev,fmlserverdev,forgedatauserdev,testharness,forgegametestserveruserdev]
+[066月2023 18:44:20.566] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : [srgtomcp]
+[066月2023 18:44:20.620] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [mixin,eventbus,slf4jfixer,object_holder_definalize,runtime_enum_extender,capability_token_subclass,accesstransformer,runtimedistcleaner]
+[066月2023 18:44:20.668] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
+[066月2023 18:44:20.742] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: java.util.stream.ReferencePipeline$3@7a560583
+[066月2023 18:44:20.812] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [mixin,OptiFine,fml,I18nUpdateMod]
+[066月2023 18:44:20.812] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
+[066月2023 18:44:20.815] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service mixin
+[066月2023 18:44:20.816] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service mixin
+[066月2023 18:44:20.816] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service OptiFine
+[066月2023 18:44:20.816] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[066月2023 18:44:20.821] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/C:/Users/Pinetum/AppData/Roaming/.minecraft/libraries/optifine/OptiFine/1.18.2_HD_U_H9_pre2/OptiFine-1.18.2_HD_U_H9_pre2.jar%2352!/
+[066月2023 18:44:20.825] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.18.2_HD_U_H9_pre2\OptiFine-1.18.2_HD_U_H9_pre2.jar
+[066月2023 18:44:20.835] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[066月2023 18:44:20.845] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service OptiFine
+[066月2023 18:44:20.845] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
+[066月2023 18:44:20.852] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 1.0
+[066月2023 18:44:20.853] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 1.0 loading
+[066月2023 18:44:20.853] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 9.1.3+9.1.3+main.9b69c82a
+[066月2023 18:44:20.853] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 8.0.4+66+master.c09db6d7
+[066月2023 18:44:20.855] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 5.0.3+70+master.d7d405b
+[066月2023 18:44:20.856] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
+[066月2023 18:44:20.861] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 5.0.1+15+master.dc5a2922
+[066月2023 18:44:20.863] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 4.0.15-4.x+4.0.15-4.x+4.x.038e91c0
+[066月2023 18:44:20.863] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 4
+[066月2023 18:44:20.882] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
+[066月2023 18:44:20.882] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service I18nUpdateMod
+[066月2023 18:44:20.884] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service I18nUpdateMod
+[066月2023 18:44:20.886] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
+[066月2023 18:44:20.907] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
+[066月2023 18:44:20.908] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service mixin
+[066月2023 18:44:20.987] [main/DEBUG] [mixin/]: MixinService [ModLauncher] was successfully booted in cpw.mods.cl.ModuleClassLoader@2eda0940
+[066月2023 18:44:21.080] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Pinetum/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2349!/ Service=ModLauncher Env=CLIENT
+[066月2023 18:44:21.096] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
+[066月2023 18:44:21.096] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[066月2023 18:44:21.099] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[066月2023 18:44:21.101] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[066月2023 18:44:21.102] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[066月2023 18:44:21.103] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[066月2023 18:44:21.117] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service mixin
+[066月2023 18:44:21.117] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service OptiFine
+[066月2023 18:44:21.117] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[066月2023 18:44:21.117] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service OptiFine
+[066月2023 18:44:21.117] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
+[066月2023 18:44:21.117] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
+[066月2023 18:44:21.120] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing GAMEDIR directory : C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2
+[066月2023 18:44:21.122] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2
+[066月2023 18:44:21.122] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing MODSDIR directory : C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\mods
+[066月2023 18:44:21.122] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\mods
+[066月2023 18:44:21.122] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing CONFIGDIR directory : C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\config
+[066月2023 18:44:21.122] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\config
+[066月2023 18:44:21.122] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\config\fml.toml
+[066月2023 18:44:21.122] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration

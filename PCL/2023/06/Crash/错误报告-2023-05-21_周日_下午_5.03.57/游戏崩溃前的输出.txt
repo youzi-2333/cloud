@@ -1,0 +1,500 @@
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REIPlugin of REIPlugin [betterend]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REIPlugin of REIPlugin [artifacts]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) SpiritPlugin of SpiritPlugin [spirit]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REIClientIntegration of REIClientIntegration [spectrum]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ClientPlugin of ClientPlugin [roughly_enough_trades]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReltClient of ReltClient [roughly_enough_loot_tables]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) MythicMetalsREIClientPlugin of MythicMetalsREIClientPlugin [mythicmetals]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REICompat of REICompat [lychee]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiCompat of ReiCompat [ellemes_container_lib]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) AlloyForgeryClientPlugin of AlloyForgeryClientPlugin [alloy_forgery]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REI of REI [twilightforest]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REICompat of REICompat [the_bumblezone]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) PluginEntry of PluginEntry [roughlyenoughresources]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REPClientPlugin of REPClientPlugin [roughlyenoughprofessions]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REICompat of REICompat [jade]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FTBQuestsREIIntegration of FTBQuestsREIIntegration [ftbquests]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) CharmReiServerPlugin of CharmReiServerPlugin [charm]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) CharmReiClientPlugin of CharmReiClientPlugin [charm]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REITooltipPlugin of REITooltipPlugin [appleskin]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REICommonIntegration of REICommonIntegration [spectrum]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReltServer of ReltServer [roughly_enough_loot_tables]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) AlloyForgeryCommonPlugin of AlloyForgeryCommonPlugin [alloy_forgery]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (10000000.00) KubeJSREIPlugin of KubeJSREIPlugin [kubejs]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI] ########################################
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI] REIClientPlugin starting main-reload for END.
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI] Plugins (34):
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REIPlugin of REIPlugin [nbtcrafting]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) BotaniaREIPlugin of BotaniaREIPlugin [botania]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) RoughlyEnoughItemsIntegration of RoughlyEnoughItemsIntegration [waystones]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiClientCompat of ReiClientCompat [travelersbackpack]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) RoughlyEnoughItemsIntegration of RoughlyEnoughItemsIntegration [trashslot]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REIPlugin of REIPlugin [toms_storage]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ThingsPlugin of ThingsPlugin [things]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) RoughlyEnoughItemsModule of RoughlyEnoughItemsModule [polymorph]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) OwoReiPlugin of OwoReiPlugin [owo]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) NOReiPlugin of NOReiPlugin [numismatic-overhaul]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REIIntegration of REIIntegration [ftblibrary]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FarmersDelightModREI of FarmersDelightModREI [farmersdelight]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REIPlugin of REIPlugin [betterend]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REIPlugin of REIPlugin [artifacts]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) SpiritPlugin of SpiritPlugin [spirit]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REIClientIntegration of REIClientIntegration [spectrum]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ClientPlugin of ClientPlugin [roughly_enough_trades]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReltClient of ReltClient [roughly_enough_loot_tables]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) MythicMetalsREIClientPlugin of MythicMetalsREIClientPlugin [mythicmetals]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REICompat of REICompat [lychee]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiCompat of ReiCompat [ellemes_container_lib]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) AlloyForgeryClientPlugin of AlloyForgeryClientPlugin [alloy_forgery]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REI of REI [twilightforest]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REICompat of REICompat [the_bumblezone]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) PluginEntry of PluginEntry [roughlyenoughresources]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REPClientPlugin of REPClientPlugin [roughlyenoughprofessions]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REICompat of REICompat [jade]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FTBQuestsREIIntegration of FTBQuestsREIIntegration [ftbquests]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) CharmReiClientPlugin of CharmReiClientPlugin [charm]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REITooltipPlugin of REITooltipPlugin [appleskin]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI]  - (10000000.00) KubeJSREIPlugin of KubeJSREIPlugin [kubejs]
+[15:57:06] [REI-ReloadPlugins/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[15:57:06] [Render thread/INFO]: Loading FTB Chunks client data from world 41e1edb8-289a-4be7-955d-b57271532eb9
+[15:57:06] [Render thread/WARN]: Patched fract(worldpos.y + 0.001) to fract(worldpos.y + 0.01) to fix waving water disconnecting from other water blocks; See https://github.com/IrisShaders/Iris/issues/509
+[15:57:06] [Render thread/WARN]: Patched fract(worldpos.y + 0.001) to fract(worldpos.y + 0.01) to fix waving water disconnecting from other water blocks; See https://github.com/IrisShaders/Iris/issues/509
+[15:57:06] [Render thread/WARN]: Patched fract(worldpos.y + 0.001) to fract(worldpos.y + 0.01) to fix waving water disconnecting from other water blocks; See https://github.com/IrisShaders/Iris/issues/509
+[15:57:07] [Render thread/INFO]: Animated skins loaded and ready to use!
+[15:57:07] [Render thread/INFO]: [STDOUT]: Log Path: D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\CustomSkinLoader\CustomSkinLoader.log
+[15:57:07] [Botania Contributor Fanciness Thread/INFO]: Could not load contributors list. Either you're offline or GitHub is down. Nothing to worry about, carry on~
+[15:57:07] [Render thread/WARN]: World text batching hack was enabled but did not get a WorldRendererVertexConsumerProvider back. Assuming that another mod is batching world rendering.
+[15:57:07] [Render thread/INFO]: Reloading entity icon resources...
+[15:57:07] [Render thread/INFO]: Done!
+[15:57:07] [Render thread/INFO]: [STDOUT]: [InventoryHUD+] Trinkets have been initialized with 18 slot(s)
+[15:57:08] [Render thread/INFO]: [CHAT] §3[§eStepUp§3] §c已禁用
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI] ########################################
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI] REIServerPlugin starting main-reload for END.
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI] Plugins (8):
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) CharmReiServerPlugin of CharmReiServerPlugin [charm]
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REICommonIntegration of REICommonIntegration [spectrum]
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReltServer of ReltServer [roughly_enough_loot_tables]
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) AlloyForgeryCommonPlugin of AlloyForgeryCommonPlugin [alloy_forgery]
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI] ########################################
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI] REIPlugin finished post-reload for END in 3.460 ms, totaling 53.91 ms.
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI] REIClientPlugin finished post-reload for END in 1.695 ms, totaling 2.110 s.
+[15:57:08] [REI-ReloadPlugins/INFO]: [REI] REIServerPlugin finished post-reload for END in 452.1 μs, totaling 15.65 ms.
+[15:57:08] [Render thread/INFO]: Loaded 872 advancements
+[15:57:08] [Render thread/WARN]: Recipe things:hardening_catalyst (of type minecraft:crafting) not found
+[15:57:08] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 659.3 μs
+[15:57:08] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 757.4 μs
+[15:57:08] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 313.7 μs
+[15:57:08] [Render thread/WARN]: Recipe botania:terra_sword (of type minecraft:crafting) not found
+[15:57:08] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: techreborn:grinder
+[15:57:08] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: ants:dirt_ant_nest
+[15:57:08] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: conjuring:conjurer
+[15:57:08] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: chalk:chalk
+[15:57:08] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: ae2:controller
+[15:57:08] [Render thread/WARN]: Recipe spectrum:pedestal/tier1/molten_rod (of type spectrum:pedestal) not found
+[15:57:08] [Render thread/WARN]: Recipe spectrum:pedestal/tier4/celestial_pocketwatch (of type spectrum:pedestal) not found
+[15:57:08] [Render thread/WARN]: Recipe spectrum:pedestal/tier1/compacting_chest (of type spectrum:pedestal) not found
+[15:57:08] [Render thread/WARN]: Recipe spectrum:pedestal/tier3/enchanter (of type spectrum:pedestal) not found
+[15:57:08] [Render thread/WARN]: Recipe victus:diamond_heart_aspect (of type minecraft:crafting) not found
+[15:57:08] [Render thread/WARN]: Recipe victus:golden_heart_aspect (of type minecraft:crafting) not found
+[15:57:08] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: tconstruct:large_plate
+[15:57:08] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: thaumcraft:jar_normal
+[15:57:08] [Render thread/WARN]: Invalid icon item stack: Unknown item ID: immersiveengineering:shader_bag_twilight
+[15:57:08] [Render thread/ERROR]: Error compiling book twilightforest:guide, using empty contents
+java.lang.RuntimeException: Error building entry twilightforest:world/portal
+	at vazkii.patchouli.client.book.BookContentsBuilder.lambda$build$2(BookContentsBuilder.java:98) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?]
+	at vazkii.patchouli.client.book.BookContentsBuilder.build(BookContentsBuilder.java:94) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.common.book.Book.reloadContents(Book.java:225) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.common.book.BookRegistry.reloadContents(BookRegistry.java:128) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.client.book.ClientBookRegistry.reload(ClientBookRegistry.java:63) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.client.base.ClientAdvancements.onClientPacket(ClientAdvancements.java:34) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at net.minecraft.client.network.ClientAdvancementManager.handler$hag000$patchouli_onSync(ClientAdvancementManager.java:1017) ~[client-intermediary.jar:?]
+	at net.minecraft.client.network.ClientAdvancementManager.onAdvancements(ClientAdvancementManager.java:57) ~[client-intermediary.jar:?]
+	at net.minecraft.client.network.ClientPlayNetworkHandler.onAdvancements(ClientPlayNetworkHandler.java:1211) ~[client-intermediary.jar:?]
+	at net.minecraft.network.packet.s2c.play.AdvancementUpdateS2CPacket.apply(AdvancementUpdateS2CPacket.java:51) ~[client-intermediary.jar:?]
+	at net.minecraft.network.packet.s2c.play.AdvancementUpdateS2CPacket.apply(AdvancementUpdateS2CPacket.java:16) ~[client-intermediary.jar:?]
+	at net.minecraft.network.NetworkThreadUtils.method_11072(NetworkThreadUtils.java:22) ~[client-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:157) [client-intermediary.jar:?]
+	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) [client-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:131) [client-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:116) [client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.render(MinecraftClient.java:1085) [client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.run(MinecraftClient.java:737) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:236) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.14.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.RuntimeException: Error while loading entry twilightforest:world/portal page 2
+	at vazkii.patchouli.client.book.BookEntry.build(BookEntry.java:250) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.client.book.BookContentsBuilder.lambda$build$2(BookContentsBuilder.java:96) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	... 28 more
+Caused by: java.lang.RuntimeException: Malformed item ID 
+	at vazkii.patchouli.common.util.ItemStackUtil.parseItemStackString(ItemStackUtil.java:78) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.common.util.ItemStackUtil.loadStackFromString(ItemStackUtil.java:114) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.common.util.ItemStackUtil.loadStackListFromString(ItemStackUtil.java:147) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.common.util.ItemStackUtil.loadIngredientFromString(ItemStackUtil.java:128) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.client.book.template.variable.IngredientVariableSerializer.fromJson(IngredientVariableSerializer.java:13) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.client.book.template.variable.IngredientVariableSerializer.fromJson(IngredientVariableSerializer.java:10) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.client.book.template.variable.Variable.as(Variable.java:31) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.client.book.page.PageSpotlight.build(PageSpotlight.java:29) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.client.book.BookEntry.build(BookEntry.java:247) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	at vazkii.patchouli.client.book.BookContentsBuilder.lambda$build$2(BookContentsBuilder.java:96) ~[Patchouli-1.18.2-71.1-FABRIC.jar:?]
+	... 28 more
+[15:57:10] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[15:57:12] [Server thread/INFO]: [扫地机器人]加载成功，使用 !clearlag help 查看帮助
+[15:57:12] [Render thread/INFO]: [CHAT] [扫地机器人]加载成功，使用 !clearlag help 查看帮助
+[15:57:23] [Server thread/INFO]: Saving and pausing game...
+[15:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[15:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[15:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[15:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[15:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[15:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[15:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[15:57:36] [Server thread/INFO]: Saving and pausing game...
+[15:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[15:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[15:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[15:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[15:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[15:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[15:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[15:57:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4330ms or 86 ticks behind
+[15:57:49] [Server thread/INFO]: Saving and pausing game...
+[15:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[15:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[15:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[15:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[15:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[15:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[15:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[15:57:52] [Server thread/INFO]: Saving and pausing game...
+[15:57:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[15:57:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[15:57:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[15:57:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[15:57:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[15:57:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[15:57:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[15:58:07] [Server thread/INFO]: Saving and pausing game...
+[15:58:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[15:58:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[15:58:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[15:58:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[15:58:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[15:58:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[15:58:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[15:58:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3906ms or 78 ticks behind
+[15:58:23] [Worker-Main-11/WARN]: Failed to deserialize component: unregistered key the_bumblezone:player_component
+[15:58:23] [Worker-Main-12/WARN]: Failed to deserialize component: unregistered key the_bumblezone:player_component
+[15:58:24] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:58:24] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:58:27] [Server thread/INFO]: Saving and pausing game...
+[15:58:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[15:58:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[15:58:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[15:58:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[15:58:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[15:58:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[15:58:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[15:58:33] [Worker-Main-14/WARN]: Failed to deserialize component: unregistered key the_bumblezone:player_component
+[15:58:38] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:58:38] [Server thread/INFO]: Saving and pausing game...
+[15:58:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[15:58:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[15:58:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[15:58:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[15:58:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[15:58:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[15:58:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[15:58:40] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:58:43] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:58:43] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:58:43] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:58:44] [Worker-Main-14/WARN]: Empty or non-existent pool: minecraft:mvs/side_pool
+[15:58:46] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[15:58:48] [Server thread/INFO]: Saving and pausing game...
+[15:58:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[15:58:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[15:58:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[15:58:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[15:58:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[15:58:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[15:58:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[15:58:58] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:58:58] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:59:10] [Render thread/INFO]: Loaded 872 advancements
+[15:59:22] [Render thread/INFO]: [CHAT] 指路石Breaired已激活
+[15:59:29] [Server thread/INFO]: Saving and pausing game...
+[15:59:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[15:59:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[15:59:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[15:59:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[15:59:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[15:59:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[15:59:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[15:59:54] [Server thread/INFO]: Saving and pausing game...
+[15:59:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[15:59:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[15:59:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[15:59:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[15:59:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[15:59:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[15:59:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[16:00:00] [ftbbackups2_Worker-1/INFO]: Attempting to create an automatic backup
+[16:00:00] [ftbbackups2_Worker-1/INFO]: Found world folder at D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\saves\新的世界\.
+[16:00:00] [ftbbackups2_Worker-1/INFO]: Last backup size: 185.7MB Current world size: 255.4MB Current free space: 132.0GB ExpectedSize 230.6MB
+[16:00:00] [ftbbackups2_Worker-1/INFO]: Setting world minecraft:overworld save state to true
+[16:00:00] [ftbbackups2_Worker-1/INFO]: Setting world spectrum:deeper_down_dimension save state to true
+[16:00:00] [ftbbackups2_Worker-1/INFO]: Setting world minecraft:the_nether save state to true
+[16:00:00] [ftbbackups2_Worker-1/INFO]: Setting world voidz:void save state to true
+[16:00:00] [ftbbackups2_Worker-1/INFO]: Setting world minecraft:the_end save state to true
+[16:00:00] [ftbbackups2_Worker-1/INFO]: Setting world the_bumblezone:the_bumblezone save state to true
+[16:00:00] [ftbbackups2_Worker-1/INFO]: Setting world twilightforest:twilight_forest save state to true
+[16:00:00] [Render thread/INFO]: [CHAT] 启动备份
+[16:00:00] [FTB Backups backup thread 0/INFO]: Rendering region file 3 3
+[16:00:11] [FTB Backups backup thread 0/INFO]: Setting world minecraft:overworld save state to false
+[16:00:11] [FTB Backups backup thread 0/INFO]: Setting world spectrum:deeper_down_dimension save state to false
+[16:00:11] [FTB Backups backup thread 0/INFO]: Setting world minecraft:the_nether save state to false
+[16:00:11] [FTB Backups backup thread 0/INFO]: Setting world voidz:void save state to false
+[16:00:11] [FTB Backups backup thread 0/INFO]: Setting world minecraft:the_end save state to false
+[16:00:11] [FTB Backups backup thread 0/INFO]: Setting world the_bumblezone:the_bumblezone save state to false
+[16:00:11] [FTB Backups backup thread 0/INFO]: Setting world twilightforest:twilight_forest save state to false
+[16:00:11] [Render thread/INFO]: [CHAT] Backup finished in 0m, 11s, 176ms
+[16:00:14] [FTB Backups backup thread 0/INFO]: Backup size 218.5MB World Size 256.6MB
+[16:00:14] [FTB Backups backup thread 0/INFO]: Writing to file D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\backups\backups.json
+[16:00:14] [FTB Backups backup thread 0/INFO]: New backup created at D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\backups\2023-5-21_16-0-0.zip size: 218.5MB Took: 0m, 11s, 176ms Sha1: 77767437be4d774dfa4d4791157920b8f592099c
+[16:00:19] [Worker-Main-14/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[16:00:19] [Worker-Main-14/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[16:00:19] [Worker-Main-14/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[16:00:20] [Worker-Main-14/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[16:00:20] [Worker-Main-14/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[16:00:20] [Worker-Main-14/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[16:00:20] [Worker-Main-14/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[16:00:20] [Worker-Main-14/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[16:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8943ms or 178 ticks behind
+[16:00:23] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:23] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:23] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:28] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:28] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:28] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:28] [Server thread/INFO]: hangqing取得了进度[灯塔]
+[16:00:28] [Render thread/INFO]: [CHAT] hangqing取得了进度[灯塔]
+[16:00:28] [Render thread/INFO]: Loaded 872 advancements
+[16:00:28] [FTB Backups scheduled executor 0/INFO]: More backups than 5 found, Removing oldest backup
+[16:00:29] [FTB Backups scheduled executor 0/INFO]: Removed old backup 2023-5-20_23-30-0.zip
+[16:00:29] [FTB Backups scheduled executor 0/INFO]: File missing, removing from backups D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\backups\2023-5-20_23-30-0.zip
+[16:00:29] [FTB Backups scheduled executor 0/INFO]: Writing to file D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\backups\backups.json
+[16:00:31] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:31] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:31] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:31] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:32] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:36] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:36] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:40] [Worker-Main-12/WARN]: Failed to deserialize component: unregistered key the_bumblezone:player_component
+[16:00:40] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:40] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:00:40] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:01:02] [Render thread/WARN]: Use of net.minecraft.class_5225.method_27494 detected.
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_5225.method_27494(class_5225.java)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_327.method_27523(class_327.java:378)
+[16:01:02] [Render thread/WARN]:     at me.shedaniel.rei.impl.client.gui.widget.basewidgets.TextFieldWidget.method_25394(TextFieldWidget.java:416)
+[16:01:02] [Render thread/WARN]:     at me.shedaniel.rei.impl.client.gui.widget.search.OverlaySearchField.method_25394(OverlaySearchField.java:370)
+[16:01:02] [Render thread/WARN]:     at me.shedaniel.rei.impl.client.gui.ScreenOverlayImpl.renderWidgets(ScreenOverlayImpl.java:346)
+[16:01:02] [Render thread/WARN]:     at me.shedaniel.rei.impl.client.gui.ScreenOverlayImpl.method_25394(ScreenOverlayImpl.java:244)
+[16:01:02] [Render thread/WARN]:     at me.shedaniel.rei.RoughlyEnoughItemsCoreClient.lambda$registerEvents$22(RoughlyEnoughItemsCoreClient.java:427)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_465.handler$zoh000$renderBackground(class_465.java:1236)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_465.method_25394(class_465.java:100)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_476.method_25394(class_476.java:31)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_757.method_3192(class_757.java:877)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_310.method_1523(class_310.java:1122)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_310.method_1514(class_310.java:737)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.client.main.Main.main(Main.java:236)
+[16:01:02] [Render thread/WARN]:     at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461)
+[16:01:02] [Render thread/WARN]:     at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[16:01:02] [Render thread/WARN]:     at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[16:01:02] [Render thread/WARN]:     at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:01:02] [Render thread/WARN]:     at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[16:01:02] [Render thread/WARN]:     at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:01:02] [Render thread/WARN]:     at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[16:01:02] [Render thread/WARN]:     at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[16:01:02] [Render thread/WARN]:     at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[16:01:02] [Render thread/WARN]: Do not use this method; its API is fundamentally broken.
+[16:01:02] [Render thread/WARN]: Use of net.minecraft.class_5225.method_27494 detected.
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_5225.method_27494(class_5225.java)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_327.method_27523(class_327.java:378)
+[16:01:02] [Render thread/WARN]:     at me.shedaniel.rei.impl.client.gui.widget.search.OverlaySearchField.renderSuggestion(OverlaySearchField.java:266)
+[16:01:02] [Render thread/WARN]:     at me.shedaniel.rei.impl.client.gui.widget.basewidgets.TextFieldWidget.method_25394(TextFieldWidget.java:443)
+[16:01:02] [Render thread/WARN]:     at me.shedaniel.rei.impl.client.gui.widget.search.OverlaySearchField.method_25394(OverlaySearchField.java:370)
+[16:01:02] [Render thread/WARN]:     at me.shedaniel.rei.impl.client.gui.ScreenOverlayImpl.renderWidgets(ScreenOverlayImpl.java:346)
+[16:01:02] [Render thread/WARN]:     at me.shedaniel.rei.impl.client.gui.ScreenOverlayImpl.method_25394(ScreenOverlayImpl.java:244)
+[16:01:02] [Render thread/WARN]:     at me.shedaniel.rei.RoughlyEnoughItemsCoreClient.lambda$registerEvents$22(RoughlyEnoughItemsCoreClient.java:427)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_465.handler$zoh000$renderBackground(class_465.java:1236)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_465.method_25394(class_465.java:100)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_476.method_25394(class_476.java:31)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_757.method_3192(class_757.java:877)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_310.method_1523(class_310.java:1122)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.class_310.method_1514(class_310.java:737)
+[16:01:02] [Render thread/WARN]:     at net.minecraft.client.main.Main.main(Main.java:236)
+[16:01:02] [Render thread/WARN]:     at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461)
+[16:01:02] [Render thread/WARN]:     at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[16:01:02] [Render thread/WARN]:     at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[16:01:02] [Render thread/WARN]:     at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:01:02] [Render thread/WARN]:     at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[16:01:02] [Render thread/WARN]:     at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:01:02] [Render thread/WARN]:     at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[16:01:02] [Render thread/WARN]:     at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[16:01:02] [Render thread/WARN]:     at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[16:01:02] [Render thread/WARN]: Do not use this method; its API is fundamentally broken.
+[16:01:17] [Server thread/INFO]: Saving and pausing game...
+[16:01:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[16:01:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[16:01:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[16:01:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[16:01:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[16:01:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[16:01:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[16:30:00] [ftbbackups2_Worker-1/INFO]: Attempting to create an automatic backup
+[16:30:00] [ftbbackups2_Worker-1/INFO]: Found world folder at D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\saves\新的世界\.
+[16:30:00] [ftbbackups2_Worker-1/INFO]: Last backup size: 218.5MB Current world size: 265.4MB Current free space: 131.8GB ExpectedSize 237.4MB
+[16:30:00] [ftbbackups2_Worker-1/INFO]: Setting world minecraft:overworld save state to true
+[16:30:00] [ftbbackups2_Worker-1/INFO]: Setting world spectrum:deeper_down_dimension save state to true
+[16:30:00] [ftbbackups2_Worker-1/INFO]: Setting world minecraft:the_nether save state to true
+[16:30:00] [ftbbackups2_Worker-1/INFO]: Setting world voidz:void save state to true
+[16:30:00] [ftbbackups2_Worker-1/INFO]: Setting world minecraft:the_end save state to true
+[16:30:00] [ftbbackups2_Worker-1/INFO]: Setting world the_bumblezone:the_bumblezone save state to true
+[16:30:00] [ftbbackups2_Worker-1/INFO]: Setting world twilightforest:twilight_forest save state to true
+[16:30:00] [Render thread/INFO]: [CHAT] 启动备份
+[16:30:00] [FTB Backups backup thread 0/INFO]: Rendering region file 3 2
+[16:30:08] [FTB Backups backup thread 0/INFO]: Setting world minecraft:overworld save state to false
+[16:30:08] [FTB Backups backup thread 0/INFO]: Setting world spectrum:deeper_down_dimension save state to false
+[16:30:08] [FTB Backups backup thread 0/INFO]: Setting world minecraft:the_nether save state to false
+[16:30:08] [FTB Backups backup thread 0/INFO]: Setting world voidz:void save state to false
+[16:30:08] [FTB Backups backup thread 0/INFO]: Setting world minecraft:the_end save state to false
+[16:30:08] [FTB Backups backup thread 0/INFO]: Setting world the_bumblezone:the_bumblezone save state to false
+[16:30:08] [FTB Backups backup thread 0/INFO]: Setting world twilightforest:twilight_forest save state to false
+[16:30:08] [Render thread/INFO]: [CHAT] Backup finished in 0m, 8s, 888ms
+[16:30:11] [FTB Backups backup thread 0/INFO]: Backup size 224.8MB World Size 265.4MB
+[16:30:11] [FTB Backups backup thread 0/INFO]: Writing to file D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\backups\backups.json
+[16:30:11] [FTB Backups backup thread 0/INFO]: New backup created at D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\backups\2023-5-21_16-30-0.zip size: 224.8MB Took: 0m, 8s, 888ms Sha1: 2fbc592ce62c31915a94ba86a205190a0c9dd297
+[16:30:28] [FTB Backups scheduled executor 0/INFO]: More backups than 5 found, Removing oldest backup
+[16:30:28] [FTB Backups scheduled executor 0/INFO]: Removed old backup 2023-5-21_0-0-0.zip
+[16:30:28] [FTB Backups scheduled executor 0/INFO]: File missing, removing from backups D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\backups\2023-5-21_0-0-0.zip
+[16:30:28] [FTB Backups scheduled executor 0/INFO]: Writing to file D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\backups\backups.json
+[16:59:57] [Render thread/INFO]: [CHAT] hangqing 展示了 [骷髅头颅]
+[17:00:00] [ftbbackups2_Worker-1/INFO]: Attempting to create an automatic backup
+[17:00:00] [ftbbackups2_Worker-1/INFO]: Skipping backup, no players have been online since last backup.
+[17:00:09] [Server thread/INFO]: Saving and pausing game...
+[17:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[17:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[17:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[17:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[17:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[17:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[17:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[17:00:18] [Server thread/INFO]: Saving and pausing game...
+[17:00:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[17:00:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[17:00:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[17:00:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[17:00:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[17:00:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[17:00:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[17:00:19] [Worker-Main-23/WARN]: Failed to deserialize component: unregistered key the_bumblezone:player_component
+[17:00:48] [Render thread/INFO]: Loaded 872 advancements
+[17:01:36] [Server thread/INFO]: Saving and pausing game...
+[17:01:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[17:01:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[17:01:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[17:01:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[17:01:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[17:01:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[17:01:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[17:01:40] [Worker-Main-25/WARN]: Empty or non-existent pool: minecraft:mvs/side_pool
+[17:01:44] [Worker-Main-26/WARN]: Failed to deserialize component: unregistered key the_bumblezone:player_component
+[17:01:50] [Worker-Main-20/WARN]: Failed to deserialize component: unregistered key the_bumblezone:player_component
+[17:02:10] [Server thread/INFO]: Saving and pausing game...
+[17:02:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[17:02:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[17:02:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[17:02:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[17:02:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[17:02:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[17:02:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[17:02:19] [Server thread/INFO]: Saving and pausing game...
+[17:02:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[17:02:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[17:02:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[17:02:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[17:02:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[17:02:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[17:02:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[17:02:32] [Server thread/INFO]: Saving and pausing game...
+[17:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[17:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/spectrum:deeper_down_dimension
+[17:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[17:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/voidz:void
+[17:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[17:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/the_bumblezone:the_bumblezone
+[17:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[新的世界]'/twilightforest:twilight_forest
+[17:02:40] [Worker-Main-27/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[17:02:40] [Worker-Main-27/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[17:02:40] [Worker-Main-27/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[17:02:40] [Worker-Main-27/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[17:02:40] [Worker-Main-27/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[17:02:40] [Worker-Main-27/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[17:02:40] [Worker-Main-27/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[17:02:40] [Worker-Main-27/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[17:02:41] [Worker-Main-27/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[17:02:41] [Worker-Main-27/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[17:02:41] [Worker-Main-27/WARN]: Empty or non-existent pool: minecraft:village/common/villagers
+[17:02:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3361ms or 67 ticks behind
+[17:03:23] [Server thread/INFO]: hangqing被兽人杀死了
+[17:03:23] [Render thread/INFO]: [CHAT] hangqing被兽人杀死了
+[17:03:27] [Server thread/INFO]: [STDOUT]: [Progressive Bosses] Player hangqing spawned a Wither. Difficulty: 0
+[17:03:30] [Render thread/INFO]: OpenGL debug message: id=0, source=API, type=ERROR, severity=HIGH, message='Unknown internal debug message. The NVIDIA OpenGL driver has encountered
+an out of memory error. This application might
+behave inconsistently and fail.
+(pid=5864 javaw.exe 64bit)'
+[17:03:30] [Render thread/INFO]: OpenGL debug message: id=1285, source=API, type=ERROR, severity=HIGH, message='GL_OUT_OF_MEMORY error generated. Failed to allocate memory for buffer data.'
+[17:03:30] [Render thread/INFO]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_VALUE error generated. Invalid size and/or offsets.'
+[17:03:30] [Render thread/INFO]: OpenGL debug message: id=1281, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_VALUE error generated. Invalid size and/or offsets.'
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000001fab783fd5a, pid=5864, tid=10080
+#
+# JRE version: Java(TM) SE Runtime Environment (17.0.6+9) (build 17.0.6+9-LTS-190)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (17.0.6+9-LTS-190, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, g1 gc, windows-amd64)
+# Problematic frame:
+# C  0x000001fab783fd5a
+#
+# No core dump will be written. Minidumps are not enabled by default on client versions of Windows
+#
+# An error report file with more information is saved as:
+# D:\BaiduNetdiskDownload\备份文件夹\.minecraft\versions\Infinity-Reborn-v1.3.0\hs_err_pid5864.log
+#
+# If you would like to submit a bug report, please visit:
+#   https://bugreport.java.com/bugreport/crash.jsp
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#

@@ -1,0 +1,1219 @@
+[10:55:29.046] [Start] 程序版本：Snapshot 2.6.0（291）
+[10:55:29.056] [Start] 识别码：245A-6BFA-A4BC-AD3A
+[10:55:29.056] [Start] 程序路径：E:\PCL2\Plain Craft Launcher 2.exe
+[10:55:29.056] [Start] 第一阶段加载用时：62 ms
+[10:55:29.206] [UI] 刷新主题：1
+[10:55:29.266] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[10:55:29.266] [Start] 第二阶段加载用时：203 ms
+[10:55:29.286] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[10:55:29.626] [System] 窗口已置顶，位置：(555, 305), 810 x 470
+[10:55:29.626] [Start] 第三阶段加载用时：47 ms
+[10:55:29.626] [Animation] 动画线程开始
+[10:55:29.636] [Start] 加载 DLL：Json
+[10:55:29.636] [System] 获取资源：Json
+[10:55:29.636] [System] 开始从网络读取主页自定义数据（https://news.bugjump.net）
+[10:55:29.636] [Net] 获取网络结果：https://news.bugjump.net，最大超时 10000
+[10:55:29.646] [Launch] Minecraft 文件夹：E:\PCL2\snapshot\
+[10:55:29.696] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[10:55:29.696] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[10:55:29.706] [Java] 缓存中有 7 个可用的 Java
+[10:55:29.736] [Skin] 载入头像成功：Loader Skin Ms
+[10:55:29.756] [Minecraft] 启动按钮：Minecraft 版本：E:\PCL2\snapshot\versions\1.20-pre4-Fabric 0.14.19\
+[10:55:29.756] [Loader] 加载器 登录 状态改变：Loading
+[10:55:29.766] [Launch] 登录加载已开始
+[10:55:29.766] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[10:55:29.766] [Launch] 登录方式：正版（biancqy）
+[10:55:29.766] [Launch] 开始微软登录步骤 2（刷新登录）
+[10:55:29.776] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[10:55:29.916] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[10:55:29.916] [UI] 解锁隐藏主题：6
+[10:55:29.916] [Loader] 加载器 PCL 服务 状态改变：Loading
+[10:55:29.916] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[10:55:29.916] [Server] 正在连接到 PCL 服务器
+[10:55:29.926] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1684896930-68aa6b48-0-d4b19d6eb2badbbae59c13537170d014，最大超时 10000
+[10:55:30.066] [Server] 服务器公告：104|291|286|5，无需更新
+[10:55:30.077] [Loader] 加载器 PCL 服务 状态改变：Finished
+[10:55:30.297] [System] 尝试从网络读取主页自定义数据（52485）
+[10:55:30.297] [System] 加载主页自定义数据
+[10:55:30.647] [Control] 普通弹窗：Minecraft 更新提示
+新版本：1.20-pre5
+更新于：14 小时前
+[10:55:30.657] [Animation] 两个动画帧间隔 266 ms
+[10:55:30.668] [System] DPI：96，系统版本：10.0.22624.0，PCL 位置：E:\PCL2\Plain Craft Launcher 2.exe
+[10:55:30.780] [Launch] 开始微软登录步骤 3
+[10:55:30.781] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[10:55:31.032] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[10:55:31.533] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[10:55:32.285] [Launch] 开始微软登录步骤 4
+[10:55:32.285] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[10:55:32.536] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[10:55:33.037] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[10:55:33.789] [Launch] 开始微软登录步骤 5
+[10:55:33.790] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[10:55:34.041] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[10:55:34.230] [Control] 按下按钮：确定
+[10:55:34.231] [Control] 普通弹框返回：1
+[10:55:34.232] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[10:55:34.542] [Launch] 开始微软登录步骤 6
+[10:55:34.543] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[10:55:34.793] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[10:55:35.306] [Launch] 微软登录完成
+[10:55:35.306] [UI] 解锁隐藏主题：10
+[10:55:35.306] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[10:55:35.310] [Launch] 登录加载已结束
+[10:55:35.310] [Loader] 加载器 登录 状态改变：Finished
+[10:55:40.054] [Control] 按下单选按钮：下载
+[10:55:40.115] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[10:55:40.123] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[10:55:40.123] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[10:55:40.124] [Control] 切换主要页面：Download, -1
+[10:55:40.211] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[10:55:40.213] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[10:55:40.214] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[10:55:40.216] [Loader] 加载器 DlOptiFineList Official 状态改变：Loading
+[10:55:40.218] [Loader] 加载器 DlLiteLoaderList Official 状态改变：Loading
+[10:55:40.220] [Loader] 加载器 DlFabricList Official 状态改变：Loading
+[10:55:40.221] [Net] 获取网络结果：http://dl.liteloader.com/versions/versions.json，最大超时 10000
+[10:55:40.221] [Net] 获取网络结果：https://meta.fabricmc.net/v2/versions，最大超时 10000
+[10:55:40.222] [Net] 获取客户端网络结果：https://optifine.net/downloads，最大超时 10000
+[10:55:40.227] [Download] 刷新 Forge 推荐版本缓存开始
+[10:55:40.231] [Loader] 加载器 源码获取 292# 状态改变：Loading
+[10:55:40.259] [Download] -1798645995_291 310#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[10:55:40.471] [Download] -1798645995_291：文件大小 45318 B（44.3 K）
+[10:55:40.497] [Download] -1798645995_291：已完成，剩余文件 0
+[10:55:40.498] [Loader] 加载器 源码获取 292# 状态改变：Finished
+[10:55:40.504] [Download] 刷新 Forge 推荐版本缓存成功
+[10:55:40.512] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[10:55:40.623] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[10:55:40.832] [Loader] 加载器 DlLiteLoaderList Official 状态改变：Finished
+[10:55:40.840] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[10:55:41.963] [Loader] 加载器 DlOptiFineList Official 状态改变：Finished
+[10:55:41.964] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[10:55:42.614] [Control] 按下单选列表项：Mod
+[10:55:42.629] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[10:55:42.642] [Comp] 工程列表搜索原始文本：
+[10:55:42.642] [Comp] 工程列表搜索最终文本：
+[10:55:42.646] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0
+[10:55:42.646] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0，最大超时 10000
+[10:55:42.647] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]
+[10:55:42.647] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]，最大超时 10000
+[10:55:43.422] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 9080 个）
+[10:55:43.592] [Loader] 加载器 DlFabricList Official 状态改变：Finished
+[10:55:43.598] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[10:55:45.710] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 43007 个）
+[10:55:45.718] [System] 获取资源：ModData
+[10:55:45.755] [Comp] 将 Cloth Config API (cloth-config) 与 Cloth Config API (Fabric/Forge) (cloth-config) 认定为相似工程
+[10:55:45.757] [Comp] 去重后累计新增结果 79 个
+[10:55:45.771] [Comp] 开始可视化 Mod 列表，已储藏 79 个结果，当前在第 1 页
+[10:55:45.949] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[10:55:52.351] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[10:55:52.352] [Comp] 工程列表搜索原始文本：trinkets
+[10:55:52.352] [Comp] 工程列表搜索最终文本：trinkets
+[10:55:52.353] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=trinkets
+[10:55:52.353] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=trinkets，最大超时 10000
+[10:55:52.353] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=trinkets&facets=[["project_type:mod"]]
+[10:55:52.353] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=trinkets&facets=[["project_type:mod"]]，最大超时 10000
+[10:55:52.909] [Comp] 从 Modrinth 获取到了 22 个工程（已获取 22 个，共 22 个）
+[10:55:52.966] [Report] FPS 0, 动画 8, 下载中 0（0 B/s）
+[10:55:53.540] [Comp] 从 CurseForge 获取到了 19 个工程（已获取 19 个，共 19 个）
+[10:55:53.542] [Comp] 将 Trinkets and Baubles (trinkets-and-baubles) 与 Trinkets and Baubles (trinkets-and-baubles) 认定为相似工程
+[10:55:53.543] [Comp] 将 Fancy Trinkets (fancy-trinkets) 与 Fancy Trinkets (fancy-trinkets) 认定为相似工程
+[10:55:53.548] [Comp] 去重后累计新增结果 39 个
+[10:55:53.548] [Comp] 总结果数需求最少 40 个，仅获得了 39 个
+[10:55:53.548] [Comp] 无法继续加载，将强制结束
+[10:55:53.570] [Comp] 开始可视化 Mod 列表，已储藏 39 个结果，当前在第 1 页
+[10:55:53.582] [Net] 直接下载文件：https://cdn.modrinth.com/data/5aaWibi9/icon.png
+[10:55:53.583] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/392/724/64/64/637587139838251402.png
+[10:55:53.585] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/392/688/64/64/637587073088891583.png
+[10:55:53.587] [Net] 直接下载文件：https://cdn.modrinth.com/data/K5dAmygn/icon.png
+[10:55:53.589] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/557/316/64/64/637903841385096917.png
+[10:55:53.591] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/295/659/64/64/637337754105232303.png
+[10:55:53.593] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/412/648/64/64/637632503417781977.png
+[10:55:53.594] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/449/224/64/64/637708359115737202.png
+[10:55:53.597] [Net] 直接下载文件：https://cdn.modrinth.com/data/G8hlgtEk/icon.png
+[10:55:53.599] [Net] 直接下载文件：https://cdn.modrinth.com/data/KlgvMflX/e95dfc71338838cc9477302d9d9325f6dc8f61a5.png
+[10:55:53.601] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/480/74/64/64/637778180446471169.png
+[10:55:53.603] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/241/817/64/64/637130689698204875.png
+[10:55:53.609] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/6/758/64/64/635368000335197128.png
+[10:55:53.611] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/391/523/64/64/637584437301294065.png
+[10:55:53.613] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/10/713/64/64/635463467831338246.png
+[10:55:53.615] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/444/490/64/64/637699389865721102.png
+[10:55:53.617] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/557/209/64/64/637903495557996907.png
+[10:55:53.619] [Net] 直接下载文件：https://cdn.modrinth.com/data/VzAGdu9D/icon.png
+[10:55:53.621] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/44/857/64/64/636037098298632852.png
+[10:55:53.623] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/662/996/64/64/638060754950525112.png
+[10:55:53.628] [Net] 直接下载文件：https://cdn.modrinth.com/data/Rb85AqQT/18c286c5a5db258f8fd39d5b97da2b3eea30c70d.png
+[10:55:53.630] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/418/139/64/64/637643096164937444.png
+[10:55:53.632] [Net] 直接下载文件：https://cdn.modrinth.com/data/JrIYhb1P/icon.png
+[10:55:53.634] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/578/78/64/64/637942061997988438.png
+[10:55:53.636] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/21/434/64/64/635727497193174474.png
+[10:55:53.638] [Net] 直接下载文件：https://cdn.modrinth.com/data/LwwtuiRk/icon.png
+[10:55:53.640] [Net] 直接下载文件：https://cdn.modrinth.com/data/Qym5vh9v/icon.png
+[10:55:53.643] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/543/290/64/64/637873191025598290.png
+[10:55:53.645] [Net] 直接下载文件：https://cdn.modrinth.com/data/mSQF1NpT/b59d48e0111456cac90a18e4edc0b0d9727414a2.png
+[10:55:53.649] [Net] 直接下载文件：https://cdn.modrinth.com/data/b5GyyYkp/5f9c2502f872d94bea7becca36584e364ce8d322.png
+[10:55:53.651] [Net] 直接下载文件：https://cdn.modrinth.com/data/ZLlbzi9I/icon.png
+[10:55:53.653] [Net] 直接下载文件：https://cdn.modrinth.com/data/Dw7M6XKW/icon.png
+[10:55:53.655] [Net] 直接下载文件：https://cdn.modrinth.com/data/R5T1RmWr/7494a38aff455e78f6d0ef0208c24c3c06894bd7.png
+[10:55:53.658] [Net] 直接下载文件：https://cdn.modrinth.com/data/AtT9wm5O/1242e54747b9eb91b409dc05e425bc53feeeecdf.png
+[10:55:53.660] [Net] 直接下载文件：https://cdn.modrinth.com/data/vhY4Cys8/f62859962b446563f1c02934ecc01331b73664db.png
+[10:55:53.662] [Net] 直接下载文件：https://cdn.modrinth.com/data/QrLG6byX/f43577ebf9a9e1cbeee4ff8c5dffe1665e5c42fc.jpeg
+[10:55:53.664] [Net] 直接下载文件：https://cdn.modrinth.com/data/gEyzz2kw/bed27aaa884c3d1a27b7796a941a8c3ffbb3c0a0.png
+[10:55:53.669] [Net] 直接下载文件：https://cdn.modrinth.com/data/MGbnuwQA/1f6e9b2d4a6195ff179b323b9f7168fb8c83ecd9.png
+[10:55:53.671] [Net] 直接下载文件：https://cdn.modrinth.com/data/eZetyYJU/c2c8dd24482a662611ad9f44981038ca65d2fbc0.png
+[10:55:53.692] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[10:55:58.717] [Control] 按下单选按钮：启动
+[10:55:58.718] [Control] 切换主要页面：Launch, -1
+[11:03:12.995] [Control] 按下按钮：版本选择
+[11:03:12.995] [Control] 切换主要页面：VersionSelect, 0
+[11:03:13.124] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[11:03:13.124] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[11:03:13.145] [Setup] 当前选择的 Minecraft 版本：1.20-pre4-Fabric 0.14.19
+[11:03:13.145] [Minecraft] 选择该文件夹储存的 Minecraft 版本：E:\PCL2\snapshot\versions\1.20-pre4-Fabric 0.14.19\
+[11:03:13.154] [Minecraft] 有效的 Minecraft 文件夹：1.7.10 > C:\Users\lenovo\AppData\Roaming\.minecraft\
+[11:03:13.154] [Minecraft] 有效的 Minecraft 文件夹：其他（版本隔离） > E:\PCL2\1.16.5彼岸生存整合包\.minecraft\
+[11:03:13.154] [Minecraft] 有效的 Minecraft 文件夹：1.19.2 > E:\PCL2\最新\.minecraft\
+[11:03:13.154] [Minecraft] 有效的 Minecraft 文件夹：1.19.3 > E:\PCL2\1.19.3\
+[11:03:13.154] [Minecraft] 有效的 Minecraft 文件夹：1.19.4 > E:\PCL2\1.19.4\
+[11:03:13.164] [Minecraft] 有效的 Minecraft 文件夹：1.19.4 > E:\PCL2\1.19.4\versions\1.19.4\
+[11:03:13.164] [Minecraft] 有效的 Minecraft 文件夹：snapshot > E:\PCL2\snapshot\
+[11:03:13.214] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[11:03:16.197] [Start] 加载 DLL：Dialogs
+[11:03:16.197] [System] 获取资源：Dialogs
+[11:03:16.519] [Animation] 两个动画帧间隔 234 ms
+[11:03:25.588] [UI] 选择文件夹返回：E:\PCL2\.minecraft2\
+[11:03:25.625] [Control] 输入弹窗：输入显示名称
+[11:03:26.780] [Control] 按下按钮：确定
+[11:03:26.781] [Control] 输入弹框返回：.minecraft2
+[11:03:26.782] [Control] 按下单击列表项：添加已有文件夹
+[11:03:26.787] [Setup] 当前选择的 Minecraft 文件夹：E:\PCL2\.minecraft2\
+[11:03:26.787] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[11:03:26.792] [UI] 弹出提示：文件夹 .minecraft2 已添加！
+[11:03:26.802] [Minecraft] 有效的 Minecraft 文件夹：1.7.10 > C:\Users\lenovo\AppData\Roaming\.minecraft\
+[11:03:26.803] [Minecraft] 有效的 Minecraft 文件夹：其他（版本隔离） > E:\PCL2\1.16.5彼岸生存整合包\.minecraft\
+[11:03:26.804] [Minecraft] 有效的 Minecraft 文件夹：1.19.2 > E:\PCL2\最新\.minecraft\
+[11:03:26.805] [Setup] 已自动关闭单版本隔离：1.19.2-Fabric
+[11:03:26.805] [Minecraft] 有效的 Minecraft 文件夹：1.19.3 > E:\PCL2\1.19.3\
+[11:03:26.807] [Minecraft] 有效的 Minecraft 文件夹：1.19.4 > E:\PCL2\1.19.4\
+[11:03:26.808] [Minecraft] 有效的 Minecraft 文件夹：1.19.4 > E:\PCL2\1.19.4\versions\1.19.4\
+[11:03:26.809] [Minecraft] 有效的 Minecraft 文件夹：snapshot > E:\PCL2\snapshot\
+[11:03:26.810] [Minecraft] 有效的 Minecraft 文件夹：.minecraft2 > E:\PCL2\.minecraft2\
+[11:03:26.812] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[11:03:26.813] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[11:03:26.814] [Setup] 当前选择的 Minecraft 版本：1.19.2-Fabric
+[11:03:26.814] [Minecraft] 选择该文件夹储存的 Minecraft 版本：E:\PCL2\.minecraft2\versions\1.19.2-Fabric\
+[11:03:26.932] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[11:03:28.341] [Control] 按下图标按钮：BtnTitleInner
+[11:03:28.341] [Control] 切换主要页面：Launch, -1
+[11:03:28.499] [Minecraft] 启动按钮：Minecraft 版本：E:\PCL2\.minecraft2\versions\1.19.2-Fabric\
+[11:03:29.580] [Control] 按下按钮：启动游戏
+[11:03:29.582] [Loader] 加载器 Loader Launch 状态改变：Loading
+[11:03:29.592] [System] 欲读取的文件不存在，已返回空字符串：E:\PCL2\PCL\hints.txt
+[11:03:29.605] [Launch] 预检测已通过
+[11:03:29.607] [Download] 开始后台更新资源文件索引
+[11:03:29.607] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[11:03:29.609] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[11:03:29.610] [Loader] 加载器 登录 状态改变：Waiting
+[11:03:29.610] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[11:03:29.610] [Loader] 加载器 获取 Java 状态改变：Loading
+[11:03:29.611] [Loader] 加载器 登录 状态改变：Loading
+[11:03:29.611] [Loader] 加载器 补全文件 状态改变：Loading
+[11:03:29.611] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[11:03:29.611] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[11:03:29.611] [Launch] 登录加载已开始
+[11:03:29.611] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[11:03:29.612] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[11:03:29.612] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[11:03:29.612] [Download] 版本 1.19.2-Fabric 对应的资源文件索引为 1.19
+[11:03:29.612] [Launch] 登录方式：正版（biancqy）
+[11:03:29.612] [Launch] 微软登录完成
+[11:03:29.612] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[11:03:29.612] [UI] 解锁隐藏主题：10
+[11:03:29.613] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[11:03:29.613] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[11:03:29.613] [Download] 版本 1.19.2-Fabric 对应的资源文件索引为 1.19
+[11:03:29.614] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[11:03:29.622] [Java] 开始完全遍历查找：E:\PCL2\
+[11:03:29.623] [Launch] 登录加载已结束
+[11:03:29.623] [Loader] 加载器 登录 状态改变：Finished
+[11:03:29.625] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[11:03:29.625] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[11:03:29.626] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[11:03:29.626] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[11:03:29.650] [Java] 开始完全遍历查找：E:\PCL2\.minecraft2\
+[11:03:29.654] [Java] 开始完全遍历查找：E:\PCL2\.minecraft2\versions\1.19.2-Fabric\
+[11:03:29.658] [System] 执行外部命令并等待返回结果：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\java.exe -version
+[11:03:29.669] [Minecraft] 获取支持库列表：1.19.2-Fabric
+[11:03:29.677] [Download] 1.19.json 1115#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/f7033757bcb91e11d79f0f31330d680cc787631f/1.19.json
+[11:03:29.713] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[11:03:29.713] [Loader] 加载器 下载资源文件 状态改变：Loading
+[11:03:29.714] [Loader] 加载器 下载资源文件 状态改变：Finished
+[11:03:29.714] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[11:03:29.817] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[11:03:29.817] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[11:03:29.818] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[11:03:29.818] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[11:03:29.818] [Loader] 加载器 补全文件 状态改变：Finished
+[11:03:29.946] [Download] 1.19.json：文件大小 385610 B（377 K）
+[11:03:29.963] [Java] 选定的 Java：JDK 17 (17.0.3)，64 位：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\
+[11:03:29.963] [Launch] 选择的 Java：JDK 17 (17.0.3)，64 位：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\
+[11:03:29.963] [Loader] 加载器 获取 Java 状态改变：Finished
+[11:03:29.966] [Loader] 加载器 获取启动参数 状态改变：Loading
+[11:03:29.969] [Launch] 开始获取 Minecraft 启动参数
+[11:03:29.969] [Launch] 获取新版 JVM 参数
+[11:03:29.976] [Launch] 当前剩余内存：10.7G
+[11:03:29.983] [System] 获取资源：JavaWrapper
+[11:03:29.985] [Java] 已释放 Java Wrapper：C:\Users\lenovo\AppData\Roaming\PCL\JavaWrapper.jar
+[11:03:29.985] [Launch] 新版 JVM 参数获取成功：
+[11:03:29.985] [Launch] -Doolloo.jlw.tmpdir="C:\Users\lenovo\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx7475m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\lenovo\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient
+[11:03:29.985] [Launch] 获取新版 Game 参数
+[11:03:29.987] [Launch] 新版 Game 参数获取成功
+[11:03:29.990] [Minecraft] 获取支持库列表：1.19.2-Fabric
+[11:03:29.993] [Launch] Minecraft 启动参数：
+[11:03:29.994] [Launch] -Doolloo.jlw.tmpdir="C:\Users\lenovo\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="E:\PCL2\.minecraft2\versions\1.19.2-Fabric\1.19.2-Fabric-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=291 -cp "E:\PCL2\.minecraft2\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;E:\PCL2\.minecraft2\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;E:\PCL2\.minecraft2\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;E:\PCL2\.minecraft2\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;E:\PCL2\.minecraft2\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;E:\PCL2\.minecraft2\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;E:\PCL2\.minecraft2\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;E:\PCL2\.minecraft2\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;E:\PCL2\.minecraft2\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;E:\PCL2\.minecraft2\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;E:\PCL2\.minecraft2\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;E:\PCL2\.minecraft2\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;E:\PCL2\.minecraft2\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;E:\PCL2\.minecraft2\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;E:\PCL2\.minecraft2\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;E:\PCL2\.minecraft2\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;E:\PCL2\.minecraft2\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;E:\PCL2\.minecraft2\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;E:\PCL2\.minecraft2\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;E:\PCL2\.minecraft2\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;E:\PCL2\.minecraft2\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;E:\PCL2\.minecraft2\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;E:\PCL2\.minecraft2\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;E:\PCL2\.minecraft2\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;E:\PCL2\.minecraft2\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;E:\PCL2\.minecraft2\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9.jar;E:\PCL2\.minecraft2\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9-natives-windows.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\tiny-mappings-parser\0.3.0+build.17\tiny-mappings-parser-0.3.0+build.17.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\sponge-mixin\0.11.4+mixin.0.8.5\sponge-mixin-0.11.4+mixin.0.8.5.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\tiny-remapper\0.8.2\tiny-remapper-0.8.2.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\access-widener\2.1.0\access-widener-2.1.0.jar;E:\PCL2\.minecraft2\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;E:\PCL2\.minecraft2\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;E:\PCL2\.minecraft2\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;E:\PCL2\.minecraft2\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;E:\PCL2\.minecraft2\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\intermediary\1.19.2\intermediary-1.19.2.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\fabric-loader\0.14.11\fabric-loader-0.14.11.jar;E:\PCL2\.minecraft2\versions\1.19.2-Fabric\1.19.2-Fabric.jar" -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx7475m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\lenovo\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient --username biancqy --version 1.19.2-Fabric --gameDir "E:\PCL2\.minecraft2" --assetsDir "E:\PCL2\.minecraft2\assets" --assetIndex 1.19 --uuid a5cc333954ac445fb340aab847f62af5 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPt5Yo --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 
+[11:03:29.994] [Loader] 加载器 获取启动参数 状态改变：Finished
+[11:03:29.996] [Loader] 加载器 解压文件 状态改变：Loading
+[11:03:30.001] [Launch] 正在解压 Natives 文件
+[11:03:30.001] [Loader] 加载器 解压文件 状态改变：Finished
+[11:03:30.016] [Loader] 加载器 预启动处理 状态改变：Loading
+[11:03:30.027] [Launch] 已更新 launcher_profiles.json
+[11:03:30.027] [Launch] 并非首次启动，不修改语言
+[11:03:30.027] [Loader] 加载器 预启动处理 状态改变：Finished
+[11:03:30.037] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[11:03:30.042] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[11:03:30.062] [Loader] 加载器 启动进程 状态改变：Loading
+[11:03:30.075] [Launch] 已启动游戏进程：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\javaw.exe
+[11:03:30.075] [Loader] 加载器 启动进程 状态改变：Finished
+[11:03:30.099] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[11:03:30.101] [Launch] 
+[11:03:30.102] [Launch] ~ 基础参数 ~
+[11:03:30.102] [Launch] PCL 版本：Snapshot 2.6.0 (291)
+[11:03:30.102] [Launch] 游戏版本：1.19.2, Fabric 0.14.11（19.2）
+[11:03:30.102] [Launch] 资源版本：1.19
+[11:03:30.102] [Launch] 版本继承：无
+[11:03:30.102] [Launch] 分配的内存：7.3 GB（7475 MB）
+[11:03:30.102] [Launch] MC 文件夹：E:\PCL2\.minecraft2\
+[11:03:30.102] [Launch] 版本文件夹：E:\PCL2\.minecraft2\versions\1.19.2-Fabric\
+[11:03:30.102] [Launch] 版本隔离：False
+[11:03:30.102] [Launch] HMCL 格式：False
+[11:03:30.102] [Launch] Java 信息：JDK 17 (17.0.3)，64 位：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\
+[11:03:30.102] [Launch] 环境变量：未设置
+[11:03:30.102] [Launch] 
+[11:03:30.102] [Launch] ~ 登录参数 ~
+[11:03:30.102] [Launch] 玩家用户名：biancqy
+[11:03:30.102] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPt5Yo
+[11:03:30.102] [Launch] ClientToken：a5cc333954ac445fb340aab847f62af5
+[11:03:30.102] [Launch] UUID：a5cc333954ac445fb340aab847f62af5
+[11:03:30.102] [Launch] 登录方式：Microsoft
+[11:03:30.102] [Launch] 
+[11:03:30.104] [Launch] [15048] 开始 Minecraft 日志监控
+[11:03:30.105] [Launch] [全局] 出现运行中的 Minecraft
+[11:03:30.259] [Download] 1.19.json：已完成，剩余文件 0
+[11:03:30.259] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[11:03:30.259] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[11:03:30.261] [Launch] 后台更新资源文件索引成功：C:\Users\lenovo\AppData\Local\Temp\PCL\Cache\1.19.json
+[11:03:30.261] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[11:03:30.261] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[11:03:30.308] [Launch] [15048] 日志 1/5：已出现日志输出
+[11:03:52.604] [Launch] [15048] 日志 2/5：游戏用户已设置
+[11:04:03.790] [Launch] [15048] Minecraft 窗口已加载：Minecraft* 1.19.2（394708）
+[11:04:03.790] [Launch] [15048] 日志 3/5：LWJGL 版本已确认
+[11:04:03.790] [Launch] [15048] Minecraft 加载已完成
+[11:04:03.805] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[11:04:03.845] [Loader] 加载器 结束处理 状态改变：Loading
+[11:04:03.852] [Launch] 开始启动结束处理
+[11:04:03.852] [Launch] 启动器可见性：5
+[11:04:03.854] [Loader] 加载器 结束处理 状态改变：Finished
+[11:04:03.904] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[11:04:04.074] [Loader] 加载器 Loader Launch 状态改变：Finished
+[11:04:04.110] [UI] 弹出提示：1.19.2-Fabric 启动成功！
+[11:04:10.834] [Launch] [15048] 日志 4/5：OpenAL 已加载
+[11:04:10.834] [Launch] [15048] 日志 5/5：材质已加载
+[11:05:47.349] [Launch] [15048] Minecraft 已退出，返回值：0
+[11:05:47.349] [Launch] [全局] 已无运行中的 Minecraft
+[11:05:47.559] [Launch] [15048] Minecraft 日志监控已退出
+[11:06:17.793] [Control] 按下按钮：版本选择
+[11:06:17.794] [Control] 切换主要页面：VersionSelect, 0
+[11:06:19.242] [Control] 按下图标按钮：BtnTitleInner
+[11:06:19.243] [Control] 切换主要页面：Launch, -1
+[11:06:20.122] [Control] 按下按钮：版本选择
+[11:06:20.122] [Control] 切换主要页面：VersionSelect, 0
+[11:06:23.653] [Control] 普通弹窗：配置文件清理
+是否需要清理 PCL 在该文件夹中的配置文件？
+这包括各个版本的独立设置（如自定义图标、第三方登录配置）等，对游戏本身没有影响。
+[11:06:25.802] [Control] 按下按钮：保留
+[11:06:25.803] [Control] 普通弹框返回：2
+[11:06:25.803] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[11:06:25.815] [Minecraft] 有效的 Minecraft 文件夹：1.7.10 > C:\Users\lenovo\AppData\Roaming\.minecraft\
+[11:06:25.816] [Minecraft] 有效的 Minecraft 文件夹：其他（版本隔离） > E:\PCL2\1.16.5彼岸生存整合包\.minecraft\
+[11:06:25.817] [Minecraft] 有效的 Minecraft 文件夹：1.19.2 > E:\PCL2\最新\.minecraft\
+[11:06:25.819] [Minecraft] 有效的 Minecraft 文件夹：1.19.3 > E:\PCL2\1.19.3\
+[11:06:25.820] [Minecraft] 有效的 Minecraft 文件夹：1.19.4 > E:\PCL2\1.19.4\
+[11:06:25.821] [Minecraft] 有效的 Minecraft 文件夹：1.19.4 > E:\PCL2\1.19.4\versions\1.19.4\
+[11:06:25.824] [Minecraft] 有效的 Minecraft 文件夹：snapshot > E:\PCL2\snapshot\
+[11:06:25.826] [Setup] 当前选择的 Minecraft 文件夹：C:\Users\lenovo\AppData\Roaming\.minecraft\
+[11:06:25.827] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[11:06:25.827] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[11:06:25.828] [UI] 弹出提示：文件夹 .minecraft2 已从列表中移除！
+[11:06:25.828] [Minecraft] 文件夹列表变更，重载所有版本
+[11:06:25.844] [Minecraft] 无法完全确认 MC 版本号的版本：1.19.2
+[11:06:25.852] [Minecraft] 无法完全确认 MC 版本号的版本：1.19.3
+[11:06:25.858] [Minecraft] 无法完全确认 MC 版本号的版本：1.7.10
+[11:06:25.885] [Minecraft] 无法完全确认 MC 版本号的版本：22w42a
+[11:06:25.893] [Setup] 当前选择的 Minecraft 版本：1.7.10 forge
+[11:06:25.893] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\lenovo\AppData\Roaming\.minecraft\versions\1.7.10 forge\
+[11:06:25.950] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[11:06:27.714] [Control] 按下图标按钮：BtnTitleInner
+[11:06:27.715] [Control] 切换主要页面：Launch, -1
+[11:06:27.854] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\lenovo\AppData\Roaming\.minecraft\versions\1.7.10 forge\
+[11:06:29.619] [Control] 按下按钮：版本选择
+[11:06:29.619] [Control] 切换主要页面：VersionSelect, 0
+[11:06:38.303] [UI] 选择文件夹返回：E:\PCL2\最新\.minecraft2\
+[11:06:38.312] [Control] 输入弹窗：输入显示名称
+[11:06:39.410] [Control] 按下按钮：确定
+[11:06:39.410] [Control] 输入弹框返回：.minecraft2
+[11:06:39.411] [Control] 按下单击列表项：添加已有文件夹
+[11:06:39.413] [Setup] 当前选择的 Minecraft 文件夹：E:\PCL2\最新\.minecraft2\
+[11:06:39.413] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[11:06:39.417] [Setup] 已自动关闭单版本隔离：1.19.2-Fabric
+[11:06:39.425] [Minecraft] 有效的 Minecraft 文件夹：1.7.10 > C:\Users\lenovo\AppData\Roaming\.minecraft\
+[11:06:39.427] [Minecraft] 有效的 Minecraft 文件夹：其他（版本隔离） > E:\PCL2\1.16.5彼岸生存整合包\.minecraft\
+[11:06:39.429] [Minecraft] 有效的 Minecraft 文件夹：1.19.2 > E:\PCL2\最新\.minecraft\
+[11:06:39.430] [Minecraft] 有效的 Minecraft 文件夹：1.19.3 > E:\PCL2\1.19.3\
+[11:06:39.431] [Minecraft] 有效的 Minecraft 文件夹：1.19.4 > E:\PCL2\1.19.4\
+[11:06:39.432] [Minecraft] 有效的 Minecraft 文件夹：1.19.4 > E:\PCL2\1.19.4\versions\1.19.4\
+[11:06:39.434] [Minecraft] 有效的 Minecraft 文件夹：snapshot > E:\PCL2\snapshot\
+[11:06:39.435] [Minecraft] 有效的 Minecraft 文件夹：.minecraft2 > E:\PCL2\最新\.minecraft2\
+[11:06:39.437] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[11:06:39.437] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[11:06:39.441] [Setup] 当前选择的 Minecraft 版本：1.19.2-Fabric
+[11:06:39.441] [Minecraft] 选择该文件夹储存的 Minecraft 版本：E:\PCL2\最新\.minecraft2\versions\1.19.2-Fabric\
+[11:06:39.451] [UI] 弹出提示：文件夹 .minecraft2 已添加！
+[11:06:39.624] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[11:06:40.979] [Control] 按下图标按钮：BtnTitleInner
+[11:06:40.979] [Control] 切换主要页面：Launch, -1
+[11:06:41.117] [Minecraft] 启动按钮：Minecraft 版本：E:\PCL2\最新\.minecraft2\versions\1.19.2-Fabric\
+[11:06:41.986] [Control] 按下按钮：启动游戏
+[11:06:41.986] [Loader] 加载器 Loader Launch 状态改变：Loading
+[11:06:41.987] [System] 欲读取的文件不存在，已返回空字符串：E:\PCL2\PCL\hints.txt
+[11:06:41.995] [Launch] 预检测已通过
+[11:06:41.995] [Download] 开始后台更新资源文件索引
+[11:06:41.995] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[11:06:41.995] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[11:06:41.995] [Loader] 加载器 登录 状态改变：Waiting
+[11:06:41.995] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[11:06:41.995] [Download] 版本 1.19.2-Fabric 对应的资源文件索引为 1.19
+[11:06:41.995] [Loader] 加载器 获取 Java 状态改变：Loading
+[11:06:41.996] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[11:06:41.996] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[11:06:41.996] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[11:06:41.996] [Java] 开始完全遍历查找：E:\PCL2\最新\
+[11:06:41.997] [Loader] 加载器 登录 状态改变：Loading
+[11:06:41.997] [Loader] 加载器 补全文件 状态改变：Loading
+[11:06:41.997] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[11:06:41.997] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[11:06:41.997] [Launch] 登录加载已开始
+[11:06:41.997] [Launch] 登录加载已结束
+[11:06:41.997] [Loader] 加载器 登录 状态改变：Finished
+[11:06:41.998] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[11:06:41.998] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[11:06:41.998] [Download] 版本 1.19.2-Fabric 对应的资源文件索引为 1.19
+[11:06:42.000] [Java] 开始完全遍历查找：E:\PCL2\最新\.minecraft2\
+[11:06:42.010] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[11:06:42.011] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[11:06:42.012] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[11:06:42.012] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[11:06:42.013] [Java] 开始完全遍历查找：E:\PCL2\最新\.minecraft2\versions\1.19.2-Fabric\
+[11:06:42.013] [Java] 选定的 Java：JDK 17 (17.0.3)，64 位：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\
+[11:06:42.013] [Launch] 选择的 Java：JDK 17 (17.0.3)，64 位：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\
+[11:06:42.013] [Loader] 加载器 获取 Java 状态改变：Finished
+[11:06:42.022] [Download] 1.19.json 2075#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/f7033757bcb91e11d79f0f31330d680cc787631f/1.19.json
+[11:06:42.054] [Minecraft] 获取支持库列表：1.19.2-Fabric
+[11:06:42.119] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[11:06:42.119] [Loader] 加载器 下载资源文件 状态改变：Loading
+[11:06:42.120] [Loader] 加载器 下载资源文件 状态改变：Finished
+[11:06:42.120] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[11:06:42.214] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[11:06:42.214] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[11:06:42.215] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[11:06:42.215] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[11:06:42.215] [Loader] 加载器 补全文件 状态改变：Finished
+[11:06:42.215] [Loader] 加载器 获取启动参数 状态改变：Loading
+[11:06:42.215] [Launch] 开始获取 Minecraft 启动参数
+[11:06:42.215] [Launch] 获取新版 JVM 参数
+[11:06:42.217] [Launch] 当前剩余内存：10.6G
+[11:06:42.217] [System] 获取资源：JavaWrapper
+[11:06:42.218] [Java] 已释放 Java Wrapper：C:\Users\lenovo\AppData\Roaming\PCL\JavaWrapper.jar
+[11:06:42.218] [Launch] 新版 JVM 参数获取成功：
+[11:06:42.218] [Launch] -Doolloo.jlw.tmpdir="C:\Users\lenovo\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx7372m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\lenovo\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient
+[11:06:42.218] [Launch] 获取新版 Game 参数
+[11:06:42.218] [Launch] 新版 Game 参数获取成功
+[11:06:42.218] [Minecraft] 获取支持库列表：1.19.2-Fabric
+[11:06:42.222] [Launch] Minecraft 启动参数：
+[11:06:42.223] [Launch] -Doolloo.jlw.tmpdir="C:\Users\lenovo\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="E:\PCL2\最新\.minecraft2\versions\1.19.2-Fabric\1.19.2-Fabric-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=291 -cp "E:\PCL2\最新\.minecraft2\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;E:\PCL2\最新\.minecraft2\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;E:\PCL2\最新\.minecraft2\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;E:\PCL2\最新\.minecraft2\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;E:\PCL2\最新\.minecraft2\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;E:\PCL2\最新\.minecraft2\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;E:\PCL2\最新\.minecraft2\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;E:\PCL2\最新\.minecraft2\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;E:\PCL2\最新\.minecraft2\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;E:\PCL2\最新\.minecraft2\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;E:\PCL2\最新\.minecraft2\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;E:\PCL2\最新\.minecraft2\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;E:\PCL2\最新\.minecraft2\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;E:\PCL2\最新\.minecraft2\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;E:\PCL2\最新\.minecraft2\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;E:\PCL2\最新\.minecraft2\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;E:\PCL2\最新\.minecraft2\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;E:\PCL2\最新\.minecraft2\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;E:\PCL2\最新\.minecraft2\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;E:\PCL2\最新\.minecraft2\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;E:\PCL2\最新\.minecraft2\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;E:\PCL2\最新\.minecraft2\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;E:\PCL2\最新\.minecraft2\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;E:\PCL2\最新\.minecraft2\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;E:\PCL2\最新\.minecraft2\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;E:\PCL2\最新\.minecraft2\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;E:\PCL2\最新\.minecraft2\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;E:\PCL2\最新\.minecraft2\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;E:\PCL2\最新\.minecraft2\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;E:\PCL2\最新\.minecraft2\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;E:\PCL2\最新\.minecraft2\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;E:\PCL2\最新\.minecraft2\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;E:\PCL2\最新\.minecraft2\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;E:\PCL2\最新\.minecraft2\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;E:\PCL2\最新\.minecraft2\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;E:\PCL2\最新\.minecraft2\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;E:\PCL2\最新\.minecraft2\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9.jar;E:\PCL2\最新\.minecraft2\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9-natives-windows.jar;E:\PCL2\最新\.minecraft2\libraries\net\fabricmc\tiny-mappings-parser\0.3.0+build.17\tiny-mappings-parser-0.3.0+build.17.jar;E:\PCL2\最新\.minecraft2\libraries\net\fabricmc\sponge-mixin\0.11.4+mixin.0.8.5\sponge-mixin-0.11.4+mixin.0.8.5.jar;E:\PCL2\最新\.minecraft2\libraries\net\fabricmc\tiny-remapper\0.8.2\tiny-remapper-0.8.2.jar;E:\PCL2\最新\.minecraft2\libraries\net\fabricmc\access-widener\2.1.0\access-widener-2.1.0.jar;E:\PCL2\最新\.minecraft2\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;E:\PCL2\最新\.minecraft2\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;E:\PCL2\最新\.minecraft2\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;E:\PCL2\最新\.minecraft2\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;E:\PCL2\最新\.minecraft2\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;E:\PCL2\最新\.minecraft2\libraries\net\fabricmc\intermediary\1.19.2\intermediary-1.19.2.jar;E:\PCL2\最新\.minecraft2\libraries\net\fabricmc\fabric-loader\0.14.11\fabric-loader-0.14.11.jar;E:\PCL2\最新\.minecraft2\versions\1.19.2-Fabric\1.19.2-Fabric.jar" -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx7372m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\lenovo\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient --username biancqy --version 1.19.2-Fabric --gameDir "E:\PCL2\最新\.minecraft2" --assetsDir "E:\PCL2\最新\.minecraft2\assets" --assetIndex 1.19 --uuid a5cc333954ac445fb340aab847f62af5 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPt5Yo --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 
+[11:06:42.223] [Loader] 加载器 获取启动参数 状态改变：Finished
+[11:06:42.228] [Loader] 加载器 解压文件 状态改变：Loading
+[11:06:42.229] [Launch] 正在解压 Natives 文件
+[11:06:42.229] [Loader] 加载器 解压文件 状态改变：Finished
+[11:06:42.280] [Loader] 加载器 预启动处理 状态改变：Loading
+[11:06:42.282] [Launch] 已更新 launcher_profiles.json
+[11:06:42.282] [Launch] 并非首次启动，不修改语言
+[11:06:42.283] [Loader] 加载器 预启动处理 状态改变：Finished
+[11:06:42.315] [Download] 1.19.json：文件大小 385610 B（377 K）
+[11:06:42.321] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[11:06:42.326] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[11:06:42.364] [Loader] 加载器 启动进程 状态改变：Loading
+[11:06:42.368] [Launch] 已启动游戏进程：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\javaw.exe
+[11:06:42.368] [Loader] 加载器 启动进程 状态改变：Finished
+[11:06:42.411] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[11:06:42.411] [Launch] 
+[11:06:42.411] [Launch] ~ 基础参数 ~
+[11:06:42.411] [Launch] PCL 版本：Snapshot 2.6.0 (291)
+[11:06:42.411] [Launch] 游戏版本：1.19.2, Fabric 0.14.11（19.2）
+[11:06:42.411] [Launch] 资源版本：1.19
+[11:06:42.411] [Launch] 版本继承：无
+[11:06:42.412] [Launch] 分配的内存：7.2 GB（7373 MB）
+[11:06:42.412] [Launch] MC 文件夹：E:\PCL2\最新\.minecraft2\
+[11:06:42.412] [Launch] 版本文件夹：E:\PCL2\最新\.minecraft2\versions\1.19.2-Fabric\
+[11:06:42.412] [Launch] 版本隔离：False
+[11:06:42.412] [Launch] HMCL 格式：False
+[11:06:42.412] [Launch] Java 信息：JDK 17 (17.0.3)，64 位：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\
+[11:06:42.412] [Launch] 环境变量：未设置
+[11:06:42.412] [Launch] 
+[11:06:42.412] [Launch] ~ 登录参数 ~
+[11:06:42.412] [Launch] 玩家用户名：biancqy
+[11:06:42.412] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPt5Yo
+[11:06:42.412] [Launch] ClientToken：a5cc333954ac445fb340aab847f62af5
+[11:06:42.412] [Launch] UUID：a5cc333954ac445fb340aab847f62af5
+[11:06:42.412] [Launch] 登录方式：Microsoft
+[11:06:42.412] [Launch] 
+[11:06:42.412] [Launch] [2152] 开始 Minecraft 日志监控
+[11:06:42.412] [Launch] [全局] 出现运行中的 Minecraft
+[11:06:42.608] [Launch] [2152] 日志 1/5：已出现日志输出
+[11:06:42.927] [Download] 1.19.json：已完成，剩余文件 0
+[11:06:42.927] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[11:06:42.928] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[11:06:42.930] [Launch] 后台更新资源文件索引成功：C:\Users\lenovo\AppData\Local\Temp\PCL\Cache\1.19.json
+[11:06:42.930] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[11:06:42.930] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[11:07:07.432] [Launch] [2152] 日志 2/5：游戏用户已设置
+[11:07:23.957] [Report] FPS 0, 动画 7, 下载中 0（0 B/s）
+[11:07:24.146] [Launch] [2152] 日志 3/5：LWJGL 版本已确认
+[11:07:24.379] [Launch] [2152] Minecraft 窗口已加载：Minecraft* 1.19.2（722658）
+[11:07:25.047] [Launch] [2152] Minecraft 加载已完成
+[11:07:25.128] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[11:07:25.130] [Loader] 加载器 结束处理 状态改变：Loading
+[11:07:25.131] [Launch] 开始启动结束处理
+[11:07:25.131] [Launch] 启动器可见性：5
+[11:07:25.131] [Loader] 加载器 结束处理 状态改变：Finished
+[11:07:25.200] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[11:07:25.321] [Loader] 加载器 Loader Launch 状态改变：Finished
+[11:07:25.322] [UI] 弹出提示：1.19.2-Fabric 启动成功！
+[11:07:31.084] [Launch] [2152] 日志 4/5：OpenAL 已加载
+[11:07:31.320] [Launch] [2152] 日志 5/5：材质已加载
+[11:11:52.235] [Launch] [2152] Minecraft 已退出，返回值：0
+[11:11:52.235] [Launch] [全局] 已无运行中的 Minecraft
+[11:11:52.451] [Launch] [2152] Minecraft 日志监控已退出
+[11:15:03.682] [Control] 按下按钮：版本选择
+[11:15:03.683] [Control] 切换主要页面：VersionSelect, 0
+[11:15:12.505] [UI] 选择文件夹返回：E:\PCL2\.minecraft2\
+[11:15:12.513] [Control] 输入弹窗：输入显示名称
+[11:15:14.923] [Control] 按下按钮：确定
+[11:15:14.923] [Control] 输入弹框返回：.minecraft22
+[11:15:14.923] [Control] 按下单击列表项：添加已有文件夹
+[11:15:14.925] [Setup] 当前选择的 Minecraft 文件夹：E:\PCL2\.minecraft2\
+[11:15:14.925] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[11:15:14.929] [Setup] 已自动关闭单版本隔离：1.19.2-Fabric
+[11:15:14.938] [Minecraft] 有效的 Minecraft 文件夹：1.7.10 > C:\Users\lenovo\AppData\Roaming\.minecraft\
+[11:15:14.941] [Minecraft] 有效的 Minecraft 文件夹：其他（版本隔离） > E:\PCL2\1.16.5彼岸生存整合包\.minecraft\
+[11:15:14.942] [Minecraft] 有效的 Minecraft 文件夹：1.19.2 > E:\PCL2\最新\.minecraft\
+[11:15:14.943] [Minecraft] 有效的 Minecraft 文件夹：1.19.3 > E:\PCL2\1.19.3\
+[11:15:14.944] [Minecraft] 有效的 Minecraft 文件夹：1.19.4 > E:\PCL2\1.19.4\
+[11:15:14.945] [Minecraft] 有效的 Minecraft 文件夹：1.19.4 > E:\PCL2\1.19.4\versions\1.19.4\
+[11:15:14.947] [Minecraft] 有效的 Minecraft 文件夹：snapshot > E:\PCL2\snapshot\
+[11:15:14.948] [Minecraft] 有效的 Minecraft 文件夹：.minecraft2 > E:\PCL2\最新\.minecraft2\
+[11:15:14.949] [Minecraft] 有效的 Minecraft 文件夹：.minecraft22 > E:\PCL2\.minecraft2\
+[11:15:14.951] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[11:15:14.952] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[11:15:14.952] [UI] 弹出提示：文件夹 .minecraft22 已添加！
+[11:15:14.952] [Minecraft] 选择该文件夹储存的 Minecraft 版本：E:\PCL2\.minecraft2\versions\1.19.2-Fabric\
+[11:15:15.072] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[11:15:16.394] [Control] 按下图标按钮：BtnTitleInner
+[11:15:16.395] [Control] 切换主要页面：Launch, -1
+[11:15:16.538] [Minecraft] 启动按钮：Minecraft 版本：E:\PCL2\.minecraft2\versions\1.19.2-Fabric\
+[11:15:17.307] [Control] 按下按钮：启动游戏
+[11:15:17.307] [Loader] 加载器 Loader Launch 状态改变：Loading
+[11:15:17.307] [System] 欲读取的文件不存在，已返回空字符串：E:\PCL2\PCL\hints.txt
+[11:15:17.318] [Launch] 预检测已通过
+[11:15:17.318] [Download] 开始后台更新资源文件索引
+[11:15:17.318] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[11:15:17.318] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[11:15:17.318] [Loader] 加载器 登录 状态改变：Waiting
+[11:15:17.318] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[11:15:17.318] [Loader] 加载器 获取 Java 状态改变：Loading
+[11:15:17.318] [Download] 版本 1.19.2-Fabric 对应的资源文件索引为 1.19
+[11:15:17.319] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[11:15:17.319] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[11:15:17.319] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[11:15:17.319] [Java] 开始完全遍历查找：E:\PCL2\
+[11:15:17.320] [Loader] 加载器 登录 状态改变：Loading
+[11:15:17.320] [Loader] 加载器 补全文件 状态改变：Loading
+[11:15:17.320] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[11:15:17.320] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[11:15:17.320] [Launch] 登录加载已开始
+[11:15:17.321] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[11:15:17.321] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[11:15:17.321] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[11:15:17.321] [Launch] 登录方式：正版（biancqy）
+[11:15:17.321] [Launch] 微软登录完成
+[11:15:17.321] [UI] 解锁隐藏主题：10
+[11:15:17.321] [Download] 版本 1.19.2-Fabric 对应的资源文件索引为 1.19
+[11:15:17.321] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[11:15:17.332] [Launch] 登录加载已结束
+[11:15:17.332] [Loader] 加载器 登录 状态改变：Finished
+[11:15:17.334] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[11:15:17.334] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[11:15:17.334] [Java] 开始完全遍历查找：E:\PCL2\.minecraft2\
+[11:15:17.335] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[11:15:17.335] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[11:15:17.337] [Java] 开始完全遍历查找：E:\PCL2\.minecraft2\versions\1.19.2-Fabric\
+[11:15:17.337] [Java] 选定的 Java：JDK 17 (17.0.3)，64 位：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\
+[11:15:17.338] [Launch] 选择的 Java：JDK 17 (17.0.3)，64 位：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\
+[11:15:17.338] [Loader] 加载器 获取 Java 状态改变：Finished
+[11:15:17.380] [Download] 1.19.json 2681#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/f7033757bcb91e11d79f0f31330d680cc787631f/1.19.json
+[11:15:17.383] [Minecraft] 获取支持库列表：1.19.2-Fabric
+[11:15:17.386] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[11:15:17.387] [Loader] 加载器 下载资源文件 状态改变：Loading
+[11:15:17.387] [Loader] 加载器 下载资源文件 状态改变：Finished
+[11:15:17.387] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[11:15:17.509] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[11:15:17.509] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[11:15:17.510] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[11:15:17.510] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[11:15:17.510] [Loader] 加载器 补全文件 状态改变：Finished
+[11:15:17.510] [Loader] 加载器 获取启动参数 状态改变：Loading
+[11:15:17.511] [Launch] 开始获取 Minecraft 启动参数
+[11:15:17.511] [Launch] 获取新版 JVM 参数
+[11:15:17.512] [Launch] 当前剩余内存：7.4G
+[11:15:17.512] [System] 获取资源：JavaWrapper
+[11:15:17.513] [Java] 已释放 Java Wrapper：C:\Users\lenovo\AppData\Roaming\PCL\JavaWrapper.jar
+[11:15:17.513] [Launch] 新版 JVM 参数获取成功：
+[11:15:17.513] [Launch] -Doolloo.jlw.tmpdir="C:\Users\lenovo\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx5427m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\lenovo\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient
+[11:15:17.513] [Launch] 获取新版 Game 参数
+[11:15:17.513] [Launch] 新版 Game 参数获取成功
+[11:15:17.513] [Minecraft] 获取支持库列表：1.19.2-Fabric
+[11:15:17.515] [Launch] Minecraft 启动参数：
+[11:15:17.516] [Launch] -Doolloo.jlw.tmpdir="C:\Users\lenovo\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="E:\PCL2\.minecraft2\versions\1.19.2-Fabric\1.19.2-Fabric-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=291 -cp "E:\PCL2\.minecraft2\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;E:\PCL2\.minecraft2\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;E:\PCL2\.minecraft2\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;E:\PCL2\.minecraft2\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;E:\PCL2\.minecraft2\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;E:\PCL2\.minecraft2\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;E:\PCL2\.minecraft2\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;E:\PCL2\.minecraft2\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;E:\PCL2\.minecraft2\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;E:\PCL2\.minecraft2\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;E:\PCL2\.minecraft2\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;E:\PCL2\.minecraft2\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;E:\PCL2\.minecraft2\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;E:\PCL2\.minecraft2\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;E:\PCL2\.minecraft2\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;E:\PCL2\.minecraft2\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;E:\PCL2\.minecraft2\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;E:\PCL2\.minecraft2\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;E:\PCL2\.minecraft2\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;E:\PCL2\.minecraft2\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;E:\PCL2\.minecraft2\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;E:\PCL2\.minecraft2\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;E:\PCL2\.minecraft2\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;E:\PCL2\.minecraft2\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;E:\PCL2\.minecraft2\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;E:\PCL2\.minecraft2\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;E:\PCL2\.minecraft2\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;E:\PCL2\.minecraft2\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;E:\PCL2\.minecraft2\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9.jar;E:\PCL2\.minecraft2\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9-natives-windows.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\tiny-mappings-parser\0.3.0+build.17\tiny-mappings-parser-0.3.0+build.17.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\sponge-mixin\0.11.4+mixin.0.8.5\sponge-mixin-0.11.4+mixin.0.8.5.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\tiny-remapper\0.8.2\tiny-remapper-0.8.2.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\access-widener\2.1.0\access-widener-2.1.0.jar;E:\PCL2\.minecraft2\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;E:\PCL2\.minecraft2\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;E:\PCL2\.minecraft2\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;E:\PCL2\.minecraft2\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;E:\PCL2\.minecraft2\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\intermediary\1.19.2\intermediary-1.19.2.jar;E:\PCL2\.minecraft2\libraries\net\fabricmc\fabric-loader\0.14.11\fabric-loader-0.14.11.jar;E:\PCL2\.minecraft2\versions\1.19.2-Fabric\1.19.2-Fabric.jar" -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx5427m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\lenovo\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient --username biancqy --version 1.19.2-Fabric --gameDir "E:\PCL2\.minecraft2" --assetsDir "E:\PCL2\.minecraft2\assets" --assetIndex 1.19 --uuid a5cc333954ac445fb340aab847f62af5 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPt5Yo --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 
+[11:15:17.516] [Loader] 加载器 获取启动参数 状态改变：Finished
+[11:15:17.523] [Loader] 加载器 解压文件 状态改变：Loading
+[11:15:17.524] [Launch] 正在解压 Natives 文件
+[11:15:17.524] [Loader] 加载器 解压文件 状态改变：Finished
+[11:15:17.558] [Loader] 加载器 预启动处理 状态改变：Loading
+[11:15:17.559] [Launch] 已更新 launcher_profiles.json
+[11:15:17.559] [Launch] 并非首次启动，不修改语言
+[11:15:17.559] [Loader] 加载器 预启动处理 状态改变：Finished
+[11:15:17.580] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[11:15:17.582] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[11:15:17.600] [Loader] 加载器 启动进程 状态改变：Loading
+[11:15:17.606] [Launch] 已启动游戏进程：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\javaw.exe
+[11:15:17.606] [Loader] 加载器 启动进程 状态改变：Finished
+[11:15:17.606] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[11:15:17.606] [Launch] 
+[11:15:17.606] [Launch] ~ 基础参数 ~
+[11:15:17.606] [Launch] PCL 版本：Snapshot 2.6.0 (291)
+[11:15:17.606] [Launch] 游戏版本：1.19.2, Fabric 0.14.11（19.2）
+[11:15:17.606] [Launch] 资源版本：1.19
+[11:15:17.606] [Launch] 版本继承：无
+[11:15:17.607] [Launch] 分配的内存：5.3 GB（5427 MB）
+[11:15:17.607] [Launch] MC 文件夹：E:\PCL2\.minecraft2\
+[11:15:17.607] [Launch] 版本文件夹：E:\PCL2\.minecraft2\versions\1.19.2-Fabric\
+[11:15:17.607] [Launch] 版本隔离：False
+[11:15:17.607] [Launch] HMCL 格式：False
+[11:15:17.607] [Launch] Java 信息：JDK 17 (17.0.3)，64 位：C:\Program Files (x86)\Java\jdk-17.0.3+7\bin\
+[11:15:17.607] [Launch] 环境变量：未设置
+[11:15:17.607] [Launch] 
+[11:15:17.607] [Launch] ~ 登录参数 ~
+[11:15:17.607] [Launch] 玩家用户名：biancqy
+[11:15:17.607] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPt5Yo
+[11:15:17.607] [Launch] ClientToken：a5cc333954ac445fb340aab847f62af5
+[11:15:17.607] [Launch] UUID：a5cc333954ac445fb340aab847f62af5
+[11:15:17.607] [Launch] 登录方式：Microsoft
+[11:15:17.607] [Launch] 
+[11:15:17.607] [Launch] [8344] 开始 Minecraft 日志监控
+[11:15:17.607] [Launch] [全局] 出现运行中的 Minecraft
+[11:15:17.673] [Download] 1.19.json：文件大小 385610 B（377 K）
+[11:15:17.815] [Launch] [8344] 日志 1/5：已出现日志输出
+[11:15:18.204] [Download] 1.19.json：已完成，剩余文件 0
+[11:15:18.204] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[11:15:18.205] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[11:15:18.207] [Launch] 后台更新资源文件索引成功：C:\Users\lenovo\AppData\Local\Temp\PCL\Cache\1.19.json
+[11:15:18.207] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[11:15:18.207] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[11:15:40.383] [Launch] [8344] 日志 2/5：游戏用户已设置
+[11:15:52.449] [Launch] [8344] Minecraft 窗口已加载：Minecraft* 1.19.2（656676）
+[11:15:52.449] [Launch] [8344] 日志 3/5：LWJGL 版本已确认
+[11:15:52.450] [Launch] [8344] Minecraft 加载已完成
+[11:15:52.495] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[11:15:52.499] [Loader] 加载器 结束处理 状态改变：Loading
+[11:15:52.500] [Launch] 开始启动结束处理
+[11:15:52.500] [Launch] 启动器可见性：5
+[11:15:52.501] [Loader] 加载器 结束处理 状态改变：Finished
+[11:15:52.560] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[11:15:52.610] [Loader] 加载器 Loader Launch 状态改变：Finished
+[11:15:52.612] [UI] 弹出提示：1.19.2-Fabric 启动成功！
+[11:16:02.756] [Launch] [8344] 日志 4/5：OpenAL 已加载
+[11:16:02.949] [Launch] [8344] 日志 5/5：材质已加载
+[11:16:48.296] [Launch] [8344] 识别为崩溃的 Log：#@!@# Game crashed! Crash report saved to: #@!@# E:\PCL2\.minecraft2\crash-reports\crash-2023-05-24_11.16.48-client.txt
+[11:16:48.298] [Launch] [全局] 已无运行中的 Minecraft
+[11:16:48.298] [Launch] [8344] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[11:16:48.347] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[11:16:48.533] [Launch] [8344] Minecraft 日志监控已退出
+[11:16:50.307] [Launch] [8344] 崩溃分析开始
+[11:16:50.307] [Crash] 崩溃分析暂存文件夹：C:\Users\lenovo\AppData\Local\Temp\PCL\CrashAnalyzer\83447582473\
+[11:16:50.307] [Crash] 步骤 1：收集日志文件
+[11:16:50.307] [Crash] 可能可用的日志文件：E:\PCL2\.minecraft2\crash-reports\crash-2023-05-24_11.16.48-client.txt（0 分钟）
+[11:16:50.307] [Crash] 可能可用的日志文件：E:\PCL2\.minecraft2\logs\latest.log（0 分钟）
+[11:16:50.307] [Crash] 以下为游戏输出的最后一段内容：
+[11:15:24] [main/WARN]: @Final field field_33815:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[11:15:30] [main/INFO]: Building optimized datafixer
+[11:15:37] [Render thread/WARN]: Method overwrite conflict for method_22920 in sodium.mixins.json:features.buffer_builder.intrinsics.MixinBufferBuilder from mod sodium, previously written by net.coderbot.iris.mixin.vertices.block_rendering.MixinBufferBuilder_SeparateAo. Skipping method.
+[11:15:38] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:15:40] [Render thread/INFO]: Setting user: biancqy
+[11:15:40] [Render thread/INFO]: BetterPingDisplay mod loaded
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[11:15:42] [Render thread/INFO]: [STDOUT]: Starting WI Zoom v1.4-MC1.19.2
+[11:15:44] [Render thread/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@24632a82]
+[11:15:44] [Render thread/INFO]: WorldEdit for Fabric (version 7.2.12+6240-87f4ae1) is loaded
+[11:15:44] [Render thread/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[11:15:45] [Render thread/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[11:15:45] [Render thread/INFO]: [WTHIT] Using mcp.mobius.waila.plugin.core.pick.ObjectPicker as the object picker
+[11:15:45] [Render thread/INFO]: [WTHIT] Plugin config reloaded
+[11:15:48] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[11:15:48] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_23182 in sodium.mixins.json:features.item.MixinItemRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[11:15:49] [Render thread/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[11:15:49] [Render thread/INFO]: [LambDynLights] Configuration loaded.
+[11:15:49] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Main.initialize()
+[11:15:49] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Initialized.
+[11:15:49] [Render thread/INFO]: Loading Xaero's Minimap - Stage 1/2
+[11:15:50] [Render thread/INFO]: Loading Xaero's World Map - Stage 1/2
+[11:15:52] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[11:15:53] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[11:15:53] [Render thread/INFO]: Debug functionality is disabled.
+[11:15:53] [Render thread/INFO]: Profile: HIGH (+0 options changed by user)
+[11:15:54] [Worker-Bootstrap-6/INFO]: 4283 Datafixer optimizations took 24589 milliseconds
+[11:15:55] [Render thread/INFO]: Using shaderpack: ComplementaryShaders_v4.3.zip
+[11:15:55] [Render thread/INFO]: Hardware information:
+[11:15:55] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 4800H with Radeon Graphics 
+[11:15:55] [Render thread/INFO]: GPU: NVIDIA GeForce GTX 1650/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 511.23)
+[11:15:55] [Render thread/INFO]: OS: Windows 10 (10.0)
+[11:15:56] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[11:15:56] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Ambient Sounds (Fabric), AppleSkin, Better Ping Display, Bookshelf, CaffeineConfig, Capes, Cardinal Components API (base), Cardinal Components API (entities), Chat Heads, Cloth Config v8, Continuity, Controlling For Fabric, CreativeCore (Fabric), Giselbaers Durability Viewer, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Client Tags, Fabric Command API (v1), Fabric Command API (v2), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Language Kotlin, Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Message API (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Sound API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, GBfabrictools, IMBlockerFabric, Indium, Inventory Profiles Next, Iris, Just Enough Items, LambDynamicLights, Leaf Decay, libIPN, Mod Menu, OmegaConfig, Pride Lib, Reese's Sodium Options, Sit, Sodium, Sodium Extra, SpruceUI, Syncmatica, Trinkets, WI Zoom, WorldEdit, wthit, Xaero's Minimap, Xaero's World Map), Masa_模组汉化资源包_V1.2.zip, continuity/default, continuity/glass_pane_culling_fix, Genshin音乐&字体二合一包, 可爱的监守者.zip
+[11:15:56] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[11:15:58] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:58] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function ScreenToView and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function AutoExposure and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: [Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]...
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function GetLuminance and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function SampleFilteredShadow and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function WavingWater and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function Bayer256 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function SampleFilteredShadow and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function stylisedGGX and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function GetMetalCol and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function SampleFilteredShadow and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function GetLuminance and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function SampleFilteredShadow and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function DecodeNormal and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function stylisedGGX and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function GetMetalCol and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function calcLilypadMove and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function Bayer256 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function WavingWater and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function Bayer256 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[11:16:01] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[11:16:01] [Render thread/INFO]: No Optifine!
+[11:16:01] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[11:16:02] [Render thread/INFO]: Loaded AmbientEngine 'basic' v2.1.5. 11 dimension(s), 8 features, 9 groups, 31 regions, 57 sounds, 4 solids and 2 biome types
+[11:16:02] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[11:16:02] [Render thread/INFO]: New world map region cache hash code: 456397883
+[11:16:02] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[11:16:02] [Render thread/INFO]: No Optifine!
+[11:16:02] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[11:16:02] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[11:16:02] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[11:16:02] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 耳机 (Realtek(R) Audio)
+[11:16:02] [Render thread/INFO]: Sound engine started
+[11:16:02] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[11:16:04] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[11:16:04] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[11:16:04] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[11:16:04] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[11:16:04] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[11:16:04] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[11:16:04] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[11:16:14] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] Failed to get update info!
+java.net.ConnectException: Connection timed out: connect
+	at sun.nio.ch.Net.connect0(Native Method) ~[?:?]
+	at sun.nio.ch.Net.connect(Net.java:579) ~[?:?]
+	at sun.nio.ch.Net.connect(Net.java:568) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.net.Socket.connect(Socket.java:633) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304) ~[?:?]
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174) ~[?:?]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:183) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:498) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:603) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2887) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2796) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1927) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at java.net.URL.openStream(URL.java:1161) ~[?:?]
+	at org.apache.commons.io.IOUtils.toString(IOUtils.java:2953) ~[commons-io-2.11.0.jar:?]
+	at net.coderbot.iris.UpdateChecker.lambda$checkForUpdates$0(UpdateChecker.java:92) ~[iris-mc1.19.2-1.4.5.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[11:16:44] [Render thread/INFO]: Connecting to frp-all.top, 53004
+[11:16:47] [Render thread/WARN]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath
+[11:16:47] [Render thread/ERROR]: Unreported exception thrown!
+java.lang.NoClassDefFoundError: fi/dy/masa/malilib/util/StringUtils
+	at ch.endte.syncmatica.communication.ExchangeTarget.<init>(ExchangeTarget.java:30) ~[%5B共享原理图%5D%20syncmatica-1.18.2-0.3.8.jar:?]
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startClient(ActorClientPlayNetworkHandler.java:45) ~[%5B共享原理图%5D%20syncmatica-1.18.2-0.3.8.jar:?]
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startEvent(ActorClientPlayNetworkHandler.java:36) ~[%5B共享原理图%5D%20syncmatica-1.18.2-0.3.8.jar:?]
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.packetEvent(ActorClientPlayNetworkHandler.java:58) ~[%5B共享原理图%5D%20syncmatica-1.18.2-0.3.8.jar:?]
+	at net.minecraft.class_634.handler$bkd000$handlePacket(class_634.java:7477) ~[client-intermediary.jar:?]
+	at net.minecraft.class_634.method_11152(class_634.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2658.method_11457(class_2658.java:60) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2658.method_11054(class_2658.java:8) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:22) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:157) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:131) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:116) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1129) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:768) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:244) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.11.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.ClassNotFoundException: fi.dy.masa.malilib.util.StringUtils
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226) ~[fabric-loader-0.14.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:145) ~[fabric-loader-0.14.11.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	... 26 more
+---- Minecraft Crash Report ----
+// Why did you do that?
+
+Time: 2023-05-24 11:16:48
+Description: Unexpected error
+
+java.lang.NoClassDefFoundError: fi/dy/masa/malilib/util/StringUtils
+	at ch.endte.syncmatica.communication.ExchangeTarget.<init>(ExchangeTarget.java:30)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startClient(ActorClientPlayNetworkHandler.java:45)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startEvent(ActorClientPlayNetworkHandler.java:36)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.packetEvent(ActorClientPlayNetworkHandler.java:58)
+	at net.minecraft.class_634.handler$bkd000$handlePacket(class_634.java:7477)
+	at net.minecraft.class_634.method_11152(class_634.java)
+	at net.minecraft.class_2658.method_11457(class_2658.java:60)
+	at net.minecraft.class_2658.method_11054(class_2658.java:8)
+	at net.minecraft.class_2600.method_11072(class_2600.java:22)
+	at net.minecraft.class_1255.method_18859(class_1255.java:157)
+	at net.minecraft.class_4093.method_18859(class_4093.java:23)
+	at net.minecraft.class_1255.method_16075(class_1255.java:131)
+	at net.minecraft.class_1255.method_5383(class_1255.java:116)
+	at net.minecraft.class_310.method_1523(class_310.java:1129)
+	at net.minecraft.class_310.method_1514(class_310.java:768)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.ClassNotFoundException: fi.dy.masa.malilib.util.StringUtils
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:145)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 26 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at ch.endte.syncmatica.communication.ExchangeTarget.<init>(ExchangeTarget.java:30)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startClient(ActorClientPlayNetworkHandler.java:45)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startEvent(ActorClientPlayNetworkHandler.java:36)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.packetEvent(ActorClientPlayNetworkHandler.java:58)
+	at net.minecraft.class_634.handler$bkd000$handlePacket(class_634.java:7477)
+	at net.minecraft.class_634.method_11152(class_634.java)
+	at net.minecraft.class_2658.method_11457(class_2658.java:60)
+	at net.minecraft.class_2658.method_11054(class_2658.java:8)
+	at net.minecraft.class_2600.method_11072(class_2600.java:22)
+	at net.minecraft.class_1255.method_18859(class_1255.java:157)
+	at net.minecraft.class_4093.method_18859(class_4093.java:23)
+	at net.minecraft.class_1255.method_16075(class_1255.java:131)
+
+-- Last reload --
+Details:
+	Reload number: 1
+	Reload reason: initial
+	Finished: Yes
+	Packs: Default, Fabric Mods, Masa_模组汉化资源包_V1.2.zip, continuity/default, continuity/glass_pane_culling_fix, Genshin音乐&字体二合一包, 可爱的监守者.zip
+Stacktrace:
+	at net.minecraft.class_6360.method_36565(class_6360.java:49)
+	at net.minecraft.class_310.method_1587(class_310.java:2348)
+	at net.minecraft.class_310.method_1514(class_310.java:792)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.3, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 3428575376 bytes (3269 MiB) / 4034920448 bytes (3848 MiB) up to 5691670528 bytes (5428 MiB)
+	CPUs: 16
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 7 4800H with Radeon Graphics         
+	Identifier: AuthenticAMD Family 23 Model 96 Stepping 1
+	Microarchitecture: unknown
+	Frequency (GHz): 2.89
+	Number of physical packages: 1
+	Number of physical CPUs: 8
+	Number of logical CPUs: 16
+	Graphics card #0 name: NVIDIA GeForce GTX 1650
+	Graphics card #0 vendor: NVIDIA (0x10de)
+	Graphics card #0 VRAM (MB): 4095.00
+	Graphics card #0 deviceId: 0x1f99
+	Graphics card #0 versionInfo: DriverVersion=30.0.15.1123
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 18841.26
+	Virtual memory used (MB): 16395.34
+	Swap memory total (MB): 3099.95
+	Swap memory used (MB): 0.02
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx5427m
+	Fabric Mods: 
+		ambientsounds: Ambient Sounds (Fabric) 5.2.13
+		appleskin: AppleSkin 2.4.1+mc1.19
+		badpackets: Bad Packets 0.2.1
+		betterpingdisplay: Better Ping Display 1.1.1
+		bookshelf: Bookshelf 16.2.16
+		capes: Capes 1.4.5+1.19
+			omega-config: OmegaConfig 1.2.3-1.18.1
+		chat_heads: Chat Heads 0.7.1
+		cloth-config: Cloth Config v8 8.2.88
+			cloth-basic-math: cloth-basic-math 0.6.1
+		continuity: Continuity 2.0.1+1.19
+		controlling: Controlling For Fabric 10.0+7
+		creativecore: CreativeCore (Fabric) 2.9.3
+		durabilityviewer: Giselbaers Durability Viewer 1.19.1-fabric0.58.5-1.10.3
+			crowdin-translate: CrowdinTranslate 1.4+1.19
+			gbfabrictools: GBfabrictools 1.3.4+1.19
+		elytraslot: Elytra Slot 6.1.0+1.19.2
+		fabric-api: Fabric API 0.69.0+1.19.2
+			fabric-api-base: Fabric API Base 0.4.13+0d0f210290
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.12+93d8cb8290
+			fabric-biome-api-v1: Fabric Biome API (v1) 9.0.20+0d0f210290
+			fabric-block-api-v1: Fabric Block API (v1) 1.0.1+12bfe4ea90
+			fabric-blockrenderlayer-v1: Fabric BlockRenderLayer Registration (v1) 1.1.22+c6af733c90
+			fabric-client-tags-api-v1: Fabric Client Tags 1.0.3+b35fea8390
+			fabric-command-api-v1: Fabric Command API (v1) 1.2.13+f71b366f90
+			fabric-command-api-v2: Fabric Command API (v2) 2.1.9+93d8cb8290
+			fabric-commands-v0: Fabric Commands (v0) 0.2.30+df3654b390
+			fabric-containers-v0: Fabric Containers (v0) 0.1.38+df3654b390
+			fabric-content-registries-v0: Fabric Content Registries (v0) 3.4.4+6064db2a90
+			fabric-convention-tags-v1: Fabric Convention Tags 1.2.0+27265b3490
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.2.7+aeb40ebe90
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 5.3.3+ad31814d90
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 2.1.33+0d0f210290
+			fabric-entity-events-v1: Fabric Entity Events (v1) 1.5.2+9244241690
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.4.31+6eb9a2a190
+			fabric-events-lifecycle-v0: Fabric Events Lifecycle (v0) 0.2.31+df3654b390
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.23+c6af733c90
+			fabric-item-api-v1: Fabric Item API (v1) 1.6.1+fa140d5990
+			fabric-item-groups-v0: Fabric Item Groups (v0) 0.3.36+9244241690
+			fabric-key-binding-api-v1: Fabric Key Binding API (v1) 1.0.23+aaaf9d3390
+			fabric-keybindings-v0: Fabric Key Bindings (v0) 0.2.21+df3654b390
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.2.2+9244241690
+			fabric-loot-api-v2: Fabric Loot API (v2) 1.1.10+83a8659290
+			fabric-loot-tables-v1: Fabric Loot Tables (v1) 1.1.13+9e7660c690
+			fabric-message-api-v1: Fabric Message API (v1) 5.0.5+93d8cb8290
+			fabric-mining-level-api-v1: Fabric Mining Level API (v1) 2.1.21+33fbc73890
+			fabric-models-v0: Fabric Models (v0) 0.3.19+c6af733c90
+			fabric-networking-api-v1: Fabric Networking API (v1) 1.2.8+3b1d070f90
+			fabric-networking-v0: Fabric Networking (v0) 0.3.25+df3654b390
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 4.1.3+06e0e25190
+			fabric-particles-v1: Fabric Particles (v1) 1.0.12+79adfe0a90
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 0.9.29+9244241690
+			fabric-renderer-api-v1: Fabric Renderer API (v1) 1.1.0+e7aeff4590
+			fabric-renderer-indigo: Fabric Renderer - Indigo 0.6.17+aeb40ebe90
+			fabric-renderer-registries-v1: Fabric Renderer Registries (v1) 3.2.22+df3654b390
+			fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.3.17+0d0f210290
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.0.9+c6af733c90
+			fabric-rendering-v0: Fabric Rendering (v0) 1.1.25+df3654b390
+			fabric-rendering-v1: Fabric Rendering (v1) 1.11.1+73145abb90
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 2.1.1+aae9039d90
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 0.8.2+574a764890
+			fabric-screen-api-v1: Fabric Screen API (v1) 1.0.30+b0bc9a6790
+			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.4+1cc24b1b90
+			fabric-sound-api-v1: Fabric Sound API (v1) 1.0.1+c4f28df590
+			fabric-textures-v0: Fabric Textures (v0) 1.0.22+aeb40ebe90
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 2.1.3+9d081d6490
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 1.3.2+42d99c3290
+		fabric-language-kotlin: Fabric Language Kotlin 1.9.1+kotlin.1.8.10
+			org_jetbrains_kotlin_kotlin-reflect: kotlin-reflect 1.8.10
+			org_jetbrains_kotlin_kotlin-stdlib: kotlin-stdlib 1.8.10
+			org_jetbrains_kotlin_kotlin-stdlib-jdk7: kotlin-stdlib-jdk7 1.8.10
+			org_jetbrains_kotlin_kotlin-stdlib-jdk8: kotlin-stdlib-jdk8 1.8.10
+			org_jetbrains_kotlinx_atomicfu-jvm: atomicfu-jvm 0.19.0
+			org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: kotlinx-coroutines-core-jvm 1.6.4
+			org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: kotlinx-coroutines-jdk8 1.6.4
+			org_jetbrains_kotlinx_kotlinx-datetime-jvm: kotlinx-datetime-jvm 0.4.0
+			org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm: kotlinx-serialization-cbor-jvm 1.4.1
+			org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: kotlinx-serialization-core-jvm 1.4.1
+			org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: kotlinx-serialization-json-jvm 1.4.1
+		fabricloader: Fabric Loader 0.14.11
+		imblocker: IMBlockerFabric 1.0.20
+		indium: Indium 1.0.9+mc1.19.2
+		inventoryprofilesnext: Inventory Profiles Next 1.9.0
+		iris: Iris 1.4.5
+			io_github_douira_glsl-transformer: glsl-transformer 1.0.1
+			org_anarres_jcpp: jcpp 1.4.14
+			org_antlr_antlr4-runtime: antlr4-runtime 4.10.1
+		itemphysiclite: ItemPhysic Lite (Fabric) 1.5.1
+		java: OpenJDK 64-Bit Server VM 17
+		jei: Just Enough Items 11.4.0.290
+		lambdynlights: LambDynamicLights 2.1.2+1.19
+			pride: Pride Lib 1.1.2+1.19
+			spruceui: SpruceUI 4.0.0+1.19
+		leaf-decay: Leaf Decay 1.5.0-1.19.2
+		libipn: libIPN 2.0.0
+		minecraft: Minecraft 1.19.2
+		modmenu: Mod Menu 4.1.2
+		mousetweaks: Mouse Tweaks 2.22
+		reeses-sodium-options: Reese's Sodium Options 1.4.9+mc1.19.2-build.67
+		sit: Sit 1.19-20
+		sodium: Sodium 0.4.4+build.18
+			org_joml_joml: joml 1.10.4
+		sodium-extra: Sodium Extra 0.4.15+mc1.19.2-build.85
+			caffeineconfig: CaffeineConfig 1.0.0+1.17
+		syncmatica: Syncmatica 1.18.2-0.3.8
+		trinkets: Trinkets 3.4.2
+			cardinal-components-base: Cardinal Components API (base) 5.0.0-beta.1
+			cardinal-components-entity: Cardinal Components API (entities) 5.0.0-beta.1
+		wi_zoom: WI Zoom 1.4-MC1.19.2
+		worldedit: WorldEdit 7.2.12+6240-87f4ae1
+		wthit: wthit 5.13.4
+		xaerominimap: Xaero's Minimap 22.17.0
+		xaeroworldmap: Xaero's World Map 1.28.7
+	Loaded Shaderpack: ComplementaryShaders_v4.3.zip
+		Profile: HIGH (+0 options changed by user)
+	NEC status: No NEC detected
+	Launched Version: 1.19.2-Fabric
+	Backend library: LWJGL version 3.3.1 SNAPSHOT
+	Backend API: NVIDIA GeForce GTX 1650/PCIe/SSE2 GL version 3.2.0 NVIDIA 511.23, NVIDIA Corporation
+	Window size: 1920x1057
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fabric'
+	Type: Client (map_client.txt)
+	Graphics mode: fancy
+	Resource Packs: vanilla, Fabric Mods, file/Masa_模组汉化资源包_V1.2.zip (incompatible), continuity/default, continuity/glass_pane_culling_fix, file/Genshin音乐&字体二合一包, file/可爱的监守者.zip
+	Current Language: 简体中文 (中国大陆)
+	CPU: 16x AMD Ryzen 7 4800H with Radeon Graphics 
+#@!@# Game crashed! Crash report saved to: #@!@# E:\PCL2\.minecraft2\crash-reports\crash-2023-05-24_11.16.48-client.txt
+[11:16:50.317] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[11:16:50.317] [Crash] 步骤 2：准备日志文本
+[11:16:50.317] [Crash] crash-2023-05-24_11.16.48-client.txt 分类为 CrashReport
+[11:16:50.317] [Crash] latest.log 分类为 MinecraftLog
+[11:16:50.317] [Crash] RawOutput.log 分类为 MinecraftLog
+[11:16:50.317] [Crash] 输出报告：E:\PCL2\.minecraft2\logs\latest.log，作为 Minecraft 或启动器日志
+[11:16:50.317] [Crash] 输出报告：C:\Users\lenovo\AppData\Local\Temp\PCL\CrashAnalyzer\83447582473\RawOutput.log，作为 Minecraft 或启动器日志
+[11:16:50.317] [Crash] 导入分析：C:\Users\lenovo\AppData\Local\Temp\PCL\CrashAnalyzer\83447582473\RawOutput.log，作为启动器日志
+[11:16:50.317] [Crash] 导入分析：E:\PCL2\.minecraft2\logs\latest.log，作为 Minecraft 日志
+[11:16:50.327] [Crash] 输出报告：E:\PCL2\.minecraft2\crash-reports\crash-2023-05-24_11.16.48-client.txt，作为 Minecraft 崩溃报告
+[11:16:50.327] [Crash] 导入分析：E:\PCL2\.minecraft2\crash-reports\crash-2023-05-24_11.16.48-client.txt，作为 Minecraft 崩溃报告
+[11:16:50.327] [Crash] 步骤 2：准备日志文本完成，找到游戏日志、崩溃日志用作分析
+[11:16:50.327] [Crash] 步骤 3：分析崩溃原因
+[11:16:50.337] [Crash] 开始进行崩溃日志堆栈分析
+[11:16:50.387] [Crash] 找到 3 条可能的堆栈信息
+[11:16:50.387] [Crash]  - ch.endte.syncmatica.communication
+[11:16:50.387] [Crash]  - ch.endte.syncmatica.mixin_actor
+[11:16:50.387] [Crash]  - fi.dy.masa.malilib
+[11:16:50.387] [Crash] 从堆栈信息中找到 6 个可能的 Mod ID 关键词
+[11:16:50.387] [Crash]  - endte, syncmatica, communication, mixin_actor, masa, malilib
+[11:16:50.387] [Crash] 检测到 Fabric Mod 信息格式
+[11:16:50.387] [Crash] 找到 0 个可能的 Mod 项目行
+[11:16:50.387] [Crash] 找到 0 个可能的崩溃 Mod 匹配行
+[11:16:50.387] [Crash] 找到 0 个可能的崩溃 Mod 文件名
+[11:16:50.397] [Crash] 可能的崩溃原因：崩溃日志堆栈分析发现关键字（endte；syncmatica；communication；mixin_actor；masa；malilib）
+[11:16:50.397] [Crash] 步骤 3：分析崩溃原因完成，找到 1 条可能的原因
+[11:16:50.397] [Crash]  - 崩溃日志堆栈分析发现关键字（endte；syncmatica；communication；mixin_actor；masa；malilib）
+[11:16:50.397] [System] 窗口已置顶，位置：(598, 272), 810 x 470
+[11:16:50.447] [Control] 普通弹窗：Minecraft 出现错误
+你的游戏遇到了一些问题，这可能是某些 Mod 所引起的，PCL 找到了以下可疑的关键词：
+ - endte, syncmatica, communication, mixin_actor, masa, malilib
+
+如果你知道这些关键词对应的 Mod，那么有可能就是它引起的错误，你也可以查看错误报告获取详情。
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+[11:17:20.263] [Control] 按下按钮：导出错误报告
+[11:17:20.264] [Control] 普通弹框返回：3
+[11:17:26.703] [UI] 选择文件返回：E:\库\桌面\错误报告-2023-5-24_11.17.20.zip
+[11:17:26.853] [System] 诊断信息：
+操作系统：Microsoft Windows 11 家庭中文版
+剩余内存：7512 M / 15741 M
+DPI：96（100%）
+MC 文件夹：E:\PCL2\.minecraft2\
+文件位置：E:\PCL2\

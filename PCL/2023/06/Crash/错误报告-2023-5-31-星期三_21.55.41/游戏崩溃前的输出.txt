@@ -1,0 +1,432 @@
+jlw: native file exists: 'C:\Users\321\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-31 21:54:23,841 main WARN Advanced terminal features are not available in this environment
+[21:54:24] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Qi_Month, --version, FTB StoneBlock 3 1.5.0, --gameDir, D:\.minecraft\versions\FTB StoneBlock 3 1.5.0, --assetsDir, D:\.minecraft\assets, --assetIndex, 1.18, --uuid, 312348279b104289971d98c4a3455e9b, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL2, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.1.92, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[21:54:24] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.6 by Oracle Corporation
+[21:54:24] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2348!/ Service=ModLauncher Env=CLIENT
+[2023-05-31 21:54:25] [INFO]: I18nUpdate Mod 3.4.1 is loaded in 1.18.2 with Forge
+[21:54:27] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\.minecraft\libraries\net\minecraftforge\fmlcore\1.18.2-40.1.92\fmlcore-1.18.2-40.1.92.jar is missing mods.toml file
+[21:54:27] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.1.92\javafmllanguage-1.18.2-40.1.92.jar is missing mods.toml file
+[21:54:27] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.1.92\lowcodelanguage-1.18.2-40.1.92.jar is missing mods.toml file
+[21:54:27] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\.minecraft\libraries\net\minecraftforge\mclanguage\1.18.2-40.1.92\mclanguage-1.18.2-40.1.92.jar is missing mods.toml file
+[21:54:27] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[21:54:27] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'mantle', Requested by: 'tconstruct', Expected range: '[1.9.42,)', Actual version: '1.9.31'
+[21:54:34] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21:54:34] [main/ERROR] [mixin/]: Mixin config kubeutils.mixins.json does not specify "minVersion" property
+[21:54:34] [main/ERROR] [mixin/]: Mixin config tklib.mixin.json does not specify "minVersion" property
+[21:54:34] [main/ERROR] [mixin/]: Mixin config justhammers.mixins.json does not specify "minVersion" property
+[21:54:34] [main/ERROR] [mixin/]: Mixin config supercircuitmaker.mixin.json does not specify "minVersion" property
+[21:54:34] [main/ERROR] [mixin/]: Mixin config rei-jei-internals-workaround.mixins.json does not specify "minVersion" property
+[21:54:34] [main/ERROR] [mixin/]: Mixin config chipped-common.mixins.json does not specify "minVersion" property
+[21:54:34] [main/ERROR] [mixin/]: Mixin config chipped.mixins.json does not specify "minVersion" property
+[21:54:34] [main/ERROR] [mixin/]: Mixin config accelerateddecay.mixins.json does not specify "minVersion" property
+[21:54:35] [main/ERROR] [mixin/]: Mixin config polylib.mixins.json does not specify "minVersion" property
+[21:54:35] [main/ERROR] [mixin/]: Mixin config dsp.mixins.json does not specify "minVersion" property
+[21:54:35] [main/ERROR] [mixin/]: Mixin config rei.mixins.json does not specify "minVersion" property
+[21:54:35] [main/ERROR] [mixin/]: Mixin config minetogether-common.mixins.json does not specify "minVersion" property
+[21:54:35] [main/ERROR] [mixin/]: Mixin config minetogether-forge.mixins.json does not specify "minVersion" property
+[21:54:35] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[21:54:35] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, FTB StoneBlock 3 1.5.0, --gameDir, D:\.minecraft\versions\FTB StoneBlock 3 1.5.0, --assetsDir, D:\.minecraft\assets, --uuid, 312348279b104289971d98c4a3455e9b, --username, Qi_Month, --assetIndex, 1.18, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL2, --width, 854, --height, 480]
+[21:54:35] [main/WARN] [mixin/]: Reference map 'kube-utils-forge-refmap.json' for kubeutils.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:54:35] [main/INFO] [Rubidium/]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[21:54:35] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 28 options available, 0 override(s) found
+[21:54:35] [main/WARN] [mixin/]: Reference map 'justhammers-forge-forge-refmap.json' for justhammers.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:54:35] [main/WARN] [mixin/]: Reference map 'enigmaticgraves.refmap.json' for ppfluids.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:54:35] [main/WARN] [mixin/]: Reference map 'compactmachines.refmap.json' for compactmachines.mixin.json could not be read. If this is a development environment you can ignore this message
+[21:54:35] [main/WARN] [mixin/]: Reference map 'supercircuitmaker.refmap.json' for supercircuitmaker.mixin.json could not be read. If this is a development environment you can ignore this message
+[21:54:35] [main/WARN] [mixin/]: Reference map 'chipped-forge-refmap.json' for chipped.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:54:35] [main/WARN] [mixin/]: Reference map 'accelerated-decay-common-refmap.json' for accelerateddecay-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:54:35] [main/WARN] [mixin/]: Reference map 'accelerated-decay-forge-forge-refmap.json' for accelerateddecay.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:54:35] [main/WARN] [mixin/]: Reference map 'polylib-common-refmap.json' for polylib.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:54:35] [main/WARN] [mixin/]: Reference map 'bloodmagic.refmap.json' for bloodmagic.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:54:35] [main/WARN] [mixin/]: Reference map 'nethersdelight.refmap.json' for nethersdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `merequester` for name `requester`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `inscriber`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `wireless_access_point`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `charger`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `security_station`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `quantum_ring`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `spatial_pylon`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `spatial_io_port`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `spatial_anchor`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `cable_bus`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `controller`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `drive`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `chest`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `interface`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `cell_workbench`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `io_port`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `condenser`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `energy_acceptor`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `vibration_chamber`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `quartz_growth_accelerator`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `energy_cell`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `dense_energy_cell`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `creative_energy_cell`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `crafting_unit`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `crafting_storage`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `crafting_monitor`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `pattern_provider`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `molecular_assembler`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `light_detector`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `paint`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `sky_chest`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `sky_compass`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `sky_tank`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `debug_item_gen`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `debug_chunk_loader`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `debug_phantom_node`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `debug_cube_gen`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:01] [pool-3-thread-1/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `ae2` for name `debug_energy_gen`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:02] [Render thread/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/D:/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23277!/assets/.mcassetsroot' uses unexpected schema
+[21:55:02] [Render thread/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/D:/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23277!/data/.mcassetsroot' uses unexpected schema
+[21:55:02] [Render thread/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:55:04] [Render thread/INFO] [minecraft/Minecraft]: Setting user: Qi_Month
+[21:55:04] [Render thread/INFO] [minecraft/Minecraft]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[21:55:05] [Render thread/INFO] [KubeJS/]: Loaded client.properties
+[21:55:08] [Render thread/FATAL] [ne.mi.fm.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §etconstruct§r requires §6mantle§r §o1.9.42 or above§r
+§7Currently, §6mantle§r§7 is §o1.9.31
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.18.2-40.1.92.jar%23278!/:?] {}
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?] {}
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?] {}
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?] {}
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:95) ~[fmlcore-1.18.2-40.1.92.jar%23278!/:?] {}
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:127) ~[fmlcore-1.18.2-40.1.92.jar%23278!/:?] {}
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:92) ~[forge-1.18.2-40.1.92-universal.jar%23282!/:?] {re:classloading,pl:rei_plugin_compatibilities:B,pl:runtimedistcleaner:A}
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:112) ~[forge-1.18.2-40.1.92-universal.jar%23282!/:?] {re:classloading,pl:rei_plugin_compatibilities:B,pl:runtimedistcleaner:A}
+	at net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:92) ~[forge-1.18.2-40.1.92-universal.jar%23282!/:?] {re:classloading,pl:rei_plugin_compatibilities:B,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:459) ~[client-1.18.2-20220404.173914-srg.jar%23277!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:rei_plugin_compatibilities:B,pl:mixin:APP:kubejs-common.mixins.json:MinecraftMixin,pl:mixin:APP:rubidium.mixins.json:core.MixinMinecraftClient,pl:mixin:APP:balm.mixins.json:MinecraftMixin,pl:mixin:APP:tklib.mixin.json:client.MinecraftMixin,pl:mixin:APP:botania_xplat.mixins.json:client.AccessorMinecraft,pl:mixin:APP:ae2.mixins.json:PickColorMixin,pl:mixin:APP:ars_nouveau.mixins.json:light.ClientMixin,pl:mixin:APP:immersiveengineering.mixins.json:accessors.client.MinecraftAccess,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:bookshelf.common.mixins.json:client.AccessorMinecraft,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:mixin.dynamic_asset_generator.json:MinecraftMixin,pl:mixin:APP:create.mixins.json:WindowResizeMixin,pl:mixin:APP:ars_nouveau.mixins.json:camera.MinecraftMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23277!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.1.92.jar%2351!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?] {}
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?] {}
+[21:55:08] [Render thread/WARN] [minecraft/Options]: Removed resource pack mod_resources from options because it doesn't seem to exist anymore
+[21:55:08] [Render thread/WARN] [minecraft/Options]: Removed resource pack buddingcrystals_json_crystals from options because it doesn't seem to exist anymore
+[21:55:08] [Render thread/WARN] [minecraft/Options]: Removed resource pack Supplementaries Generated Pack from options because it doesn't seem to exist anymore
+[21:55:08] [Render thread/WARN] [minecraft/Options]: Removed resource pack dynamic_asset_generator:client from options because it doesn't seem to exist anymore
+[21:55:09] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.sound.SoundLoadEvent to a broken mod state
+[21:55:10] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Block to a broken mod state
+[21:55:10] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Item to a broken mod state
+[21:55:13] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RenderLevelStageEvent$RegisterStageEvent to a broken mod state
+[21:55:15] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.ParticleFactoryRegisterEvent to a broken mod state
+[21:55:15] [Render thread/INFO] [mojang/NarratorWindows]: Narrator library for x64 successfully loaded
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+---- Minecraft Crash Report ----
+// I let you down. Sorry :(
+
+Time: 2023/5/31 下午9:55
+Description: Initializing game
+
+java.lang.ExceptionInInitializerError: null
+	at net.creeperhost.minetogether.chat.MineTogetherChat.<clinit>(MineTogetherChat.java:55) ~[minetogether-forge-1.18.2-6.0.13.jar%23194!/:?] {re:mixin,re:classloading,pl:rei_plugin_compatibilities:B}
+	at net.minecraft.client.gui.Gui.handler$bdc000$onInit(Gui.java:1881) ~[client-1.18.2-20220404.173914-srg.jar%23277!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:rei_plugin_compatibilities:B,pl:mixin:APP:rubidium.mixins.json:features.options.MixinInGameHud,pl:mixin:APP:minetogether-common.mixins.json:chat.ingame.GuiMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.Gui.<init>(Gui.java:161) ~[client-1.18.2-20220404.173914-srg.jar%23277!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:rei_plugin_compatibilities:B,pl:mixin:APP:rubidium.mixins.json:features.options.MixinInGameHud,pl:mixin:APP:minetogether-common.mixins.json:chat.ingame.GuiMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraftforge.client.gui.ForgeIngameGui.<init>(ForgeIngameGui.java:322) ~[forge-1.18.2-40.1.92-universal.jar%23282!/:?] {re:mixin,re:classloading,pl:rei_plugin_compatibilities:B,pl:mixin:APP:minetogether-forge.mixins.json:ForgeIngameGuiMixin,pl:mixin:A}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:518) ~[client-1.18.2-20220404.173914-srg.jar%23277!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:rei_plugin_compatibilities:B,pl:mixin:APP:kubejs-common.mixins.json:MinecraftMixin,pl:mixin:APP:rubidium.mixins.json:core.MixinMinecraftClient,pl:mixin:APP:balm.mixins.json:MinecraftMixin,pl:mixin:APP:tklib.mixin.json:client.MinecraftMixin,pl:mixin:APP:botania_xplat.mixins.json:client.AccessorMinecraft,pl:mixin:APP:ae2.mixins.json:PickColorMixin,pl:mixin:APP:ars_nouveau.mixins.json:light.ClientMixin,pl:mixin:APP:immersiveengineering.mixins.json:accessors.client.MinecraftAccess,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:bookshelf.common.mixins.json:client.AccessorMinecraft,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:mixin.dynamic_asset_generator.json:MinecraftMixin,pl:mixin:APP:create.mixins.json:WindowResizeMixin,pl:mixin:APP:ars_nouveau.mixins.json:camera.MinecraftMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23277!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.1.92.jar%2351!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?] {}
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?] {}
+Caused by: java.lang.IllegalStateException: Config not loaded.
+	at net.creeperhost.minetogether.config.Config.instance(Config.java:37) ~[minetogether-forge-1.18.2-6.0.13.jar%23194!/:?] {re:mixin,re:classloading,pl:rei_plugin_compatibilities:B}
+	at net.creeperhost.minetogether.util.ModPackInfo.<clinit>(ModPackInfo.java:30) ~[minetogether-forge-1.18.2-6.0.13.jar%23194!/:?] {re:classloading,pl:rei_plugin_compatibilities:B}
+	... 25 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at net.creeperhost.minetogether.chat.MineTogetherChat.<clinit>(MineTogetherChat.java:55) ~[minetogether-forge-1.18.2-6.0.13.jar%23194!/:?] {re:mixin,re:classloading,pl:rei_plugin_compatibilities:B}
+	at net.minecraft.client.gui.Gui.handler$bdc000$onInit(Gui.java:1881) ~[client-1.18.2-20220404.173914-srg.jar%23277!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:rei_plugin_compatibilities:B,pl:mixin:APP:rubidium.mixins.json:features.options.MixinInGameHud,pl:mixin:APP:minetogether-common.mixins.json:chat.ingame.GuiMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.Gui.<init>(Gui.java:161) ~[client-1.18.2-20220404.173914-srg.jar%23277!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:rei_plugin_compatibilities:B,pl:mixin:APP:rubidium.mixins.json:features.options.MixinInGameHud,pl:mixin:APP:minetogether-common.mixins.json:chat.ingame.GuiMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraftforge.client.gui.ForgeIngameGui.<init>(ForgeIngameGui.java:322) ~[forge-1.18.2-40.1.92-universal.jar%23282!/:?] {re:mixin,re:classloading,pl:rei_plugin_compatibilities:B,pl:mixin:APP:minetogether-forge.mixins.json:ForgeIngameGuiMixin,pl:mixin:A}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:518) ~[client-1.18.2-20220404.173914-srg.jar%23277!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:rei_plugin_compatibilities:B,pl:mixin:APP:kubejs-common.mixins.json:MinecraftMixin,pl:mixin:APP:rubidium.mixins.json:core.MixinMinecraftClient,pl:mixin:APP:balm.mixins.json:MinecraftMixin,pl:mixin:APP:tklib.mixin.json:client.MinecraftMixin,pl:mixin:APP:botania_xplat.mixins.json:client.AccessorMinecraft,pl:mixin:APP:ae2.mixins.json:PickColorMixin,pl:mixin:APP:ars_nouveau.mixins.json:light.ClientMixin,pl:mixin:APP:immersiveengineering.mixins.json:accessors.client.MinecraftAccess,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:bookshelf.common.mixins.json:client.AccessorMinecraft,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:mixin.dynamic_asset_generator.json:MinecraftMixin,pl:mixin:APP:create.mixins.json:WindowResizeMixin,pl:mixin:APP:ars_nouveau.mixins.json:camera.MinecraftMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+-- Initialization --
+Details:
+	Modules: 
+		ADVAPI32.dll:高级 Windows 32 基本 API:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		ASM.Plugin.AudioDevProps2.dll::1.0.1.0:Nahimic
+		AudioDevProps2.dll::2.6.21.0:A-Volute
+		AudioSes.dll:音频会话:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		COMCTL32.dll:用户体验控件库:6.10 (WinBuild.160101.0800):Microsoft Corporation
+		COMDLG32.dll:Common Dialogs DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPT32.dll:加密 API32:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTBASE.dll:Base cryptographic API DLL:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTSP.dll:Cryptographic Service Provider API:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		ColorAdapterClient.dll:Microsoft Color Adapter Client:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		CoreMessaging.dll:Microsoft CoreMessaging Dll:10.0.19041.2193:Microsoft Corporation
+		CoreUIComponents.dll:Microsoft Core UI Components Dll:10.0.19041.546:Microsoft Corporation
+		DBGHELP.DLL:Windows Image Helper:10.0.19041.867 (WinBuild.160101.0800):Microsoft Corporation
+		DEVOBJ.dll:Device Information Set DLL:10.0.19041.1620 (WinBuild.160101.0800):Microsoft Corporation
+		DNSAPI.dll:DNS 客户端 API DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		FencesMenu64.dll:Stardock Fences Shell Extension:3.0.8.1:Stardock
+		GDI32.dll:GDI Client DLL:10.0.19041.2913 (WinBuild.160101.0800):Microsoft Corporation
+		GLU32.dll:OpenGL 实用工具库 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		HID.DLL:HID 用户库:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		IMM32.DLL:Multi-User Windows IMM32 API Client DLL:10.0.19041.2673 (WinBuild.160101.0800):Microsoft Corporation
+		IPHLPAPI.DLL:IP 帮助程序 API:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		KERNEL32.DLL:Windows NT 基本 API 客户端 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		KERNELBASE.dll:Windows NT 基本 API 客户端 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		MMDevApi.dll:MMDevice API:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		MSACM32.dll:Microsoft ACM 音频筛选器:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		MSASN1.dll:ASN.1 Runtime APIs:10.0.19041.2251 (WinBuild.160101.0800):Microsoft Corporation
+		MSCTF.dll:MSCTF 服务器 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		MSIMG32.dll:GDIEXT Client DLL:10.0.19041.1466 (WinBuild.160101.0800):Microsoft Corporation
+		NLAapi.dll:Network Location Awareness 2:10.0.19041.2913 (WinBuild.160101.0800):Microsoft Corporation
+		NSI.dll:NSI User-mode interface DLL:10.0.19041.610 (WinBuild.160101.0800):Microsoft Corporation
+		NTASN1.dll:Microsoft ASN.1 API:10.0.19041.1 (WinBuild.160101.0800):Microsoft Corporation
+		OLEACC.dll:Active Accessibility Core Component:7.2.19041.746 (WinBuild.160101.0800):Microsoft Corporation
+		Ole32.dll:用于 Windows 的 Microsoft OLE:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		OleAut32.dll:OLEAUT32.DLL:10.0.19041.985 (WinBuild.160101.0800):Microsoft Corporation
+		OpenAL.dll
+		PROPSYS.dll:Microsoft 属性系统:7.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		PSAPI.DLL:Process Status Helper:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		Pdh.dll:Windows 性能数据助手 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		PicFace64.dll:搜狗输入法 图片表情:1.1.0.2117:Sogou.com Inc.
+		ProductInfo.dll::1.9.17.0:A-Volute
+		RPCRT4.dll:远程过程调用运行时:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		Resource.dll:搜狗输入法 资源:13.4.0.7202:Sogou.com Inc.
+		SAPIWrapper_x64.dll
+		SETUPAPI.DLL:Windows 安装程序 API:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		SHCORE.dll:SHCORE:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		SHELL32.dll:Windows Shell 公用 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		SogouPy.ime:搜狗输入法:13.4.0.7202:Sogou.com Inc.
+		TextShaping.dll
+		UMPDC.dll
+		USER32.dll:多用户 Windows 用户 API 客户端 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		USERENV.dll:Userenv:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		VCRUNTIME140.dll:Microsoft? C Runtime Library:14.31.31103.0:Microsoft Corporation
+		VERSION.dll:Version Checking and File Installation Libraries:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		WINHTTP.dll:Windows HTTP 服务:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		WINMM.dll:MCI API DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		WINTRUST.dll:Microsoft Trust Verification APIs:10.0.19041.2913 (WinBuild.160101.0800):Microsoft Corporation
+		WS2_32.dll:Windows Socket 2.0 32 位 DLL:10.0.19041.1081 (WinBuild.160101.0800):Microsoft Corporation
+		WSOCK32.dll:Windows Socket 32-Bit DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		WTSAPI32.dll:Windows Remote Desktop Session Host Server SDK APIs:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		Wldp.dll:Windows 锁定策略:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		amsi.dll:Anti-Malware Scan Interface:10.0.19041.2075 (WinBuild.160101.0800):Microsoft Corporation
+		atiadlxx.dll:ADL:7.20.40.1402:Advanced Micro Devices, Inc.
+		atig6pxx.dll:atiglpxx.dll:8.14.01.6564:Advanced Micro Devices, Inc. 
+		atig6txx.dll:atigktxx.dll:8.14.01.6564:Advanced Micro Devices, Inc. 
+		atio6axx.dll:AMD OpenGL driver:8.14.11000.14756:Advanced Micro Devices, Inc.
+		bcrypt.dll:Windows 加密基元库:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		bcryptPrimitives.dll:Windows Cryptographic Primitives Library:10.0.19041.2486 (WinBuild.160101.0800):Microsoft Corporation
+		cfgmgr32.dll:Configuration Manager DLL:10.0.19041.1620 (WinBuild.160101.0800):Microsoft Corporation
+		clbcatq.dll:COM+ Configuration Catalog:2001.12.10941.16384 (WinBuild.160101.0800):Microsoft Corporation
+		combase.dll:用于 Windows 的 Microsoft COM:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		dbgcore.DLL:Windows Core Debugging Helpers:10.0.19041.2788 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc.DLL:DHCP 客户端服务:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc6.DLL:DHCPv6 客户端:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		dinput8.dll:Microsoft DirectInput:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		dwmapi.dll:Microsoft 桌面窗口管理器 API:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		dxcore.dll:DXCore:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		dxva2.dll:DirectX Video Acceleration 2.0 DLL:10.0.19041.1 (WinBuild.160101.0800):Microsoft Corporation
+		fastprox.dll:WMI Custom Marshaller:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		fwpuclnt.dll:FWP/IPsec 用户模式 API:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		gdi32full.dll:GDI Client DLL:10.0.19041.2913 (WinBuild.160101.0800):Microsoft Corporation
+		gdiplus.dll:Microsoft GDI+:10.0.19041.2251 (WinBuild.160101.0800):Microsoft Corporation
+		glfw.dll
+		icm32.dll:Microsoft Color Management Module (CMM):10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		inputhost.dll:InputHost:10.0.19041.1741 (WinBuild.160101.0800):Microsoft Corporation
+		java.dll:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+		javaw.exe:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+		jimage.dll:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+		jli.dll:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+		jna869998247848902282.dll:JNA native library:6.1.2:Java(TM) Native Access (JNA)
+		jsvml.dll:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+		jvm.dll:Java HotSpot(TM) 64-Bit server VM:17.0.6.0:Oracle Corporation
+		kernel.appcore.dll:AppModel API Host:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		libjlw-1.3.2.dll
+		lwjgl.dll
+		lwjgl_opengl.dll
+		lwjgl_stb.dll
+		management.dll:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+		management_ext.dll:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+		mscms.dll:Microsoft 颜色匹配系统 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		msdmo.dll:DMO Runtime:10.0.19041.1 (WinBuild.160101.0800):Microsoft Corporation
+		msvcp140.dll:Microsoft? C Runtime Library:14.31.31103.0:Microsoft Corporation
+		msvcp_win.dll:Microsoft? C Runtime Library:10.0.19041.789 (WinBuild.160101.0800):Microsoft Corporation
+		msvcrt.dll:Windows NT CRT DLL:7.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		mswsock.dll:Microsoft Windows Sockets 2.0 服务提供程序:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		napinsp.dll:电子邮件命名填充提供程序:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		ncrypt.dll:Windows NCrypt 路由器:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		net.dll:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+		nio.dll:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+		ntdll.dll:NT 层 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		ntmarta.dll:Windows NT MARTA 提供程序:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		opengl32.dll:OpenGL Client DLL:10.0.19041.2193 (WinBuild.160101.0800):Microsoft Corporation
+		perfos.dll:Windows 系统性能对象 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		pnrpnsp.dll:PNRP 命名空间提供程序:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		powrprof.dll:电源配置文件帮助程序 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		profapi.dll:User Profile Basic API:10.0.19041.844 (WinBuild.160101.0800):Microsoft Corporation
+		rasadhlp.dll:Remote Access AutoDial Helper:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		rsaenh.dll:Microsoft Enhanced Cryptographic Provider:10.0.19041.1 (WinBuild.160101.0800):Microsoft Corporation
+		sapi.dll:语音 API:5.3.28026.00 (WinBuild.160101.0800):Microsoft Corporation
+		sechost.dll:Host for SCM/SDDL/LSA Lookup APIs:10.0.19041.1 (WinBuild.160101.0800):Microsoft Corporation
+		shlwapi.dll:外壳简易实用工具库:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		sogoutsf.ime:搜狗输入法:13.4.0.7202:Sogou.com Inc.
+		sunmscapi.dll:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+		textinputframework.dll:"TextInputFramework.DYNLINK":10.0.19041.2913 (WinBuild.160101.0800):Microsoft Corporation
+		ucrtbase.dll:Microsoft? C Runtime Library:10.0.19041.789 (WinBuild.160101.0800):Microsoft Corporation
+		uxtheme.dll:Microsoft UxTheme 库:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		vcruntime140_1.dll:Microsoft? C Runtime Library:14.31.31103.0:Microsoft Corporation
+		verify.dll:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+		wbemcomn.dll:WMI:10.0.19041.1566 (WinBuild.160101.0800):Microsoft Corporation
+		wbemprox.dll:WMI:10.0.19041.1320 (WinBuild.160101.0800):Microsoft Corporation
+		wbemsvc.dll:WMI:10.0.19041.1320 (WinBuild.160101.0800):Microsoft Corporation
+		win32u.dll:Win32u:10.0.19041.2913 (WinBuild.160101.0800):Microsoft Corporation
+		windows.storage.dll:Microsoft WinRT Storage API:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		winmmbase.dll:基本多媒体扩展 API DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		winrnr.dll:LDAP RnR Provider DLL:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		wintypes.dll:Windows 基本类型 DLL:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		wshbth.dll:Windows Sockets Helper DLL:10.0.19041.546 (WinBuild.160101.0800):Microsoft Corporation
+		xinput1_4.dll:Microsoft 公共控制器 API:10.0.19041.2965 (WinBuild.160101.0800):Microsoft Corporation
+		zip.dll:Java(TM) Platform SE binary:17.0.6.0:Oracle Corporation
+Stacktrace:
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23277!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.1.92.jar%2351!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?] {}
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.18.2
+	Minecraft Version ID: 1.18.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.6, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 5513711560 bytes (5258 MiB) / 6132072448 bytes (5848 MiB) up to 7193231360 bytes (6860 MiB)
+	CPUs: 16
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 7 5700U with Radeon Graphics         
+	Identifier: AuthenticAMD Family 23 Model 104 Stepping 1
+	Microarchitecture: unknown
+	Frequency (GHz): 1.80
+	Number of physical packages: 1
+	Number of physical CPUs: 8
+	Number of logical CPUs: 16
+	Graphics card #0 name: AMD Radeon(TM) Graphics
+	Graphics card #0 vendor: Advanced Micro Devices, Inc. (0x1002)
+	Graphics card #0 VRAM (MB): 512.00
+	Graphics card #0 deviceId: 0x164c
+	Graphics card #0 versionInfo: DriverVersion=27.20.14064.3
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 24410.56
+	Virtual memory used (MB): 18836.28
+	Swap memory total (MB): 8704.00
+	Swap memory used (MB): 622.41
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx6860m
+	Launched Version: FTB StoneBlock 3 1.5.0
+	Backend library: LWJGL version 3.2.2 SNAPSHOT
+	Backend API: AMD Radeon(TM) Graphics GL version 3.2.14756 Core Profile Forward-Compatible Context 20.40.64 27.20.14064.3, ATI Technologies Inc.
+	Window size: <not initialized>
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'forge'
+	Type: Client (map_client.txt)
+	CPU: 16x AMD Ryzen 7 5700U with Radeon Graphics 
+	ModLauncher: 9.1.3+9.1.3+main.9b69c82a
+	ModLauncher launch target: forgeclient
+	ModLauncher naming: srg
+	ModLauncher services: 
+		 mixin PLUGINSERVICE 
+		 eventbus PLUGINSERVICE 
+		 slf4jfixer PLUGINSERVICE 
+		 object_holder_definalize PLUGINSERVICE 
+		 runtime_enum_extender PLUGINSERVICE 
+		 capability_token_subclass PLUGINSERVICE 
+		 accesstransformer PLUGINSERVICE 
+		 runtimedistcleaner PLUGINSERVICE 
+		 mixin TRANSFORMATIONSERVICE 
+		 fml TRANSFORMATIONSERVICE 
+		 I18nUpdateMod TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		client-1.18.2-20220404.173914-srg.jar             |Minecraft                     |minecraft                     |1.18.2              |NONE      |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		forge-1.18.2-40.1.92-universal.jar                |Forge                         |forge                         |40.1.92             |NONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+#@!@# Game crashed! Crash report saved to: #@!@# D:\.minecraft\versions\FTB StoneBlock 3 1.5.0\crash-reports\crash-2023-05-31_21.55.20-client.txt

@@ -1,0 +1,318 @@
+[21:24:12.816] [Start] 程序版本：Release 2.6.1（293）
+[21:24:12.867] [Start] 识别码：BD4D-3A07-B384-96AE
+[21:24:12.867] [Start] 程序路径：G:\游戏\.minecraft\assets\objects\fg\Release 2.1.4\Plain Craft Launcher 2.exe
+[21:24:12.952] [Start] 第一阶段加载用时：343 ms
+[21:24:13.974] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[21:24:13.975] [Start] 第二阶段加载用时：890 ms
+[21:24:14.008] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[21:24:15.180] [System] 窗口已置顶，位置：(555, 268), 810 x 499
+[21:24:15.188] [Animation] 动画线程开始
+[21:24:15.188] [Start] 第三阶段加载用时：203 ms
+[21:24:15.190] [Start] 加载 DLL：Json
+[21:24:15.190] [System] 获取资源：Json
+[21:24:15.208] [Launch] Minecraft 文件夹：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\
+[21:24:15.296] [Java] 缓存中有 6 个可用的 Java
+[21:24:15.440] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[21:24:15.450] [Net] 获取网络结果：https://sessionserver.mojang.com/session/minecraft/profile/5e4f999861f94f879cc4c589552e9bcb，最大超时 10000
+[21:24:15.474] [Animation] 两个动画帧间隔 281 ms
+[21:24:15.500] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[21:24:15.502] [Loader] 加载器 PCL 服务 状态改变：Loading
+[21:24:15.503] [Server] 正在连接到 PCL 服务器
+[21:24:15.504] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[21:24:15.518] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1686576256-02ca9c76-0-0c25d4bcc3deb46d908a306d27b1aee5，最大超时 10000
+[21:24:16.031] [Server] 服务器公告：108|294|293|5，无需更新
+[21:24:16.039] [Loader] 加载器 源码获取 77# 状态改变：Loading
+[21:24:16.217] [Download] 1805801698_76 80#：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/minecraft/download.json?sign=1686576256-040526bb-0-a331ea5c2ac8fe79bfe4bb97ebdc14e1
+[21:24:16.348] [Download] 1805801698_76：文件大小 3896 B（3.8 K）
+[21:24:16.377] [Download] 1805801698_76：已完成，剩余文件 0
+[21:24:16.378] [Loader] 加载器 源码获取 77# 状态改变：Finished
+[21:24:16.382] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1686576256-7dad7f45-0-92b53cf20827e35623b5d87a0fb4484b，最大超时 10000
+[21:24:16.424] [Loader] 加载器 PCL 服务 状态改变：Finished
+[21:24:17.386] [Minecraft] 启动按钮：Minecraft 版本：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\versions\1.12\
+[21:24:17.399] [Loader] 加载器 登录 状态改变：Loading
+[21:24:17.399] [Animation] 两个动画帧间隔 1794 ms
+[21:24:17.403] [Launch] 登录加载已开始
+[21:24:17.404] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[21:24:17.406] [Launch] 登录方式：正版（Mallard_Sama）
+[21:24:17.407] [Launch] 开始微软登录步骤 2（刷新登录）
+[21:24:17.407] [System] DPI：96，系统版本：6.1.7601.65536，PCL 位置：G:\游戏\.minecraft\assets\objects\fg\Release 2.1.4\Plain Craft Launcher 2.exe
+[21:24:17.412] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[21:24:17.728] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[21:24:17.784] [Skin] UUID 5e4f999861f94f879cc4c589552e9bcb 对应的皮肤文件为 http://textures.minecraft.net/texture/30d7596b5d691c167e2437c7969ca62aca360f691dd18533c8f1e1bf5e7f2a2d
+[21:24:17.785] [Net] 直接下载文件：http://textures.minecraft.net/texture/30d7596b5d691c167e2437c7969ca62aca360f691dd18533c8f1e1bf5e7f2a2d
+[21:24:18.461] [Launch] 开始微软登录步骤 3
+[21:24:18.461] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[21:24:18.712] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[21:24:19.212] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[21:24:19.577] [Minecraft] 皮肤下载成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\Skin\16815812517430084692.png
+[21:24:19.578] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[21:24:19.654] [Skin] 载入头像成功：Loader Skin Ms
+[21:24:19.963] [Launch] 开始微软登录步骤 4
+[21:24:19.964] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[21:24:20.214] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[21:24:20.714] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[21:24:21.466] [Launch] 开始微软登录步骤 5
+[21:24:21.467] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[21:24:21.717] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[21:24:22.678] [Launch] 开始微软登录步骤 6
+[21:24:22.681] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[21:24:22.931] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[21:24:23.482] [Launch] 微软登录完成
+[21:24:23.482] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[21:24:23.486] [Launch] 登录加载已结束
+[21:24:23.486] [Loader] 加载器 登录 状态改变：Finished
+[21:24:56.599] [Control] 按下单选按钮：设置
+[21:24:57.032] [Control] 切换主要页面：Setup, -1
+[21:24:57.036] [Animation] 两个动画帧间隔 437 ms
+[21:24:57.302] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[21:24:57.306] [Net] 获取网络结果：https://api.mojang.com/users/profiles/minecraft/Mallard_Sama，最大超时 10000
+[21:24:58.146] [Net] 获取网络结果：https://sessionserver.mojang.com/session/minecraft/profile/5e4f999861f94f879cc4c589552e9bcb，最大超时 10000
+[21:24:58.685] [Skin] UUID 5e4f999861f94f879cc4c589552e9bcb 对应的皮肤文件为 http://textures.minecraft.net/texture/30d7596b5d691c167e2437c7969ca62aca360f691dd18533c8f1e1bf5e7f2a2d
+[21:24:58.685] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[21:24:59.408] [Control] 按下单选列表项：个性化
+[21:25:09.686] [Control] 按下单选按钮：更多
+[21:25:09.711] [Loader] 加载器 Help Page 状态改变：Loading
+[21:25:09.713] [Control] 切换主要页面：Other, -1
+[21:25:09.719] [Help] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+[21:25:09.723] [Help] 已扫描缓存文件夹下的帮助文件，目前总计 33 条
+[21:25:09.820] [Loader] 加载器 Help Page 状态改变：Finished
+[21:25:11.455] [Control] 按下单选列表项：百宝箱
+[21:25:15.896] [Control] 按下按钮：今日人品
+[21:25:15.923] [Control] 普通弹窗：今日人品 - 2023/6/12
+你今天的人品值是：7……（是百分制哦）
+[21:25:17.367] [Control] 按下按钮：我知道了
+[21:25:18.023] [Control] 按下按钮：今日人品
+[21:25:18.042] [Control] 普通弹窗：今日人品 - 2023/6/12
+你今天的人品值是：7……（是百分制哦）
+[21:25:18.695] [Control] 按下按钮：我知道了
+[21:25:28.471] [Control] 普通弹窗：提醒
+是否要打开新功能投票网页？
+如果无法打开该网页，请尝试使用加速器或 VPN。
+[21:25:30.711] [Control] 按下按钮：取消
+[21:25:30.712] [Control] 普通弹框返回：2
+[21:25:30.712] [Control] 按下单击列表项：新功能投票
+[21:25:31.603] [Control] 普通弹窗：反馈提示
+是否要打开反馈列表网页？
+如果无法打开该网页，请尝试使用加速器或 VPN。
+[21:25:32.807] [Control] 按下按钮：取消
+[21:25:32.808] [Control] 普通弹框返回：3
+[21:25:32.808] [Control] 按下单击列表项：反馈
+[21:25:33.735] [Control] 按下单选按钮：启动
+[21:25:33.737] [Control] 切换主要页面：Launch, -1
+[21:25:35.903] [Control] 按下按钮：版本选择
+[21:25:35.931] [Control] 切换主要页面：VersionSelect, 0
+[21:25:36.064] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[21:25:36.064] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[21:25:36.091] [Minecraft] 文件夹列表变更，重载所有版本
+[21:25:36.128] [Minecraft] 无法完全确认 MC 版本号的版本：1.7.10
+[21:25:36.142] [Setup] 当前选择的 Minecraft 版本：1.12
+[21:25:36.142] [Minecraft] 选择该文件夹储存的 Minecraft 版本：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\versions\1.12\
+[21:25:36.239] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > G:\游戏\.minecraft\assets\objects\fg\Release 2.1.4\.minecraft\
+[21:25:36.241] [Minecraft] 有效的 Minecraft 文件夹：a > G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\
+[21:25:36.286] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[21:25:40.087] [Control] 按下单选列表项：当前文件夹
+[21:25:40.091] [Setup] 当前选择的 Minecraft 文件夹：G:\游戏\.minecraft\assets\objects\fg\Release 2.1.4\.minecraft\
+[21:25:40.091] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[21:25:40.093] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[21:25:40.098] [Setup] 当前选择的 Minecraft 版本：
+[21:25:40.098] [Minecraft] 未找到可用 Minecraft 版本
+[21:25:40.121] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[21:25:40.223] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[21:25:41.230] [Control] 按下单选列表项：a
+[21:25:41.231] [Setup] 当前选择的 Minecraft 文件夹：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\
+[21:25:41.231] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[21:25:41.232] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[21:25:41.238] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[21:25:41.283] [Setup] 当前选择的 Minecraft 版本：1.12
+[21:25:41.284] [Minecraft] 选择该文件夹储存的 Minecraft 版本：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\versions\1.12\
+[21:25:41.355] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[21:25:45.380] [Setup] 当前选择的 Minecraft 版本：1.7.10
+[21:25:45.382] [Control] 切换主要页面：Launch, -1
+[21:25:45.382] [Control] 按下单击列表项：1.7.10
+[21:25:45.520] [Minecraft] 启动按钮：Minecraft 版本：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\versions\1.7.10\
+[21:25:46.711] [Control] 按下按钮：版本选择
+[21:25:46.711] [Control] 切换主要页面：VersionSelect, 0
+[21:25:47.461] [Setup] 当前选择的 Minecraft 版本：1.12
+[21:25:47.462] [Control] 切换主要页面：Launch, -1
+[21:25:47.462] [Control] 按下单击列表项：1.12
+[21:25:47.577] [Minecraft] 启动按钮：Minecraft 版本：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\versions\1.12\
+[21:25:48.087] [Control] 按下按钮：启动游戏
+[21:25:48.092] [Loader] 加载器 Loader Launch 状态改变：Loading
+[21:25:48.106] [System] 欲读取的文件不存在，已返回空字符串：G:\游戏\.minecraft\assets\objects\fg\Release 2.1.4\PCL\hints.txt
+[21:25:48.120] [Launch] 预检测已通过
+[21:25:48.124] [Download] 开始后台更新资源文件索引
+[21:25:48.125] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[21:25:48.127] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[21:25:48.129] [Loader] 加载器 登录 状态改变：Waiting
+[21:25:48.129] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[21:25:48.129] [Loader] 加载器 获取 Java 状态改变：Loading
+[21:25:48.130] [Loader] 加载器 登录 状态改变：Loading
+[21:25:48.130] [Download] 版本 1.12 对应的资源文件索引为 1.12
+[21:25:48.131] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[21:25:48.132] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[21:25:48.133] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[21:25:48.133] [Launch] 登录加载已开始
+[21:25:48.133] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[21:25:48.133] [Launch] 登录方式：正版（Mallard_Sama）
+[21:25:48.133] [Launch] 微软登录完成
+[21:25:48.133] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[21:25:48.134] [Loader] 加载器 补全文件 状态改变：Loading
+[21:25:48.134] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[21:25:48.134] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[21:25:48.135] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[21:25:48.135] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[21:25:48.140] [Download] 版本 1.12 对应的资源文件索引为 1.12
+[21:25:48.149] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[21:25:48.149] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[21:25:48.149] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[21:25:48.150] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[21:25:48.150] [Launch] 登录加载已结束
+[21:25:48.150] [Loader] 加载器 登录 状态改变：Finished
+[21:25:48.152] [Java] 开始完全遍历查找：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\
+[21:25:48.161] [Download] 1.12.json 1033#：开始，起始点 0，https://download.mcbbs.net/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json
+[21:25:48.166] [Java] 开始完全遍历查找：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\
+[21:25:48.179] [Minecraft] 获取支持库列表：1.12
+[21:25:48.180] [Java] 开始完全遍历查找：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\versions\1.12\
+[21:25:48.181] [Java] 用户指定的 Java：JRE 8 (8.0.60)，64 位：H:\MCDOWNLOAD\java\jre8\bin\
+[21:25:48.182] [Java] 开始确认列表 Java 状态，共 1 项
+[21:25:48.188] [System] 执行外部命令并等待返回结果：H:\MCDOWNLOAD\java\jre8\bin\java.exe -version
+[21:25:48.220] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[21:25:48.221] [Loader] 加载器 下载资源文件 状态改变：Loading
+[21:25:48.225] [Loader] 加载器 下载资源文件 状态改变：Finished
+[21:25:48.225] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[21:25:48.314] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[21:25:48.315] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[21:25:48.315] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[21:25:48.315] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[21:25:48.315] [Loader] 加载器 补全文件 状态改变：Finished
+[21:25:48.328] [Download] 1.12.json：文件大小 143138 B（140 K）
+[21:25:48.390] [Download] 1.12.json：已完成，剩余文件 0
+[21:25:48.390] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[21:25:48.390] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[21:25:48.392] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.12.json
+[21:25:48.392] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[21:25:48.392] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[21:25:48.492] [Java] JRE 8 (8.0.60)，64 位：H:\MCDOWNLOAD\java\jre8\bin\
+[21:25:48.496] [Java] 检查后找到 1 个特定的 Java
+[21:25:48.496] [Java] 使用用户指定的 Java：H:\MCDOWNLOAD\java\jre8\bin\
+[21:25:48.496] [Java] 选定的 Java：JRE 8 (8.0.60)，64 位：H:\MCDOWNLOAD\java\jre8\bin\
+[21:25:48.496] [Launch] 选择的 Java：JRE 8 (8.0.60)，64 位：H:\MCDOWNLOAD\java\jre8\bin\
+[21:25:48.496] [Loader] 加载器 获取 Java 状态改变：Finished
+[21:25:48.497] [Loader] 加载器 获取启动参数 状态改变：Loading
+[21:25:48.500] [Launch] 开始获取 Minecraft 启动参数
+[21:25:48.500] [Launch] 获取旧版 JVM 参数
+[21:25:48.505] [System] 获取资源：JavaWrapper
+[21:25:48.507] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[21:25:48.507] [Launch] 旧版 JVM 参数获取成功：
+[21:25:48.507] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx3686m "-Djava.library.path=G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\versions\1.12\1.12-natives" -cp ${classpath} -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main
+[21:25:48.507] [Launch] 获取旧版 Game 参数
+[21:25:48.508] [Launch] 旧版 Game 参数获取成功
+[21:25:48.511] [Minecraft] 获取支持库列表：1.12
+[21:25:48.512] [Launch] Minecraft 启动参数：
+[21:25:48.517] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx3686m "-Djava.library.path=G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\versions\1.12\1.12-natives" -cp "G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\mojang\realms\1.10.17\realms-1.10.17.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\versions\1.12\1.12.jar" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main --username Mallard_Sama --version 1.12 --gameDir "G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft" --assetsDir "G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\assets" --assetIndex 1.12 --uuid 5e4f999861f94f879cc4c589552e9bcb --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXlnmq0 --userType msa --versionType PCL --height 480 --width 854 
+[21:25:48.517] [Loader] 加载器 获取启动参数 状态改变：Finished
+[21:25:48.527] [Loader] 加载器 解压文件 状态改变：Loading
+[21:25:48.531] [Launch] 正在解压 Natives 文件
+[21:25:48.550] [Loader] 加载器 解压文件 状态改变：Finished
+[21:25:48.573] [Loader] 加载器 预启动处理 状态改变：Loading
+[21:25:48.598] [Launch] 已更新 launcher_profiles.json
+[21:25:48.598] [Launch] 并非首次启动，不修改语言
+[21:25:48.604] [Loader] 加载器 预启动处理 状态改变：Finished
+[21:25:48.622] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[21:25:48.628] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[21:25:48.668] [Loader] 加载器 启动进程 状态改变：Loading
+[21:25:48.752] [Launch] 已启动游戏进程：H:\MCDOWNLOAD\java\jre8\bin\javaw.exe
+[21:25:48.754] [Loader] 加载器 启动进程 状态改变：Finished
+[21:25:48.808] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[21:25:48.811] [Launch] 
+[21:25:48.811] [Launch] ~ 基础参数 ~
+[21:25:48.811] [Launch] PCL 版本：Release 2.6.1 (293)
+[21:25:48.811] [Launch] 游戏版本：原版 1.12（12.0）
+[21:25:48.811] [Launch] 资源版本：1.12
+[21:25:48.811] [Launch] 版本继承：无
+[21:25:48.811] [Launch] 分配的内存：3.6 GB（3686 MB）
+[21:25:48.811] [Launch] MC 文件夹：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\
+[21:25:48.811] [Launch] 版本文件夹：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\versions\1.12\
+[21:25:48.811] [Launch] 版本隔离：False
+[21:25:48.811] [Launch] HMCL 格式：False
+[21:25:48.811] [Launch] Java 信息：JRE 8 (8.0.60)，64 位：H:\MCDOWNLOAD\java\jre8\bin\
+[21:25:48.812] [Launch] 环境变量：未设置
+[21:25:48.812] [Launch] 
+[21:25:48.812] [Launch] ~ 登录参数 ~
+[21:25:48.812] [Launch] 玩家用户名：Mallard_Sama
+[21:25:48.812] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXlnmq0
+[21:25:48.812] [Launch] ClientToken：5e4f999861f94f879cc4c589552e9bcb
+[21:25:48.812] [Launch] UUID：5e4f999861f94f879cc4c589552e9bcb
+[21:25:48.812] [Launch] 登录方式：Microsoft
+[21:25:48.812] [Launch] 
+[21:25:48.815] [Launch] [11200] 开始 Minecraft 日志监控
+[21:25:48.816] [Launch] [全局] 出现运行中的 Minecraft
+[21:25:49.033] [Launch] [11200] 日志 1/5：已出现日志输出
+[21:25:49.803] [Launch] [11200] Minecraft 已退出，返回值：1
+[21:25:49.803] [Launch] [11200] Minecraft 尚未加载完成，可能已崩溃
+[21:25:49.804] [Launch] [全局] 已无运行中的 Minecraft
+[21:25:49.804] [Launch] [11200] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[21:25:49.850] 加载线程 等待游戏窗口出现 (44) 发生运行时错误：$$
+   at PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   at PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[21:25:49.850] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[21:25:49.850] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[21:25:49.870] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[21:25:49.997] [Launch] [11200] Minecraft 日志监控已退出
+[21:25:50.068] 加载线程 Loader Launch (31) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   at PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   at PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   at PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   at PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[21:25:50.068] [Loader] 加载器 Loader Launch 状态改变：Failed
+[21:25:51.806] [Launch] [11200] 崩溃分析开始
+[21:25:51.815] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1120036026840\
+[21:25:51.825] [Crash] 步骤 1：收集日志文件
+[21:25:51.827] [Crash] 未发现可能可用的日志文件
+[21:25:51.827] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.UnsatisfiedLinkError: no lwjgl64 in java.library.path
+	at java.lang.ClassLoader.loadLibrary(Unknown Source)
+	at java.lang.Runtime.loadLibrary0(Unknown Source)
+	at java.lang.System.loadLibrary(Unknown Source)
+	at org.lwjgl.Sys$1.run(Sys.java:72)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.lwjgl.Sys.doLoadLibrary(Sys.java:66)
+	at org.lwjgl.Sys.loadLibrary(Sys.java:87)
+	at org.lwjgl.Sys.<clinit>(Sys.java:117)
+	at bhz.I(SourceFile:2825)
+	at net.minecraft.client.main.Main.main(SourceFile:38)
+	... 6 more
+[21:25:51.828] [Crash] 步骤 1：收集日志文件完成，收集到 1 个文件
+[21:25:51.840] [Crash] 步骤 2：准备日志文本
+[21:25:51.841] [Crash] RawOutput.log 分类为 MinecraftLog
+[21:25:51.844] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1120036026840\RawOutput.log，作为 Minecraft 或启动器日志
+[21:25:51.845] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1120036026840\RawOutput.log，作为启动器日志
+[21:25:51.845] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[21:25:51.847] [Crash] 步骤 3：分析崩溃原因
+[21:25:51.853] [Crash] 可能并未安装 Mod，不进行堆栈分析
+[21:25:51.854] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[21:25:51.886] [System] 窗口已置顶，位置：(555, 268), 810 x 499
+[21:25:51.892] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[21:25:53.279] [Control] 按下按钮：导出错误报告
+[21:25:53.279] [Control] 普通弹框返回：3
+[21:25:53.613] [Animation] 两个动画帧间隔 328 ms
+[21:25:57.311] [UI] 选择文件返回：C:\Users\Administrator\Desktop\错误报告-2023-6-12_21.25.53.zip
+[21:25:57.342] [System] 诊断信息：
+操作系统：Microsoft Windows 7 旗舰版 
+剩余内存：5669 M / 8131 M
+DPI：96（100%）
+MC 文件夹：G:\游戏\.minecraft\assets\objects\fg\pk.setup6.42\a\.minecraft\
+文件位置：G:\游戏\.minecraft\assets\objects\fg\Release 2.1.4\

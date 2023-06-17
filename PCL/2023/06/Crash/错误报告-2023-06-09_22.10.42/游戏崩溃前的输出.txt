@@ -1,0 +1,84 @@
+jlw: native file exists: 'C:\Users\MI\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-06-09 22:10:28,427 main WARN Advanced terminal features are not available in this environment
+[22:10:28] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, MAXCARZZY, --version, 1.19.2-Forge_43.2.0, --gameDir, C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\Users\MI\AppData\Roaming\.minecraft\assets, --assetIndex, 1.19, --uuid, d399b45ac55a4eb7a21c45eaf66c4980, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[22:10:28] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.2 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[22:10:29] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/MI/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23146!/ Service=ModLauncher Env=CLIENT
+[22:10:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.0\fmlcore-1.19.2-43.2.0.jar is missing mods.toml file
+[22:10:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.0\javafmllanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:10:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.0\lowcodelanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:10:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.0\mclanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:10:30] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[22:10:30] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'forge', Requested by: 'create', Expected range: '[43.2.3,)', Actual version: '43.2.0'
+[22:10:32] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22:10:32] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[22:10:32] [main/ERROR] [mixin/]: Mixin config mixins.oculus.compat.sodium.json does not specify "minVersion" property
+[22:10:32] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.19.2-Forge_43.2.0, --gameDir, C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\Users\MI\AppData\Roaming\.minecraft\assets, --uuid, d399b45ac55a4eb7a21c45eaf66c4980, --username, MAXCARZZY, --assetIndex, 1.19, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480]
+[22:10:32] [main/WARN] [mixin/]: Reference map 'alloyed.refmap.json' for alloyed.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:10:32] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[22:10:32] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix: 56 options available, 0 override(s) found
+[22:10:32] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[22:10:32] [main/INFO] [Sodium Extra Config/]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[22:10:32] [main/WARN] [CanaryConfig/]: Option 'mixin.world.block_entity_ticking.world_border' requires 'mixin.util.world_border_listener=true' but found 'false'. Setting 'mixin.world.block_entity_ticking.world_border=false'.
+[22:10:32] [main/INFO] [Canary/]: Loaded configuration file for Canary: 140 options available, 0 override(s) found
+[22:10:33] [main/WARN] [IMixinConfigPlugin/]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[22:10:33] [main/INFO] [IMixinConfigPlugin/]: Inventory Profiles Next dependency resolution failed! Probably missing libIPN.
+[22:10:34] [pool-3-thread-1/INFO] [minecraft/Bootstrap]: ModernFix bootstrap
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:32)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+	... 6 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.2.0/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	... 13 more
+Caused by: java.lang.RuntimeException: java.lang.IllegalAccessError: class com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube tried to access method 'void net.minecraft.world.phys.shapes.VoxelShape.<init>(net.minecraft.world.phys.shapes.DiscreteVoxelShape)' (com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube is in module canary@0.2.4 of loader 'TRANSFORMER' @1a0c5e9; net.minecraft.world.phys.shapes.VoxelShape is in module minecraft@1.19.2 of loader 'TRANSFORMER' @1a0c5e9)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.2.0/net.minecraftforge.fml.loading.BackgroundWaiter.runAndTick(BackgroundWaiter.java:29)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.m_239872_(Main.java:145)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.main(Main.java:51)
+	... 19 more
+Caused by: java.lang.IllegalAccessError: class com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube tried to access method 'void net.minecraft.world.phys.shapes.VoxelShape.<init>(net.minecraft.world.phys.shapes.DiscreteVoxelShape)' (com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube is in module canary@0.2.4 of loader 'TRANSFORMER' @1a0c5e9; net.minecraft.world.phys.shapes.VoxelShape is in module minecraft@1.19.2 of loader 'TRANSFORMER' @1a0c5e9)
+	at TRANSFORMER/canary@0.2.4/com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube.<init>(VoxelShapeSimpleCube.java:31)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.m_166049_(Shapes.java:1601)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.m_83048_(Shapes.java:50)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.<clinit>(Shapes.java:26)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.Block.m_49796_(Block.java:140)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.SaplingBlock.<clinit>(SaplingBlock.java:20)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.Blocks.<clinit>(Blocks.java:59)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverDebugSettings.<clinit>(CarverDebugSettings.java:9)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverConfiguration.m_224838_(CarverConfiguration.java:20)
+	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverConfiguration.<clinit>(CarverConfiguration.java:16)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.WorldCarver.<clinit>(WorldCarver.java:32)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.worldgen.Carvers.<clinit>(Carvers.java:21)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236012_(BuiltinRegistries.java:53)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236009_(BuiltinRegistries.java:87)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236004_(BuiltinRegistries.java:114)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.<clinit>(BuiltinRegistries.java:113)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.core.Registry.<clinit>(Registry.java:665)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.Bootstrap.m_135870_(Bootstrap.java:43)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.lambda$run$0(Main.java:145)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)

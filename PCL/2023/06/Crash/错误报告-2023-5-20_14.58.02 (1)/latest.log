@@ -1,0 +1,634 @@
+[14:53:33] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.14.19
+[14:53:34] [main/WARN]: Warnings were found!
+ - Mod 'Sodium Extra' (sodium-extra) 0.4.16+mc1.19.2-build.90 recommends version 1.4.2 or later of reeses-sodium-options, which is missing!
+	 - You should install version 1.4.2 or later of reeses-sodium-options for the optimal experience.
+[14:53:34] [main/INFO]: Loading 100 mods:
+	- advancementinfo 1.19.1-fabric0.58.5-1.3.1
+	- appleskin 2.4.1+mc1.19
+	- betterbeds 1.2.0
+	- boatiview 0.0.4
+	   \-- cloth-config 8.0.75
+	        \-- cloth-basic-math 0.6.1
+	- continuity 2.0.2+1.19
+	- dashloader 4.1.3+1.19
+	   |-- com_github_luben_zstd-jni 1.5.2-2
+	   |-- dev_quantumfusion_hyphen 0.2.2
+	   \-- dev_quantumfusion_taski 1.1.0
+	- eatinganimationid 1.9.1
+	- fabric-api 0.76.0+1.19.2
+	   |-- fabric-api-base 0.4.15+8f4e8eb390
+	   |-- fabric-api-lookup-api-v1 1.6.14+93d8cb8290
+	   |-- fabric-biome-api-v1 9.1.1+16f1e31390
+	   |-- fabric-block-api-v1 1.0.2+e415d50e90
+	   |-- fabric-blockrenderlayer-v1 1.1.25+cafc6e8e90
+	   |-- fabric-client-tags-api-v1 1.0.5+b35fea8390
+	   |-- fabric-command-api-v1 1.2.16+f71b366f90
+	   |-- fabric-command-api-v2 2.2.1+413cbbc790
+	   |-- fabric-commands-v0 0.2.33+df3654b390
+	   |-- fabric-containers-v0 0.1.41+df3654b390
+	   |-- fabric-content-registries-v0 3.5.2+7c6cd14d90
+	   |-- fabric-convention-tags-v1 1.3.0+4bc6e26290
+	   |-- fabric-crash-report-info-v1 0.2.8+aeb40ebe90
+	   |-- fabric-data-generation-api-v1 5.3.8+413cbbc790
+	   |-- fabric-dimensions-v1 2.1.35+0d0f210290
+	   |-- fabric-entity-events-v1 1.5.4+9244241690
+	   |-- fabric-events-interaction-v0 0.4.34+562bff6e90
+	   |-- fabric-events-lifecycle-v0 0.2.36+df3654b390
+	   |-- fabric-game-rule-api-v1 1.0.24+b6b6abb490
+	   |-- fabric-item-api-v1 1.6.6+b7d1888890
+	   |-- fabric-item-groups-v0 0.3.39+9244241690
+	   |-- fabric-key-binding-api-v1 1.0.25+5c4fce2890
+	   |-- fabric-keybindings-v0 0.2.23+df3654b390
+	   |-- fabric-lifecycle-events-v1 2.2.4+1b46dc7890
+	   |-- fabric-loot-api-v2 1.1.13+83a8659290
+	   |-- fabric-loot-tables-v1 1.1.16+9e7660c690
+	   |-- fabric-message-api-v1 5.0.7+93d8cb8290
+	   |-- fabric-mining-level-api-v1 2.1.24+33fbc73890
+	   |-- fabric-models-v0 0.3.21+c6af733c90
+	   |-- fabric-networking-api-v1 1.2.11+10eb22f490
+	   |-- fabric-networking-v0 0.3.28+df3654b390
+	   |-- fabric-object-builder-api-v1 4.2.2+d8ef690890
+	   |-- fabric-particles-v1 1.0.14+4d0d570390
+	   |-- fabric-recipe-api-v1 1.0.1+413cbbc790
+	   |-- fabric-registry-sync-v0 0.9.32+9244241690
+	   |-- fabric-renderer-api-v1 1.2.1+1adbf27790
+	   |-- fabric-renderer-indigo 0.8.0+1adbf27790
+	   |-- fabric-renderer-registries-v1 3.2.24+df3654b390
+	   |-- fabric-rendering-data-attachment-v1 0.3.19+6e0787e690
+	   |-- fabric-rendering-fluids-v1 3.0.11+4d0d570390
+	   |-- fabric-rendering-v0 1.1.27+df3654b390
+	   |-- fabric-rendering-v1 1.12.1+d8ef690890
+	   |-- fabric-resource-conditions-api-v1 2.1.2+aae9039d90
+	   |-- fabric-resource-loader-v0 0.8.4+edbdcddb90
+	   |-- fabric-screen-api-v1 1.0.32+4d0d570390
+	   |-- fabric-screen-handler-api-v1 1.3.7+1cc24b1b90
+	   |-- fabric-sound-api-v1 1.0.2+c4f28df590
+	   |-- fabric-textures-v0 1.0.24+aeb40ebe90
+	   |-- fabric-transfer-api-v1 2.1.6+413cbbc790
+	   \-- fabric-transitive-access-wideners-v1 1.3.3+08b73de490
+	- fabric-language-kotlin 1.9.4+kotlin.1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.8.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.20.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.5.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.5.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.5.0
+	- fabricloader 0.14.19
+	- fpsreducer 1.19.2-2.1
+	- inventoryprofilesnext 1.9.7
+	- iris 1.6.2
+	   |-- io_github_douira_glsl-transformer 2.0.0-pre13
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.11.1
+	- jade 8.7.3
+	- java 17
+	- jei 11.6.0.1015
+	- lazydfu 0.1.3
+	- libipn 2.0.7
+	- malilib 0.13.0
+	- minecraft 1.19.2
+	- modmenu 4.2.0-beta.2
+	- physicsmod 2.12.3
+	- presencefootsteps 1.6.4
+	   \-- kirin 1.11.1
+	- sodium 0.4.4+build.18
+	   \-- org_joml_joml 1.10.4
+	- sodium-extra 0.4.16+mc1.19.2-build.90
+	   \-- caffeineconfig 1.0.0+1.17
+	- tweakeroo 0.14.3
+	- wi_zoom 1.4-MC1.19.2
+	- xaerominimap 23.4.3
+[14:53:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/F:/360MoveData/Users/Administrator/Desktop/PCL/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[14:53:36] [main/INFO]: Compatibility level set to JAVA_17
+[14:53:36] [main/INFO]: Bootstrapping DashLoader 4.1.3+1.19.
+[14:53:37] [main/INFO]: OptiFine was NOT detected.
+[14:53:37] [main/INFO]: OptiFabric was NOT detected.
+[14:53:37] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 4 override(s) found
+[14:53:37] [main/INFO]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[14:53:39] [main/INFO]: bre2el.fpsreducer.mixin.MinecraftClientMixin will be applied.
+[14:53:39] [main/INFO]: bre2el.fpsreducer.mixin.KeyboardMixin will be applied.
+[14:53:39] [main/INFO]: bre2el.fpsreducer.mixin.RenderSystemMixin will be applied.
+[14:53:39] [main/INFO]: bre2el.fpsreducer.mixin.WindowMixin will NOT be applied because OptiFine was NOT detected.
+[14:53:39] [main/WARN]: Error loading class: software/bernie/geckolib3/renderers/geo/IGeoRenderer (java.lang.ClassNotFoundException: software/bernie/geckolib3/renderers/geo/IGeoRenderer)
+[14:53:39] [main/WARN]: Error loading class: net/optifine/shaders/Shaders (java.lang.ClassNotFoundException: net/optifine/shaders/Shaders)
+[14:53:39] [main/WARN]: Error loading class: net/optifine/shaders/ShadersCompatibility (java.lang.ClassNotFoundException: net/optifine/shaders/ShadersCompatibility)
+[14:53:39] [main/WARN]: Error loading class: net/optifine/shaders/Programs (java.lang.ClassNotFoundException: net/optifine/shaders/Programs)
+[14:53:39] [main/WARN]: Error loading class: net/optifine/util/BlockUtils (java.lang.ClassNotFoundException: net/optifine/util/BlockUtils)
+[14:53:39] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/light/StarLightEngine (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/light/StarLightEngine)
+[14:53:39] [main/WARN]: Error loading class: link/infra/indium/renderer/render/TerrainRenderContext (java.lang.ClassNotFoundException: link/infra/indium/renderer/render/TerrainRenderContext)
+[14:53:39] [main/WARN]: Force-disabling mixin 'features.model.MixinMultipartBakedModel' as rule 'mixin.features.model' (added by mods [dashloader]) disables it and children
+[14:53:39] [main/WARN]: Force-disabling mixin 'features.model.MixinWeightedBakedModel' as rule 'mixin.features.model' (added by mods [dashloader]) disables it and children
+[14:53:39] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[14:53:39] [main/WARN]: Force-disabling mixin 'features.texture_updates.MixinSpriteInterpolated' as rule 'mixin.features.texture_updates' (added by mods [dashloader]) disables it and children
+[14:53:40] [main/INFO]: Initializing DashLoader 4.1.3+1.19.
+[14:53:42] [main/INFO]: [1254ms] Initialized api.
+[14:53:42] [main/INFO]: Created DashLoader with KnotClassLoader.
+[14:53:42] [main/INFO]: Initialized DashLoader
+[14:53:45] [main/WARN]: @Final field field_22786:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[14:53:45] [main/WARN]: @Final field field_33815:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[14:53:56] [main/INFO]: Building unoptimized datafixer
+[14:54:04] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:54:06] [Render thread/ERROR]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-3.11.49.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:155) ~[authlib-3.11.49.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55) ~[authlib-3.11.49.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:161) ~[authlib-3.11.49.jar:?]
+	at net.minecraft.class_310.method_31382(class_310.java:711) [client-intermediary.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:431) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:205) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.19.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-3.11.49.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-3.11.49.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[authlib-3.11.49.jar:?]
+	... 15 more
+[14:54:06] [Render thread/INFO]: Setting user: xkhh
+[14:54:07] [Render thread/INFO]: [STDOUT]: Starting WI Zoom v1.4-MC1.19.2
+[14:54:07] [Render thread/INFO]: AdvancementInfo initialized
+[14:54:08] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[14:54:09] [Worker-Main-1/INFO]: Checking mod updates...
+[14:54:10] [Render thread/INFO]: Loading Xaero's Minimap - Stage 1/2
+[14:54:13] [Render thread/ERROR]: suppressed exception
+java.net.SocketTimeoutException: Read timed out
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2048) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2043) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:2042) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1609) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at xaero.common.patreon.Patreon.checkPatreon(Patreon.java:75) ~[%5BXaero的小地图%5D%20Xaeros_Minimap_23.4.3_Fabric_1.19.1.jar:?]
+	at xaero.minimap.XaeroMinimap.loadClient(XaeroMinimap.java:195) ~[%5BXaero的小地图%5D%20Xaeros_Minimap_23.4.3_Fabric_1.19.1.jar:?]
+	at xaero.minimap.XaeroMinimap.onInitializeClient(XaeroMinimap.java:63) ~[%5BXaero的小地图%5D%20Xaeros_Minimap_23.4.3_Fabric_1.19.1.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:53) [fabric-loader-0.14.19.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:459) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:205) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.19.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:283) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:309) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350) ~[?:?]
+	at sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803) ~[?:?]
+	at java.net.Socket$SocketInputStream.read(Socket.java:966) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:825) ~[?:?]
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:760) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1688) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3240) ~[?:?]
+	at java.net.URLConnection.getHeaderFieldLong(URLConnection.java:637) ~[?:?]
+	at java.net.URLConnection.getContentLengthLong(URLConnection.java:509) ~[?:?]
+	at xaero.common.patreon.Patreon.checkPatreon(Patreon.java:73) ~[%5BXaero的小地图%5D%20Xaeros_Minimap_23.4.3_Fabric_1.19.1.jar:?]
+	... 17 more
+[14:54:13] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_23182 in sodium.mixins.json:features.item.MixinItemRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[14:54:14] [Thread-4/WARN]: [Iris Update Check] Cached update file detected, using that!
+[14:54:14] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[14:54:16] [Render thread/INFO]: Debug functionality is disabled.
+[14:54:16] [Render thread/INFO]: DSA support not detected.
+[14:54:16] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[14:54:16] [Render thread/INFO]: Shaders are disabled
+[14:54:16] [Render thread/INFO]: [STDERR]: java.io.FileNotFoundException: F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\cloth_local\Vanilla Cape.dae (系统找不到指定的路径。)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.diebuddies.model.XmlParser.loadFile(XmlParser.java:27)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.diebuddies.model.ColladaParser.loadMultipleStaticModel(ColladaParser.java:30)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.diebuddies.model.ColladaParser.loadStaticModel(ColladaParser.java:25)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.diebuddies.physics.PhysicsMod.loadCloth(PhysicsMod.java:377)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_1060.handler$bfm000$physicsmod$constructor(class_1060.java:1527)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_1060.<init>(class_1060.java:43)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.<init>(class_310.java:522)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.method_44604(Main.java:205)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:51)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[14:54:16] [Render thread/INFO]: [STDERR]: Couldn't load default cape model
+[14:54:16] [Render thread/INFO]: [STDERR]: java.lang.NullPointerException: Cannot invoke "java.util.Map.values()" because the return value of "net.diebuddies.model.ColladaParser.loadMultipleStaticModel(java.io.File)" is null
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.diebuddies.model.ColladaParser.loadStaticModel(ColladaParser.java:25)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.diebuddies.physics.PhysicsMod.loadCloth(PhysicsMod.java:377)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_1060.handler$bfm000$physicsmod$constructor(class_1060.java:1527)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_1060.<init>(class_1060.java:43)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.<init>(class_310.java:522)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.method_44604(Main.java:205)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:51)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[14:54:16] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[14:54:16] [Render thread/INFO]: enabled vertex attrib rendering path
+[14:54:18] [Render thread/INFO]: Hardware information:
+[14:54:18] [Render thread/INFO]: CPU: 2x Intel(R) Celeron(R) CPU G1840 @ 2.80GHz
+[14:54:18] [Render thread/INFO]: GPU: Intel(R) HD Graphics (Supports OpenGL 3.2.0 - Build 20.19.15.4835)
+[14:54:18] [Render thread/INFO]: OS: Windows 10 (10.0)
+[14:54:18] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_3295 in sodium.mixins.json:features.chunk_rendering.MixinWorldRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[14:54:19] [Worker-Main-2/ERROR]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at net.minecraft.class_7434.method_43605(class_7434.java:130) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7434.method_44291(class_7434.java:69) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[14:54:19] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (AdvancementInfo, AppleSkin, Better Beds, Boat Item View Fabric, CaffeineConfig, Cloth Config v8, Continuity, Eating Animation, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric Block API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Client Tags, Fabric Command API (v1), Fabric Command API (v2), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Language Kotlin, Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Message API (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Recipe API (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Sound API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, FPS Reducer, Inventory Profiles Next, Iris, Jade, Just Enough Items, LazyDFU, libIPN, MaLiLib, Mod Menu, Physics Mod, Presence Footsteps, Sodium, Sodium Extra, Tweakeroo, WI Zoom, Xaero's Minimap), minecraft/supporteatinganimation, continuity/default, betterbeds/fancybeds, betterbeds/connectedbeds, [1.18.1]MASA全家桶汉化包.zip
+[14:54:19] [Render thread/INFO]: Reloading DashLoader. [mod-hash: 34690337EA9F75B4C51C0F2CAA3FBCF2] [resource-hash: 328BAABF5D306549DEF3E2D27604FB99]
+[14:54:19] [Render thread/INFO]: [46m[30m DashLoader Status change READ
+[0m
+[14:54:19] [Render thread/INFO]: Created READ data manager
+[14:54:19] [Render thread/INFO]: Starting DashLoader Deserialization
+[14:54:19] [dlc-thread-0/INFO]: Read RegistryData in 3ms
+[14:54:19] [dlc-thread-1/INFO]: Read ImageData in 15ms
+[14:54:19] [dlc-thread-0/INFO]: Decompressed RegistryData in 63ms
+[14:54:19] [dlc-thread-0/INFO]: Read ModelData in 0ms
+[14:54:20] [dlc-thread-0/INFO]: Decompressed ModelData in 150ms
+[14:54:20] [dlc-thread-0/INFO]: Read IdentifierData in 0ms
+[14:54:20] [dlc-thread-0/INFO]: Decompressed IdentifierData in 59ms
+[14:54:20] [dlc-thread-0/INFO]: Read BakedQuadData in 0ms
+[14:54:20] [dlc-thread-0/INFO]: Decompressed BakedQuadData in 138ms
+[14:54:20] [dlc-thread-0/INFO]: Read MappingData in 0ms
+[14:54:20] [dlc-thread-0/INFO]: Decompressed MappingData in 59ms
+[14:54:20] [dlc-thread-1/INFO]: Decompressed ImageData in 593ms
+[14:54:20] [Render thread/INFO]: Creating Registry
+[14:54:20] [Render thread/INFO]: Exporting Mappings
+[14:54:20] [Render thread/INFO]: Loading 3165 DashImages
+[14:54:20] [Render thread/INFO]: Loading 2614 DashSprites
+[14:54:20] [Render thread/INFO]: Loading 24090 DashIdentifierInterfaces
+[14:54:20] [Render thread/INFO]: Loading 74737 DashBakedQuads
+[14:54:20] [Render thread/INFO]: Loading 718 DashPredicates
+[14:54:20] [Render thread/INFO]: Loading 0 DashBlockStates
+[14:54:20] [Render thread/INFO]: Loading 15 DashFonts
+[14:54:20] [Render thread/INFO]: Loading 26974 DashModels
+[14:54:21] [Render thread/INFO]: Loading Mappings
+[14:54:21] [Render thread/INFO]: Scanning Blocks
+[14:54:21] [Render thread/INFO]: Verifying 933 BlockStates
+[14:54:21] [Render thread/INFO]: Found 1401 Missing BlockState Models
+[14:54:21] [Render thread/INFO]: Loaded DashLoader in 2143ms
+[14:54:21] [Render thread/INFO]: Reloaded DashLoader
+[14:54:22] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[14:54:22] [Worker-Main-2/INFO]: Preparing fonts
+[14:54:22] [Render thread/INFO]: Start loading plugin from Jade
+[14:54:23] [Render thread/INFO]: Start loading plugin from Jade
+[14:54:23] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[14:54:23] [Render thread/INFO]: Start loading plugin from Jade
+[14:54:23] [Worker-Main-2/INFO]: Injecting 21206 Cached Models
+[14:54:24] [Worker-Main-2/INFO]: Loaded 1401 unsupported models.
+[14:54:24] [Worker-Main-2/INFO]: Injecting Atlases
+[14:54:24] [Worker-Main-2/INFO]: Injected minecraft:textures/atlas/blocks.png atlas.
+[14:54:24] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[14:54:24] [Worker-Main-2/INFO]: Injected minecraft:textures/atlas/signs.png atlas.
+[14:54:24] [Worker-Main-2/INFO]: Injected minecraft:textures/atlas/banner_patterns.png atlas.
+[14:54:24] [Worker-Main-2/INFO]: Injected minecraft:textures/atlas/shield_patterns.png atlas.
+[14:54:24] [Worker-Main-2/INFO]: Injected minecraft:textures/atlas/chest.png atlas.
+[14:54:24] [Worker-Main-2/INFO]: Injected minecraft:textures/atlas/beds.png atlas.
+[14:54:24] [Worker-Main-2/INFO]: Injected minecraft:textures/atlas/shulker_boxes.png atlas.
+[14:54:24] [Worker-Main-2/INFO]: Injected minecraft:textures/atlas/paintings.png atlas.
+[14:54:24] [Worker-Main-2/INFO]: Injected minecraft:textures/atlas/mob_effects.png atlas.
+[14:54:24] [Worker-Main-2/INFO]: Injected jei:textures/atlas/gui.png atlas.
+[14:54:26] [Render thread/INFO]: No Optifine!
+[14:54:26] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[14:54:26] [Render thread/INFO]: Xaero's Minimap: Iris found!
+[14:54:26] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:54:26] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:54:27] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 扬声器 (Realtek High Definition Audio)
+[14:54:27] [Render thread/INFO]: Sound engine started
+[14:54:27] [Render thread/INFO]: Applying fonts off-thread
+[14:54:27] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[14:54:27] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:54:27] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[14:54:27] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:54:27] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:54:27] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[14:54:27] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[14:54:27] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[14:54:27] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:54:27] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:54:28] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[14:54:28] [Render thread/ERROR]: SpriteFinderImpl: Skipping sprite minecraft:missingno with broken bounds [2.0, 3.0]x[42.0, 43.0]. Sprite bounds should be between 0 and 1.
+[14:54:28] [Render thread/INFO]: Skipping non-result value minecraft:lantern=UNASSIGNED
+[14:54:28] [Render thread/INFO]: Skipping non-result value minecraft:soul_lantern=UNASSIGNED
+[14:54:28] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[14:54:28] [Render thread/INFO]: ┏ DashLoader Statistics.
+[14:54:28] [Render thread/INFO]: ┠──┬ 2143ms DashLoader load
+[14:54:28] [Render thread/INFO]: ┃  ├── 623ms File reading
+[14:54:28] [Render thread/INFO]: ┃  ├── 570ms Asset exporting
+[14:54:28] [Render thread/INFO]: ┃  └── 945ms Asset loading
+[14:54:28] [Render thread/INFO]: ┠──┬ 93% Cache coverage
+[14:54:28] [Render thread/INFO]: ┃  ├── 1402 Fallback models
+[14:54:28] [Render thread/INFO]: ┃  └── 21205 Cached models
+[14:54:28] [Render thread/INFO]: ┠── 9.1s Minecraft client reload
+[14:54:28] [Render thread/INFO]: ┠── 17.4s Minecraft bootstrap
+[14:54:28] [Render thread/INFO]: ┖── 59.4s Total loading
+[14:54:36] [Render thread/INFO]: Connecting to play.sakurayhwy.top, 25565
+[14:54:36] [Worker-Main-4/ERROR]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at net.minecraft.class_7434.method_43605(class_7434.java:130) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7434.method_44291(class_7434.java:69) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[14:54:40] [Render thread/INFO]: New minimap session initialized!
+[14:54:41] [Render thread/WARN]: @Redirect conflict. Skipping mixins.iris.compat.sodium.json:vertex_format.MixinFluidRenderer from mod iris->@Redirect::iris$fixSidewaysInnerFaceNormal(Lme/jellysquid/mods/sodium/client/model/IndexBufferBuilder;ILme/jellysquid/mods/sodium/client/model/quad/properties/ModelQuadWinding;Lnet/minecraft/class_1920;Lnet/minecraft/class_3610;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;Lme/jellysquid/mods/sodium/client/render/chunk/compile/buffers/ChunkModelBuilder;)V with priority 1000, already redirected by mixins.iris.compat.sodium.json:vertex_format.MixinFluidRenderer from mod iris->@Redirect::iris$fixBackwardUpFaceNormal(Lme/jellysquid/mods/sodium/client/model/IndexBufferBuilder;ILme/jellysquid/mods/sodium/client/model/quad/properties/ModelQuadWinding;Lnet/minecraft/class_1920;Lnet/minecraft/class_3610;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;Lme/jellysquid/mods/sodium/client/render/chunk/compile/buffers/ChunkModelBuilder;)V with priority 1000
+[14:54:41] [Render thread/INFO]: Started 1 worker threads
+[14:54:42] [Render thread/INFO]: [Inventory Profiles Next] Loaded 0 external GUI hints
+[14:54:42] [Render thread/INFO]: [Inventory Profiles Next] Loaded 783 build-in GUI hints
+[14:54:42] [Render thread/INFO]: [Inventory Profiles Next] Effective GUI hints after merge: 783
+[14:54:43] [Render thread/INFO]: Starting JEI...
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jei:minecraft took 7.251 ms
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jade:main took 23.00 μs
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jei:debug took 21.20 μs
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jei:fabric_gui took 17.50 μs
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jei:gui took 15.70 μs
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering item subtypes: jei:internal took 511.7 μs
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft took 51.50 μs
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jade:main took 87.20 μs
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jei:debug took 3.932 ms
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jei:fabric_gui took 23.60 μs
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jei:gui took 16.80 μs
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering fluid subtypes: jei:internal took 15.60 μs
+[14:54:43] [Render thread/INFO]: Registering ingredients: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering ingredients: jei:minecraft took 97.13 ms
+[14:54:43] [Render thread/INFO]: Registering ingredients: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering ingredients: jade:main took 18.90 μs
+[14:54:43] [Render thread/INFO]: Registering ingredients: jei:debug ...
+[14:54:43] [Render thread/INFO]: Loading config file: F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\config\jei\jei-debug.ini
+[14:54:43] [Render thread/INFO]: Registering ingredients: jei:debug took 4.411 ms
+[14:54:43] [Render thread/INFO]: Registering ingredients: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering ingredients: jei:fabric_gui took 16.10 μs
+[14:54:43] [Render thread/INFO]: Registering ingredients: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering ingredients: jei:gui took 40.60 μs
+[14:54:43] [Render thread/INFO]: Registering ingredients: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering ingredients: jei:internal took 17.50 μs
+[14:54:43] [Render thread/INFO]: Registering categories: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering categories: jei:minecraft took 44.21 ms
+[14:54:43] [Render thread/INFO]: Registering categories: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering categories: jade:main took 25.90 μs
+[14:54:43] [Render thread/INFO]: Registering categories: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering categories: jei:debug took 21.40 μs
+[14:54:43] [Render thread/INFO]: Registering categories: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering categories: jei:fabric_gui took 15.90 μs
+[14:54:43] [Render thread/INFO]: Registering categories: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering categories: jei:gui took 13.40 μs
+[14:54:43] [Render thread/INFO]: Registering categories: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering categories: jei:internal took 3.049 ms
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 5.365 ms
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jade:main took 31.00 μs
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 16.00 μs
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:fabric_gui took 25.80 μs
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:gui took 35.00 μs
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 14.20 μs
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 2.132 ms
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jade:main took 35.30 μs
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 45.70 μs
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:fabric_gui took 21.60 μs
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:gui took 48.80 μs
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 13.90 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 44.70 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jade:main took 10.80 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:debug took 9.900 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:fabric_gui took 9.900 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:gui took 17.40 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:internal took 14.30 μs
+[14:54:43] [Render thread/INFO]: Building recipe registry...
+[14:54:43] [Render thread/INFO]: Building recipe registry took 21.34 ms
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:minecraft took 464.4 ms
+[14:54:43] [Render thread/INFO]: Registering recipes: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jade:main took 58.10 μs
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:debug took 31.50 μs
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:fabric_gui took 21.80 μs
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:gui took 19.00 μs
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:internal took 15.80 μs
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 4.597 ms
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jade:main took 22.90 μs
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 15.50 μs
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:fabric_gui took 34.30 μs
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui took 20.90 μs
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 25.80 μs
+[14:54:43] [Render thread/INFO]: Building runtime...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 19.49 ms
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jade:main took 27.70 μs
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:debug took 26.70 μs
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:fabric_gui took 16.90 μs
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:gui took 14.30 ms
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:internal took 28.40 μs
+[14:54:43] [Render thread/INFO]: Registering Runtime: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering Runtime: jei:minecraft took 46.20 μs
+[14:54:43] [Render thread/INFO]: Registering Runtime: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering Runtime: jade:main took 60.20 μs
+[14:54:43] [Render thread/INFO]: Registering Runtime: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering Runtime: jei:debug took 23.30 μs
+[14:54:43] [Render thread/INFO]: Registering Runtime: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Starting JEI GUI
+[14:54:43] [Render thread/INFO]: Building ingredient list...
+[14:54:43] [Render thread/INFO]: Building ingredient list took 8.456 ms
+[14:54:43] [Render thread/INFO]: Building ingredient filter...
+[14:54:44] [Render thread/INFO]: Loading config file: F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\config\jei\jei-client.ini
+[14:54:44] [Render thread/INFO]: Adding 1406 ingredients
+[14:54:44] [Render thread/INFO]: Added 1406 ingredients
+[14:54:44] [Render thread/INFO]: Building ingredient filter took 494.6 ms
+[14:54:44] [Render thread/INFO]: Registering Runtime: jei:fabric_gui took 617.1 ms
+[14:54:44] [Render thread/INFO]: Registering Runtime: jei:gui ...
+[14:54:44] [Render thread/INFO]: Registering Runtime: jei:gui took 1.239 ms
+[14:54:44] [Render thread/INFO]: Registering Runtime: jei:internal ...
+[14:54:44] [Render thread/INFO]: Registering Runtime: jei:internal took 20.70 μs
+[14:54:44] [Render thread/INFO]: Building runtime took 716.8 ms
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:minecraft took 44.90 μs
+[14:54:44] [Render thread/INFO]: Sending Runtime: jade:main ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jade:main took 24.40 μs
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:debug took 30.20 μs
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:fabric_gui ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:fabric_gui took 19.80 μs
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:gui ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:gui took 11.20 μs
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:internal took 10.40 μs
+[14:54:44] [Render thread/INFO]: Starting JEI took 1.568 s
+[14:54:44] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:ancient_city_replaceable, minecraft:mangrove_logs_can_grow_through, minecraft:mangrove_roots_can_grow_through, minecraft:nether_carver_replaceables, minecraft:overworld_carver_replaceables
+[14:54:47] [Render thread/INFO]: [System] [CHAT] Welcome xkhh to Spawn, owned by GhostLing528.
+[14:54:47] [Render thread/INFO]: Stopping worker threads
+[14:54:47] [Render thread/INFO]: Started 1 worker threads
+[14:54:47] [Render thread/INFO]: Stopping worker threads
+[14:54:47] [Render thread/INFO]: Started 1 worker threads
+[14:54:47] [Render thread/INFO]: [System] [CHAT] [BetterRTP] There is currently an update for BetterRTP version #3.6.9-1 you have version #3.3.0
+[14:54:47] [Render thread/INFO]: [System] [CHAT] xkhh加入了游戏
+[14:54:47] [Render thread/INFO]: Loaded 190 advancements
+[14:54:48] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:54:48] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:54:48] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:54:48] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:54:49] [Render thread/INFO]: Reloading entity icon resources...
+[14:54:49] [Render thread/INFO]: Done!
+[14:54:52] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:54:52] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:54:54] [Render thread/INFO]: [System] [CHAT] Inventory Profiles Next: 版本：'1.10.1' 已更新。\n下载链接："Modrinth" 或 "CurseForge"
+[14:54:57] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:54:57] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:02] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:55:02] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:07] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:55:07] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:12] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:55:12] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:17] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:55:17] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:22] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:55:22] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:26] [Render thread/INFO]: [System] [CHAT] 已成功登录!
+[14:55:26] [Render thread/INFO]: [System] [CHAT] Now leaving Spawn.
+[14:55:26] [Render thread/INFO]: Stopping worker threads
+[14:55:26] [Render thread/INFO]: Started 1 worker threads
+[14:55:26] [Render thread/INFO]: Stopping worker threads
+[14:55:26] [Render thread/INFO]: Started 1 worker threads
+[14:56:02] [Render thread/INFO]: Minimap session finalized.
+[14:56:02] [Render thread/INFO]: Stopping JEI
+[14:56:02] [Render thread/INFO]: Stopping JEI
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft ...
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft took 22.30 μs
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jade:main ...
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jade:main took 7.900 μs
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug ...
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug took 9.900 μs
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:fabric_gui ...
+[14:56:02] [Render thread/INFO]: Stopping JEI GUI
+[14:56:02] [JEI GUI Config file watcher/INFO]: FileWatcher was interrupted, stopping.
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:fabric_gui took 3.553 ms
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui ...
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui took 10.60 μs
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal ...
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal took 6.900 μs
+[14:56:02] [JEI Library Config file watcher/INFO]: FileWatcher was interrupted, stopping.
+[14:56:02] [Render thread/INFO]: Stopping worker threads
+[14:56:03] [Render thread/ERROR]: Reported exception thrown!
+net.minecraft.class_148: Rendering entity in world
+	at net.minecraft.class_898.method_3954(class_898.java:172) ~[client-intermediary.jar:?]
+	at net.minecraft.class_761.method_22977(class_761.java:1568) ~[client-intermediary.jar:?]
+	at net.minecraft.class_761.method_22710(class_761.java:1316) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3188(class_757.java:1039) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:816) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1177) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:768) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:244) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.19.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.fabricmc.fabric.api.renderer.v1.Renderer.meshBuilder()" because the return value of "net.fabricmc.fabric.api.renderer.v1.RendererAccess.getRenderer()" is null
+	at me.pepperbell.continuity.impl.client.ProcessingContextImpl.<init>(ProcessingContextImpl.java:19) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.client.model.CTMBakedModel$CTMQuadTransform.<init>(CTMBakedModel.java:70) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.<init>(ModelObjectsContainer.java:10) ~[continuity-2.0.2+1.19.jar:?]
+	at java.lang.ThreadLocal$SuppliedThreadLocal.initialValue(ThreadLocal.java:305) ~[?:?]
+	at java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:195) ~[?:?]
+	at java.lang.ThreadLocal.get(ThreadLocal.java:172) ~[?:?]
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.get(ModelObjectsContainer.java:18) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.impl.client.ContinuityFeatureStatesImpl.get(ContinuityFeatureStatesImpl.java:16) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.api.client.ContinuityFeatureStates.get(ContinuityFeatureStates.java:10) ~[continuity-2.0.2+1.19.jar:?]
+	at net.minecraft.class_901.handler$zbb000$continuity$beforeRenderModel(class_901.java:518) ~[client-intermediary.jar:?]
+	at net.minecraft.class_901.method_3965(class_901.java:45) ~[client-intermediary.jar:?]
+	at net.minecraft.class_901.method_3936(class_901.java:17) ~[client-intermediary.jar:?]
+	at net.minecraft.class_898.method_3954(class_898.java:141) ~[client-intermediary.jar:?]
+	... 17 more

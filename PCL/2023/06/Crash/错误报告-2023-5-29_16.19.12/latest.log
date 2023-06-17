@@ -1,0 +1,208 @@
+[16:18:52] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.14.21
+[16:18:52] [main/INFO]: Loading 87 mods:
+	- appleskin 2.4.1+mc1.19
+	   \-- cloth-config 7.0.65
+	        \-- cloth-basic-math 0.6.1
+	- carpet 1.4.84
+	- essential-container 1.0.0
+	   \-- essential-loader 1.0.0
+	- fabric-api 0.76.0+1.19.2
+	   |-- fabric-api-base 0.4.15+8f4e8eb390
+	   |-- fabric-api-lookup-api-v1 1.6.14+93d8cb8290
+	   |-- fabric-biome-api-v1 9.1.1+16f1e31390
+	   |-- fabric-block-api-v1 1.0.2+e415d50e90
+	   |-- fabric-blockrenderlayer-v1 1.1.25+cafc6e8e90
+	   |-- fabric-client-tags-api-v1 1.0.5+b35fea8390
+	   |-- fabric-command-api-v1 1.2.16+f71b366f90
+	   |-- fabric-command-api-v2 2.2.1+413cbbc790
+	   |-- fabric-commands-v0 0.2.33+df3654b390
+	   |-- fabric-containers-v0 0.1.41+df3654b390
+	   |-- fabric-content-registries-v0 3.5.2+7c6cd14d90
+	   |-- fabric-convention-tags-v1 1.3.0+4bc6e26290
+	   |-- fabric-crash-report-info-v1 0.2.8+aeb40ebe90
+	   |-- fabric-data-generation-api-v1 5.3.8+413cbbc790
+	   |-- fabric-dimensions-v1 2.1.35+0d0f210290
+	   |-- fabric-entity-events-v1 1.5.4+9244241690
+	   |-- fabric-events-interaction-v0 0.4.34+562bff6e90
+	   |-- fabric-events-lifecycle-v0 0.2.36+df3654b390
+	   |-- fabric-game-rule-api-v1 1.0.24+b6b6abb490
+	   |-- fabric-item-api-v1 1.6.6+b7d1888890
+	   |-- fabric-item-groups-v0 0.3.39+9244241690
+	   |-- fabric-key-binding-api-v1 1.0.25+5c4fce2890
+	   |-- fabric-keybindings-v0 0.2.23+df3654b390
+	   |-- fabric-lifecycle-events-v1 2.2.4+1b46dc7890
+	   |-- fabric-loot-api-v2 1.1.13+83a8659290
+	   |-- fabric-loot-tables-v1 1.1.16+9e7660c690
+	   |-- fabric-message-api-v1 5.0.7+93d8cb8290
+	   |-- fabric-mining-level-api-v1 2.1.24+33fbc73890
+	   |-- fabric-models-v0 0.3.21+c6af733c90
+	   |-- fabric-networking-api-v1 1.2.11+10eb22f490
+	   |-- fabric-networking-v0 0.3.28+df3654b390
+	   |-- fabric-object-builder-api-v1 4.2.2+d8ef690890
+	   |-- fabric-particles-v1 1.0.14+4d0d570390
+	   |-- fabric-recipe-api-v1 1.0.1+413cbbc790
+	   |-- fabric-registry-sync-v0 0.9.32+9244241690
+	   |-- fabric-renderer-api-v1 1.2.1+1adbf27790
+	   |-- fabric-renderer-indigo 0.8.0+1adbf27790
+	   |-- fabric-renderer-registries-v1 3.2.24+df3654b390
+	   |-- fabric-rendering-data-attachment-v1 0.3.19+6e0787e690
+	   |-- fabric-rendering-fluids-v1 3.0.11+4d0d570390
+	   |-- fabric-rendering-v0 1.1.27+df3654b390
+	   |-- fabric-rendering-v1 1.12.1+d8ef690890
+	   |-- fabric-resource-conditions-api-v1 2.1.2+aae9039d90
+	   |-- fabric-resource-loader-v0 0.8.4+edbdcddb90
+	   |-- fabric-screen-api-v1 1.0.32+4d0d570390
+	   |-- fabric-screen-handler-api-v1 1.3.7+1cc24b1b90
+	   |-- fabric-sound-api-v1 1.0.2+c4f28df590
+	   |-- fabric-textures-v0 1.0.24+aeb40ebe90
+	   |-- fabric-transfer-api-v1 2.1.6+413cbbc790
+	   \-- fabric-transitive-access-wideners-v1 1.3.3+08b73de490
+	- fabric-language-kotlin 1.9.4+kotlin.1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.8.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.20.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.5.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.5.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.5.0
+	- fabricloader 0.14.21
+	- inventoryprofilesnext 1.10.2
+	- java 18
+	- libipn 3.0.1
+	- litematica 0.12.7
+	- magiclib 0.7.293+17aa28c-stable
+	   \-- magiclib-1_19_2 0.7.293+17aa28c-stable
+	- malilib 0.13.0
+	- masa_gadget_mod 3.1.289+1ca4352-stable
+	   \-- masa_gadget_mod-1_19_2 3.1.289+1ca4352-stable
+	- minecraft 1.19.2
+	- minihud 0.23.3
+	- modmenu 4.1.2
+	- optifabric 1.13.24
+	   \-- mm 2.3
+	- tweakeroo 0.14.3
+	- xaerominimap 23.4.4
+	- xaeroworldmap 1.30.3
+[16:18:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/PCL/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[16:18:53] [main/INFO]: Compatibility level set to JAVA_17
+[16:18:59] [main/INFO]: Starting Essential v1.2.1.1 (#0446b7ab4) [stable]
+[16:18:59] [main/INFO]: Java: OpenJDK 64-Bit Server VM (v18) by Oracle Corporation (Oracle Corporation)
+[16:18:59] [main/INFO]: Java Path: D:\JAVA\jdk-18\bin
+[16:18:59] [main/INFO]: Java Info: mixed mode, sharing
+[16:18:59] [main/INFO]: JVM Arguments: 
+  - -Doolloo.jlw.tmpdir=C:\Users\peter\AppData\Roaming\PCL
+  - -XX:+UseG1GC
+  - -XX:-UseAdaptiveSizePolicy
+  - -XX:-OmitStackTraceInFastThrow
+  - -Dfml.ignoreInvalidMinecraftCertificates=True
+  - -Dfml.ignorePatchDiscrepancies=True
+  - -Dlog4j2.formatMsgNoLookups=true
+  - -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  - -Dos.name=Windows 10
+  - -Dos.version=10.0
+  - -Djava.library.path=D:\PCL\.minecraft\versions\1.19.2-Fabric 0.14.21-OptiFine_I1\1.19.2-Fabric 0.14.21-OptiFine_I1-natives
+  - -Dminecraft.launcher.brand=PCL
+  - -Dminecraft.launcher.version=294
+  - -DFabricMcEmu=net.minecraft.client.main.Main
+  - -Xmn256m
+  - -Xmx3481m
+  - -Dlog4j2.formatMsgNoLookups=true
+  - --add-exports=cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED
+[16:18:59] [main/INFO]: OS: Windows 10 (v10.0) (Arch: amd64)
+[16:19:04] [main/WARN]: @Final field field_22786:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[16:19:04] [main/WARN]: @Final field field_33815:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[16:19:05] [main/ERROR]: Critical injection failure: LVT in net/minecraft/class_757::method_3192(FJZ)V has incompatible changes at opcode 670 in callback mixins.ipnext.json:MixinGameRenderer from mod inventoryprofilesnext->@Inject::preScreenRender(FJZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;IILnet/minecraft/class_1041;Lnet/minecraft/class_1159;Lnet/minecraft/class_4587;Lnet/minecraft/class_4587;)V.
+ Expected: [I, I, Lnet/minecraft/class_1041;, Lnet/minecraft/class_1159;, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;]
+    Found: [I, I, Lnet/minecraft/class_1041;, F, Lnet/minecraft/class_1159;, Lnet/minecraft/class_4587;]
+Available: [I, I, Lnet/minecraft/class_1041;, F, Lnet/minecraft/class_1159;, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;, Ljava/lang/Throwable;, Lnet/minecraft/class_128;, Lnet/minecraft/class_129;]
+[16:19:05] [main/ERROR]: Minecraft has crashed!
+net.fabricmc.loader.impl.FormattedException: java.lang.ExceptionInInitializerError
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:63) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.21.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.ExceptionInInitializerError
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:159) ~[1.19.2-Fabric%200.14.21-OptiFine_I1.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[1.19.2-Fabric%200.14.21-OptiFine_I1.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 6 more
+Caused by: java.lang.RuntimeException: Mixin transformation of net.minecraft.class_757 failed
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:427) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3329) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2403) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:159) ~[1.19.2-Fabric%200.14.21-OptiFine_I1.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[1.19.2-Fabric%200.14.21-OptiFine_I1.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 6 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3329) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2403) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:159) ~[1.19.2-Fabric%200.14.21-OptiFine_I1.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[1.19.2-Fabric%200.14.21-OptiFine_I1.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 6 more
+Caused by: org.spongepowered.asm.mixin.injection.throwables.InjectionError: LVT in net/minecraft/class_757::method_3192(FJZ)V has incompatible changes at opcode 670 in callback mixins.ipnext.json:MixinGameRenderer from mod inventoryprofilesnext->@Inject::preScreenRender(FJZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;IILnet/minecraft/class_1041;Lnet/minecraft/class_1159;Lnet/minecraft/class_4587;Lnet/minecraft/class_4587;)V.
+ Expected: [I, I, Lnet/minecraft/class_1041;, Lnet/minecraft/class_1159;, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;]
+    Found: [I, I, Lnet/minecraft/class_1041;, F, Lnet/minecraft/class_1159;, Lnet/minecraft/class_4587;]
+Available: [I, I, Lnet/minecraft/class_1041;, F, Lnet/minecraft/class_1159;, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;, Ljava/lang/Throwable;, Lnet/minecraft/class_128;, Lnet/minecraft/class_129;]
+	at org.spongepowered.asm.mixin.injection.callback.CallbackInjector.inject(CallbackInjector.java:547) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.injection.callback.CallbackInjector.inject(CallbackInjector.java:497) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.injection.code.Injector.inject(Injector.java:276) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.inject(InjectionInfo.java:445) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1377) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3329) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2403) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:159) ~[1.19.2-Fabric%200.14.21-OptiFine_I1.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[1.19.2-Fabric%200.14.21-OptiFine_I1.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 6 more

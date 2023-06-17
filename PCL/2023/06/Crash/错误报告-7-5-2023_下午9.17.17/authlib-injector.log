@@ -1,0 +1,9 @@
+Logging started at 2023-05-07T13:15:28.937854400Z
+[authlib-injector] [INFO] Version: 1.2.2
+[authlib-injector] [INFO] Authentication server: https://skin.vlssu.com/api/yggdrasil
+[authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Main Arguments Transformer]
+[authlib-injector] [INFO] Httpd is running on port 52037
+[authlib-injector] [INFO] Transformed [net.minecraft.client.player.AbstractClientPlayer] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [ConcatenateURL Workaround]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilEnvironment] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Texture Whitelist Transformer]

@@ -1,0 +1,85 @@
+2023-04-30 00:22:38,315 main WARN Advanced terminal features are not available in this environment
+[00:22:38] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, mcyouzhe, --version, 1.18.2-Forge_40.2.0-OptiFine_H9_pre3, --gameDir, D:\pcl II\.minecraft\versions\1.18.2-Forge_40.2.0-OptiFine_H9_pre3, --assetsDir, D:\pcl II\.minecraft\assets, --assetIndex, 1.18, --uuid, 9d231c94146b4f18901a1fdad8f69bef, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, Mojang, --versionType, PCL2, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, --tweakClass, optifine.OptiFineForgeTweaker]
+[00:22:38] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.2 by Eclipse Adoptium
+[00:22:38] [main/INFO] [op.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[00:22:38] [main/INFO] [op.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/D:/pcl%20II/.minecraft/libraries/optifine/OptiFine/1.18.2_HD_U_H9_pre3/OptiFine-1.18.2_HD_U_H9_pre3.jar%2352!/
+[00:22:38] [main/INFO] [op.OptiFineTransformationService/]: OptiFine ZIP file: D:\pcl II\.minecraft\libraries\optifine\OptiFine\1.18.2_HD_U_H9_pre3\OptiFine-1.18.2_HD_U_H9_pre3.jar
+[00:22:38] [main/INFO] [op.OptiFineTransformer/]: Target.PRE_CLASS is available
+[00:22:38] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/pcl%20II/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2349!/ Service=ModLauncher Env=CLIENT
+[00:22:38] [main/INFO] [op.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[00:22:38] [main/WARN] [ne.mi.fm.lo.FMLConfig/CORE]: Configuration file D:\pcl II\.minecraft\versions\1.18.2-Forge_40.2.0-OptiFine_H9_pre3\config\fml.toml is not correct. Correcting
+[00:22:38] [main/WARN] [ne.mi.fm.lo.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[00:22:39] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\pcl II\.minecraft\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.0\fmlcore-1.18.2-40.2.0.jar is missing mods.toml file
+[00:22:39] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\pcl II\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.0\javafmllanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[00:22:39] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\pcl II\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.0\lowcodelanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[00:22:39] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file D:\pcl II\.minecraft\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.0\mclanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[00:22:39] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[00:22:39] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'geckolib3', Requested by: 'dungeons_mobs', Expected range: '[3.0.55,)', Actual version: '[MISSING]'
+	Mod ID: 'geckolib3', Requested by: 'dungeons_gear', Expected range: '[3.0.28,)', Actual version: '[MISSING]'
+	Mod ID: 'crafttweaker', Requested by: 'jeitweaker', Expected range: '[9.1.86,)', Actual version: '[MISSING]'
+	Mod ID: 'geckolib3', Requested by: 'duneons', Expected range: '[0,)', Actual version: '[MISSING]'
+[00:22:39] [main/INFO] [op.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[00:22:39] [main/INFO] [op.OptiFineTransformer/]: Targets: 360
+[00:22:40] [main/INFO] [op.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[00:22:41] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[00:22:41] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.18.2-Forge_40.2.0-OptiFine_H9_pre3, --gameDir, D:\pcl II\.minecraft\versions\1.18.2-Forge_40.2.0-OptiFine_H9_pre3, --assetsDir, D:\pcl II\.minecraft\assets, --uuid, 9d231c94146b4f18901a1fdad8f69bef, --username, mcyouzhe, --assetIndex, 1.18, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, Mojang, --versionType, PCL2, --width, 854, --height, 480, --tweakClass, optifine.OptiFineForgeTweaker]
+[00:22:41] [main/WARN] [IMixinConfigPlugin/]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[00:22:41] [main/INFO] [IMixinConfigPlugin/]: Inventory Profiles Next dependency resolution failed! Probably missing libIPN.
+[00:22:41] [main/WARN] [mixin/]: Error loading class: software/bernie/geckolib3/renderers/geo/GeoEntityRenderer (java.lang.ClassNotFoundException: software.bernie.geckolib3.renderers.geo.GeoEntityRenderer)
+[00:22:41] [main/WARN] [mixin/]: @Mixin target software.bernie.geckolib3.renderers.geo.GeoEntityRenderer was not found dungeons_libraries.mixins.json:GeoEntityRendererMixin
+Completely ignored arguments: [--tweakClass, optifine.OptiFineForgeTweaker]
+Exception in thread "main" java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:39)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
+	... 7 more
+Caused by: java.lang.RuntimeException: java.lang.NoClassDefFoundError: software/bernie/geckolib3/core/IAnimatable
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.BackgroundWaiter.runAndTick(BackgroundWaiter.java:29)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.main.Main.main(Main.java:138)
+	... 13 more
+Caused by: java.lang.NoClassDefFoundError: software/bernie/geckolib3/core/IAnimatable
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:116)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.lambda$findClass$16(ModuleClassLoader.java:216)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:226)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:216)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:132)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.entity.EntityType.<clinit>(EntityType.java:165)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.level.levelgen.feature.MonsterRoomFeature.<clinit>(MonsterRoomFeature.java:26)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.world.level.levelgen.feature.Feature.<clinit>(Feature.java:80)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.data.worldgen.features.AquaticFeatures.<clinit>(AquaticFeatures.java:20)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.data.worldgen.features.FeatureUtils.m_206469_(FeatureUtils.java:23)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.data.BuiltinRegistries.m_206392_(BuiltinRegistries.java:101)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.data.BuiltinRegistries.<clinit>(BuiltinRegistries.java:100)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.core.Registry.<clinit>(Registry.java:633)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.Bootstrap.m_135870_(Bootstrap.java:44)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.main.Main.lambda$main$0(Main.java:138)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ClassNotFoundException: software.bernie.geckolib3.core.IAnimatable
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:134)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:134)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 24 more

@@ -1,0 +1,768 @@
+[035月2023 13:35:48.284] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, xiao30000, --version, [1.18.2]Lost_CivilizationWilds, --gameDir, D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds, --assetsDir, D:\zero-one driver\Lost_CivilizationWilds\.minecraft\assets, --assetIndex, 1.18, --uuid, cf9c3092df384247931a37f393d076b0, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, Mojang, --versionType, PCL2, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.2, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[035月2023 13:35:48.296] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Oracle Corporation
+[035月2023 13:35:48.656] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/zero-one%20driver/Lost_CivilizationWilds/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2348!/ Service=ModLauncher Env=CLIENT
+[035月2023 13:35:48.923] [main/INFO] [MoreCrashInfoTransformerService/]: MoreCrashInfo TransformationService: D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\tmp\MoreCrashInfo-Locator-1.18.2.jar
+[035月2023 13:35:48.939] [main/INFO] [MoreCrashInfoTransformerService/]: Added D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\tmp\MoreCrashInfo-Locator-1.18.2.jar to SERVICE with Rebuilt
+[035月2023 13:35:49.062] [main/INFO] [MoreCrashInfoModLocator/]: Minecraft version 1.18.2 major 18
+[035月2023 13:35:49.097] [main/INFO] [MoreCrashInfoModLocator/]: MoreCrashInfo ModLocator: D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\tmp\MoreCrashInfo-Core-1.18.2.jar
+[035月2023 13:35:50.541] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.2\fmlcore-1.18.2-40.2.2.jar is missing mods.toml file
+[035月2023 13:35:50.547] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.2\javafmllanguage-1.18.2-40.2.2.jar is missing mods.toml file
+[035月2023 13:35:50.551] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.2\lowcodelanguage-1.18.2-40.2.2.jar is missing mods.toml file
+[035月2023 13:35:50.554] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.2\mclanguage-1.18.2-40.2.2.jar is missing mods.toml file
+[035月2023 13:35:50.850] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[035月2023 13:36:02.732] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[035月2023 13:36:02.747] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[035月2023 13:36:03.889] [main/ERROR] [mixin/]: Mixin config polylib.mixins.json does not specify "minVersion" property
+[035月2023 13:36:04.395] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[035月2023 13:36:04.396] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[035月2023 13:36:04.407] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, [1.18.2]Lost_CivilizationWilds, --gameDir, D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds, --assetsDir, D:\zero-one driver\Lost_CivilizationWilds\.minecraft\assets, --uuid, cf9c3092df384247931a37f393d076b0, --username, xiao30000, --assetIndex, 1.18, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, Mojang, --versionType, PCL2, --width, 854, --height, 480]
+[035月2023 13:36:04.485] [main/INFO] [Rubidium/]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[035月2023 13:36:04.493] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 28 options available, 1 override(s) found
+[035月2023 13:36:04.917] [main/WARN] [mixin/]: Reference map 'rankine.refmap.json' for rankine.mixins.json could not be read. If this is a development environment you can ignore this message
+[035月2023 13:36:05.125] [main/WARN] [mixin/]: Reference map 'thirst.refmap.json' for villagercomfort.mixin.json could not be read. If this is a development environment you can ignore this message
+[035月2023 13:36:05.271] [main/INFO] [Sodium Extra Config/]: Loaded configuration file for Sodium Extra: 30 options available, 0 override(s) found
+[035月2023 13:36:05.367] [main/INFO] [Canary/]: Loaded configuration file for Canary: 112 options available, 0 override(s) found
+[035月2023 13:36:05.980] [main/WARN] [mixin/]: Reference map 'polylib-common-refmap.json' for polylib.mixins.json could not be read. If this is a development environment you can ignore this message
+[035月2023 13:36:06.249] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[035月2023 13:36:06.282] [main/WARN] [mixin/]: Reference map 'nethersdelight.refmap.json' for nethersdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[035月2023 13:36:06.876] [main/WARN] [Rubidium/]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [oculus]) disables it and children
+[035月2023 13:36:08.221] [main/WARN] [mixin/]: Error loading class: net/minecraft/network/play/server/SMultiBlockChangePacket (java.lang.ClassNotFoundException: net.minecraft.network.play.server.SMultiBlockChangePacket)
+[035月2023 13:36:08.221] [main/WARN] [mixin/]: @Mixin target net.minecraft.network.play.server.SMultiBlockChangePacket was not found block_limit_fix.mixins.json:ClientboundSectionBlocksUpdatePacketMixin
+[035月2023 13:36:08.398] [main/WARN] [mixin/]: Error loading class: mezz/jei/transfer/RecipeTransferUtil (java.lang.ClassNotFoundException: mezz.jei.transfer.RecipeTransferUtil)
+[035月2023 13:36:08.398] [main/WARN] [mixin/]: @Mixin target mezz.jei.transfer.RecipeTransferUtil was not found polymorph_integrations.mixins.json:jei.MixinRecipeTransferUtil
+[035月2023 13:36:09.091] [main/WARN] [IMixinConfigPlugin/]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[035月2023 13:36:09.134] [main/WARN] [mixin/]: Error loading class: top/theillusivec4/diet/common/impl/DietApiImpl (java.lang.ClassNotFoundException: top.theillusivec4.diet.common.impl.DietApiImpl)
+[035月2023 13:36:09.134] [main/WARN] [mixin/]: @Mixin target top.theillusivec4.diet.common.impl.DietApiImpl was not found caupona.mixins.json:DietApiImplMixin
+[035月2023 13:36:09.144] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/client/FTBChunksClient (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.client.FTBChunksClient)
+[035月2023 13:36:09.144] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.client.FTBChunksClient was not found jmi.mixins.json:FTBChunksClientMixin
+[035月2023 13:36:09.144] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/client/map/UpdateChunkFromServerTask (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.client.map.UpdateChunkFromServerTask)
+[035月2023 13:36:09.144] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.client.map.UpdateChunkFromServerTask was not found jmi.mixins.json:UpdateFromServerTaskMixin
+[035月2023 13:36:09.480] [main/WARN] [mixin/]: Error loading class: tschipp/carryon/common/item/ItemCarryonEntity (java.lang.ClassNotFoundException: tschipp.carryon.common.item.ItemCarryonEntity)
+[035月2023 13:36:09.480] [main/WARN] [mixin/]: @Mixin target tschipp.carryon.common.item.ItemCarryonEntity was not found appetite.mixins.json:ItemCarryonEntityMixin
+[035月2023 13:36:09.513] [main/WARN] [mixin/]: Error loading class: com/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: com.brewinandchewin.common.block.entity.KegBlockEntity)
+[035月2023 13:36:09.514] [main/WARN] [mixin/]: @Mixin target com.brewinandchewin.common.block.entity.KegBlockEntity was not found create_central_kitchen.mixins.json:common.brewinandchewin.KegBlockEntityMixin
+[035月2023 13:36:09.550] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: com.farmersrespite.common.block.entity.KettleBlockEntity)
+[035月2023 13:36:09.550] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin
+[035月2023 13:36:09.553] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/neapolitan/common/item/DrinkItem (java.lang.ClassNotFoundException: com.teamabnormals.neapolitan.common.item.DrinkItem)
+[035月2023 13:36:09.553] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.neapolitan.common.item.DrinkItem was not found create_central_kitchen.mixins.json:common.neapolitan.DrinkItemMixin
+[035月2023 13:36:13.190] [main/WARN] [mixin/]: Method overwrite conflict for m_46653_ in observable.common.json:LevelMixin, previously written by com.teampotato.does_potato_tick.mixin.EntityTickInWorldMixin. Skipping method.
+[035月2023 13:36:14.066] [main/INFO] [MoreCrashInfo/]: MoreCrashInfo Mod Loaded
+[035月2023 13:36:14.076] [main/INFO] [MoreCrashInfo/]: 
+	Forge CoreMods: 
+		| ID                     | Name                                   | Source                                      | Status | 
+		| ---------------------- | -------------------------------------- | ------------------------------------------- | ------ | 
+		| forgeendertech         | block_state_change_hook                | block_state_change_hook.js                  | Loaded | 
+		| forgeendertech         | fluid_random_tick_hook                 | fluid_random_tick_hook.js                   | Loaded | 
+		| forgeendertech         | campfire_smoke_hook                    | campfire_smoke_hook.js                      | Loaded | 
+		| forgeendertech         | block_random_tick_hook                 | block_random_tick_hook.js                   | Loaded | 
+		| pop                    | ParticleCoreMod                        | ParticleCoreMod.js                          | Loaded | 
+		| sereneseasons          | biome_transformer                      | temperature.js                              | Loaded | 
+		| libx                   | interact                               | interact.js                                 | Loaded | 
+		| libx                   | random_tick                            | random_tick.js                              | Loaded | 
+		| libx                   | world_seed                             | world_seed.js                               | Loaded | 
+		| itemphysiclite         | soundtransformer                       | itemtransformer.js                          | Loaded | 
+		| adpother               | minecraft$abstract_furnace_fuel        | abstract_furnace_fuel_burnout_hook.js       | Loaded | 
+		| adpother               | minecraft$abstract_furnace_item        | abstract_furnace_item_smelting_hook.js      | Loaded | 
+		| adpother               | minecraft$block_burnout                | block_burnout_hook.js                       | Loaded | 
+		| adpother               | minecraft$block_explosion              | block_explosion_hook.js                     | Loaded | 
+		| adpother               | minecraft$abstract_horse_eating        | abstract_horse_eating_hook.js               | Loaded | 
+		| adpother               | minecraft$animal_eating                | animal_eating_hook.js                       | Loaded | 
+		| adpother               | minecraft$fluid_random_tick_enabler    | fluid_random_tick_enabler.js                | Loaded | 
+		| adpother               | minecraft$item_entity_burnout          | item_entity_burnout_hook.js                 | Loaded | 
+		| adpother               | minecraft$rain_texture_binding         | rain_texture_binding_hook.js                | Loaded | 
+		| adpother               | immersiveengineering$coke_oven         | coke_oven_fuel_burnout_hook.js              | Loaded | 
+		| adpother               | immersiveengineering$diesel_generator  | diesel_generator_fuel_burnout_hook.js       | Loaded | 
+		| adpother               | immersiveengineering$furnace_like_tile | furnace_like_tile_fuel_burnout_hook.js      | Loaded | 
+		| adpother               | immersivepetroleum$portable_generator  | portable_generator_fuel_burnout_hook.js     | Loaded | 
+		| adpother               | immersivepetroleum$motorboat           | motorboat_fuel_burnout_hook.js              | Loaded | 
+		| adpother               | fastfurnace$furnace                    | furnace_fuel_burnout_hook.js                | Loaded | 
+		| adpother               | fastfurnace$blast_furnace              | blast_furnace_fuel_burnout_hook.js          | Loaded | 
+		| adpother               | fastfurnace$smoker                     | smoker_fuel_burnout_hook.js                 | Loaded | 
+		| adpother               | pneumaticcraft$air_compressor          | air_compressor_fuel_burnout_hook.js         | Loaded | 
+		| adpother               | pneumaticcraft$liquid_compressor       | liquid_compressor_fuel_burnout_hook.js      | Loaded | 
+		| adpother               | tconstruct$fuel_module_liquid          | fuel_module_liquid_fuel_burnout_hook.js     | Loaded | 
+		| adpother               | tconstruct$fuel_module_solid           | fuel_module_solid_fuel_burnout_hook.js      | Loaded | 
+		| adpother               | immersiverailroading$diesel_locomotive | diesel_locomotive_fuel_burnout_hook.js      | Loaded | 
+		| adpother               | immersiverailroading$steam_locomotive  | steam_locomotive_fuel_burnout_hook.js       | Loaded | 
+		| adpother               | industrialforegoing$biofuel_generator  | biofuel_generator_fuel_burnout_hook.js      | Loaded | 
+		| adpother               | industrialforegoing$pitiful_generator  | pitiful_generator_fuel_burnout_hook.js      | Loaded | 
+		| adpother               | industrialforegoing$mob_crusher        | mob_crusher_instant_kill_hook.js            | Loaded | 
+		| adpother               | simpleplanes$furnace_engine_upgrade    | furnace_engine_upgrade_fuel_burnout_hook.js | Loaded | 
+		| adpother               | silents_mechanisms$coal_generator      | coal_generator_fuel_burnout_hook.js         | Loaded | 
+		| adpother               | silents_mechanisms$fluid_generator     | fluid_generator_fuel_burnout_hook.js        | Loaded | 
+		| adpother               | create$block_breaking_kinetic_tile     | block_breaking_kinetic_tile_hook.js         | Loaded | 
+		| adpother               | create$block_breaking_movement         | block_breaking_movement_hook.js             | Loaded | 
+		| adpother               | create$in_world_processing             | in_world_processing_hook.js                 | Loaded | 
+		| adpother               | create$air_current                     | air_current_hook.js                         | Loaded | 
+		| adpother               | createaddition$abstract_burner         | abstract_burner_fuel_burnout_hook.js        | Loaded | 
+		| adpother               | createaddition$crude_burner            | crude_burner_fuel_burnout_hook.js           | Loaded | 
+		| adpother               | futurepack$part_press                  | part_press_fuel_burnout_hook.js             | Loaded | 
+		| adpother               | brickfurnace$abstract_furnace_fuel     | abstract_furnace_fuel_burnout_hook.js       | Loaded | 
+		| adpother               | brickfurnace$abstract_furnace_item     | abstract_furnace_item_smelting_hook.js      | Loaded | 
+		| adpother               | mrcrayfish_vehicle_mod$powered_vehicle | powered_vehicle_fuel_burnout_hook.js        | Loaded | 
+		| adpother               | ironfurnaces$abstract_furnace_fuel     | abstract_furnace_fuel_burnout_hook.js       | Loaded | 
+		| adpother               | ironfurnaces$abstract_furnace_item     | abstract_furnace_item_smelting_hook.js      | Loaded | 
+		| adpother               | ultimate_car_mod$base_car              | base_car_fuel_burnout_hook.js               | Loaded | 
+		| adpother               | ultimate_car_mod$energy_producer       | energy_producer_fuel_burnout_hook.js        | Loaded | 
+		| adpother               | regrowth$mob_eating                    | mob_grass_eating_hook.js                    | Loaded | 
+		| adpother               | rftools_power$blazing_generator        | blazing_generator_fuel_burnout_hook.js      | Loaded | 
+		| adpother               | rftools_power$coal_generator           | coal_generator_fuel_burnout_hook.js         | Loaded | 
+		| adpother               | crossroads$firebox                     | firebox_fuel_burnout_hook.js                | Loaded | 
+		| adpother               | trajanstanks$tank                      | tank_fuel_burnout_hook.js                   | Loaded | 
+		| adpother               | littlelogistics$steam_locomotive       | steam_locomotive_fuel_burnout_hook.js       | Loaded | 
+		| adpother               | littlelogistics$steam_tug              | steam_tug_fuel_burnout_hook.js              | Loaded | 
+		| adpother               | mysticalagriculture/furnace            | furnace_fuel_burnout_hook.js                | Loaded | 
+		| adpother               | mysticalagriculture/reprocessor        | reprocessor_fuel_burnout_hook.js            | Loaded | 
+		| adpother               | steampowered$burner                    | burner_fuel_burnout_hook.js                 | Loaded | 
+		| adpother               | tfc$abstract_firepit                   | abstract_firepit_fuel_burnout_hook.js       | Loaded | 
+		| adpother               | tfc$blast_furnace                      | blast_furnace_fuel_burnout_hook.js          | Loaded | 
+		| adpother               | tfc$charcoal_forge                     | charcoal_forge_fuel_burnout_hook.js         | Loaded | 
+		| forge                  | field_to_method                        | field_to_method.js                          | Loaded | 
+		| forge                  | field_to_instanceof                    | field_to_instanceof.js                      | Loaded | 
+		| forge                  | add_bouncer_method                     | add_bouncer_method.js                       | Loaded | 
+		| forge                  | registry_object_binary_compat          | registry_object_binary_compat.js            | Loaded | 
+		| create_central_kitchen | farmersdelight/heatable_block_entity   | HeatableBlockEntityMixin.js                 | Loaded | 
+		| journeymap             | journeymap potion effect transformer   | potion-effects-shift.js                     | Loaded | 
+		| configured             | Configured                             | set_background_texture.js                   | Loaded | 
+		| jecharacters           | jecharacters-jei1                      | jei1.js                                     | Loaded | 
+		| jecharacters           | jecharacters-jei2                      | jei2.js                                     | Loaded | 
+		| jecharacters           | jecharacters-jei3                      | jei3.js                                     | Loaded | 
+		| jecharacters           | jecharacters-psi                       | psi.js                                      | Loaded | 
+		| jecharacters           | jecharacters-gen0                      | _gen0.js                                    | Loaded | 
+		| jecharacters           | jecharacters-gen1                      | _gen1.js                                    | Loaded | 
+		| jecharacters           | jecharacters-gen2                      | _gen2.js                                    | Loaded | 
+		| jecharacters           | jecharacters-gen3                      | _gen3.js                                    | Loaded | 
+		| jecharacters           | jecharacters-gen4                      | _gen4.js                                    | Loaded | 
+		| jecharacters           | jecharacters-gen5                      | _gen5.js                                    | Loaded | 
+		| jecharacters           | jecharacters-gen6                      | _gen6.js                                    | Loaded | 
+		| jecharacters           | jecharacters-gen7                      | _gen7.js                                    | Loaded | 
+		| jecharacters           | jecharacters-gen8                      | _gen8.js                                    | Loaded | 
+		| jecharacters           | jecharacters-gen9                      | _gen9.js                                    | Loaded | 
+		| jecharacters           | jecharacters-gen10                     | _gen10.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen11                     | _gen11.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen12                     | _gen12.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen13                     | _gen13.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen14                     | _gen14.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen15                     | _gen15.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen16                     | _gen16.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen17                     | _gen17.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen18                     | _gen18.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen19                     | _gen19.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen20                     | _gen20.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen21                     | _gen21.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen22                     | _gen22.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen23                     | _gen23.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen24                     | _gen24.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen25                     | _gen25.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen26                     | _gen26.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen27                     | _gen27.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen28                     | _gen28.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen29                     | _gen29.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen30                     | _gen30.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen31                     | _gen31.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen32                     | _gen32.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen33                     | _gen33.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen34                     | _gen34.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen35                     | _gen35.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen36                     | _gen36.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen37                     | _gen37.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen38                     | _gen38.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen39                     | _gen39.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen40                     | _gen40.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen41                     | _gen41.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen42                     | _gen42.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen43                     | _gen43.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen44                     | _gen44.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen45                     | _gen45.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen46                     | _gen46.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen47                     | _gen47.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen48                     | _gen48.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen49                     | _gen49.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen50                     | _gen50.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen51                     | _gen51.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen52                     | _gen52.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen53                     | _gen53.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen54                     | _gen54.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen55                     | _gen55.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen56                     | _gen56.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen57                     | _gen57.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen58                     | _gen58.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen59                     | _gen59.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen60                     | _gen60.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen61                     | _gen61.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen62                     | _gen62.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen63                     | _gen63.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen64                     | _gen64.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen65                     | _gen65.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen66                     | _gen66.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen67                     | _gen67.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen68                     | _gen68.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen69                     | _gen69.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen70                     | _gen70.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen71                     | _gen71.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen72                     | _gen72.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen73                     | _gen73.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen74                     | _gen74.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen75                     | _gen75.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen76                     | _gen76.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen77                     | _gen77.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen78                     | _gen78.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen79                     | _gen79.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen80                     | _gen80.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen81                     | _gen81.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen82                     | _gen82.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen83                     | _gen83.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen84                     | _gen84.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen85                     | _gen85.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen86                     | _gen86.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen87                     | _gen87.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen88                     | _gen88.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen89                     | _gen89.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen90                     | _gen90.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen91                     | _gen91.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen92                     | _gen92.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen93                     | _gen93.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen94                     | _gen94.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen95                     | _gen95.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen96                     | _gen96.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen97                     | _gen97.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen98                     | _gen98.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen99                     | _gen99.js                                   | Loaded | 
+		| jecharacters           | jecharacters-gen100                    | _gen100.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen101                    | _gen101.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen102                    | _gen102.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen103                    | _gen103.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen104                    | _gen104.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen105                    | _gen105.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen106                    | _gen106.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen107                    | _gen107.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen108                    | _gen108.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen109                    | _gen109.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen110                    | _gen110.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen111                    | _gen111.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen112                    | _gen112.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen113                    | _gen113.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen114                    | _gen114.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen115                    | _gen115.js                                  | Loaded | 
+		| jecharacters           | jecharacters-gen116                    | _gen116.js                                  | Loaded | 
+	Mixin Configs: 
+		| Name                                                                 | Mixin Package                                            | Priority | Required | Targets | 
+		| -------------------------------------------------------------------- | -------------------------------------------------------- | -------- | -------- | ------- | 
+		| dynamiclightsreforged.mixins.json                                    | dev.lambdaurora.lambdynlights.mixin.                     | 1000     | true     | 17      | 
+		| entitycollisionfpsfix.mixins.json                                    | corgitaco.entitycollisionfpsfix.mixin.                   | 1000     | true     | 2       | 
+		| entitycollisionfpsfix.forge.mixins.json                              | corgitaco.entitycollisionfpsfix.mixin.                   | 1000     | true     | 0       | 
+		| nerb.mixins.json                                                     | it.hurts.sskirillss.nerb.mixin.                          | 1000     | true     | 4       | 
+		| rubidium.mixins.json                                                 | me.jellysquid.mods.sodium.mixin.                         | 1000     | true     | 44      | 
+		| does_potato_tick.mixins.json                                         | com.teampotato.does_potato_tick.mixin.                   | 1000     | true     | 2       | 
+		| yungsapi.mixins.json                                                 | com.yungnickyoung.minecraft.yungsapi.mixin.              | 1000     | true     | 9       | 
+		| yungsapi_forge.mixins.json                                           | com.yungnickyoung.minecraft.yungsapi.mixin.              | 1000     | true     | 0       | 
+		| weather2.mixins.json                                                 | weather2.mixin.                                          | 1000     | true     | 2       | 
+		| META-INF/pickupnotifier.mixins.json                                  | fuzs.pickupnotifier.mixin.                               | 1000     | true     | 2       | 
+		| balm.mixins.json                                                     | net.blay09.mods.balm.mixin.                              | 1000     | true     | 15      | 
+		| bbs.mixins.json                                                      | com.ordana.bbs.mixin.                                    | 1000     | true     | 1       | 
+		| chat_heads.mixins.json                                               | dzwdz.chat_heads.mixin.                                  | 1000     | true     | 4       | 
+		| betterfortresses.mixins.json                                         | com.yungnickyoung.minecraft.betterfortresses.mixin.      | 1000     | true     | 5       | 
+		| betterfortresses_forge.mixins.json                                   | com.yungnickyoung.minecraft.betterfortresses.mixin.      | 1000     | true     | 1       | 
+		| structure_gel.mixins.json                                            | com.legacy.structure_gel.core.mixin.                     | 1000     | true     | 16      | 
+		| supermartijn642corelib.mixins.json                                   | com.supermartijn642.core.mixin.                          | 1000     | true     | 3       | 
+		| highlighter.mixins.json                                              | com.anthonyhilyard.highlighter.mixin.                    | 1000     | true     | 3       | 
+		| reeses_sodium_options.mixins.json                                    | me.flashyreese.mods.reeses_sodium_options.mixin.         | 1000     | true     | 6       | 
+		| curios.mixins.json                                                   | top.theillusivec4.curios.mixin.core.                     | 1000     | true     | 6       | 
+		| lightspeed.mixins.json                                               | com.ccr4ft3r.lightspeed.mixin.                           | 1000     | true     | 18      | 
+		| mixins.oculus.json                                                   | net.coderbot.iris.mixin.                                 | 1000     | true     | 49      | 
+		| mixins.oculus.fantastic.json                                         | net.coderbot.iris.mixin.fantastic.                       | 1000     | true     | 5       | 
+		| mixins.oculus.vertexformat.json                                      | net.coderbot.iris.mixin.vertices.                        | 1000     | true     | 7       | 
+		| mixins.oculus.bettermipmaps.json                                     | net.coderbot.iris.mixin.bettermipmaps.                   | 1000     | true     | 2       | 
+		| mixins.oculus.fixes.maxfpscrash.json                                 | net.coderbot.iris.mixin.                                 | 1000     | true     | 1       | 
+		| mixins.oculus.optimized-stitching.json                               | net.coderbot.iris.mixin.optimized_stitching.             | 1000     | true     | 1       | 
+		| oculus-batched-entity-rendering.mixins.json                          | net.coderbot.batchedentityrendering.mixin.               | 1000     | true     | 12      | 
+		| mixins.oculus.compat.sodium.json                                     | net.coderbot.iris.compat.sodium.mixin.                   | 1000     | true     | 29      | 
+		| sapience.mixins.json                                                 | com.infamous.sapience.mixin.                             | 1000     | true     | 8       | 
+		| adchimneys.mixins.json                                               | com.endertech.minecraft.mods.adchimneys.mixin.           | 1000     | false    | 2       | 
+		| attributetooltipfix-common.mixins.json                               | com.almostreliable.attributetooltipfix.mixin.            | 1000     | true     | 2       | 
+		| rankine.mixins.json                                                  | com.cannolicatfish.rankine.mixin.                        | 1000     | true     | 0       | 
+		| waterdripsound.mixins.json                                           | me.pieking1215.waterdripsound.mixin.                     | 1000     | true     | 3       | 
+		| kiwi.mixins.json                                                     | snownee.kiwi.mixin.                                      | 1000     | true     | 15      | 
+		| fastload.mixins.json                                                 | com.abdelaziz.fastload.mixin.                            | 1000     | true     | 8       | 
+		| ftblibrary-common.mixins.json                                        | dev.ftb.mods.ftblibrary.core.mixin.common.               | 1000     | true     | 4       | 
+		| attributefix.mixins.json                                             | net.darkhax.attributefix.mixin.                          | 1000     | true     | 1       | 
+		| graveyard.mixins.json                                                | com.finallion.graveyard.mixin.                           | 1000     | true     | 9       | 
+		| libraryferret.mixins.json                                            | com.jtorleonstudios.libraryferret.mixins.                | 1000     | true     | 1       | 
+		| fallingleaves.mixins.json                                            | de.cheaterpaul.fallingleaves.mixin.                      | 1000     | true     | 3       | 
+		| shutupexperimentalsettings.mixins.json                               | corgitaco.shutupexperimentalsettings.mixin.              | 1000     | true     | 2       | 
+		| sereneseasons.mixins.json                                            | sereneseasons.mixin.                                     | 1000     | true     | 2       | 
+		| farmingforblockheads.mixins.json                                     | net.blay09.mods.farmingforblockheads.mixin.              | 1000     | true     | 1       | 
+		| crockpot.mixins.json                                                 | com.sihenzhang.crockpot.mixin.                           | 1000     | true     | 6       | 
+		| starlight.mixins.json                                                | ca.spottedleaf.starlight.mixin.                          | 1000     | true     | 13      | 
+		| ars_nouveau.mixins.json                                              | com.hollingsworth.arsnouveau.common.mixin.               | 1000     | true     | 13      | 
+		| rubidium_extras.mixins.json                                          | vice.rubidium_extras.mixins.                             | 1000     | true     | 16      | 
+		| villagercomfort.mixin.json                                           | dev.ghen.villagercomfort.core.mixin.                     | 1000     | true     | 1       | 
+		| block_limit_fix.mixins.json                                          | io.github.tropheusj.block_limit_fix.mixin.               | 1000     | true     | 0       | 
+		| smoothchunk.mixins.json                                              | com.smoothchunk.mixin.                                   | 1000     | false    | 3       | 
+		| terrablender.mixins.json                                             | terrablender.mixin.                                      | 1000     | true     | 4       | 
+		| terrablender_forge.mixins.json                                       | terrablender.mixin.                                      | 1000     | true     | 1       | 
+		| mousetweaks.mixins.json                                              | yalter.mousetweaks.mixin.                                | 1000     | true     | 1       | 
+		| mixins.mlib.json                                                     | com.mlib.mixin.                                          | 1000     | true     | 5       | 
+		| mixins.betterleveling.json                                           | darkorg.betterleveling.mixin.                            | 1000     | true     | 2       | 
+		| betterfpsdist.mixins.json                                            | com.betterfpsdist.mixin.                                 | 1000     | false    | 1       | 
+		| flywheel.mixins.json                                                 | com.jozufozu.flywheel.mixin.                             | 1000     | true     | 23      | 
+		| notenoughanimations.mixins.json                                      | dev.tr7zw.notenoughanimations.mixins.                    | 1000     | true     | 7       | 
+		| foglooksgoodnow.mixins.json                                          | birsy.foglooksgoodnow.mixin.                             | 1000     | true     | 2       | 
+		| sodium-extra.mixins.json                                             | me.flashyreese.mods.sodiumextra.mixin.                   | 1000     | true     | 32      | 
+		| polymorph.mixins.json                                                | top.theillusivec4.polymorph.mixin.core.                  | 1000     | true     | 7       | 
+		| polymorph_integrations.mixins.json                                   | top.theillusivec4.polymorph.mixin.integration.           | 1000     | true     | 7       | 
+		| entityculling.mixins.json                                            | dev.tr7zw.entityculling.mixin.                           | 1000     | true     | 7       | 
+		| canary.mixins.json                                                   | com.abdelaziz.canary.mixin.                              | 1000     | true     | 114     | 
+		| effective_fg.mixins.json                                             | bottomtextdanny.effective_fg.mixin.                      | 1000     | true     | 3       | 
+		| clear-skies.client.json                                              | grondag.clearskies.mixin.                                | 1000     | true     | 1       | 
+		| ambientenvironment.mixins.json                                       | com.blamejared.ambientenvironment.mixin.                 | 1000     | true     | 1       | 
+		| immediatelyfast.mixins.json                                          | net.raphimc.immediatelyfast.injection.mixins.            | 1000     | true     | 16      | 
+		| brrp-v1.mixins.json                                                  | pers.solid.brrp.v1.mixin.                                | 1000     | true     | 7       | 
+		| brrp-v1-forge.mixins.json                                            | pers.solid.brrp.v1.forge.mixin.                          | 1000     | true     | 1       | 
+		| brrp-v1-recipes.mixins.json                                          | pers.solid.brrp.v1.recipe.mixin.                         | 1000     | true     | 5       | 
+		| lootr.mixins.json                                                    | noobanidus.mods.lootr.mixins.                            | 1000     | true     | 2       | 
+		| mixins.modernui-forge.json                                           | icyllis.modernui.forge.mixin.                            | 1000     | true     | 15      | 
+		| mixins.modernui-textmc.json                                          | icyllis.modernui.textmc.mixin.                           | 1000     | true     | 10      | 
+		| defaultoptions.mixins.json                                           | net.blay09.mods.defaultoptions.mixin.                    | 1000     | true     | 3       | 
+		| betterwitchhuts.mixins.json                                          | com.yungnickyoung.minecraft.betterwitchhuts.mixin.       | 1000     | true     | 5       | 
+		| betterwitchhuts_forge.mixins.json                                    | com.yungnickyoung.minecraft.betterwitchhuts.mixin.       | 1000     | true     | 1       | 
+		| suggestionproviderfix.mixins.json                                    | com.harleyoconnor.suggestionproviderfix.mixin.           | 1000     | true     | 1       | 
+		| betteroceanmonuments.mixins.json                                     | com.yungnickyoung.minecraft.betteroceanmonuments.mixin.  | 1000     | true     | 4       | 
+		| betteroceanmonuments_forge.mixins.json                               | com.yungnickyoung.minecraft.betteroceanmonuments.mixin.  | 1000     | true     | 1       | 
+		| connectivity.mixins.json                                             | com.connectivity.mixin.                                  | 1000     | false    | 16      | 
+		| controlling.mixins.json                                              | com.blamejared.controlling.mixin.                        | 1000     | true     | 5       | 
+		| controlling.forge.mixins.json                                        | com.blamejared.controlling.mixin.                        | 1000     | true     | 0       | 
+		| citadel.mixins.json                                                  | com.github.alexthe666.citadel.mixin.                     | 1000     | true     | 5       | 
+		| prism.mixins.json                                                    | com.anthonyhilyard.prism.mixin.                          | 1000     | false    | 1       | 
+		| feature_nbt_deadlock_be_gone.mixins.json                             | com.telepathicgrunt.featurenbtdeadlockbegone.mixin.      | 1000     | true     | 1       | 
+		| bookshelf.common.mixins.json                                         | net.darkhax.bookshelf.mixin.                             | 1000     | true     | 18      | 
+		| bookshelf.forge.mixins.json                                          | net.darkhax.bookshelf.mixin.                             | 1000     | true     | 1       | 
+		| takesapillage.mixins.json                                            | com.izofar.takesapillage.mixin.                          | 1000     | true     | 3       | 
+		| railways-common.mixins.json                                          | com.railwayteam.railways.mixin.                          | 1000     | true     | 64      | 
+		| railways.mixins.json                                                 | com.railwayteam.railways.forge.mixin.                    | 1000     | true     | 2       | 
+		| dragonfight.mixins.json                                              | com.dragonfight.mixin.                                   | 1000     | false    | 5       | 
+		| mixins.nonvflash.json                                                | cofh.nonvflash.mixin.                                    | 1000     | true     | 1       | 
+		| cuneiform.mixins.json                                                | azmalent.cuneiform.mixin.                                | 1000     | true     | 3       | 
+		| farmersdelight.mixins.json                                           | vectorwing.farmersdelight.common.mixin.                  | 1000     | true     | 7       | 
+		| endrem.mixins.json                                                   | com.teamremastered.endrem.mixin.                         | 1000     | true     | 1       | 
+		| drawerfps.mixins.json                                                | com.drawerfps.mixin.                                     | 1000     | false    | 1       | 
+		| patchouli_xplat.mixins.json                                          | vazkii.patchouli.mixin.                                  | 1000     | true     | 7       | 
+		| betterbiomeblend.mixins.json                                         | fionathemortal.betterbiomeblend.mixin.                   | 1000     | true     | 3       | 
+		| betterstrongholds.mixins.json                                        | com.yungnickyoung.minecraft.betterstrongholds.mixin.     | 1000     | true     | 2       | 
+		| betterstrongholds_forge.mixins.json                                  | com.yungnickyoung.minecraft.betterstrongholds.mixin.     | 1000     | true     | 1       | 
+		| eatinganimation.mixins.json                                          | com.matyrobbrt.eatinganimation.mixin.                    | 1000     | true     | 1       | 
+		| mixins.ipnext.json                                                   | org.anti_ad.mc.ipnext.mixin.                             | 1000     | true     | 7       | 
+		| architectury.mixins.json                                             | dev.architectury.mixin.forge.                            | 1000     | true     | 8       | 
+		| architectury-common.mixins.json                                      | dev.architectury.mixin.                                  | 1000     | true     | 9       | 
+		| lightoverlay-forge.mixins.json                                       | me.shedaniel.lightoverlay.forge.mixin.                   | 1000     | true     | 3       | 
+		| polylib.mixins.json                                                  | net.creeperhost.polylib.mixins.                          | 1000     | true     | 0       | 
+		| observable.common.json                                               | observable.mixin.                                        | 1000     | true     | 2       | 
+		| celesteconfig.mixins.json                                            | org.infernalstudios.celesteconfig.mixin.                 | 1000     | true     | 1       | 
+		| caupona.mixins.json                                                  | com.teammoeg.caupona.mixin.                              | 1000     | true     | 1       | 
+		| rhino-common.mixins.json                                             | dev.latvian.mods.rhino.mod.core.mixin.common.            | 1000     | true     | 8       | 
+		| jmi.mixins.json                                                      | frankv.jmi.mixin.                                        | 1000     | false    | 0       | 
+		| irisflw.mixins.flw.json                                              | top.leonx.irisflw.mixin.                                 | 1000     | true     | 7       | 
+		| irisflw.mixins.iris.json                                             | top.leonx.irisflw.mixin.                                 | 1000     | true     | 8       | 
+		| itemfilters-common.mixins.json                                       | dev.latvian.mods.itemfilters.core.mixin.common.          | 1000     | true     | 1       | 
+		| obscure_api.mixins.json                                              | com.obscuria.obscureapi.mixin.                           | 1000     | true     | 3       | 
+		| merchantmarkers.mixins.json                                          | com.anthonyhilyard.merchantmarkers.mixin.                | 1000     | true     | 0       | 
+		| waystones.mixins.json                                                | net.blay09.mods.waystones.mixin.                         | 1000     | true     | 2       | 
+		| fantasyfurniture.mixins.json                                         | xyz.apex.forge.fantasyfurniture.mixin.                   | 1000     | true     | 1       | 
+		| journeymap.mixins.json                                               | journeymap.common.mixin.                                 | 1000     | true     | 2       | 
+		| numismaticoverhaul.mixins.json                                       | com.nyfaria.numismaticoverhaul.mixin.                    | 1000     | true     | 31      | 
+		| mixins.artifacts.json                                                | artifacts.mixin.                                         | 1000     | true     | 6       | 
+		| itemborders.mixins.json                                              | com.anthonyhilyard.itemborders.mixin.                    | 1000     | true     | 2       | 
+		| cyanide.mixins.json                                                  | com.alcatrazescapee.cyanide.mixin.                       | 1000     | true     | 12      | 
+		| betterdeserttemples.mixins.json                                      | com.yungnickyoung.minecraft.betterdeserttemples.mixin.   | 1000     | true     | 7       | 
+		| betterdeserttemples_forge.mixins.json                                | com.yungnickyoung.minecraft.betterdeserttemples.mixin.   | 1000     | true     | 1       | 
+		| drinkit.mixins.json                                                  | committee.nova.drinkit.mixin.                            | 1000     | true     | 1       | 
+		| travelerstitles.mixins.json                                          | com.yungnickyoung.minecraft.travelerstitles.mixin.       | 1000     | true     | 3       | 
+		| travelerstitles_forge.mixins.json                                    | com.yungnickyoung.minecraft.travelerstitles.mixin.       | 1000     | true     | 1       | 
+		| selene.mixins.json                                                   | net.mehvahdjukaar.selene.mixins.                         | 1000     | true     | 12      | 
+		| pollen-common.mixins.json                                            | gg.moonflower.pollen.core.mixin.                         | 1000     | true     | 46      | 
+		| pollen.mixins.json                                                   | gg.moonflower.pollen.core.mixin.forge.                   | 1000     | true     | 21      | 
+		| creativecore.mixins.json                                             | team.creative.creativecore.mixin.                        | 1000     | true     | 1       | 
+		| cull-less-leaves.mixins.json                                         | dev.isxander.culllessleaves.mixins.                      | 1000     | true     | 4       | 
+		| nethersdelight.mixins.json                                           | com.nethersdelight.core.mixin.                           | 1000     | true     | 0       | 
+		| betterstats.client.mixin.json                                        | io.github.thecsdev.betterstats.client.mixin.             | 1000     | true     | 3       | 
+		| betterstats.client.mixin.trackers.json                               | io.github.thecsdev.betterstats.client.mixin.trackers.    | 1000     | true     | 1       | 
+		| iceberg.mixins.json                                                  | com.anthonyhilyard.iceberg.mixin.                        | 1000     | true     | 5       | 
+		| legendarytooltips.mixins.json                                        | com.anthonyhilyard.legendarytooltips.mixin.              | 1000     | true     | 1       | 
+		| dyed.mixins.json                                                     | dev.yurisuika.dyed.mixin.                                | 1000     | true     | 1       | 
+		| miners_delight.mixins.json                                           | com.sammy.minersdelight.mixin.                           | 1000     | true     | 1       | 
+		| forgetmechunk.mixins.json                                            | com.abdelaziz.forgetmechunk.mixin.                       | 1000     | true     | 1       | 
+		| META-INF/universalenchants.mixins.json                               | fuzs.universalenchants.mixin.                            | 1000     | true     | 9       | 
+		| coroutil.mixins.json                                                 | com.corosus.coroutil.lazydfu.mixin.                      | 1000     | true     | 0       | 
+		| asynclocator.mixins.json                                             | brightspark.asynclocator.mixins.                         | 1000     | true     | 9       | 
+		| NoChatLagForge.mixins.json                                           | me.noahvdaa.nochatlag.forge.mixin.                       | 1000     | true     | 1       | 
+		| expandability.mixins.json                                            | be.florens.expandability.mixin.                          | 1000     | true     | 7       | 
+		| no-telemetry.mixins.json                                             | de.kb1000.notelemetry.mixin.                             | 1000     | true     | 2       | 
+		| appetite.mixins.json                                                 | ccr4ft3r.appetite.mixins.                                | 1000     | true     | 8       | 
+		| createaddition.mixins.json                                           | com.mrh0.createaddition.mixin.                           | 1000     | true     | 3       | 
+		| assets/sound_physics_remastered/sound_physics_remastered.mixins.json | com.sonicether.soundphysics.mixin.                       | 1000     | true     | 6       | 
+		| mixins.weaponmaster.json                                             | com.sky.weaponmaster.mixins.                             | 1004     | true     | 1       | 
+		| create_central_kitchen.mixins.json                                   | plus.dragons.createcentralkitchen.foundation.mixin.      | 1100     | true     | 16      | 
+		| create_crystal_clear.mixins.json                                     | com.cyvack.create_crystal_clear.mixins.                  | 1100     | true     | 2       | 
+		| create.mixins.json                                                   | com.simibubi.create.foundation.mixin.                    | 1100     | true     | 21      | 
+		| create_enchantment_industry.mixins.json                              | plus.dragons.createenchantmentindustry.foundation.mixin. | 1100     | true     | 16      | 
+
+[035月2023 13:36:25.205] [Render thread/WARN] [mixin/]: Method overwrite conflict for m_85995_ in mixins.oculus.vertexformat.json:block_rendering.MixinBufferBuilder_SeparateAo, previously written by me.jellysquid.mods.sodium.mixin.features.buffer_builder.intrinsics.MixinBufferBuilder. Skipping method.
+[035月2023 13:36:25.664] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/D:/zero-one%20driver/Lost_CivilizationWilds/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23311!/assets/.mcassetsroot' uses unexpected schema
+[035月2023 13:36:25.664] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/D:/zero-one%20driver/Lost_CivilizationWilds/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23311!/data/.mcassetsroot' uses unexpected schema
+[035月2023 13:36:25.713] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[035月2023 13:36:27.104] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: xiao30000
+[035月2023 13:36:27.487] [Render thread/INFO] [defaultoptions/]: Loaded default options for extra-folder
+[035月2023 13:36:27.570] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[035月2023 13:36:29.626] [Render thread/INFO] [ModernUI/Core]: Promoted to OpenGL 4.1 Core Profile
+[035月2023 13:36:30.306] [Render thread/INFO] [ModernUI/OpenGL]: OpenGL vendor: Intel
+[035月2023 13:36:30.306] [Render thread/INFO] [ModernUI/OpenGL]: OpenGL renderer: Intel(R) HD Graphics 4600
+[035月2023 13:36:30.307] [Render thread/INFO] [ModernUI/OpenGL]: OpenGL version: 4.1.0 - Build 20.19.15.4703
+[035月2023 13:36:30.307] [Render thread/INFO] [ModernUI/OpenGL]: Max texture size: 16384
+[035月2023 13:36:30.307] [Render thread/INFO] [ModernUI/OpenGL]: Max renderbuffer size: 16384
+[035月2023 13:36:30.307] [Render thread/INFO] [ModernUI/OpenGL]: Max array texture layers: 2048
+[035月2023 13:36:30.307] [Render thread/FATAL] [ModernUI/OpenGL]: ARB_direct_state_access (OpenGL 4.5) is unavailable
+[035月2023 13:36:30.328] [Render thread/WARN] [mixin/]: @Final field f_173173_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[035月2023 13:36:30.329] [Render thread/WARN] [mixin/]: @Final field f_173174_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[035月2023 13:36:30.329] [Render thread/WARN] [mixin/]: @Final field f_181442_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[035月2023 13:36:30.329] [Render thread/WARN] [mixin/]: @Final field f_181443_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[035月2023 13:36:30.329] [Render thread/WARN] [mixin/]: @Final field f_173175_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[035月2023 13:36:30.329] [Render thread/WARN] [mixin/]: @Final field f_173176_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[035月2023 13:36:30.906] [Render thread/INFO] [ModernUI/Core]: Preloaded modern text shaders
+[035月2023 13:36:30.926] [Render thread/INFO] [Oculus/]: DSA support not detected.
+[035月2023 13:36:30.926] [Render thread/INFO] [Oculus/]: Debug functionality is disabled.
+[035月2023 13:36:30.973] [Render thread/INFO] [Oculus/]: Shaders are disabled because no valid shaderpack is selected
+[035月2023 13:36:30.973] [Render thread/INFO] [Oculus/]: Shaders are disabled
+[035月2023 13:36:31.029] [Render thread/INFO] [LifecycledResourceManagerImplMixin/]: BRRP register - before vanilla
+[035月2023 13:36:31.085] [Render thread/INFO] [LifecycledResourceManagerImplMixin/]: BRRP register - after vanilla
+[035月2023 13:36:31.916] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
+[035月2023 13:36:32.107] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id architectury:sync_ids
+[035月2023 13:36:32.112] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[035月2023 13:36:32.112] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbessentials:update_tab_name
+[035月2023 13:36:32.814] [modloading-worker-0/WARN] [mixin/]: @Redirect conflict. Skipping sodium-extra.mixins.json:stars.MixinWorldRenderer->@Redirect::redirectGetStarBrightness(Lnet/minecraft/client/multiplayer/ClientLevel;F)F with priority 900, already redirected by citadel.mixins.json:client.WorldRendererMixin->@Redirect::citadel_getStarBrightness(Lnet/minecraft/client/multiplayer/ClientLevel;F)F with priority 1000
+[035月2023 13:36:33.228] [modloading-worker-0/INFO] [tcdcommons/]: Initializing 'TCDCommons API' as 'TCDCommonsClient'.
+[035月2023 13:36:33.456] [modloading-worker-0/INFO] [net.permutated.novillagerdm.NoVillagerDeathMessages/]: Registering mod: novillagerdm
+[035月2023 13:36:35.266] [modloading-worker-0/INFO] [Fastload/]: CHUNK_TRY_LIMIT: 100
+[035月2023 13:36:35.267] [modloading-worker-0/INFO] [Fastload/]: CLOSE_LOADING_SCREEN_UNSAFELY: FALSE
+[035月2023 13:36:35.267] [modloading-worker-0/INFO] [Fastload/]: PRE_RENDER_RADIUS: 0
+[035月2023 13:36:35.268] [modloading-worker-0/INFO] [Fastload/]: PRE_RENDER_AREA: 0
+[035月2023 13:36:35.268] [modloading-worker-0/INFO] [Fastload/]: DEBUG: FALSE
+[035月2023 13:36:35.268] [modloading-worker-0/INFO] [Fastload/]: PREGEN_CHUNK_RADIUS: 5
+[035月2023 13:36:35.268] [modloading-worker-0/INFO] [Fastload/]: PREGEN_CHUNK_AREA: 121
+[035月2023 13:36:35.525] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[035月2023 13:36:35.538] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[035月2023 13:36:36.096] [modloading-worker-0/WARN] [net.blay09.mods.balm.forge.config.ForgeBalmConfig/]: Config field without expected type, will not validate list content (merchantNames in net.blay09.mods.farmingforblockheads.FarmingForBlockheadsConfigData)
+[035月2023 13:36:37.952] [modloading-worker-0/INFO] [com.jozufozu.flywheel.backend.Backend/]: Oculus detected.
+[035月2023 13:36:38.768] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[035月2023 13:36:39.335] [modloading-worker-0/WARN] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Attempting to add a Lambda listener with computed generic type of Event. Are you sure this is what you meant? NOTE : there are complex lambda forms where the generic type information is erased and cannot be recovered at runtime.
+[035月2023 13:36:39.452] [modloading-worker-0/INFO] [ImmediatelyFast/]: Loading ImmediatelyFast
+[035月2023 13:36:39.452] [modloading-worker-0/INFO] [ImmediatelyFast/]: Found Oculus. Enabling compatibility.
+[035月2023 13:36:39.730] [modloading-worker-0/INFO] [ModernUI/Core]: Initialized Modern UI text engine
+[035月2023 13:36:39.734] [modloading-worker-0/INFO] [ModernUI/Core]: Initialized Modern UI client
+[035月2023 13:36:39.734] [modloading-worker-0/INFO] [ModernUI/Core]: Initialized Modern UI, FML mods: 257
+[035月2023 13:36:39.735] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[035月2023 13:36:40.155] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[035月2023 13:36:40.155] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[035月2023 13:36:40.156] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[035月2023 13:36:40.156] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[035月2023 13:36:40.156] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[035月2023 13:36:40.156] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[035月2023 13:36:40.680] [modloading-worker-0/INFO] [Kiwi/Init]: Processing 2 KiwiModule annotations
+[035月2023 13:36:41.767] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[035月2023 13:36:42.038] [modloading-worker-0/INFO] [railways/]: Loaded JourneyMap plugin
+[035月2023 13:36:42.320] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 6.53.
+[035月2023 13:36:42.395] [modloading-worker-0/INFO] [betterbiomeblend/]: Otifine does not seem to be loaded, so no need to overwrite anything.
+[035月2023 13:36:42.489] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbultimine:send_shape
+[035月2023 13:36:42.490] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
+[035月2023 13:36:42.491] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
+[035月2023 13:36:42.775] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.2, for MC 1.18.2 with MCP 20220404.173914
+[035月2023 13:36:42.775] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.2 Initialized
+[035月2023 13:36:42.811] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[035月2023 13:36:43.223] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[035月2023 13:36:43.288] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:edit_nbt
+[035月2023 13:36:43.289] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[035月2023 13:36:43.290] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[035月2023 13:36:43.357] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[035月2023 13:36:43.358] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:sync_teams
+[035月2023 13:36:43.359] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:sync_message_history
+[035月2023 13:36:43.360] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[035月2023 13:36:43.361] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:open_my_team_gui
+[035月2023 13:36:43.362] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[035月2023 13:36:43.362] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:update_settings_response
+[035月2023 13:36:43.363] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[035月2023 13:36:43.364] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:send_message_response
+[035月2023 13:36:43.365] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:update_presence
+[035月2023 13:36:43.366] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[035月2023 13:36:43.368] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[035月2023 13:36:43.560] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[035月2023 13:36:43.560] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[035月2023 13:36:43.560] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[035月2023 13:36:43.560] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[035月2023 13:36:43.571] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.BetterChannel$PartialPacketBegin
+[035月2023 13:36:43.802] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/61a49a35c5283c0aaa7b0dfea5b7a53a
+[035月2023 13:36:43.802] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/61a49a35c5283c0aaa7b0dfea5b7a53a
+[035月2023 13:36:43.803] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.BetterChannel$PartialPacketBegin
+[035月2023 13:36:43.804] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.BetterChannel$PartialPacketData
+[035月2023 13:36:43.811] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/3dd73fd88be832559bc3a3c4a2e63b4a
+[035月2023 13:36:43.811] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/3dd73fd88be832559bc3a3c4a2e63b4a
+[035月2023 13:36:43.811] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.BetterChannel$PartialPacketData
+[035月2023 13:36:43.856] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$InitTPSProfile
+[035月2023 13:36:43.940] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/b453c08f23b83b82b690c31bf8b2a45a
+[035月2023 13:36:43.940] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/b453c08f23b83b82b690c31bf8b2a45a
+[035月2023 13:36:43.940] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$InitTPSProfile
+[035月2023 13:36:43.946] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$RequestTeleport
+[035月2023 13:36:43.953] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/3a13df9e0b0a3290bb99252e1f8f68a2
+[035月2023 13:36:43.953] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/3a13df9e0b0a3290bb99252e1f8f68a2
+[035月2023 13:36:43.953] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$RequestTeleport
+[035月2023 13:36:43.954] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$RequestAvailability
+[035月2023 13:36:43.958] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/0c662822629034678f5a8f0e70375315
+[035月2023 13:36:43.959] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/0c662822629034678f5a8f0e70375315
+[035月2023 13:36:43.959] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$RequestAvailability
+[035月2023 13:36:43.961] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingStarted
+[035月2023 13:36:43.966] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/2e815604a29b3a5cbfe0208e619d86c4
+[035月2023 13:36:43.967] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/2e815604a29b3a5cbfe0208e619d86c4
+[035月2023 13:36:43.967] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingStarted
+[035月2023 13:36:43.969] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingCompleted
+[035月2023 13:36:43.973] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/9ae83199b65a3768862799cc5e461a02
+[035月2023 13:36:43.973] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/9ae83199b65a3768862799cc5e461a02
+[035月2023 13:36:43.974] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingCompleted
+[035月2023 13:36:43.975] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilerInactive
+[035月2023 13:36:44.018] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/ae8dfae1238e312397aa53e9d14c45ca
+[035月2023 13:36:44.018] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/ae8dfae1238e312397aa53e9d14c45ca
+[035月2023 13:36:44.018] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilerInactive
+[035月2023 13:36:44.023] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_quests
+[035月2023 13:36:44.024] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_team_data
+[035月2023 13:36:44.025] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:update_task_progress
+[035月2023 13:36:44.025] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
+[035月2023 13:36:44.027] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
+[035月2023 13:36:44.027] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:claim_reward_response
+[035月2023 13:36:44.028] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_editing_mode
+[035月2023 13:36:44.029] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
+[035月2023 13:36:44.030] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:create_other_team_data
+[035月2023 13:36:44.031] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[035月2023 13:36:44.033] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[035月2023 13:36:44.033] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_completion_toast
+[035月2023 13:36:44.035] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_reward_toast
+[035月2023 13:36:44.036] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[035月2023 13:36:44.036] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[035月2023 13:36:44.036] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_item_reward_toast
+[035月2023 13:36:44.037] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[035月2023 13:36:44.037] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[035月2023 13:36:44.038] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
+[035月2023 13:36:44.039] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:toggle_pinned_response
+[035月2023 13:36:44.040] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[035月2023 13:36:44.041] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:toggle_chapter_pinned_response
+[035月2023 13:36:44.042] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[035月2023 13:36:44.043] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
+[035月2023 13:36:44.044] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:update_team_data
+[035月2023 13:36:44.047] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
+[035月2023 13:36:44.049] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_started
+[035月2023 13:36:44.050] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_completed
+[035月2023 13:36:44.052] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_started_reset
+[035月2023 13:36:44.052] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_completed_reset
+[035月2023 13:36:44.053] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_lock
+[035月2023 13:36:44.054] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:reset_reward
+[035月2023 13:36:44.055] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:team_data_changed
+[035月2023 13:36:44.110] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:task_screen_config_req
+[035月2023 13:36:44.112] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[035月2023 13:36:44.113] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingResult
+[035月2023 13:36:44.116] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
+[035月2023 13:36:44.118] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
+[035月2023 13:36:44.119] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/3a94cae7336038df9152bcb7b4b94825
+[035月2023 13:36:44.120] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/3a94cae7336038df9152bcb7b4b94825
+[035月2023 13:36:44.120] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingResult
+[035月2023 13:36:44.121] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:create_object_response
+[035月2023 13:36:44.121] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$Availability
+[035月2023 13:36:44.122] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
+[035月2023 13:36:44.122] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
+[035月2023 13:36:44.123] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:delete_object_response
+[035月2023 13:36:44.124] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
+[035月2023 13:36:44.125] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:edit_object_response
+[035月2023 13:36:44.127] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
+[035月2023 13:36:44.127] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_chapter_response
+[035月2023 13:36:44.128] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
+[035月2023 13:36:44.128] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/c86a824e756d312396d1ba30e943e6aa
+[035月2023 13:36:44.128] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/c86a824e756d312396d1ba30e943e6aa
+[035月2023 13:36:44.129] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$Availability
+[035月2023 13:36:44.129] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_quest_response
+[035月2023 13:36:44.130] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
+[035月2023 13:36:44.130] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ConsiderProfiling
+[035月2023 13:36:44.130] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:change_chapter_group_response
+[035月2023 13:36:44.131] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
+[035月2023 13:36:44.132] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_chapter_group_response
+[035月2023 13:36:44.133] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_reward_blocking
+[035月2023 13:36:44.133] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/80ae5e04c32934dab1c17d27a88baf19
+[035月2023 13:36:44.133] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/80ae5e04c32934dab1c17d27a88baf19
+[035月2023 13:36:44.133] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ConsiderProfiling
+[035月2023 13:36:44.134] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
+[035月2023 13:36:44.136] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[035月2023 13:36:44.194] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[035月2023 13:36:44.596] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[035月2023 13:36:45.291] [modloading-worker-0/INFO] [Enchantment Descriptions/]: Loaded config file.
+[035月2023 13:36:45.291] [modloading-worker-0/INFO] [Enchantment Descriptions/]: Saved config file.
+[035月2023 13:36:45.481] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[035月2023 13:36:46.103] [modloading-worker-0/INFO] [betterstats/]: Initializing 'Better Statistics Screen' as 'BetterStatsClient'.
+[035月2023 13:36:46.372] [modloading-worker-0/ERROR] [net.minecraftforge.coremod.CoreMod.adpother/COREMODLOG]: FAILED: target node not found!
+[035月2023 13:36:47.288] [modloading-worker-0/INFO] [com.sammy.minersdelight.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[035月2023 13:36:47.455] [modloading-worker-0/INFO] [jecharacters/]: Good to see you, Snownee
+[035月2023 13:36:47.455] [modloading-worker-0/INFO] [jecharacters/]: Good to see you, TartaricAcid
+[035月2023 13:36:47.699] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[035月2023 13:36:47.733] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[035月2023 13:36:47.733] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[035月2023 13:36:47.833] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[035月2023 13:36:48.129] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[035月2023 13:36:48.129] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[035月2023 13:36:48.129] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+[035月2023 13:36:48.176] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[035月2023 13:36:48.511] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[035月2023 13:36:48.514] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[035月2023 13:36:48.770] [modloading-worker-0/WARN] [mixin/]: @ModifyConstant conflict. Skipping appetite.mixins.json:FoodDataMixin->@ModifyConstant::getMaxExhaustionDelta(F)F with priority 1000, already redirected by appetite.mixins.json:FoodDataMixin->@ModifyConstant::getMaxExhaustion(F)F with priority 1000
+[035月2023 13:36:48.932] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[035月2023 13:36:51.595] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded: 1509035
+[035月2023 13:36:59.716] [Render thread/INFO] [club.iananderson.seasonhud.SeasonHUD/]: HELLO from Register Block
+[035月2023 13:37:04.394] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `create_central_kitchen`. This could be a intended override, but in most cases indicates a broken mod.
+[035月2023 13:37:05.248] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `domum_ornamentum` for name `architects_cutter`, expected `minecolonies`. This could be a intended override, but in most cases indicates a broken mod.
+[035月2023 13:37:06.660] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[035月2023 13:37:06.661] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[035月2023 13:37:06.675] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `thirst` for name `bedroom_width`, expected `villagercomfort`. This could be a intended override, but in most cases indicates a broken mod.
+[035月2023 13:37:08.093] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[035月2023 13:37:08.093] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betteroceanmonuments` for name `ocean_monument`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[035月2023 13:37:09.047] [Render thread/INFO] [Open Loader/]: Preparing Resource Pack injection.
+[035月2023 13:37:09.066] [Render thread/INFO] [Open Loader/]: Loaded archive Resource Pack from D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\openloader\resources\Minecraft-Mod-Language-Package-1.18.zip.
+[035月2023 13:37:09.067] [Render thread/INFO] [Open Loader/]: Loaded archive Resource Pack from D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\openloader\resources\[1.18.2]LCW_TEX.zip.
+[035月2023 13:37:09.149] [Render thread/INFO] [Open Loader/]: Successfully injected 2/2 packs from D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\openloader\resources.
+[035月2023 13:37:09.150] [Render thread/INFO] [FileResourcePackProviderMixin/]: BRRP register - before user
+[035月2023 13:37:10.279] [Render thread/INFO] [Oculus/]: Hardware information:
+[035月2023 13:37:10.280] [Render thread/INFO] [Oculus/]: CPU: 4x Intel(R) Core(TM) i5-4460 CPU @ 3.20GHz
+[035月2023 13:37:10.284] [Render thread/INFO] [Oculus/]: GPU: Intel(R) HD Graphics 4600 (Supports OpenGL 4.1.0 - Build 20.19.15.4703)
+[035月2023 13:37:10.284] [Render thread/INFO] [Oculus/]: OS: Windows 10 (10.0)
+[035月2023 13:37:10.765] [Render thread/INFO] [birsy.foglooksgoodnow.FogLooksGoodNowMod/]: Initialized Density Manager
+[035月2023 13:37:13.122] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `fallingleaves` for name `falling_leaf`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[035月2023 13:37:13.122] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `fallingleaves` for name `falling_leaf_conifer`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[035月2023 13:37:13.263] [Render thread/INFO] [ModernUI/UIManager]: UI manager initialized
+[035月2023 13:37:13.514] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[035月2023 13:37:15.140] [UI thread/INFO] [ModernUI/UIManager]: UI thread initialized in 1867ms
+[035月2023 13:37:15.740] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources, Minecraft-Mod-Language-Package-1.18.zip, [1.18.2]LCW_TEX.zip
+[035月2023 13:37:15.741] [Render thread/INFO] [LifecycledResourceManagerImplMixin/]: BRRP register - before vanilla
+[035月2023 13:37:15.742] [Render thread/INFO] [LifecycledResourceManagerImplMixin/]: BRRP register - after vanilla
+[035月2023 13:37:17.214] [Render thread/INFO] [gg.moonflower.pollen.api.resource.modifier.ResourceModifierManager/]: Loaded 0 resource modifiers
+[035月2023 13:37:17.538] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading client config for pickupnotifier
+[035月2023 13:37:17.630] [Render thread/INFO] [defaultoptions/]: Loaded default options for keymappings
+[035月2023 13:37:17.662] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\waterdripsound-client.toml is not correct. Correcting
+[035月2023 13:37:17.663] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.soundCategory was corrected from AMBIENT to its default, AMBIENT. 
+[035月2023 13:37:17.679] [modloading-worker-0/INFO] [birsy.foglooksgoodnow.FogLooksGoodNowMod/]: Initialized Config Values
+[035月2023 13:37:18.099] [modloading-worker-0/INFO] [ModernUI/Core]: Font Noto Sans failed to load or invalid
+[035月2023 13:37:18.105] [modloading-worker-0/INFO] [ModernUI/Core]: Font San Francisco failed to load or invalid
+[035月2023 13:37:18.173] [modloading-worker-0/INFO] [ModernUI/Core]: Font STHeiti failed to load or invalid
+[035月2023 13:37:18.184] [modloading-worker-0/INFO] [ModernUI/Core]: Loaded typeface: {Minecraft,Segoe UI,Source Han Sans CN Medium,Calibri,Microsoft YaHei UI,SimHei,SansSerif}
+[035月2023 13:37:19.917] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:biome_dictionary
+[035月2023 13:37:19.922] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:loot_table_alias
+[035月2023 13:37:20.009] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:data_handler_type
+[035月2023 13:37:20.014] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:dynamic_spawner
+[035月2023 13:37:20.015] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
+[035月2023 13:37:20.082] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered terrablender:deferred_placeholder to [structure_gel:neutral_temp, structure_gel:dry]
+[035月2023 13:37:20.093] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[035月2023 13:37:20.235] [Worker-Main-5/WARN] [net.minecraft.client.sounds.SoundManager/]: File majruszsdifficulty:sounds/entity/cerberus_growl.ogg does not exist, cannot add it to event majruszsdifficulty:entity.cerberus_growl
+[035月2023 13:37:20.244] [Worker-Main-5/WARN] [net.minecraft.client.sounds.SoundManager/]: File majruszsdifficulty:sounds/entity/cerberus_bite.ogg does not exist, cannot add it to event majruszsdifficulty:entity.cerberus_bite
+[035月2023 13:37:20.256] [Worker-Main-5/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/item.totem.use.ogg does not exist, cannot add it to event rankine:totem_of_enduring_use
+[035月2023 13:37:20.621] [modloading-worker-0/INFO] [com.tom.createores.CreateOreExcavation/]: Loaded Create Ore Excavation config file createoreexcavation-common.toml
+[035月2023 13:37:21.031] [modloading-worker-0/INFO] [cuneiform/]: Loading config file cuneiform-common.toml
+[035月2023 13:37:21.036] [Thread-0/INFO] [cuneiform/]: Reloading config file cuneiform-common.toml
+[035月2023 13:37:22.012] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\itemborders-common.toml is not correct. Correcting
+[035月2023 13:37:22.017] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\drinkit-common.toml is not correct. Correcting
+[035月2023 13:37:22.018] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key drinkable was corrected from [minecraft:beetroot_soup, example:another_drinkable] to its default, [minecraft:beetroot_soup, example:another_drinkable]. 
+[035月2023 13:37:22.018] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key thick was corrected from [minecraft:suspicious_stew, example:another_thick] to its default, [minecraft:suspicious_stew, example:another_thick]. 
+[035月2023 13:37:22.362] [modloading-worker-0/INFO] [ccr4ft3r.appetite.Main/]: Loaded config appetite-common.toml
+[035月2023 13:37:22.474] [modloading-worker-0/INFO] [ccr4ft3r.appetite.Main/]: Loaded config appetite/peckish-profile.toml
+[035月2023 13:37:22.477] [modloading-worker-0/INFO] [ccr4ft3r.appetite.Main/]: Loaded config appetite/hungry-profile.toml
+[035月2023 13:37:22.479] [modloading-worker-0/INFO] [ccr4ft3r.appetite.Main/]: Loaded config appetite/starving-profile.toml
+[035月2023 13:37:22.482] [modloading-worker-0/INFO] [ccr4ft3r.appetite.Main/]: Loaded config appetite/custom-profile.toml
+[035月2023 13:37:24.774] [Worker-Main-10/INFO] [com.ordana.bbs.BetterBlockSounds/]: HELLO FROM PREINIT
+[035月2023 13:37:24.774] [Worker-Main-10/INFO] [com.ordana.bbs.BetterBlockSounds/]: DIRT BLOCK >> minecraft:dirt
+[035月2023 13:37:24.788] [Worker-Main-10/INFO] [Sound Physics - General/]: Reloading config
+[035月2023 13:37:24.788] [Worker-Main-10/INFO] [Sound Physics - General/]: Reloading reverb parameters
+[035月2023 13:37:24.848] [Worker-Main-10/INFO] [com.philip.philipsruins.PhilipsRuins/]: Philip's ruins loading...
+[035月2023 13:37:24.922] [Worker-Main-10/INFO] [lain.mods.peacefulsurface.init.forge.ForgePeacefulSurface/]: [PeacefulSurface] Loading filters...
+[035月2023 13:37:24.949] [Worker-Main-10/INFO] [lain.mods.peacefulsurface.init.forge.ForgePeacefulSurface/]: [PeacefulSurface] Loaded 1 filter.
+[035月2023 13:37:24.965] [Worker-Main-10/INFO] [thetadev.constructionwand.ConstructionWand/]: ConstructionWand says hello - may the odds be ever in your favor.
+[035月2023 13:37:24.983] [Worker-Main-10/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[035月2023 13:37:24.989] [Worker-Main-10/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[035月2023 13:37:25.038] [Worker-Main-10/INFO] [com.cannolicatfish.rankine.ProjectRankine/]: Rankine: "CommonSetup" Event Complete!
+[035月2023 13:37:25.246] [Worker-Main-10/INFO] [com.betterfpsdist.BetterfpsdistMod/]: betterfpsdist mod initialized
+[035月2023 13:37:25.246] [Worker-Main-10/INFO] [cn.mcmod_mmf.mmlib.Main/]: Presented by Zaia
+[035月2023 13:37:25.248] [Worker-Main-10/INFO] [com.tom.createores.CreateOreExcavation/]: Create Ore Excavation starting
+[035月2023 13:37:25.527] [Worker-Main-8/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file thermal:guidebook/zh_cn/entries/world/materials/hardened_glass from thermal:patchouli_books/guidebook/zh_cn/entries/world/materials/hardened_glass.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 41 column 6 path $.pages[3]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:505) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:542) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:52) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:20) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 41 column 6 path $.pages[3]
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1562) ~[gson-2.8.9.jar%2317!/:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1403) ~[gson-2.8.9.jar%2317!/:?]
+	at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1354) ~[gson-2.8.9.jar%2317!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:548) ~[gson-2.8.9.jar%2317!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:413) ~[gson-2.8.9.jar%2317!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:675) ~[gson-2.8.9.jar%2317!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:684) ~[gson-2.8.9.jar%2317!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:655) ~[gson-2.8.9.jar%2317!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$33$1.read(TypeAdapters.java:866) ~[gson-2.8.9.jar%2317!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:503) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?]
+	... 11 more
+[035月2023 13:37:25.578] [Worker-Main-10/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[035月2023 13:37:25.694] [Worker-Main-10/WARN] [citadel/]: Failed to load patreon contributor perks
+[035月2023 13:37:25.786] [Worker-Main-10/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
+[035月2023 13:37:25.850] [Worker-Main-10/INFO] [MapFrontiers/]: commonSetup done
+[035月2023 13:37:25.916] [Worker-Main-10/INFO] [com.ncpbails.culturaldelights.CulturalDelights/]: HELLO FROM PREINIT
+[035月2023 13:37:25.916] [Worker-Main-10/INFO] [com.ncpbails.culturaldelights.CulturalDelights/]: DIRT BLOCK >> minecraft:dirt
+[035月2023 13:37:25.916] [Worker-Main-10/INFO] [cn.foggyhillside.endsdelight.EndsDelight/]: HELLO FROM PREINIT
+[035月2023 13:37:25.916] [Worker-Main-10/INFO] [cn.foggyhillside.endsdelight.EndsDelight/]: DIRT BLOCK >> minecraft:dirt
+[035月2023 13:37:25.916] [Worker-Main-10/INFO] [com.drawerfps.DrawerFPS/]: Drawer FPS initialized
+[035月2023 13:37:26.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: Global Forge version check system disabled, no further processing.
+[035月2023 13:37:26.246] [Worker-Main-8/INFO] [gg.moonflower.pollen.pinwheel.core.client.geometry.LocalGeometryModelLoader/]: Loaded 0 geometry models.
+[035月2023 13:37:26.249] [Worker-Main-10/INFO] [club.iananderson.seasonhud.SeasonHUD/]: HELLO FROM PREINIT
+[035月2023 13:37:26.249] [Worker-Main-10/INFO] [club.iananderson.seasonhud.SeasonHUD/]: DIRT BLOCK >> minecraft:dirt
+[035月2023 13:37:26.324] [Worker-Main-10/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[035月2023 13:37:26.652] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: com.railwayteam.railways.compat.journeymap.RailwayMapPlugin
+[035月2023 13:37:26.652] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: games.alejandrocoria.mapfrontiers.client.plugin.MapFrontiersPlugin
+[035月2023 13:37:26.654] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: frankv.jmi.JMIJourneyMapPlugin
+[035月2023 13:37:26.660] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: net.blay09.mods.waystones.compat.JourneyMapAddon
+[035月2023 13:37:26.661] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: com.anthonyhilyard.merchantmarkers.compat.JourneymapHandler
+[035月2023 13:37:26.663] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
+[035月2023 13:37:26.803] [Worker-Main-10/INFO] [net.hadrus.alcocraft.AlcoCraft/]: HELLO FROM PREINIT
+[035月2023 13:37:26.803] [Worker-Main-10/INFO] [net.hadrus.alcocraft.AlcoCraft/]: DIRT BLOCK >> minecraft:dirt
+[035月2023 13:37:26.804] [Worker-Main-10/INFO] [bno/]: Setup Method Registered (PreInit)
+[035月2023 13:37:27.340] [Worker-Main-10/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[035月2023 13:37:27.341] [Worker-Main-10/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[035月2023 13:37:27.341] [Worker-Main-10/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[035月2023 13:37:27.341] [Worker-Main-10/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[035月2023 13:37:27.341] [Worker-Main-10/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[035月2023 13:37:27.341] [Worker-Main-10/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[035月2023 13:37:27.341] [Worker-Main-10/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[035月2023 13:37:27.341] [Worker-Main-10/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[035月2023 13:37:27.341] [Worker-Main-10/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[035月2023 13:37:27.341] [Worker-Main-10/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[035月2023 13:37:27.342] [Worker-Main-10/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[035月2023 13:37:28.078] [Worker-Main-8/ERROR] [LocalAnimationLoader/]: Mod: geckolib3 is using deprecated Pollen animations. Animations should be relocated to 'assets/geckolib3/pinwheel/animations'
+[035月2023 13:37:28.078] [Worker-Main-8/ERROR] [LocalAnimationLoader/]: Mod: geckolib3 is using deprecated Pollen animations. Animations should be relocated to 'assets/geckolib3/pinwheel/animations'
+[035月2023 13:37:28.564] [Worker-Main-10/INFO] [gg.moonflower.pollen.pinwheel.core.client.texture.LocalTextureTableLoader/]: Loaded 0 hash tables.
+[035月2023 13:37:28.842] [Worker-Main-8/INFO] [gg.moonflower.pollen.pinwheel.core.client.texture.LocalTextureTableLoader/]: Loaded 0 model texture tables.
+[035月2023 13:37:29.605] [Render thread/FATAL] [ModernUI/]: OK
+[035月2023 13:37:29.605] [Render thread/INFO] [ModernUI/Core]: Loaded text layout engine, resolution level: 2.0, locale: en_US, layout RTL: false
+[035月2023 13:37:29.883] [Render thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[035月2023 13:37:29.883] [Render thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[035月2023 13:37:29.883] [Render thread/INFO] [terrablender/]: Registered region eco:geodeial_caves_biome_provider to index 1 for type OVERWORLD
+[035月2023 13:37:29.883] [Render thread/INFO] [terrablender/]: Registered region eco:molten_seeping_caves_biome_provider to index 2 for type OVERWORLD
+[035月2023 13:37:29.928] [Render thread/INFO] [journeymap/]: Initializing Packet Registries
+[035月2023 13:37:30.131] [Worker-Main-8/INFO] [Sound Physics - General/]: Using Cloth Config GUI
+[035月2023 13:37:30.242] [Worker-Main-6/INFO] [com.cannolicatfish.rankine.ProjectRankine/]: Rankine: "ClientSetup" Event Complete!
+[035月2023 13:37:30.337] [Worker-Main-8/INFO] [structurize/]: Optifine not found. Disabling compat.
+[035月2023 13:37:30.370] [Worker-Main-8/INFO] [ModernUI/Core]: Loaded modern text engine
+[035月2023 13:37:30.508] [Worker-Main-8/INFO] [MapFrontiers/]: clientSetup done

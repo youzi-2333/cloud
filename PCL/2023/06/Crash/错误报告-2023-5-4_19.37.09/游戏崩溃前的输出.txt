@@ -1,0 +1,22 @@
+WARNING: Unknown module: cpw.mods.bootstraplauncher specified to --add-exports
+jlw: native file exists: 'C:\Users\first of all\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+[19:37:01] [Render thread/INFO]: [STDERR]: [LWJGL] Failed to load a library. Possible solutions:
+	a) Add the directory that contains the shared library to -Djava.library.path or -Dorg.lwjgl.librarypath.
+	b) Add the JAR that contains the shared library to the classpath.
+[19:37:01] [Render thread/INFO]: [STDERR]: [LWJGL] Enable debug mode with -Dorg.lwjgl.util.Debug=true for better diagnostics.
+[19:37:01] [Render thread/INFO]: [STDERR]: [LWJGL] Enable the SharedLibraryLoader debug mode with -Dorg.lwjgl.util.DebugLoader=true for better diagnostics.
+[19:37:01] [Render thread/INFO]: [STDERR]: java.lang.reflect.InvocationTargetException
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[19:37:01] [Render thread/INFO]: [STDERR]: Caused by: java.lang.NoClassDefFoundError: Could not initialize class com.mojang.blaze3d.systems.RenderSystem
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at ac.a(SourceFile:65)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at dyr.a(SourceFile:2394)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at dyr.a(SourceFile:2389)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(SourceFile:206)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	... 6 more
+Exception in thread "Render thread" 

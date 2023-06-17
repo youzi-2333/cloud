@@ -1,0 +1,36 @@
+WARNING: Unknown module: cpw.mods.bootstraplauncher specified to --add-exports
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+[14:44:59] [Render thread/INFO]: [STDERR]: [LWJGL] Failed to load a library. Possible solutions:
+	a) Add the directory that contains the shared library to -Djava.library.path or -Dorg.lwjgl.librarypath.
+	b) Add the JAR that contains the shared library to the classpath.
+[14:44:59] [Render thread/INFO]: [STDERR]: [LWJGL] Enable debug mode with -Dorg.lwjgl.util.Debug=true for better diagnostics.
+[14:44:59] [Render thread/INFO]: [STDERR]: [LWJGL] Enable the SharedLibraryLoader debug mode with -Dorg.lwjgl.util.DebugLoader=true for better diagnostics.
+[14:45:00] [Render thread/INFO]: Failed to find module info for G:\??\C:\Program Files (x86)\360\360Safe\safemon\SafeWrapper.dll
+com.sun.jna.platform.win32.Win32Exception: ???????????
+	at ajm.a(SourceFile:67) ~[1.18.2.jar:?]
+	at ajm.a(SourceFile:49) ~[1.18.2.jar:?]
+	at ajm.b(SourceFile:137) ~[1.18.2.jar:?]
+	at r.a(SourceFile:84) [1.18.2.jar:?]
+	at ajm.a(SourceFile:136) [1.18.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:205) [1.18.2.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+[14:45:00] [Render thread/INFO]: [STDERR]: java.lang.reflect.InvocationTargetException
+[14:45:00] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:45:00] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[14:45:00] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:45:00] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[14:45:00] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[14:45:00] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[14:45:00] [Render thread/INFO]: [STDERR]: Caused by: java.lang.NoClassDefFoundError: Could not initialize class com.mojang.blaze3d.systems.RenderSystem
+[14:45:00] [Render thread/INFO]: [STDERR]: 	at ac.a(SourceFile:65)
+[14:45:00] [Render thread/INFO]: [STDERR]: 	at dyr.a(SourceFile:2394)
+[14:45:00] [Render thread/INFO]: [STDERR]: 	at dyr.a(SourceFile:2389)
+[14:45:00] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(SourceFile:206)
+[14:45:00] [Render thread/INFO]: [STDERR]: 	... 6 more
+Exception in thread "Render thread" 

@@ -1,0 +1,719 @@
+[14:43:07] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.14.19
+[14:43:07] [ForkJoinPool-1-worker-2/WARN]: Mod gameinfo uses the version 2.1.3a-1.19-build-Test 1.19 which isn't compatible with Loader's extended semantic version format (Invalid prerelease string '1.19-build-Test 1.19'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[14:43:07] [ForkJoinPool-1-worker-3/WARN]: Mod identifier-translation uses the version 1_1.19-1.19.2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1_1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[14:43:07] [main/INFO]: Loading 157 mods:
+	- advancementinfo 1.19.1-fabric0.58.5-1.3.1
+	- appleskin 2.4.1+mc1.19
+	- architectury 6.5.77
+	- armorchroma 1.2.3
+	- badpackets 0.2.1
+	- betterf3 4.0.0
+	- boatiview 0.0.4
+	- bowinfinityfix 2.5.0
+	- carpet 1.4.84
+	- carpetskyadditions 1.19.2-4.2.0
+	- citresewn 1.1.2+1.19.2
+	   \-- citresewn-defaults 1.1.2+1.19.2
+	- cloth-api 4.0.65
+	   |-- cloth-basic-math 0.6.1
+	   |-- cloth-client-events-v0 4.0.65
+	   |-- cloth-common-events-v1 4.0.65
+	   |-- cloth-scissors-api-v1 4.0.65
+	   \-- cloth-utils-v1 4.0.65
+	- cloth-config 8.2.88
+	   \-- cloth-basic-math 0.6.1
+	- continuity 2.0.2+1.19
+	- controlling 10.0+7
+	- customskinloader 14.16
+	- draggable-resource-packs 3.0.1+build.9
+	- durabilityviewer 1.19.1-fabric0.58.5-1.10.3
+	   |-- crowdin-translate 1.4+1.19
+	   \-- gbfabrictools 1.3.4+1.19
+	- entityculling 1.6.1-mc1.19.2
+	- explayerenderer 2.2.0
+	- fabric-api 0.76.0+1.19.2
+	   |-- fabric-api-base 0.4.15+8f4e8eb390
+	   |-- fabric-api-lookup-api-v1 1.6.14+93d8cb8290
+	   |-- fabric-biome-api-v1 9.1.1+16f1e31390
+	   |-- fabric-block-api-v1 1.0.2+e415d50e90
+	   |-- fabric-blockrenderlayer-v1 1.1.25+cafc6e8e90
+	   |-- fabric-client-tags-api-v1 1.0.5+b35fea8390
+	   |-- fabric-command-api-v1 1.2.16+f71b366f90
+	   |-- fabric-command-api-v2 2.2.1+413cbbc790
+	   |-- fabric-commands-v0 0.2.33+df3654b390
+	   |-- fabric-containers-v0 0.1.41+df3654b390
+	   |-- fabric-content-registries-v0 3.5.2+7c6cd14d90
+	   |-- fabric-convention-tags-v1 1.3.0+4bc6e26290
+	   |-- fabric-crash-report-info-v1 0.2.8+aeb40ebe90
+	   |-- fabric-data-generation-api-v1 5.3.8+413cbbc790
+	   |-- fabric-dimensions-v1 2.1.35+0d0f210290
+	   |-- fabric-entity-events-v1 1.5.4+9244241690
+	   |-- fabric-events-interaction-v0 0.4.34+562bff6e90
+	   |-- fabric-events-lifecycle-v0 0.2.36+df3654b390
+	   |-- fabric-game-rule-api-v1 1.0.24+b6b6abb490
+	   |-- fabric-item-api-v1 1.6.6+b7d1888890
+	   |-- fabric-item-groups-v0 0.3.39+9244241690
+	   |-- fabric-key-binding-api-v1 1.0.25+5c4fce2890
+	   |-- fabric-keybindings-v0 0.2.23+df3654b390
+	   |-- fabric-lifecycle-events-v1 2.2.4+1b46dc7890
+	   |-- fabric-loot-api-v2 1.1.13+83a8659290
+	   |-- fabric-loot-tables-v1 1.1.16+9e7660c690
+	   |-- fabric-message-api-v1 5.0.7+93d8cb8290
+	   |-- fabric-mining-level-api-v1 2.1.24+33fbc73890
+	   |-- fabric-models-v0 0.3.21+c6af733c90
+	   |-- fabric-networking-api-v1 1.2.11+10eb22f490
+	   |-- fabric-networking-v0 0.3.28+df3654b390
+	   |-- fabric-object-builder-api-v1 4.2.2+d8ef690890
+	   |-- fabric-particles-v1 1.0.14+4d0d570390
+	   |-- fabric-recipe-api-v1 1.0.1+413cbbc790
+	   |-- fabric-registry-sync-v0 0.9.32+9244241690
+	   |-- fabric-renderer-api-v1 1.2.1+1adbf27790
+	   |-- fabric-renderer-indigo 0.8.0+1adbf27790
+	   |-- fabric-renderer-registries-v1 3.2.24+df3654b390
+	   |-- fabric-rendering-data-attachment-v1 0.3.19+6e0787e690
+	   |-- fabric-rendering-fluids-v1 3.0.11+4d0d570390
+	   |-- fabric-rendering-v0 1.1.27+df3654b390
+	   |-- fabric-rendering-v1 1.12.1+d8ef690890
+	   |-- fabric-resource-conditions-api-v1 2.1.2+aae9039d90
+	   |-- fabric-resource-loader-v0 0.8.4+edbdcddb90
+	   |-- fabric-screen-api-v1 1.0.32+4d0d570390
+	   |-- fabric-screen-handler-api-v1 1.3.7+1cc24b1b90
+	   |-- fabric-sound-api-v1 1.0.2+c4f28df590
+	   |-- fabric-textures-v0 1.0.24+aeb40ebe90
+	   |-- fabric-transfer-api-v1 2.1.6+413cbbc790
+	   \-- fabric-transitive-access-wideners-v1 1.3.3+08b73de490
+	- fabric-language-kotlin 1.9.4+kotlin.1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.8.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.20.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.5.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.5.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.5.0
+	- fabricloader 0.14.19
+	- ferritecore 5.0.3
+	- fpsreducer 1.19.2-2.1
+	- gameinfo 2.1.3a-1.19-build-Test 1.19
+	   \-- org_openjdk_nashorn_nashorn-core 15.2
+	- gca 2.6.0-1.19
+	- held-item-info 1.4.0
+	- horseinfo 0.4.2-1.19
+	- identifier-translation 1_1.19-1.19.2
+	- indium 1.0.9+mc1.19.2
+	- ingameime 1.6.6
+	- inventoryprofilesnext 1.9.5
+	- iris 1.6.2
+	   |-- io_github_douira_glsl-transformer 2.0.0-pre13
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.11.1
+	- itemscroller 0.17.1
+	- java 17
+	- lambdynlights 2.2.0+1.19.2
+	   |-- pride 1.1.2+1.19
+	   \-- spruceui 4.1.0+1.19.2
+	- lazydfu 0.1.3
+	- libipn 2.0.4
+	- litematica 0.12.7
+	- logical_zoom 0.0.17
+	- magiclib 0.7.293+17aa28c-stable
+	- magiclib-1_19_2 0.7.318+85c565a-beta
+	- malilib 0.13.0
+	- masa_gadget_mod 3.1.289+1ca4352-stable
+	   \-- masa_gadget_mod-1_19_2 3.1.289+1ca4352-stable
+	- mcwifipnp 1.6.2
+	- minecraft 1.19.2
+	- minihud 0.23.3
+	- modmenu 4.2.0-beta.2
+	- mousewheelie 1.10.7+mc1.19.2
+	   |-- amecsapi 1.3.7+mc22w17a
+	   |-- coat 1.0.0-beta.19+mc22w17a
+	   |-- tweed4_annotated 1.3.1+mc22w17a
+	   |-- tweed4_base 1.7.1+mc22w17a
+	   |-- tweed4_data 1.2.1+mc22w17a
+	   |-- tweed4_data_hjson 1.1.1+mc22w17a
+	   |-- tweed4_tailor_coat 1.1.3+mc22w17a
+	   \-- tweed4_tailor_screen 1.1.3+mc22w17a
+	- nme 1.19.2
+	- noexpensive 1.19-Fabric-1.4.0
+	- ommc-1_19_2 0.5.276+a478f8a-beta
+	- presencefootsteps 1.6.4
+	   \-- kirin 1.11.1
+	- reeses-sodium-options 1.4.9+mc1.19.2-build.67
+	- replaymod 1.19.2-2.6.12
+	- roughlyenoughitems 9.1.595
+	   \-- error_notifier 1.0.9
+	- satin 1.9.0
+	- skinlayers 1.5.2-mc1.19.1
+	- smoothboot 1.19-1.7.1
+	- sodium 0.4.4+build.18
+	   \-- org_joml_joml 1.10.4
+	- sodium-extra 0.4.16+mc1.19.2-build.90
+	   \-- caffeineconfig 1.0.0+1.17
+	- tweakeroo 0.14.3
+	- waveycapes 1.3.2
+	- weaponmaster 3.0.2
+	- worldedit 7.2.12+6240-87f4ae1
+	- wthit 5.15.1
+	- xaerominimap 23.4.4
+	- xaeroworldmap 1.30.3
+[14:43:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/ZSX/1.19.2整合包/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[14:43:08] [main/INFO]: Compatibility level set to JAVA_16
+[14:43:08] [main/INFO]: Compatibility level set to JAVA_17
+[14:43:09] [main/INFO]: OptiFine was NOT detected.
+[14:43:09] [main/INFO]: OptiFabric was NOT detected.
+[14:43:09] [main/WARN]: Reference map 'mixins.nonmmlauncher.replaymod.refmap.json' for mixins.nonmmlauncher.replaymod.json could not be read. If this is a development environment you can ignore this message
+[14:43:09] [main/WARN]: [Satin] Sodium is present, custom block renders may not work
+[14:43:09] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 1 override(s) found
+[14:43:09] [main/INFO]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[14:43:10] [main/INFO]: bre2el.fpsreducer.mixin.MinecraftClientMixin will be applied.
+[14:43:10] [main/INFO]: bre2el.fpsreducer.mixin.KeyboardMixin will be applied.
+[14:43:10] [main/INFO]: bre2el.fpsreducer.mixin.RenderSystemMixin will be applied.
+[14:43:10] [main/INFO]: bre2el.fpsreducer.mixin.WindowMixin will NOT be applied because OptiFine was NOT detected.
+[14:43:10] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[14:43:10] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
+[14:43:10] [main/WARN]: Error loading class: net/coderbot/iris/layer/IrisRenderTypeWrapper (java.lang.ClassNotFoundException: net/coderbot/iris/layer/IrisRenderTypeWrapper)
+[14:43:10] [main/WARN]: @Mixin target net.coderbot.iris.layer.IrisRenderTypeWrapper was not found mixins.satin.client.json:iris.IrisRenderLayerWrapperMixin from mod satin
+[14:43:10] [main/WARN]: Error loading class: net/optifine/render/ChunkVisibility (java.lang.ClassNotFoundException: net/optifine/render/ChunkVisibility)
+[14:43:10] [main/WARN]: Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: shadersmod/client/ShadersRender)
+[14:43:10] [main/WARN]: Error loading class: net/optifine/shaders/ShadersRender (java.lang.ClassNotFoundException: net/optifine/shaders/ShadersRender)
+[14:43:11] [main/INFO]: Smooth Boot config initialized
+[14:43:14] [main/WARN]: Method overwrite conflict for getHotbarSlotPosition in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for getHotbarSlotRotation in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for setHotbarSlotPosition in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for setHotbarSlotRotation in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for getSlotAttachments in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for setSlotAttachments in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for getMover in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for setMover in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for getBlacklist in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for setBlacklist in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for getWhitelist in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for setWhitelist in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for getHotbarSlots in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for setHotbarSlot in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for getToggleSlot in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for setToggleSlot in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for getSelectedSlot in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for setSelectedSlot in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerMixin. Skipping method.
+[14:43:14] [main/WARN]: Method overwrite conflict for getLanguage in worldedit-fabric.mixins.json:MixinServerPlayer from mod worldedit, previously written by carpet.mixins.ServerPlayer_scarpetEventMixin. Skipping method.
+[14:43:14] [main/WARN]: @Final field field_22786:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[14:43:14] [main/WARN]: @Final field field_33815:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[14:43:17] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[14:43:17] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:43:17] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[14:43:17] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:43:17] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[14:43:17] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:43:17] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:43:17] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:43:17] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:43:18] [main/INFO]: Building unoptimized datafixer
+[14:43:20] [main/WARN]: Method overwrite conflict for method_8180 in noexpensive.mixins.json:ProtectionEnchantmentMixin from mod noexpensive, previously written by mc.z1gned.nme.mixin.ProtectionEnchantmentMixin. Skipping method.
+[14:43:20] [main/WARN]: Method overwrite conflict for method_8180 in noexpensive.mixins.json:DamageEnchantmentMixin from mod noexpensive, previously written by mc.z1gned.nme.mixin.DamageEnchantmentMixin. Skipping method.
+[14:43:21] [Render thread/INFO]: gameinfo.mixins.json:CurrentFPSMixin from mod gameinfo->@Accessor[FIELD_GETTER]::getCurrentFps()I should be static as its target is
+[14:43:22] [Render thread/INFO]: Environment: authHost='https://littleskin.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:65514/https/api.mojang.com', sessionHost='http://127.0.0.1:65514/https/sessionserver.mojang.com', servicesHost='http://127.0.0.1:65514/https/api.minecraftservices.com', name='PROD'
+[14:43:22] [Render thread/INFO]: Setting user: ChangGeCG
+[14:43:22] [Render thread/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[14:43:23] [Render thread/INFO]: [Hwyla Addon Horse Info] Initializing Hwyla Addon Horse Info
+[14:43:23] [Render thread/INFO]: [MagicLib|Common]: Mod initialized - Version: 0.7.318+85c565a-beta
+[14:43:23] [Render thread/INFO]: Not Mutually Exclusive
+[14:43:23] [Render thread/INFO]: [STDOUT]: Hello NoExpensive world!
+[14:43:23] [Render thread/INFO]: [REI] Config loaded
+[14:43:23] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:request_tags_s2c
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider ReiRecipeAction [wthit] for REIPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[14:43:23] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[14:43:23] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[14:43:24] [Render thread/INFO]: [STDOUT]: All 86 have been set properly
+[14:43:24] [Render thread/INFO]: Initialize YDM's WeaponMaster Mod!
+[14:43:24] [Render thread/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@18e173fe]
+[14:43:24] [Render thread/INFO]: WorldEdit for Fabric (version 7.2.12+6240-87f4ae1) is loaded
+[14:43:25] [Render thread/WARN]: [WTHIT] Plugin net.pancham138.horseinfo.HorseInfo is using the default namespace minecraft:horseinfo
+[14:43:25] [Render thread/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[14:43:25] [Render thread/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[14:43:25] [Render thread/INFO]: [WTHIT] Registering plugin minecraft:horseinfo at net.pancham138.horseinfo.HorseInfo
+[14:43:25] [Render thread/INFO]: [Hwyla Addon Horse Info] Registering 
+[14:43:25] [Render thread/INFO]: [WTHIT] Using mcp.mobius.waila.plugin.core.pick.ObjectPicker as the object picker
+[14:43:25] [Render thread/INFO]: [WTHIT] Plugin config reloaded
+[14:43:25] [Render thread/INFO]: AdvancementInfo initialized
+[14:43:25] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[14:43:25] [Render thread/INFO]: [BetterF3] Loading...
+[14:43:25] [Render thread/INFO]: [BetterF3] All done!
+[14:43:25] [Render thread/WARN]: Found outdated translation keys in extension 'dev.dubhe.gugle.carpet.GcaExtension'!
+These won't be supported in a later Carpet version!
+Carpet will now try to map them to the correct keys in a best-effort basis
+[14:43:25] [Render thread/WARN]: Found outdated translation keys in extension 'dev.dubhe.gugle.carpet.GcaExtension'!
+These won't be supported in a later Carpet version!
+Carpet will now try to map them to the correct keys in a best-effort basis
+[14:43:25] [Render thread/WARN]: Found outdated translation keys in extension 'dev.dubhe.gugle.carpet.GcaExtension'!
+These won't be supported in a later Carpet version!
+Carpet will now try to map them to the correct keys in a best-effort basis
+[14:43:25] [Render thread/INFO]: [citresewn] Registering CIT Conditions
+[14:43:25] [Render thread/INFO]: [citresewn] Registering CIT Types
+[14:43:26] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[14:43:26] [Render thread/INFO]: [STDOUT]: HUD Path: D:\ZSX\1.19.2整合包\.minecraft/gameinfo-resource/
+[14:43:26] [Render thread/INFO]: [STDOUT]: GameInfo: Load Config
+[14:43:27] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_23182 in sodium.mixins.json:features.item.MixinItemRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[14:43:28] [Render thread/INFO]: it is Windows OS! Loading mod...
+[14:43:28] [Render thread/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[14:43:28] [Render thread/INFO]: [LambDynLights] Configuration loaded.
+[14:43:28] [Render thread/INFO]: [MagicLib|Client]: Mod initialized - Version: 0.7.318+85c565a-beta
+[14:43:28] [Worker-Main-1/INFO]: Checking mod updates...
+[14:43:29] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIClientPlugin
+[14:43:29] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
+[14:43:29] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[14:43:29] [Render thread/INFO]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
+[14:43:29] [Render thread/INFO]: [REI] Registered plugin provider ReiRecipeAction [wthit] for REIClientPlugin
+[14:43:29] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:ci_msg
+[14:43:29] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:og_not_enough
+[14:43:29] [Render thread/INFO]: Reloaded configs for mousewheelie (universal/highest)
+[14:43:29] [Render thread/INFO]: Loading Xaero's Minimap - Stage 1/2
+[14:43:30] [Render thread/INFO]: Loading Xaero's World Map - Stage 1/2
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'inventoryprofilesnext@1.9.5', (-> fabric-1.19.2-1.10.2)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'mousewheelie@1.10.7+mc1.19.2', (-> 1.11.1+mc1.19.2)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'nme@1.19.2', (-> 1.0.0)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'wthit@5.15.1', (-> fabric-5.16.1)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'libipn@2.0.4', (-> fabric-1.19.2-3.0.1)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'noexpensive@1.19-Fabric-1.4.0', (-> 1.19.4-1.5.0)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'roughlyenoughitems@9.1.595', (-> 9.1.615+fabric)
+[14:43:30] [Worker-Main-1/INFO]: Update available for 'architectury@6.5.77', (-> 6.5.85+fabric)
+[14:43:31] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] Failed to get update info!
+java.net.ConnectException: Connection refused: connect
+	at sun.nio.ch.Net.connect0(Native Method) ~[?:?]
+	at sun.nio.ch.Net.connect(Net.java:579) ~[?:?]
+	at sun.nio.ch.Net.connect(Net.java:568) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.net.Socket.connect(Socket.java:633) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:299) ~[?:?]
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174) ~[?:?]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:183) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:498) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:603) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at java.net.URL.openStream(URL.java:1161) ~[?:?]
+	at net.coderbot.iris.UpdateChecker.lambda$checkForUpdates$0(UpdateChecker.java:84) ~[【光影着色器】iris-mc1.19.2-1.6.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[14:43:32] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[14:43:32] [Render thread/INFO]: Debug functionality is disabled.
+[14:43:32] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[14:43:32] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[14:43:32] [Render thread/INFO]: Shaders are disabled
+[14:43:32] [Render thread/WARN]: Couldn't get pack info for: net.minecraft.class_3266: 'pack.mcmeta' in ResourcePack 'D:\ZSX\1.19.2整合包\.minecraft\resourcepacks\Bed Wars V1.3.0.zip'
+[14:43:32] [Render thread/WARN]: Couldn't get pack info for: java.util.zip.ZipException: invalid CEN header (bad entry name)
+[14:43:32] [Render thread/WARN]: Couldn't get pack info for: java.util.zip.ZipException: invalid CEN header (bad entry name)
+[14:43:33] [Render thread/INFO]: Hardware information:
+[14:43:33] [Render thread/INFO]: CPU: 12x AMD Ryzen 5 5600H with Radeon Graphics 
+[14:43:33] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 527.99)
+[14:43:33] [Render thread/INFO]: OS: Windows 10 (10.0)
+[14:43:34] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[14:43:34] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (AdvancementInfo, Amecs API, AppleSkin, Armor Chroma, BetterF3, Boat Item View Fabric, CaffeineConfig, Carpet Mod, Carpet Sky Additions, CIT Resewn, CIT Resewn: Defaults, Cloth Config v8, Coat, Continuity, Controlling For Fabric, Draggable Resource Packs, Giselbaers Durability Viewer, EntityCulling-Fabric, ExtraPlayerRenderer, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric Block API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Client Tags, Fabric Command API (v1), Fabric Command API (v2), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Language Kotlin, Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Message API (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Recipe API (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Sound API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, FPS Reducer, GameInfo, GBfabrictools, GugleCarpetAddition, Held Item Info, Horse Info, 标识符翻译, Indium, IngameIME, Inventory Profiles Next, Iris, Item Scroller, LambDynamicLights, LazyDFU, libIPN, Litematica, Logical Zoom, MagicLib, MagicLib for 1.19.2, MaLiLib, Masa Gadget, Masa Gadget for 1.19.2, LAN World Plug-n-Play, MiniHUD, Mod Menu, Mouse Wheelie, Not Mutually Exclusive, NoExpensive, Oh My Minecraft Client for 1.19.2, Presence Footsteps, Pride Lib, Reese's Sodium Options, Replay Mod, Roughly Enough Items, Satin, 3d Skin Layers, Smooth Boot, Sodium, Sodium Extra, SpruceUI, Tweakeroo, tweed4_annotated, tweed4_base, tweed4_data, tweed4_data_hjson, tweed4_tailor_coat, tweed4_tailor_screen, WaveyCapes, YDM's Weapon Master, WorldEdit, wthit, Xaero's Minimap, Xaero's World Map), armorchroma/alternative-icons, continuity/default, MASA全家桶汉化包.zip, Xaeros-地图+OPAC模组汉化包.zip, 任务进阶翻译包.zip, 【发光矿石】glowing-ores-e2060.zip, 【高级附魔工具提示】AdvancedEnchantmentTooltips.zip, 更好的魔影龙.zip, 【3D作物】better-crops-3d-16x.zip, 【PBR】UltimaCraft_PBR_(v.1.2).zip, 【透明玻璃】clearvisionglass.zip, §l梧桐加减法v6.3.zip, §l叶片覆盖包α.zip, 耳塞, 【大灾变鞘翅】cataclysm-elytra.zip, 【紫色血条】.zip, 改良下界盔甲.zip, 坤坤图腾.zip, replaymod_lang
+[14:43:34] [ForkJoinPool.commonPool-worker-1/INFO]: [Armor Chroma] Loaded icons for 0 mods
+[14:43:34] [Worker-Main-7/WARN]: Unknown block 'minecraft:tinted_glass_pane' in 'matchBlocks' element 'tinted_glass_pane' at index 0 in file 'minecraft:optifine/ctm/1-glass/18-tinted/tinted_glass_pane.properties' in pack '【PBR】UltimaCraft_PBR_(v.1.2).zip'
+[14:43:34] [Worker-Main-7/INFO]: [citresewn] Loading item CIT models...
+[14:43:34] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[14:43:35] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[14:43:35] [Render thread/INFO]: Current IME State:false
+[14:43:35] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[14:43:35] [Render thread/INFO]: New world map region cache hash code: 2105907782
+[14:43:35] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[14:43:35] [Render thread/INFO]: No Optifine!
+[14:43:35] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[14:43:35] [Render thread/INFO]: Xaero's World Map: Iris found!
+[14:43:35] [Worker-Main-7/WARN]: Unable to load model: 'minecraft:item/giant_spawn_egg' referenced from: minecraft:zombie_spawn_egg#inventory: java.io.FileNotFoundException: minecraft:models/item/giant_spawn_egg.json
+[14:43:36] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/brewing_stand_bottle2
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/potato/potatoes_stage4_blue
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/potato/potatoes_stage4_blue_poisonous
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/potato/potatoes_stage4_purple
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/potato/potatoes_stage4_purple_poisonous
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/pumpkin/pumpkin_stem_stage1
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/pumpkin/pumpkin_stem_stage2
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/melon/melon_stem_stage2
+[14:43:36] [Worker-Main-7/WARN]: Unable to resolve texture reference: #missing in minecraft:block/melon/melon_stem_stage1
+[14:43:36] [Worker-Main-7/WARN]: Texture minecraft:block/melon_stem_stage1 with size 8x8 limits mip level from 4 to 3
+[14:43:36] [Worker-Main-7/WARN]: Texture minecraft:block/melon_stem_stage0 with size 4x4 limits mip level from 3 to 2
+[14:43:36] [Worker-Main-7/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 2, because of minimum power of two: 4
+[14:43:37] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[14:43:37] [Render thread/INFO]: No Optifine!
+[14:43:37] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[14:43:37] [Render thread/INFO]: Xaero's Minimap: Iris found!
+[14:43:37] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:43:37] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:43:37] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 耳机 (Realtek(R) Audio)
+[14:43:37] [Render thread/INFO]: Sound engine started
+[14:43:38] [Render thread/INFO]: Created: 2048x2048x2 minecraft:textures/atlas/blocks.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:43:38] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:43:38] [Render thread/INFO]: [citresewn] Linking baked models to item CITs...
+[14:43:39] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
+[14:43:39] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
+[14:43:39] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[14:43:40] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[14:43:40] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[14:43:40] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:43:40] [Render thread/INFO]: Skipping non-result value minecraft:lantern=UNASSIGNED
+[14:43:40] [Render thread/INFO]: Skipping non-result value minecraft:soul_lantern=UNASSIGNED
+[14:43:40] [Render thread/INFO]: Reloaded configs for mousewheelie (client/smallest)
+[14:43:40] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[14:43:40] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[14:43:56] [Render thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[14:43:56] [Render thread/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinCloneCommand from mod tweakeroo->@ModifyConstant::getBlockCountLimit(I)I with priority 999, already redirected by carpet.mixins.json:CloneCommands_fillUpdatesMixin from mod carpet->@ModifyConstant::fillLimit(I)I with priority 1000
+[14:43:56] [Render thread/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinCloneCommand from mod tweakeroo->@ModifyConstant::getBlockCountLimit(I)I with priority 999, already redirected by carpet.mixins.json:CloneCommands_fillUpdatesMixin from mod carpet->@ModifyConstant::fillLimit(I)I with priority 1000
+[14:43:56] [Render thread/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinFillCommand from mod tweakeroo->@ModifyConstant::getBlockCountLimit(I)I with priority 999, already redirected by carpet.mixins.json:FillCommandMixin from mod carpet->@ModifyConstant::fillLimit(I)I with priority 1000
+[14:43:56] [Render thread/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinFillCommand from mod tweakeroo->@ModifyConstant::getBlockCountLimit(I)I with priority 999, already redirected by carpet.mixins.json:FillCommandMixin from mod carpet->@ModifyConstant::fillLimit(I)I with priority 1000
+[14:43:56] [Render thread/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[14:43:58] [Render thread/ERROR]: Parsing error loading recipe recycle:diamonds/pants
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:diamond_pants'
+	at net.minecraft.class_1869.method_17878(class_1869.java:253) ~[client-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:253) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:162) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:145) ~[client-intermediary.jar:?]
+	at net.minecraft.class_3957.method_17736(class_3957.java:29) ~[client-intermediary.jar:?]
+	at net.minecraft.class_3957.method_8121(class_3957.java:11) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:157) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:131) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:140) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41900(class_7196.java:136) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41891(class_7196.java:117) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41899(class_7196.java:150) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41894(class_7196.java:57) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_20174(class_528.java:528) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_20164(class_528.java:436) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_25402(class_528.java:367) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25402(class_350.java:372) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4069.method_25402(class_4069.java:27) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_1611(class_312.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25412(class_437.java:489) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_1601(class_312.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_22686(class_312.java:165) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.execute(class_1255.java:103) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_22684(class_312.java:165) ~[client-intermediary.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallback$Container.invoke(GLFWMouseButtonCallback.java:81) [lwjgl-glfw-3.3.1.jar:?]
+	at bre2el.fpsreducer.handler.glfw.InputEventHandler$MouseButtonEventHandler.invoke(InputEventHandler.java:133) [【FPS减速器】FpsReducer2-fabric-1.19.2-2.1.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) [lwjgl-glfw-3.3.1.jar:?]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar:?]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3474) [lwjgl-glfw-3.3.1.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.handler$bnn000$fpsreducer$handleWaitEventsTimeout(RenderSystem.java:1483) [client-intermediary.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java) [client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1208) [client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:768) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:244) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.19.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+[14:43:58] [Render thread/ERROR]: Parsing error loading recipe recycle:netherite/pants
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:netherite_pants'
+	at net.minecraft.class_1869.method_17878(class_1869.java:253) ~[client-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:253) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:162) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:145) ~[client-intermediary.jar:?]
+	at net.minecraft.class_3957.method_17736(class_3957.java:29) ~[client-intermediary.jar:?]
+	at net.minecraft.class_3957.method_8121(class_3957.java:11) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:157) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:131) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:140) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41900(class_7196.java:136) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41891(class_7196.java:117) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41899(class_7196.java:150) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7196.method_41894(class_7196.java:57) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_20174(class_528.java:528) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_20164(class_528.java:436) ~[client-intermediary.jar:?]
+	at net.minecraft.class_528$class_4272.method_25402(class_528.java:367) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25402(class_350.java:372) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4069.method_25402(class_4069.java:27) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_1611(class_312.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25412(class_437.java:489) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_1601(class_312.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_22686(class_312.java:165) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.execute(class_1255.java:103) ~[client-intermediary.jar:?]
+	at net.minecraft.class_312.method_22684(class_312.java:165) ~[client-intermediary.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallback$Container.invoke(GLFWMouseButtonCallback.java:81) [lwjgl-glfw-3.3.1.jar:?]
+	at bre2el.fpsreducer.handler.glfw.InputEventHandler$MouseButtonEventHandler.invoke(InputEventHandler.java:133) [【FPS减速器】FpsReducer2-fabric-1.19.2-2.1.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) [lwjgl-glfw-3.3.1.jar:?]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar:?]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3474) [lwjgl-glfw-3.3.1.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.handler$bnn000$fpsreducer$handleWaitEventsTimeout(RenderSystem.java:1483) [client-intermediary.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java) [client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1208) [client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:768) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:244) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.19.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+[14:43:58] [Render thread/INFO]: Loaded 7 recipes
+[14:43:58] [Render thread/INFO]: Loaded 2187 advancements
+[14:43:58] [Render thread/INFO]: Reloaded configs for mousewheelie (server/smallest)
+[14:43:59] [Render thread/INFO]: pcaSyncProtocol onDisconnect.
+[14:43:59] [Render thread/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on IngameIME-fabric.mixins.json:MixinBookEditScreen from mod ingameime::handler$bpa000$ingameime$onCaret_Book exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[14:43:59] [Render thread/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 2.197 ms
+[14:43:59] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[14:43:59] [Server thread/INFO]: Starting integrated minecraft server version 1.19.2
+[14:43:59] [Server thread/INFO]: Generating keypair
+[14:43:59] [Server thread/WARN]: Found outdated translation keys in extension 'dev.dubhe.gugle.carpet.GcaExtension'!
+These won't be supported in a later Carpet version!
+Carpet will now try to map them to the correct keys in a best-effort basis
+[14:43:59] [Server thread/WARN]: Found outdated translation keys in extension 'dev.dubhe.gugle.carpet.GcaExtension'!
+These won't be supported in a later Carpet version!
+Carpet will now try to map them to the correct keys in a best-effort basis
+[14:43:59] [Server thread/INFO]: [CM] Loaded 2 settings from carpet.conf
+[14:44:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:02] [Render thread/INFO]: 准备生成区域中：0%
+[14:44:03] [Render thread/INFO]: 准备生成区域中：60%
+[14:44:03] [Render thread/INFO]: Time elapsed: 3124 ms
+[14:44:04] [Server thread/INFO]: Reloaded configs for mousewheelie (universal/world)
+[14:44:04] [Server thread/INFO]: Changing view distance to 8, from 10
+[14:44:04] [Server thread/INFO]: Changing simulation distance to 8, from 0
+[14:44:07] [Server thread/INFO]: ChangGeCG[local:E:e9f4bacf] logged in with entity id 81 at (870.6989605843023, 82.21118015028912, -1358.3196081812532)
+[14:44:07] [Server thread/INFO]: ChangGeCG加入了游戏
+[14:44:07] [Render thread/INFO]: New minimap session initialized!
+[14:44:07] [Render thread/INFO]: New world map session initialized!
+[14:44:08] [Render thread/WARN]: @Redirect conflict. Skipping mixins.iris.compat.sodium.json:vertex_format.MixinFluidRenderer from mod iris->@Redirect::iris$fixSidewaysInnerFaceNormal(Lme/jellysquid/mods/sodium/client/model/IndexBufferBuilder;ILme/jellysquid/mods/sodium/client/model/quad/properties/ModelQuadWinding;Lnet/minecraft/class_1920;Lnet/minecraft/class_3610;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;Lme/jellysquid/mods/sodium/client/render/chunk/compile/buffers/ChunkModelBuilder;)V with priority 1000, already redirected by mixins.iris.compat.sodium.json:vertex_format.MixinFluidRenderer from mod iris->@Redirect::iris$fixBackwardUpFaceNormal(Lme/jellysquid/mods/sodium/client/model/IndexBufferBuilder;ILme/jellysquid/mods/sodium/client/model/quad/properties/ModelQuadWinding;Lnet/minecraft/class_1920;Lnet/minecraft/class_3610;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;Lme/jellysquid/mods/sodium/client/render/chunk/compile/buffers/ChunkModelBuilder;)V with priority 1000
+[14:44:08] [Render thread/INFO]: Started 6 worker threads
+[14:44:08] [Render thread/INFO]: [Inventory Profiles Next] Loaded 0 external GUI hints
+[14:44:08] [Render thread/INFO]: [Inventory Profiles Next] Loaded 769 build-in GUI hints
+[14:44:08] [Render thread/INFO]: [Inventory Profiles Next] Effective GUI hints after merge: 769
+[14:44:08] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[14:44:09] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ########################################
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIPlugin starting main-reload for START.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (8):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REITooltipPlugin of REITooltipPlugin [appleskin]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiRecipeAction of ReiRecipeAction [wthit]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ########################################
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIClientPlugin starting main-reload for START.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (5):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REITooltipPlugin of REITooltipPlugin [appleskin]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiRecipeAction of ReiRecipeAction [wthit]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[14:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ----------------------------------------
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIServerPlugin starting main-reload for START.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (3):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ----------------------------------------
+[14:44:09] [REI-ReloadPlugins/INFO]: [WTHIT] Show recipe action set for Roughly Enough Items
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIPlugin finished post-reload for START in 1.748 ms, totaling 64.06 ms.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIClientPlugin finished post-reload for START in 448.4 μs, totaling 317.5 ms.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIServerPlugin finished post-reload for START in 359.3 μs, totaling 3.535 ms.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIPlugin starting main-reload for END.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (8):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REITooltipPlugin of REITooltipPlugin [appleskin]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiRecipeAction of ReiRecipeAction [wthit]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[14:44:09] [Render thread/INFO]: Loaded 1052 advancements
+[14:44:09] [Render thread/INFO]: [WTHIT] Received config from the server: {"minecraft:attribute.health":true,"minecraft:furnace_contents":true,"minecraft:spawner_type":true,"minecraft:attribute.armor":true,"minecraft:note_block.type":true,"minecraft:pet.owner":true,"minecraft:level.composter":true,"minecraft:attribute.absorption":true,"minecraft:override.infested":true,"minecraft:timer.grow":true,"minecraft:redstone.level":true,"minecraft:item_entity":true,"minecraft:breaking_progress.enabled":true,"minecraft:level.honey":true,"minecraft:redstone.lever":true,"minecraft:jukebox.record":true,"minecraft:crop_progress":true,"minecraft:timer.breed":true,"minecraft:redstone.repeater":true,"minecraft:player_head.name":true,"minecraft:redstone.comparator":true,"minecraft:override.powder_snow":true,"minecraft:override.trapped_chest":true}
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ----------------------------------------
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIClientPlugin starting main-reload for END.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (5):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultClientPlugin of DefaultClientPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) REITooltipPlugin of REITooltipPlugin [appleskin]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) ReiRecipeAction of ReiRecipeAction [wthit]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ----------------------------------------
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ****************************************
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIServerPlugin starting main-reload for END.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] Plugins (3):
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] ****************************************
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIPlugin finished post-reload for END in 738.0 μs, totaling 79.62 ms.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIClientPlugin finished post-reload for END in 481.0 μs, totaling 373.8 ms.
+[14:44:09] [REI-ReloadPlugins/INFO]: [REI] REIServerPlugin finished post-reload for END in 315.7 μs, totaling 15.65 ms.
+[14:44:10] [Render thread/INFO]: Animated skins loaded and ready to use!
+[14:44:10] [Render thread/INFO]: Reloading entity icon resources...
+[14:44:10] [Render thread/INFO]: Done!
+[14:44:10] [Render thread/INFO]: DurabilityViewer did not find Trinkets API
+[14:44:10] [Render thread/INFO]: DurabilityViewer did not find Tech Reborn
+[14:44:10] [Render thread/INFO]: [STDOUT]: Update HUD
+[14:44:16] [Render thread/INFO]: Loaded 1053 advancements
+[14:44:16] [Render thread/INFO]: Forgot about advancement blazeandcave:technical/lucky_break_check
+[14:44:16] [Render thread/INFO]: Loaded 1052 advancements
+[14:44:18] [Server thread/INFO]: Saving and pausing game...
+[14:44:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:overworld
+[14:44:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_end
+[14:44:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_nether
+[14:44:19] [Render thread/INFO]: Using default channel type
+[14:44:19] [Render thread/INFO]: Started serving on 54120
+[14:44:19] [Render thread/INFO]: [System] [CHAT] 本地游戏已在端口54120上开启
+[14:44:19] [Render thread/INFO]: [System] [CHAT] Inventory Profiles Next: 版本：'1.10.1' 已更新。\n下载链接："Modrinth" 或 "CurseForge"
+[14:44:28] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[14:44:28] [Render thread/INFO]: Loaded 1052 advancements
+[14:44:34] [Render thread/INFO]: [System] [CHAT] ChangGeCG 达成了进度 [它充满墨水]
+[14:44:34] [Render thread/INFO]: Loaded 1056 advancements
+[14:44:35] [Server thread/INFO]: xlsdwtt1[/127.0.0.1:49160] logged in with entity id 639 at (856.1149921063462, 67.27211446566227, -1333.8998936760554)
+[14:44:35] [Server thread/INFO]: xlsdwtt1加入了游戏
+[14:44:35] [Render thread/INFO]: [System] [CHAT] xlsdwtt1加入了游戏
+[14:44:35] [Render thread/INFO]: [STDOUT]: Player queue for update: 1
+[14:44:36] [Server thread/INFO]: Player xlsdwtt1 joined with a matching carpet client
+[14:44:47] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了进度 [浑身是刺！]
+[14:44:47] [Render thread/INFO]: Loaded 1057 advancements
+[14:44:48] [Render thread/INFO]: [System] [CHAT] xlsdwtt1 达成了进度 [这是？仙人掌！]
+[14:44:48] [Render thread/INFO]: Loaded 1057 advancements
+[14:45:16] [Render thread/WARN]: Received passengers for unknown entity
+[14:45:52] [Render thread/INFO]: Loaded 1057 advancements
+[14:46:13] [Render thread/INFO]: Loaded 1060 advancements
+[14:46:14] [Render thread/INFO]: Forgot about advancement blazeandcave:technical/castaway_fail
+[14:46:14] [Render thread/INFO]: Forgot about advancement blazeandcave:technical/just_keeps_going_fail
+[14:46:14] [Render thread/INFO]: Forgot about advancement blazeandcave:technical/a_wizards_breakfast_fail
+[14:46:14] [Render thread/INFO]: Loaded 1057 advancements
+[14:46:23] [Render thread/INFO]: [STDOUT]: Player queue for update: 1
+[14:46:25] [Server thread/INFO]: Stopping server
+[14:46:25] [Server thread/INFO]: Saving players
+[14:46:25] [Server thread/INFO]: ChangGeCG lost connection: 连接中断
+[14:46:25] [Server thread/INFO]: ChangGeCG退出了游戏
+[14:46:25] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[14:46:25] [Server thread/INFO]: Saving worlds
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: java.util.concurrent.RejectedExecutionException: Server already shutting down
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_40000(MinecraftServer.java:1246)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2600.method_11074(class_2600.java:19)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2600.method_11073(class_2600.java:14)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_3244.method_12063(class_3244.java:875)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2828.method_12272(class_2828.java:114)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:42)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.method_10759(class_2535.java:167)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.redirect$ckh000$masa_gadget_mod-1_19_2$redirectGenericsFtw(class_2535.java:2024)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.method_10770(class_2535.java:152)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at net.minecraft.class_2535.channelRead0(class_2535.java:50)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[14:46:25] [Netty Server IO #3/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[14:46:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:overworld
+[14:46:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_end
+[14:46:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[原版生存? つ ?_? ?つ]'/minecraft:the_nether
+[14:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (原版生存? つ ?_? ?つ): All chunks are saved
+[14:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:46:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

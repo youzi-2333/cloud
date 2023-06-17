@@ -1,0 +1,200 @@
+	- cloth-config 11.0.98
+	   \-- cloth-basic-math 0.6.1
+	- continuity 3.0.0-beta.2+1.19.3
+	- cull-less-leaves 1.2.0
+	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.8
+	- customskinloader 15.0-SNAPSHOT-9
+	- customwindowtitle 1.1.1
+	- debugify 1.20+1.1
+	- durability101 0.0.5
+	- entityculling 1.6.2-mc1.20-rc1
+	- fabric-api 0.83.0+1.20
+	   |-- fabric-api-base 0.4.29+b04edc7a27
+	   |-- fabric-api-lookup-api-v1 1.6.34+4d8536c927
+	   |-- fabric-biome-api-v1 13.0.10+b3afc78b27
+	   |-- fabric-block-api-v1 1.0.9+e022e5d127
+	   |-- fabric-blockrenderlayer-v1 1.1.39+b3afc78b27
+	   |-- fabric-client-tags-api-v1 1.0.20+b3afc78b27
+	   |-- fabric-command-api-v1 1.2.32+f71b366f27
+	   |-- fabric-command-api-v2 2.2.11+b3afc78b27
+	   |-- fabric-commands-v0 0.2.49+df3654b327
+	   |-- fabric-containers-v0 0.1.61+df3654b327
+	   |-- fabric-content-registries-v0 4.0.7+b3afc78b27
+	   |-- fabric-convention-tags-v1 1.5.3+b3afc78b27
+	   |-- fabric-crash-report-info-v1 0.2.18+aeb40ebe27
+	   |-- fabric-data-generation-api-v1 12.1.10+b3afc78b27
+	   |-- fabric-dimensions-v1 2.1.51+b3afc78b27
+	   |-- fabric-entity-events-v1 1.5.21+b3afc78b27
+	   |-- fabric-events-interaction-v0 0.6.0+b3afc78b27
+	   |-- fabric-events-lifecycle-v0 0.2.61+df3654b327
+	   |-- fabric-game-rule-api-v1 1.0.38+b04edc7a27
+	   |-- fabric-item-api-v1 2.1.26+b3afc78b27
+	   |-- fabric-item-group-api-v1 4.0.7+b3afc78b27
+	   |-- fabric-key-binding-api-v1 1.0.36+fb8d95da27
+	   |-- fabric-keybindings-v0 0.2.34+df3654b327
+	   |-- fabric-lifecycle-events-v1 2.2.20+b3afc78b27
+	   |-- fabric-loot-api-v2 1.1.37+b3afc78b27
+	   |-- fabric-loot-tables-v1 1.1.41+9e7660c627
+	   |-- fabric-message-api-v1 5.1.6+b3afc78b27
+	   |-- fabric-mining-level-api-v1 2.1.47+b3afc78b27
+	   |-- fabric-models-v0 0.3.35+b3afc78b27
+	   |-- fabric-networking-api-v1 1.3.8+b3afc78b27
+	   |-- fabric-networking-v0 0.3.48+df3654b327
+	   |-- fabric-object-builder-api-v1 11.0.6+b3afc78b27
+	   |-- fabric-particles-v1 1.0.28+b3afc78b27
+	   |-- fabric-recipe-api-v1 1.0.18+b3afc78b27
+	   |-- fabric-registry-sync-v0 2.2.6+b3afc78b27
+	   |-- fabric-renderer-api-v1 3.0.1+b3afc78b27
+	   |-- fabric-renderer-indigo 1.3.1+b3afc78b27
+	   |-- fabric-renderer-registries-v1 3.2.44+df3654b327
+	   |-- fabric-rendering-data-attachment-v1 0.3.33+b3afc78b27
+	   |-- fabric-rendering-fluids-v1 3.0.26+b3afc78b27
+	   |-- fabric-rendering-v0 1.1.47+df3654b327
+	   |-- fabric-rendering-v1 3.0.6+b3afc78b27
+	   |-- fabric-resource-conditions-api-v1 2.3.4+b3afc78b27
+	   |-- fabric-resource-loader-v0 0.11.7+f7923f6d27
+	   |-- fabric-screen-api-v1 2.0.6+b3afc78b27
+	   |-- fabric-screen-handler-api-v1 1.3.27+b3afc78b27
+	   |-- fabric-sound-api-v1 1.0.12+b3afc78b27
+	   |-- fabric-transfer-api-v1 3.2.2+b3afc78b27
+	   \-- fabric-transitive-access-wideners-v1 4.2.0+b3afc78b27
+	- fabric-language-kotlin 1.9.4+kotlin.1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.8.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.20.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.5.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.5.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.5.0
+	- fabricloader 0.14.21
+	- fabricskyboxes 0.7.1+mc1.20
+	- gammautils 1.7.14-beta
+	- immediatelyfast 1.1.13
+	   \-- net_lenni0451_reflect 1.1.0
+	- indium 1.0.18+mc1.20
+	- inventoryprofilesnext 1.10.2
+	- iris 1.6.4
+	   |-- io_github_douira_glsl-transformer 2.0.0-pre13
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.11.1
+	- itemscroller 0.19.2
+	- java 17
+	- libipn 3.0.1
+	- litematica 0.14.3
+	- lithium 0.11.2
+	- magiclib 0.7.324+7be771b-beta
+	   \-- magiclib-1_20-pre2 0.7.324+7be771b-beta
+	- malilib 0.15.4
+	   \-- fabric-resource-loader-v0 0.11.7+f7923f6d27
+	- masa_gadget_mod 3.2.302+558ecdd-beta
+	   \-- masa_gadget_mod-1_20-pre2 3.2.302+558ecdd-beta
+	- mcwifipnp 1.6.4
+	- minecraft 1.20
+	- minihud 0.26.2-nyan.1
+	- modmenu 7.0.0-beta.2
+	- notenoughanimations 1.6.4
+	- ommc 0.5.282+2b353c9-beta
+	   \-- ommc-1_20-pre2 0.5.282+2b353c9-beta
+	- pca 0.3.163+a95078f-beta
+	   \-- pca-1_20-pre2 0.3.163+a95078f-beta
+	- reeses-sodium-options 1.5.1+mc1.20-build.74
+	- roughlyenoughitems 12.0.613
+	   \-- error_notifier 1.0.9
+	- shulkerboxtooltip 4.0.0+1.20
+	- sodium 0.4.10+build.27
+	   |-- fabric-api-base 0.4.29+b04edc7a27
+	   |-- fabric-rendering-data-attachment-v1 0.3.33+b3afc78b27
+	   |-- fabric-rendering-fluids-v1 3.0.26+b3afc78b27
+	   \-- fabric-resource-loader-v0 0.11.7+f7923f6d27
+	- sodium-extra 0.4.20+mc1.20-build.103
+	   |-- caffeineconfig 1.1.0+1.17
+	   \-- crowdin-translate 1.4+1.19.3
+	- starlight 1.1.2+fabric.42e9b6f
+	- tweakeroo 0.16.0
+	- tweakmyclient 3.6.394+4f90d8b-beta
+	   \-- tweakmyclient-1_20-pre2 3.6.394+4f90d8b-beta
+	- viafabric 0.4.10+6-dev
+	   |-- org_yaml_snakeyaml 2.0
+	   |-- viafabric-mc120 0.4.10+6-dev
+	   \-- viaversion 4.7.0
+	- wi_zoom 1.4-MC1.20-rc1
+	- worldedit 7.2.15-SNAPSHOT+6441-4720067
+	   |-- fabric-api-base 0.4.29+b04edc7a27
+	   |-- fabric-command-api-v2 2.2.11+b3afc78b27
+	   |-- fabric-events-interaction-v0 0.6.0+b3afc78b27
+	   |-- fabric-lifecycle-events-v1 2.2.20+b3afc78b27
+	   \-- fabric-networking-api-v1 1.3.8+b3afc78b27
+	- wthit 8.0.2
+	- xaerominimap 23.4.4
+	- xaeroworldmap 1.30.3
+	- yet_another_config_lib_v3 3.0.1+1.20
+	   |-- com_twelvemonkeys_common_common-image 3.9.4
+	   |-- com_twelvemonkeys_common_common-io 3.9.4
+	   |-- com_twelvemonkeys_common_common-lang 3.9.4
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.9.4
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.9.4
+	   \-- com_twelvemonkeys_imageio_imageio-webp 3.9.4
+[22:14:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/18214/Desktop/Minecraft/PCL/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[22:14:27] [main/INFO]: Compatibility level set to JAVA_17
+[22:14:28] [main/INFO]: Preloading Debugify
+[22:14:28] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 1 override(s) found
+[22:14:28] [main/INFO]: Loaded configuration file for Sodium: 33 options available, 3 override(s) found
+[22:14:28] [main/INFO]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[22:14:28] [main/WARN]: Force disabled MC-121772 because it only applies to OS: MAC
+[22:14:28] [main/WARN]: Force disabled MC-122477 because it only applies to OS: LINUX
+[22:14:28] [main/WARN]: Force disabled MC-22882 because it only applies to OS: MAC
+[22:14:28] [main/WARN]: Force-enabling mixin 'block.hopper.worldedit_compat.WorldChunkMixin' as rule 'mixin.block.hopper.worldedit_compat' (added by mods [lithium-fabric]) enables it
+[22:14:28] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer)
+[22:14:28] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer)
+[22:14:28] [main/WARN]: Force-disabling mixin 'features.entity.fast_render.MixinCuboid' as rule 'mixin.features.entity.fast_render' (added by mods [iris]) disables it and children
+[22:14:28] [main/WARN]: Force-disabling mixin 'features.entity.fast_render.MixinModelPart' as rule 'mixin.features.entity.fast_render' (added by mods [iris]) disables it and children
+[22:14:28] [main/WARN]: Force-disabling mixin 'features.gui.font.MixinGlyphRenderer' as rule 'mixin.features.gui.font' (added by mods [iris]) disables it and children
+[22:14:28] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[22:14:28] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
+[22:14:29] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[22:14:30] [main/WARN]: Method overwrite conflict for getLanguage in worldedit-fabric.mixins.json:MixinServerPlayer from mod worldedit, previously written by carpet.mixins.ServerPlayer_scarpetEventMixin. Skipping method.
+[22:14:30] [main/WARN]: @Final field field_22786:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[22:14:30] [main/WARN]: @Final field field_33815:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[22:14:31] [main/WARN]: Method overwrite conflict for method_5431 in pca.mixins.json:rule.pcaSyncProtocol.block.MixinAbstractFurnaceBlockEntity from mod pca-1_20-pre2, previously written by me.jellysquid.mods.lithium.mixin.world.block_entity_ticking.sleeping.furnace.AbstractFurnaceBlockEntityMixin. Skipping method.
+[22:14:31] [main/WARN]: Method overwrite conflict for method_5431 in pca.mixins.json:rule.pcaSyncProtocol.block.MixinBrewingStandBlockEntity from mod pca-1_20-pre2, previously written by me.jellysquid.mods.lithium.mixin.world.block_entity_ticking.sleeping.brewing_stand.BrewingStandBlockEntityMixin. Skipping method.
+[22:14:32] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[22:14:32] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:14:32] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[22:14:32] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:14:32] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[22:14:32] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:14:32] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:14:32] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:14:32] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:14:33] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 94 milliseconds
+[22:14:33] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
+[22:14:33] [main/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[22:14:34] [main/WARN]: Method overwrite conflict for getClimateSettings in architectury.mixins.json:BiomeAccessor from mod architectury, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
+[22:14:34] [Render thread/INFO]: [STDERR]: [LWJGL] Platform/architecture mismatch detected for module: org.lwjgl
+[22:14:34] [Render thread/INFO]: [STDERR]: 	JVM platform:
+		Windows amd64 17.0.6
+		Java HotSpot(TM) 64-Bit Server VM v17.0.6+9-LTS-190 by Oracle Corporation
+	Platform available on classpath:
+		windows/x86
+[22:14:34] [Render thread/INFO]: [STDERR]: [LWJGL] Failed to load a library. Possible solutions:
+	a) Add the directory that contains the shared library to -Djava.library.path or -Dorg.lwjgl.librarypath.
+	b) Add the JAR that contains the shared library to the classpath.
+[22:14:34] [Render thread/INFO]: [STDERR]: [LWJGL] Enable debug mode with -Dorg.lwjgl.util.Debug=true for better diagnostics.
+[22:14:34] [Render thread/INFO]: [STDERR]: [LWJGL] Enable the SharedLibraryLoader debug mode with -Dorg.lwjgl.util.DebugLoader=true for better diagnostics.
+[22:14:34] [Render thread/ERROR]: Minecraft has crashed!
+net.fabricmc.loader.impl.FormattedException: java.lang.NoClassDefFoundError: Could not initialize class com.mojang.blaze3d.systems.RenderSystem
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:63) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.21.jar:?]
+Caused by: java.lang.NoClassDefFoundError: Could not initialize class com.mojang.blaze3d.systems.RenderSystem
+	at net.minecraft.class_6396.method_37123(class_6396.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_37274(class_310.java:2424) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_22681(class_310.java:2419) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:220) ~[XPlus%202.0%20based%20on%20Minecraft%201.20.0%20(Fabric).jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 2 more

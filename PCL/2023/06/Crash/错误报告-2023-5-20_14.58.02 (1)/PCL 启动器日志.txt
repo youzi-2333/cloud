@@ -1,0 +1,1403 @@
+[14:42:15.664] [Start] 程序版本：Release 2.5.2（286）
+[14:42:15.678] [Start] 识别码：B416-2FE2-E03C-10CE
+[14:42:15.678] [Start] 程序路径：F:\360MoveData\Users\Administrator\Desktop\PCL\Plain Craft Launcher 2.exe
+[14:42:15.729] [Start] 第一阶段加载用时：1765 ms
+[14:42:17.230] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[14:42:17.232] [Start] 第二阶段加载用时：781 ms
+[14:42:17.274] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[14:42:18.647] [System] 窗口已置顶，位置：(432, 245), 816 x 520
+[14:42:18.671] [Animation] 动画线程开始
+[14:42:18.791] [Start] 第三阶段加载用时：532 ms
+[14:42:18.841] [Launch] Minecraft 文件夹：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\
+[14:42:18.890] [Start] 加载 DLL：Json
+[14:42:18.890] [System] 获取资源：Json
+[14:42:19.208] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[14:42:19.403] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[14:42:19.539] [Animation] 两个动画帧间隔 718 ms
+[14:42:19.615] [Skin] 载入头像成功：Loader Skin Legacy
+[14:42:19.615] [Animation] 两个动画帧间隔 204 ms
+[14:42:19.617] [System] DPI：96，系统版本：10.0.19045.0，PCL 位置：F:\360MoveData\Users\Administrator\Desktop\PCL\Plain Craft Launcher 2.exe
+[14:42:19.798] [Minecraft] 启动按钮：Minecraft 版本：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\
+[14:42:20.219] [Loader] 加载器 登录 状态改变：Loading
+[14:42:20.240] [Animation] 两个动画帧间隔 500 ms
+[14:42:20.712] [Launch] 登录加载已开始
+[14:42:20.861] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[14:42:20.958] [Launch] 登录方式：离线（xkhh）
+[14:42:20.996] [Skin] 由于离线皮肤设置，使用正版 UUID：awa
+[14:42:21.000] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[14:42:21.014] [Launch] 登录加载已结束
+[14:42:21.014] [Loader] 加载器 登录 状态改变：Finished
+[14:42:22.329] [Java] 缓存中有 12 个可用的 Java
+[14:42:22.650] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[14:42:23.201] [Animation] 两个动画帧间隔 391 ms
+[14:42:23.326] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[14:42:23.433] [Loader] 加载器 PCL 服务 状态改变：Loading
+[14:42:23.884] [Server] 正在连接到 PCL 服务器
+[14:42:24.285] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1684564944-14009d16-0-a3205ec4b84ff3c30a5b79c2914948d9，最大超时 10000
+[14:42:24.669] [Server] 服务器公告：104|291|286|5，无需更新
+[14:42:24.708] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[14:42:24.852] [Loader] 加载器 PCL 服务 状态改变：Finished
+[14:42:24.853] [Control] 按下图标按钮：BtnTitleMin
+[14:43:28.422] [Control] 按下按钮：启动游戏
+[14:43:28.422] [Loader] 加载器 Loader Launch 状态改变：Loading
+[14:43:28.437] [System] 欲读取的文件不存在，已返回空字符串：F:\360MoveData\Users\Administrator\Desktop\PCL\PCL\hints.txt
+[14:43:28.522] [Launch] 预检测已通过
+[14:43:28.527] [Download] 开始后台更新资源文件索引
+[14:43:28.532] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[14:43:28.532] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[14:43:28.547] [Download] 版本 1.19.2-Fabric 0.14.19 对应的资源文件索引为 1.19
+[14:43:28.552] [Loader] 加载器 登录 状态改变：Waiting
+[14:43:28.552] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[14:43:28.552] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[14:43:28.552] [Loader] 加载器 Java 处理 状态改变：Loading
+[14:43:28.557] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[14:43:28.567] [Loader] 加载器 Java 验证 状态改变：Loading
+[14:43:28.578] [Launch] Java 版本需求：最低 1.17.0.0，最高 1.19.999.999
+[14:43:28.590] [Loader] 加载器 登录 状态改变：Loading
+[14:43:28.598] [Java] 开始完全遍历查找：F:\360MoveData\Users\Administrator\Desktop\PCL\
+[14:43:28.612] [Java] 开始完全遍历查找：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\
+[14:43:28.651] [Java] 开始完全遍历查找：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\
+[14:43:28.682] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-17\bin\java.exe -version
+[14:43:28.722] [Loader] 加载器 补全文件 状态改变：Loading
+[14:43:28.729] [Launch] 登录加载已开始
+[14:43:28.731] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[14:43:28.731] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[14:43:28.737] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[14:43:28.737] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[14:43:28.739] [Download] 版本 1.19.2-Fabric 0.14.19 对应的资源文件索引为 1.19
+[14:43:28.832] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[14:43:28.832] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[14:43:28.850] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[14:43:28.852] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[14:43:28.893] [Launch] 登录加载已结束
+[14:43:28.893] [Loader] 加载器 登录 状态改变：Finished
+[14:43:28.953] [Download] 1.19.json 143#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/f7033757bcb91e11d79f0f31330d680cc787631f/1.19.json
+[14:43:29.069] [Minecraft] 获取支持库列表：1.19.2-Fabric 0.14.19
+[14:43:29.283] [Download] 1.19.json：文件大小 385610 B（377 K）
+[14:43:29.986] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[14:43:29.987] [Loader] 加载器 下载资源文件 状态改变：Loading
+[14:43:29.988] [Loader] 加载器 下载资源文件 状态改变：Finished
+[14:43:29.989] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[14:43:30.000] [Java] 选定的 Java：JDK 17 (17.0.7)，64 位：C:\Program Files\Java\jdk-17\bin\
+[14:43:30.006] [Launch] 选择的 Java：JDK 17 (17.0.7)，64 位：C:\Program Files\Java\jdk-17\bin\
+[14:43:30.006] [Loader] 加载器 Java 验证 状态改变：Finished
+[14:43:30.006] [Loader] 加载器 Java 处理 状态改变：Finished
+[14:43:30.102] [Download] 1.19.json：已完成，剩余文件 0
+[14:43:30.103] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[14:43:30.103] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[14:43:30.109] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.19.json
+[14:43:30.109] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[14:43:30.109] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[14:43:32.690] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[14:43:32.690] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[14:43:32.690] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[14:43:32.690] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[14:43:32.690] [Loader] 加载器 补全文件 状态改变：Finished
+[14:43:32.690] [Loader] 加载器 获取启动参数 状态改变：Loading
+[14:43:32.706] [Launch] 开始获取 Minecraft 启动参数
+[14:43:32.706] [Launch] 获取新版 JVM 参数
+[14:43:32.706] [Launch] 当前剩余内存：1.3G
+[14:43:32.722] [System] 获取资源：JavaWrapper
+[14:43:32.722] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[14:43:32.722] [Launch] 新版 JVM 参数获取成功：
+[14:43:32.722] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx3584m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient
+[14:43:32.722] [Launch] 获取新版 Game 参数
+[14:43:32.722] [Launch] 新版 Game 参数获取成功
+[14:43:32.722] [Minecraft] 获取支持库列表：1.19.2-Fabric 0.14.19
+[14:43:32.722] [Launch] Minecraft 启动参数：
+[14:43:32.737] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\1.19.2-Fabric 0.14.19-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=286 -cp "F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\tiny-mappings-parser\0.3.0+build.17\tiny-mappings-parser-0.3.0+build.17.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\sponge-mixin\0.12.4+mixin.0.8.5\sponge-mixin-0.12.4+mixin.0.8.5.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\tiny-remapper\0.8.2\tiny-remapper-0.8.2.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\access-widener\2.1.0\access-widener-2.1.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\ow2\asm\asm\9.4\asm-9.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\ow2\asm\asm-analysis\9.4\asm-analysis-9.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\ow2\asm\asm-commons\9.4\asm-commons-9.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\ow2\asm\asm-tree\9.4\asm-tree-9.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\ow2\asm\asm-util\9.4\asm-util-9.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\intermediary\1.19.2\intermediary-1.19.2.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\fabric-loader\0.14.19\fabric-loader-0.14.19.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\1.19.2-Fabric 0.14.19.jar" -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx3584m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient --username xkhh --version "1.19.2-Fabric 0.14.19" --gameDir "F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19" --assetsDir "F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\assets" --assetIndex 1.19 --uuid dc2c0XXXXXXXXXXXXXXXXXXXXXX5f4bf --accessToken dc2c0XXXXXXXXXXXXXXXXXXXXXX5f4bf --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 
+[14:43:32.737] [Loader] 加载器 获取启动参数 状态改变：Finished
+[14:43:32.778] [Loader] 加载器 解压文件 状态改变：Loading
+[14:43:32.830] [Launch] 正在解压 Natives 文件
+[14:43:32.830] [Loader] 加载器 解压文件 状态改变：Finished
+[14:43:32.877] [Loader] 加载器 预启动处理 状态改变：Loading
+[14:43:32.893] [Launch] 并非首次启动，不修改语言
+[14:43:32.893] [Loader] 加载器 预启动处理 状态改变：Finished
+[14:43:32.924] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[14:43:32.953] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[14:43:32.953] [Loader] 加载器 启动进程 状态改变：Loading
+[14:43:32.973] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-17\bin\javaw.exe
+[14:43:32.973] [Loader] 加载器 启动进程 状态改变：Finished
+[14:43:33.020] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[14:43:33.029] [Launch] 
+[14:43:33.030] [Launch] ~ 基础参数 ~
+[14:43:33.030] [Launch] PCL 版本：Release 2.5.2 (286)
+[14:43:33.030] [Launch] 游戏版本：1.19.2, Fabric 0.14.19（19.2）
+[14:43:33.030] [Launch] 资源版本：1.19
+[14:43:33.030] [Launch] 版本继承：无
+[14:43:33.030] [Launch] 分配的内存：3.5 GB（3584 MB）
+[14:43:33.030] [Launch] MC 文件夹：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\
+[14:43:33.030] [Launch] 版本文件夹：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\
+[14:43:33.030] [Launch] 版本隔离：True
+[14:43:33.030] [Launch] HMCL 格式：False
+[14:43:33.030] [Launch] Java 信息：JDK 17 (17.0.7)，64 位：C:\Program Files\Java\jdk-17\bin\
+[14:43:33.030] [Launch] 环境变量：未设置
+[14:43:33.030] [Launch] 
+[14:43:33.030] [Launch] ~ 登录参数 ~
+[14:43:33.030] [Launch] 玩家用户名：xkhh
+[14:43:33.030] [Launch] AccessToken：dc2c0XXXXXXXXXXXXXXXXXXXXXX5f4bf
+[14:43:33.030] [Launch] ClientToken：dc2c0XXXXXXXXXXXXXXXXXXXXXX5f4bf
+[14:43:33.030] [Launch] UUID：dc2c0XXXXXXXXXXXXXXXXXXXXXX5f4bf
+[14:43:33.030] [Launch] 登录方式：Legacy
+[14:43:33.030] [Launch] 
+[14:43:33.041] [Launch] [4444] 开始 Minecraft 日志监控
+[14:43:33.042] [Launch] [全局] 出现运行中的 Minecraft
+[14:43:33.390] [Launch] [4444] 日志 1/5：已出现日志输出
+[14:44:11.067] [Launch] [4444] 日志 2/5：游戏用户已设置
+[14:44:18.018] [Launch] [4444] 日志 3/5：LWJGL 版本已确认
+[14:44:18.316] [Launch] [4444] Minecraft 窗口已加载：Minecraft* 1.19.2（393698）
+[14:44:19.490] [Launch] [4444] Minecraft 加载已完成
+[14:44:19.568] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[14:44:19.580] [Loader] 加载器 结束处理 状态改变：Loading
+[14:44:19.583] [Launch] 开始启动结束处理
+[14:44:19.583] [Launch] 启动器可见性：5
+[14:44:19.583] [Loader] 加载器 结束处理 状态改变：Finished
+[14:44:19.651] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[14:44:19.785] [Loader] 加载器 Loader Launch 状态改变：Finished
+[14:44:19.838] [UI] 弹出提示：1.19.2-Fabric 0.14.19 启动成功！
+[14:44:28.368] [Animation] 两个动画帧间隔 297 ms
+[14:44:32.620] [Launch] [4444] 日志 4/5：OpenAL 已加载
+[14:44:32.620] [Launch] [4444] 日志 5/5：材质已加载
+[14:44:34.823] [Animation] 两个动画帧间隔 609 ms
+[14:46:22.202] [Animation] 两个动画帧间隔 344 ms
+[14:46:23.122] [Animation] 两个动画帧间隔 219 ms
+[14:47:12.223] [Animation] 两个动画帧间隔 219 ms
+[14:52:10.636] [Launch] [4444] 识别为崩溃的 Log：#@!@# Game crashed! Crash report saved to: #@!@# F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\crash-reports\crash-2023-05-20_14.52.10-client.txt
+[14:52:10.649] [Launch] [全局] 已无运行中的 Minecraft
+[14:52:10.650] [Launch] [4444] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[14:52:10.696] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[14:52:10.871] [Launch] [4444] Minecraft 日志监控已退出
+[14:52:12.658] [Launch] [4444] 崩溃分析开始
+[14:52:12.692] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\444427223775\
+[14:52:12.705] [Crash] 步骤 1：收集日志文件
+[14:52:12.707] [Crash] 可能可用的日志文件：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\crash-reports\crash-2023-05-20_14.52.10-client.txt（0 分钟）
+[14:52:12.707] [Crash] 可能可用的日志文件：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\logs\latest.log（0 分钟）
+[14:52:12.861] [Crash] 以下为游戏输出的最后一段内容：
+[14:46:13] [Render thread/INFO]: Stopping worker threads
+[14:46:13] [Render thread/INFO]: Started 1 worker threads
+[14:46:13] [Render thread/INFO]: [System] [CHAT] [BetterRTP] There is currently an update for BetterRTP version #3.6.9-1 you have version #3.3.0
+[14:46:13] [Render thread/INFO]: [System] [CHAT] xkhh加入了游戏
+[14:46:13] [Render thread/INFO]: Loaded 176 advancements
+[14:46:14] [Render thread/INFO]: [System] [CHAT] [ 玩家 ]☆[生存世界] <Cwy_> hi
+[14:46:14] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:46:14] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:46:14] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:46:14] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:46:15] [Render thread/INFO]: Reloading entity icon resources...
+[14:46:15] [Render thread/INFO]: Done!
+[14:46:17] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:46:17] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:46:21] [Render thread/INFO]: [System] [CHAT] Inventory Profiles Next: 版本：'1.10.1' 已更新。\n下载链接："Modrinth" 或 "CurseForge"
+[14:46:22] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:46:22] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:46:25] [Render thread/INFO]: Exception when loading minecraft:flowering_azalea texture, using material colour.
+[14:46:25] [Render thread/INFO]: No texture minecraft:textures/null.png
+[14:46:27] [Render thread/INFO]: [System] [CHAT] 已成功登录!
+[14:46:27] [Render thread/INFO]: [System] [CHAT] Now leaving Spawn.
+[14:46:27] [Render thread/INFO]: Stopping worker threads
+[14:46:27] [Render thread/INFO]: Started 1 worker threads
+[14:46:27] [Render thread/INFO]: Stopping worker threads
+[14:46:27] [Render thread/INFO]: Started 1 worker threads
+[14:47:05] [Render thread/INFO]: Loaded 179 advancements
+[14:47:09] [Render thread/ERROR]: Error saving option 亮度: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[14:47:11] [Render thread/ERROR]: Error saving option 亮度: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[14:47:11] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (AdvancementInfo, AppleSkin, Better Beds, Boat Item View Fabric, CaffeineConfig, Cloth Config v8, Continuity, Eating Animation, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric Block API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Client Tags, Fabric Command API (v1), Fabric Command API (v2), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Language Kotlin, Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Message API (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Recipe API (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Sound API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, FPS Reducer, Inventory Profiles Next, Iris, Jade, Just Enough Items, LazyDFU, libIPN, MaLiLib, Mod Menu, Physics Mod, Presence Footsteps, Sodium, Sodium Extra, Tweakeroo, WI Zoom, Xaero's Minimap), minecraft/supporteatinganimation, continuity/default, betterbeds/fancybeds, betterbeds/connectedbeds, [1.18.1]MASA全家桶汉化包.zip
+[14:47:11] [Render thread/INFO]: Reloading DashLoader. [mod-hash: 34690337EA9F75B4C51C0F2CAA3FBCF2] [resource-hash: 328BAABF5D306549DEF3E2D27604FB99]
+[14:47:11] [Render thread/INFO]: [46m[30m DashLoader Status change READ
+[0m
+[14:47:11] [Render thread/INFO]: Created READ data manager
+[14:47:11] [Render thread/INFO]: Starting DashLoader Deserialization
+[14:47:11] [dlc-thread-2/INFO]: Read RegistryData in 43ms
+[14:47:11] [dlc-thread-2/INFO]: Decompressed RegistryData in 14ms
+[14:47:11] [dlc-thread-3/INFO]: Read ImageData in 80ms
+[14:47:11] [dlc-thread-2/INFO]: Read ModelData in 107ms
+[14:47:12] [dlc-thread-2/INFO]: Decompressed ModelData in 506ms
+[14:47:13] [dlc-thread-2/INFO]: Read IdentifierData in 1060ms
+[14:47:13] [dlc-thread-2/INFO]: Decompressed IdentifierData in 387ms
+[14:47:13] [dlc-thread-2/INFO]: Read BakedQuadData in 175ms
+[14:47:15] [dlc-thread-2/INFO]: Decompressed BakedQuadData in 1270ms
+[14:47:15] [dlc-thread-2/INFO]: Read MappingData in 93ms
+[14:47:15] [dlc-thread-2/INFO]: Decompressed MappingData in 35ms
+[14:47:17] [dlc-thread-3/INFO]: Decompressed ImageData in 5380ms
+[14:47:17] [Render thread/INFO]: Creating Registry
+[14:47:17] [Render thread/INFO]: Exporting Mappings
+[14:47:17] [Render thread/INFO]: Loading 3165 DashImages
+[14:47:17] [Render thread/INFO]: Loading 2614 DashSprites
+[14:47:17] [Render thread/INFO]: Loading 24090 DashIdentifierInterfaces
+[14:47:17] [Render thread/INFO]: Loading 74737 DashBakedQuads
+[14:47:17] [Render thread/INFO]: Loading 718 DashPredicates
+[14:47:17] [Render thread/INFO]: Loading 0 DashBlockStates
+[14:47:17] [Render thread/INFO]: Loading 15 DashFonts
+[14:47:17] [Render thread/INFO]: Loading 26974 DashModels
+[14:47:17] [Render thread/INFO]: Loading Mappings
+[14:47:17] [Render thread/INFO]: Scanning Blocks
+[14:47:17] [Render thread/INFO]: Verifying 933 BlockStates
+[14:47:17] [Render thread/INFO]: Found 1401 Missing BlockState Models
+[14:47:17] [Render thread/INFO]: Loaded DashLoader in 5754ms
+[14:47:17] [Render thread/INFO]: Reloaded DashLoader
+[14:47:17] [Worker-Main-4/INFO]: Preparing fonts
+[14:47:17] [Worker-Main-4/INFO]: Injecting 21206 Cached Models
+[14:47:17] [Worker-Main-4/INFO]: Loaded 1401 unsupported models.
+[14:47:18] [Worker-Main-4/INFO]: Injecting Atlases
+[14:47:18] [Worker-Main-4/INFO]: Injected minecraft:textures/atlas/blocks.png atlas.
+[14:47:18] [Worker-Main-4/INFO]: Injected minecraft:textures/atlas/signs.png atlas.
+[14:47:18] [Worker-Main-4/INFO]: Injected minecraft:textures/atlas/banner_patterns.png atlas.
+[14:47:18] [Worker-Main-4/INFO]: Injected minecraft:textures/atlas/shield_patterns.png atlas.
+[14:47:18] [Worker-Main-4/INFO]: Injected minecraft:textures/atlas/chest.png atlas.
+[14:47:18] [Worker-Main-4/INFO]: Injected minecraft:textures/atlas/beds.png atlas.
+[14:47:18] [Worker-Main-4/INFO]: Injected minecraft:textures/atlas/shulker_boxes.png atlas.
+[14:47:18] [Worker-Main-4/INFO]: Injected minecraft:textures/atlas/paintings.png atlas.
+[14:47:18] [Worker-Main-4/INFO]: Injected minecraft:textures/atlas/mob_effects.png atlas.
+[14:47:18] [Worker-Main-4/INFO]: Injected jei:textures/atlas/gui.png atlas.
+[14:47:18] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:47:18] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:47:19] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 扬声器 (Realtek High Definition Audio)
+[14:47:19] [Render thread/INFO]: Sound engine started
+[14:47:19] [Render thread/INFO]: Applying fonts off-thread
+[14:47:19] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[14:47:19] [Render thread/INFO]: Entity icon manager reset!
+[14:47:19] [Render thread/INFO]: Reloading entity icon resources...
+[14:47:19] [Render thread/INFO]: Done!
+[14:47:19] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:47:19] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[14:47:19] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:47:19] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:47:19] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[14:47:19] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[14:47:19] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[14:47:19] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:47:19] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:47:20] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[14:47:20] [Render thread/ERROR]: SpriteFinderImpl: Skipping sprite minecraft:missingno with broken bounds [2.0, 3.0]x[42.0, 43.0]. Sprite bounds should be between 0 and 1.
+[14:47:20] [Render thread/INFO]: Skipping non-result value minecraft:lantern=UNASSIGNED
+[14:47:20] [Render thread/INFO]: Skipping non-result value minecraft:soul_lantern=UNASSIGNED
+[14:47:21] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[14:47:21] [Render thread/INFO]: Stopping worker threads
+[14:47:21] [Render thread/INFO]: Started 1 worker threads
+[14:47:21] [Render thread/INFO]: [46m[30m DashLoader Status change NONE
+[0m
+[14:47:21] [Render thread/INFO]: ┏ DashLoader Statistics.
+[14:47:21] [Render thread/INFO]: ┠──┬ 5.8s DashLoader load
+[14:47:21] [Render thread/INFO]: ┃  ├── 5.5s File reading
+[14:47:21] [Render thread/INFO]: ┃  ├── 214ms Asset exporting
+[14:47:21] [Render thread/INFO]: ┃  └── 78ms Asset loading
+[14:47:21] [Render thread/INFO]: ┠──┬ 93% Cache coverage
+[14:47:21] [Render thread/INFO]: ┃  ├── 1402 Fallback models
+[14:47:21] [Render thread/INFO]: ┃  └── 21205 Cached models
+[14:47:21] [Render thread/INFO]: ┠── 9.7s Minecraft client reload
+[14:47:21] [Render thread/INFO]: ┠── 12.7s Minecraft bootstrap
+[14:47:21] [Render thread/INFO]: ┖── 1m 2s Total loading
+[14:47:21] [Render thread/INFO]: Minimap block colour cache cleaned.
+[14:47:22] [Render thread/ERROR]: Error saving option 亮度: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[14:48:57] [Render thread/INFO]: [System] [CHAT] Cwy_退出了游戏
+[14:49:49] [Render thread/INFO]: Loaded 190 advancements
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input expected). Approximation for inertia tensor will be used instead.
+
+D:\git\physx-jni\PhysX\physx\source\physxextensions\src\ExtRigidBodyExt.cpp (84) : warning : PxRigidBodyExt::updateMassAndInertia: inertia tensor has negative components (ill-conditioned input exp[14:52:09] [Render thread/INFO]: Minimap session finalized.
+[14:52:09] [Render thread/INFO]: Stopping JEI
+[14:52:09] [Render thread/INFO]: Stopping JEI
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft ...
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft took 316.1 μs
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jade:main ...
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jade:main took 12.20 μs
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug ...
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug took 13.30 μs
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jei:fabric_gui ...
+[14:52:09] [Render thread/INFO]: Stopping JEI GUI
+[14:52:09] [JEI GUI Config file watcher/INFO]: FileWatcher was interrupted, stopping.
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jei:fabric_gui took 4.093 ms
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui ...
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui took 8.900 μs
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal ...
+[14:52:09] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal took 6.500 μs
+[14:52:09] [JEI Library Config file watcher/INFO]: FileWatcher was interrupted, stopping.
+[14:52:09] [Render thread/INFO]: Stopping worker threads
+[14:52:10] [Render thread/ERROR]: Reported exception thrown!
+net.minecraft.class_148: Rendering entity in world
+	at net.minecraft.class_898.method_3954(class_898.java:172) ~[client-intermediary.jar:?]
+	at net.minecraft.class_761.method_22977(class_761.java:1568) ~[client-intermediary.jar:?]
+	at net.minecraft.class_761.method_22710(class_761.java:1316) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3188(class_757.java:1039) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:816) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1177) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:768) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:244) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.19.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.fabricmc.fabric.api.renderer.v1.Renderer.meshBuilder()" because the return value of "net.fabricmc.fabric.api.renderer.v1.RendererAccess.getRenderer()" is null
+	at me.pepperbell.continuity.impl.client.ProcessingContextImpl.<init>(ProcessingContextImpl.java:19) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.client.model.CTMBakedModel$CTMQuadTransform.<init>(CTMBakedModel.java:70) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.<init>(ModelObjectsContainer.java:10) ~[continuity-2.0.2+1.19.jar:?]
+	at java.lang.ThreadLocal$SuppliedThreadLocal.initialValue(ThreadLocal.java:305) ~[?:?]
+	at java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:195) ~[?:?]
+	at java.lang.ThreadLocal.get(ThreadLocal.java:172) ~[?:?]
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.get(ModelObjectsContainer.java:18) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.impl.client.ContinuityFeatureStatesImpl.get(ContinuityFeatureStatesImpl.java:16) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.api.client.ContinuityFeatureStates.get(ContinuityFeatureStates.java:10) ~[continuity-2.0.2+1.19.jar:?]
+	at net.minecraft.class_901.handler$zbb000$continuity$beforeRenderModel(class_901.java:518) ~[client-intermediary.jar:?]
+	at net.minecraft.class_901.method_3965(class_901.java:45) ~[client-intermediary.jar:?]
+	at net.minecraft.class_901.method_3936(class_901.java:17) ~[client-intermediary.jar:?]
+	at net.minecraft.class_898.method_3954(class_898.java:141) ~[client-intermediary.jar:?]
+	... 17 more
+---- Minecraft Crash Report ----
+// Don't do that.
+
+Time: 2023-05-20 14:52:10
+Description: Rendering entity in world
+
+java.lang.NullPointerException: Cannot invoke "net.fabricmc.fabric.api.renderer.v1.Renderer.meshBuilder()" because the return value of "net.fabricmc.fabric.api.renderer.v1.RendererAccess.getRenderer()" is null
+	at me.pepperbell.continuity.impl.client.ProcessingContextImpl.<init>(ProcessingContextImpl.java:19)
+	at me.pepperbell.continuity.client.model.CTMBakedModel$CTMQuadTransform.<init>(CTMBakedModel.java:70)
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.<init>(ModelObjectsContainer.java:10)
+	at java.base/java.lang.ThreadLocal$SuppliedThreadLocal.initialValue(ThreadLocal.java:305)
+	at java.base/java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:195)
+	at java.base/java.lang.ThreadLocal.get(ThreadLocal.java:172)
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.get(ModelObjectsContainer.java:18)
+	at me.pepperbell.continuity.impl.client.ContinuityFeatureStatesImpl.get(ContinuityFeatureStatesImpl.java:16)
+	at me.pepperbell.continuity.api.client.ContinuityFeatureStates.get(ContinuityFeatureStates.java:10)
+	at net.minecraft.class_901.handler$zbb000$continuity$beforeRenderModel(class_901.java:518)
+	at net.minecraft.class_901.method_3965(class_901.java:45)
+	at net.minecraft.class_901.method_3936(class_901.java:17)
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+	at net.minecraft.class_757.method_3192(class_757.java:816)
+	at net.minecraft.class_310.method_1523(class_310.java:1177)
+	at net.minecraft.class_310.method_1514(class_310.java:768)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at me.pepperbell.continuity.impl.client.ProcessingContextImpl.<init>(ProcessingContextImpl.java:19)
+	at me.pepperbell.continuity.client.model.CTMBakedModel$CTMQuadTransform.<init>(CTMBakedModel.java:70)
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.<init>(ModelObjectsContainer.java:10)
+	at java.base/java.lang.ThreadLocal$SuppliedThreadLocal.initialValue(ThreadLocal.java:305)
+	at java.base/java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:195)
+	at java.base/java.lang.ThreadLocal.get(ThreadLocal.java:172)
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.get(ModelObjectsContainer.java:18)
+	at me.pepperbell.continuity.impl.client.ContinuityFeatureStatesImpl.get(ContinuityFeatureStatesImpl.java:16)
+	at me.pepperbell.continuity.api.client.ContinuityFeatureStates.get(ContinuityFeatureStates.java:10)
+	at net.minecraft.class_901.handler$zbb000$continuity$beforeRenderModel(class_901.java:518)
+	at net.minecraft.class_901.method_3965(class_901.java:45)
+	at net.minecraft.class_901.method_3936(class_901.java:17)
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+
+-- Entity being rendered --
+Details:
+	Entity Type: minecraft:falling_block (net.minecraft.class_1540)
+	Entity ID: 142370
+	Entity Name: 下落的方块
+	Entity's Exact location: 714.50, 44.96, -906.50
+	Entity's Block location: World: (714,44,-907), Section: (at 10,12,5 in 44,2,-57; chunk contains blocks 704,-64,-912 to 719,319,-897), Region: (1,-2; contains chunks 32,-64 to 63,-33, blocks 512,-64,-1024 to 1023,319,-513)
+	Entity's Momentum: 0.00, -0.04, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: null
+	Immitating BlockState: Block{minecraft:gravel}
+Stacktrace:
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+	at net.minecraft.class_757.method_3192(class_757.java:816)
+	at net.minecraft.class_310.method_1523(class_310.java:1177)
+	at net.minecraft.class_310.method_1514(class_310.java:768)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- Renderer details --
+Details:
+	Assigned renderer: net.minecraft.class_901@3466d8a2
+	Location: -0.20,-2.77,-0.80 - World: (-1,-3,-1), Section: (at 15,13,15 in -1,-1,-1; chunk contains blocks -16,-64,-16 to -1,319,-1), Region: (-1,-1; contains chunks -32,-32 to -1,-1, blocks -512,-64,-512 to -1,319,-1)
+	Rotation: 0.0
+	Delta: 0.26005006
+Stacktrace:
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+	at net.minecraft.class_757.method_3192(class_757.java:816)
+	at net.minecraft.class_310.method_1523(class_310.java:1177)
+	at net.minecraft.class_310.method_1514(class_310.java:768)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- Affected level --
+Details:
+	All players: 1 total; [class_746['xkhh'/139896, l='ClientLevel', x=714.70, y=46.02, z=-905.70]]
+	Chunk stats: 1024, 461
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (48,70,32), Section: (at 0,6,0 in 3,4,2; chunk contains blocks 48,-64,32 to 63,319,47), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,-64,0 to 511,319,511)
+	Level time: 41058 game time, 22337449 day time
+	Server brand: Paper
+	Server type: Non-integrated multiplayer server
+Stacktrace:
+	at net.minecraft.class_638.method_8538(class_638.java:453)
+	at net.minecraft.class_310.method_1587(class_310.java:2341)
+	at net.minecraft.class_310.method_1514(class_310.java:787)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- Last reload --
+Details:
+	Reload number: 2
+	Reload reason: manual
+	Finished: Yes
+	Packs: Default, Fabric Mods, minecraft/supporteatinganimation, continuity/default, betterbeds/fancybeds, betterbeds/connectedbeds, [1.18.1]MASA全家桶汉化包.zip
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.7, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 407924736 bytes (389 MiB) / 853540864 bytes (814 MiB) up to 3758096384 bytes (3584 MiB)
+	CPUs: 2
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Celeron(R) CPU G1840 @ 2.80GHz
+	Identifier: Intel64 Family 6 Model 60 Stepping 3
+	Microarchitecture: Haswell (Client)
+	Frequency (GHz): 2.79
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 2
+	Graphics card #0 name: Intel(R) HD Graphics
+	Graphics card #0 vendor: Intel Corporation (0x8086)
+	Graphics card #0 VRAM (MB): 1024.00
+	Graphics card #0 deviceId: 0x0402
+	Graphics card #0 versionInfo: DriverVersion=20.19.15.4835
+	Memory slot #0 capacity (MB): 4096.00
+	Memory slot #0 clockSpeed (GHz): 1.60
+	Memory slot #0 type: DDR3
+	Virtual memory max (MB): 8321.20
+	Virtual memory used (MB): 4895.44
+	Swap memory total (MB): 4537.99
+	Swap memory used (MB): 1342.75
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx3584m
+	Fabric Mods: 
+		advancementinfo: AdvancementInfo 1.19.1-fabric0.58.5-1.3.1
+		appleskin: AppleSkin 2.4.1+mc1.19
+		betterbeds: Better Beds 1.2.0
+		boatiview: Boat Item View Fabric 0.0.4
+			cloth-config: Cloth Config v8 8.0.75
+				cloth-basic-math: cloth-basic-math 0.6.1
+		continuity: Continuity 2.0.2+1.19
+		dashloader: DashLoader 4.1.3+1.19
+			com_github_luben_zstd-jni: zstd-jni 1.5.2-2
+			dev_quantumfusion_hyphen: Hyphen 0.2.2
+			dev_quantumfusion_taski: Taski 1.1.0
+		eatinganimationid: Eating Animation 1.9.1
+		fabric-api: Fabric API 0.76.0+1.19.2
+			fabric-api-base: Fabric API Base 0.4.15+8f4e8eb390
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.14+93d8cb8290
+			fabric-biome-api-v1: Fabric Biome API (v1) 9.1.1+16f1e31390
+			fabric-block-api-v1: Fabric Block API (v1) 1.0.2+e415d50e90
+			fabric-blockrenderlayer-v1: Fabric BlockRenderLayer Registration (v1) 1.1.25+cafc6e8e90
+			fabric-client-tags-api-v1: Fabric Client Tags 1.0.5+b35fea8390
+			fabric-command-api-v1: Fabric Command API (v1) 1.2.16+f71b366f90
+			fabric-command-api-v2: Fabric Command API (v2) 2.2.1+413cbbc790
+			fabric-commands-v0: Fabric Commands (v0) 0.2.33+df3654b390
+			fabric-containers-v0: Fabric Containers (v0) 0.1.41+df3654b390
+			fabric-content-registries-v0: Fabric Content Registries (v0) 3.5.2+7c6cd14d90
+			fabric-convention-tags-v1: Fabric Convention Tags 1.3.0+4bc6e26290
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.2.8+aeb40ebe90
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 5.3.8+413cbbc790
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 2.1.35+0d0f210290
+			fabric-entity-events-v1: Fabric Entity Events (v1) 1.5.4+9244241690
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.4.34+562bff6e90
+			fabric-events-lifecycle-v0: Fabric Events Lifecycle (v0) 0.2.36+df3654b390
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.24+b6b6abb490
+			fabric-item-api-v1: Fabric Item API (v1) 1.6.6+b7d1888890
+			fabric-item-groups-v0: Fabric Item Groups (v0) 0.3.39+9244241690
+			fabric-key-binding-api-v1: Fabric Key Binding API (v1) 1.0.25+5c4fce2890
+			fabric-keybindings-v0: Fabric Key Bindings (v0) 0.2.23+df3654b390
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.2.4+1b46dc7890
+			fabric-loot-api-v2: Fabric Loot API (v2) 1.1.13+83a8659290
+			fabric-loot-tables-v1: Fabric Loot Tables (v1) 1.1.16+9e7660c690
+			fabric-message-api-v1: Fabric Message API (v1) 5.0.7+93d8cb8290
+			fabric-mining-level-api-v1: Fabric Mining Level API (v1) 2.1.24+33fbc73890
+			fabric-models-v0: Fabric Models (v0) 0.3.21+c6af733c90
+			fabric-networking-api-v1: Fabric Networking API (v1) 1.2.11+10eb22f490
+			fabric-networking-v0: Fabric Networking (v0) 0.3.28+df3654b390
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 4.2.2+d8ef690890
+			fabric-particles-v1: Fabric Particles (v1) 1.0.14+4d0d570390
+			fabric-recipe-api-v1: Fabric Recipe API (v1) 1.0.1+413cbbc790
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 0.9.32+9244241690
+			fabric-renderer-api-v1: Fabric Renderer API (v1) 1.2.1+1adbf27790
+			fabric-renderer-indigo: Fabric Renderer - Indigo 0.8.0+1adbf27790
+			fabric-renderer-registries-v1: Fabric Renderer Registries (v1) 3.2.24+df3654b390
+			fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.3.19+6e0787e690
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.0.11+4d0d570390
+			fabric-rendering-v0: Fabric Rendering (v0) 1.1.27+df3654b390
+			fabric-rendering-v1: Fabric Rendering (v1) 1.12.1+d8ef690890
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 2.1.2+aae9039d90
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 0.8.4+edbdcddb90
+			fabric-screen-api-v1: Fabric Screen API (v1) 1.0.32+4d0d570390
+			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.7+1cc24b1b90
+			fabric-sound-api-v1: Fabric Sound API (v1) 1.0.2+c4f28df590
+			fabric-textures-v0: Fabric Textures (v0) 1.0.24+aeb40ebe90
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 2.1.6+413cbbc790
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 1.3.3+08b73de490
+		fabric-language-kotlin: Fabric Language Kotlin 1.9.4+kotlin.1.8.21
+			org_jetbrains_kotlin_kotlin-reflect: kotlin-reflect 1.8.21
+			org_jetbrains_kotlin_kotlin-stdlib: kotlin-stdlib 1.8.21
+			org_jetbrains_kotlin_kotlin-stdlib-jdk7: kotlin-stdlib-jdk7 1.8.21
+			org_jetbrains_kotlin_kotlin-stdlib-jdk8: kotlin-stdlib-jdk8 1.8.21
+			org_jetbrains_kotlinx_atomicfu-jvm: atomicfu-jvm 0.20.2
+			org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: kotlinx-coroutines-core-jvm 1.6.4
+			org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: kotlinx-coroutines-jdk8 1.6.4
+			org_jetbrains_kotlinx_kotlinx-datetime-jvm: kotlinx-datetime-jvm 0.4.0
+			org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm: kotlinx-serialization-cbor-jvm 1.5.0
+			org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: kotlinx-serialization-core-jvm 1.5.0
+			org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: kotlinx-serialization-json-jvm 1.5.0
+		fabricloader: Fabric Loader 0.14.19
+		fpsreducer: FPS Reducer 1.19.2-2.1
+		inventoryprofilesnext: Inventory Profiles Next 1.9.7
+		iris: Iris 1.6.2
+			io_github_douira_glsl-transformer: glsl-transformer 2.0.0-pre13
+			org_anarres_jcpp: jcpp 1.4.14
+			org_antlr_antlr4-runtime: antlr4-runtime 4.11.1
+		jade: Jade 8.7.3
+		java: Java HotSpot(TM) 64-Bit Server VM 17
+		jei: Just Enough Items 11.6.0.1015
+		lazydfu: LazyDFU 0.1.3
+		libipn: libIPN 2.0.7
+		malilib: MaLiLib 0.13.0
+		minecraft: Minecraft 1.19.2
+		modmenu: Mod Menu 4.2.0-beta.2
+		physicsmod: Physics Mod 2.12.3
+		presencefootsteps: Presence Footsteps 1.6.4
+			kirin: Kirin UI 1.11.1
+		sodium: Sodium 0.4.4+build.18
+			org_joml_joml: joml 1.10.4
+		sodium-extra: Sodium Extra 0.4.16+mc1.19.2-build.90
+			caffeineconfig: CaffeineConfig 1.0.0+1.17
+		tweakeroo: Tweakeroo 0.14.3
+		wi_zoom: WI Zoom 1.4-MC1.19.2
+		xaerominimap: Xaero's Minimap 23.4.3
+	Loaded Shaderpack: (off)
+	NEC status: No NEC detected
+	Launched Version: 1.19.2-Fabric 0.14.19
+	Backend library: LWJGL version 3.3.1 SNAPSHOT
+	Backend API: Intel(R) HD Graphics GL version 3.2.0 - Build 20.19.15.4835, Intel
+	Window size: 854x480
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fabric'
+	Type: Client (map_client.txt)
+	Graphics mode: fancy
+	Resource Packs: vanilla, Fabric Mods, minecraft/supporteatinganimation, continuity/default, betterbeds/fancybeds (incompatible), betterbeds/connectedbeds (incompatible), file/[1.18.1]MASA全家桶汉化包.zip (incompatible)
+	Current Language: 简体中文 (中国大陆)
+	CPU: 2x Intel(R) Celeron(R) CPU G1840 @ 2.80GHz
+#@!@# Game crashed! Crash report saved to: #@!@# F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\crash-reports\crash-2023-05-20_14.52.10-client.txt
+[14:52:12.861] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[14:52:12.876] [Crash] 步骤 2：准备日志文本
+[14:52:12.876] [Crash] crash-2023-05-20_14.52.10-client.txt 分类为 CrashReport
+[14:52:12.876] [Crash] latest.log 分类为 MinecraftLog
+[14:52:12.876] [Crash] RawOutput.log 分类为 MinecraftLog
+[14:52:12.876] [Crash] 输出报告：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\logs\latest.log，作为 Minecraft 或启动器日志
+[14:52:12.876] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\444427223775\RawOutput.log，作为 Minecraft 或启动器日志
+[14:52:12.876] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\444427223775\RawOutput.log，作为启动器日志
+[14:52:12.876] [Crash] 导入分析：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\logs\latest.log，作为 Minecraft 日志
+[14:52:12.908] [Crash] 输出报告：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\crash-reports\crash-2023-05-20_14.52.10-client.txt，作为 Minecraft 崩溃报告
+[14:52:12.908] [Crash] 导入分析：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\crash-reports\crash-2023-05-20_14.52.10-client.txt，作为 Minecraft 崩溃报告
+[14:52:12.908] [Crash] 步骤 2：准备日志文本完成，找到游戏日志、崩溃日志用作分析
+[14:52:12.908] [Crash] 步骤 3：分析崩溃原因
+[14:52:12.926] [Crash] 开始进行崩溃日志堆栈分析
+[14:52:13.031] [Crash] 找到 3 条可能的堆栈信息
+[14:52:13.031] [Crash]  - me.pepperbell.continuity.impl.client
+[14:52:13.031] [Crash]  - me.pepperbell.continuity.client.model
+[14:52:13.031] [Crash]  - me.pepperbell.continuity.api.client
+[14:52:13.031] [Crash] 从堆栈信息中找到 3 个可能的 Mod ID 关键词
+[14:52:13.031] [Crash]  - pepperbell, continuity, impl
+[14:52:13.033] [Crash] 检测到 Fabric Mod 信息格式
+[14:52:13.033] [Crash] 找到 0 个可能的 Mod 项目行
+[14:52:13.033] [Crash] 找到 0 个可能的崩溃 Mod 匹配行
+[14:52:13.033] [Crash] 找到 0 个可能的崩溃 Mod 文件名
+[14:52:13.033] [Crash] 可能的崩溃原因：崩溃日志堆栈分析发现关键字（pepperbell；continuity；impl）
+[14:52:13.033] [Crash] 步骤 3：分析崩溃原因完成，找到 1 条可能的原因
+[14:52:13.033] [Crash]  - 崩溃日志堆栈分析发现关键字（pepperbell；continuity；impl）
+[14:52:13.033] [System] 窗口已置顶，位置：(432, 245), 816 x 520
+[14:52:13.128] [Control] 普通弹窗：Minecraft 出现错误
+你的游戏遇到了一些问题，这可能是某些 Mod 所引起的，PCL 找到了以下可疑的关键词：
+ - pepperbell, continuity, impl
+
+如果你知道这些关键词对应的 Mod，那么有可能就是它引起的错误，你也可以查看错误报告获取详情。
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+[14:52:29.747] [Control] 按下按钮：确定
+[14:52:29.752] [Control] 普通弹框返回：1
+[14:52:30.643] [Control] 按下按钮：版本设置
+[14:52:30.768] [Control] 切换主要页面：VersionSetup, 0
+[14:52:31.495] [Control] 按下单选列表项：Mod 管理
+[14:52:31.642] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[14:52:31.642] [System] 已刷新 Mod 列表
+[14:52:31.926] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[14:52:33.446] [Control] 按下按钮：打开 Mod 文件夹
+[14:52:33.446] [System] 执行外部命令：explorer.exe "F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\mods\"
+[14:53:11.972] [Control] 按下单选列表项：设置
+[14:53:17.659] [Control] 展开卡片：高级启动选项
+[14:53:22.330] [Control] 按下单选列表项：概览
+[14:53:27.284] [Control] 按下图标按钮：BtnTitleInner
+[14:53:27.285] [Control] 切换主要页面：Launch, -1
+[14:53:28.342] [Control] 按下按钮：启动游戏
+[14:53:28.342] [Loader] 加载器 Loader Launch 状态改变：Loading
+[14:53:28.342] [System] 欲读取的文件不存在，已返回空字符串：F:\360MoveData\Users\Administrator\Desktop\PCL\PCL\hints.txt
+[14:53:28.358] [Launch] 预检测已通过
+[14:53:28.358] [Download] 开始后台更新资源文件索引
+[14:53:28.358] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[14:53:28.358] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[14:53:28.358] [Download] 版本 1.19.2-Fabric 0.14.19 对应的资源文件索引为 1.19
+[14:53:28.358] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[14:53:28.358] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[14:53:28.358] [Loader] 加载器 登录 状态改变：Waiting
+[14:53:28.358] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[14:53:28.358] [Loader] 加载器 Java 处理 状态改变：Loading
+[14:53:28.358] [Loader] 加载器 Java 验证 状态改变：Loading
+[14:53:28.358] [Launch] Java 版本需求：最低 1.17.0.0，最高 1.19.999.999
+[14:53:28.358] [Java] 开始完全遍历查找：F:\360MoveData\Users\Administrator\Desktop\PCL\
+[14:53:28.358] [Java] 开始完全遍历查找：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\
+[14:53:28.373] [Loader] 加载器 登录 状态改变：Loading
+[14:53:28.373] [Loader] 加载器 补全文件 状态改变：Loading
+[14:53:28.373] [Launch] 登录加载已开始
+[14:53:28.373] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[14:53:28.373] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[14:53:28.373] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[14:53:28.373] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[14:53:28.373] [Download] 版本 1.19.2-Fabric 0.14.19 对应的资源文件索引为 1.19
+[14:53:28.408] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[14:53:28.409] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[14:53:28.414] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[14:53:28.414] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[14:53:28.414] [Java] 开始完全遍历查找：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\
+[14:53:28.419] [Java] 选定的 Java：JDK 17 (17.0.7)，64 位：C:\Program Files\Java\jdk-17\bin\
+[14:53:28.419] [Launch] 选择的 Java：JDK 17 (17.0.7)，64 位：C:\Program Files\Java\jdk-17\bin\
+[14:53:28.419] [Loader] 加载器 Java 验证 状态改变：Finished
+[14:53:28.419] [Loader] 加载器 Java 处理 状态改变：Finished
+[14:53:28.457] [Download] 1.19.json 1235#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/f7033757bcb91e11d79f0f31330d680cc787631f/1.19.json
+[14:53:28.473] [Launch] 登录加载已结束
+[14:53:28.473] [Loader] 加载器 登录 状态改变：Finished
+[14:53:28.550] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[14:53:28.550] [Loader] 加载器 下载资源文件 状态改变：Loading
+[14:53:28.550] [Loader] 加载器 下载资源文件 状态改变：Finished
+[14:53:28.550] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[14:53:28.597] [Minecraft] 获取支持库列表：1.19.2-Fabric 0.14.19
+[14:53:28.772] [Download] 1.19.json：文件大小 385610 B（377 K）
+[14:53:29.031] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[14:53:29.031] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[14:53:29.031] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[14:53:29.031] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[14:53:29.031] [Loader] 加载器 补全文件 状态改变：Finished
+[14:53:29.031] [Loader] 加载器 获取启动参数 状态改变：Loading
+[14:53:29.031] [Launch] 开始获取 Minecraft 启动参数
+[14:53:29.031] [Launch] 获取新版 JVM 参数
+[14:53:29.031] [Launch] 当前剩余内存：1.8G
+[14:53:29.031] [System] 获取资源：JavaWrapper
+[14:53:29.031] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[14:53:29.031] [Launch] 新版 JVM 参数获取成功：
+[14:53:29.031] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx3584m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient
+[14:53:29.031] [Launch] 获取新版 Game 参数
+[14:53:29.031] [Launch] 新版 Game 参数获取成功
+[14:53:29.031] [Minecraft] 获取支持库列表：1.19.2-Fabric 0.14.19
+[14:53:29.031] [Launch] Minecraft 启动参数：
+[14:53:29.031] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\1.19.2-Fabric 0.14.19-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=286 -cp "F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\tiny-mappings-parser\0.3.0+build.17\tiny-mappings-parser-0.3.0+build.17.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\sponge-mixin\0.12.4+mixin.0.8.5\sponge-mixin-0.12.4+mixin.0.8.5.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\tiny-remapper\0.8.2\tiny-remapper-0.8.2.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\access-widener\2.1.0\access-widener-2.1.0.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\ow2\asm\asm\9.4\asm-9.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\ow2\asm\asm-analysis\9.4\asm-analysis-9.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\ow2\asm\asm-commons\9.4\asm-commons-9.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\ow2\asm\asm-tree\9.4\asm-tree-9.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\org\ow2\asm\asm-util\9.4\asm-util-9.4.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\intermediary\1.19.2\intermediary-1.19.2.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\libraries\net\fabricmc\fabric-loader\0.14.19\fabric-loader-0.14.19.jar;F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\1.19.2-Fabric 0.14.19.jar" -DFabricMcEmu=net.minecraft.client.main.Main -Xmn256m -Xmx3584m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.fabricmc.loader.impl.launch.knot.KnotClient --username xkhh --version "1.19.2-Fabric 0.14.19" --gameDir "F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19" --assetsDir "F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\assets" --assetIndex 1.19 --uuid dc2c0XXXXXXXXXXXXXXXXXXXXXX5f4bf --accessToken dc2c0XXXXXXXXXXXXXXXXXXXXXX5f4bf --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 
+[14:53:29.031] [Loader] 加载器 获取启动参数 状态改变：Finished
+[14:53:29.078] [Loader] 加载器 解压文件 状态改变：Loading
+[14:53:29.093] [Launch] 正在解压 Natives 文件
+[14:53:29.093] [Loader] 加载器 解压文件 状态改变：Finished
+[14:53:29.125] [Loader] 加载器 预启动处理 状态改变：Loading
+[14:53:29.172] [Launch] 并非首次启动，不修改语言
+[14:53:29.187] [Loader] 加载器 预启动处理 状态改变：Finished
+[14:53:29.234] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[14:53:29.250] [Download] 1.19.json：已完成，剩余文件 0
+[14:53:29.250] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[14:53:29.250] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[14:53:29.250] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.19.json
+[14:53:29.250] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[14:53:29.250] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[14:53:29.265] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[14:53:29.316] [Loader] 加载器 启动进程 状态改变：Loading
+[14:53:29.331] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-17\bin\javaw.exe
+[14:53:29.331] [Loader] 加载器 启动进程 状态改变：Finished
+[14:53:29.394] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[14:53:29.394] [Launch] 
+[14:53:29.394] [Launch] ~ 基础参数 ~
+[14:53:29.394] [Launch] PCL 版本：Release 2.5.2 (286)
+[14:53:29.394] [Launch] 游戏版本：1.19.2, Fabric 0.14.19（19.2）
+[14:53:29.394] [Launch] 资源版本：1.19
+[14:53:29.394] [Launch] 版本继承：无
+[14:53:29.394] [Launch] 分配的内存：3.5 GB（3584 MB）
+[14:53:29.394] [Launch] MC 文件夹：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\
+[14:53:29.394] [Launch] 版本文件夹：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\
+[14:53:29.394] [Launch] 版本隔离：True
+[14:53:29.394] [Launch] HMCL 格式：False
+[14:53:29.394] [Launch] Java 信息：JDK 17 (17.0.7)，64 位：C:\Program Files\Java\jdk-17\bin\
+[14:53:29.394] [Launch] 环境变量：未设置
+[14:53:29.394] [Launch] 
+[14:53:29.394] [Launch] ~ 登录参数 ~
+[14:53:29.394] [Launch] 玩家用户名：xkhh
+[14:53:29.394] [Launch] AccessToken：dc2c0XXXXXXXXXXXXXXXXXXXXXX5f4bf
+[14:53:29.394] [Launch] ClientToken：dc2c0XXXXXXXXXXXXXXXXXXXXXX5f4bf
+[14:53:29.394] [Launch] UUID：dc2c0XXXXXXXXXXXXXXXXXXXXXX5f4bf
+[14:53:29.394] [Launch] 登录方式：Legacy
+[14:53:29.394] [Launch] 
+[14:53:29.394] [Launch] [11444] 开始 Minecraft 日志监控
+[14:53:29.394] [Launch] [全局] 出现运行中的 Minecraft
+[14:53:30.083] [Launch] [11444] 日志 1/5：已出现日志输出
+[14:53:35.638] [Report] FPS 0, 动画 7, 下载中 0（0 B/s）
+[14:53:44.290] [Report] FPS 0, 动画 8, 下载中 0（0 B/s）
+[14:54:06.257] [Launch] [11444] 日志 2/5：游戏用户已设置
+[14:54:14.815] [Launch] [11444] 日志 3/5：LWJGL 版本已确认
+[14:54:15.056] [Launch] [11444] Minecraft 窗口已加载：Minecraft* 1.19.2（263036）
+[14:54:16.236] [Launch] [11444] Minecraft 加载已完成
+[14:54:16.332] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[14:54:16.335] [Loader] 加载器 结束处理 状态改变：Loading
+[14:54:16.337] [Launch] 开始启动结束处理
+[14:54:16.337] [Launch] 启动器可见性：5
+[14:54:16.452] [Loader] 加载器 结束处理 状态改变：Finished
+[14:54:16.482] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[14:54:16.634] [Loader] 加载器 Loader Launch 状态改变：Finished
+[14:54:16.662] [UI] 弹出提示：1.19.2-Fabric 0.14.19 启动成功！
+[14:54:27.134] [Launch] [11444] 日志 4/5：OpenAL 已加载
+[14:54:27.134] [Launch] [11444] 日志 5/5：材质已加载
+[14:56:03.077] [Animation] 两个动画帧间隔 250 ms
+[14:56:03.295] [Launch] [11444] 识别为崩溃的 Log：#@!@# Game crashed! Crash report saved to: #@!@# F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\crash-reports\crash-2023-05-20_14.56.03-client.txt
+[14:56:03.295] [Launch] [全局] 已无运行中的 Minecraft
+[14:56:03.295] [Launch] [11444] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[14:56:03.353] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[14:56:03.526] [Launch] [11444] Minecraft 日志监控已退出
+[14:56:05.299] [Launch] [11444] 崩溃分析开始
+[14:56:05.299] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1144490692398\
+[14:56:05.299] [Crash] 步骤 1：收集日志文件
+[14:56:05.299] [Crash] 可能可用的日志文件：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\crash-reports\crash-2023-05-20_14.56.03-client.txt（0 分钟）
+[14:56:05.299] [Crash] 可能可用的日志文件：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\logs\latest.log（0 分钟）
+[14:56:05.440] [Crash] 以下为游戏输出的最后一段内容：
+[14:54:43] [Render thread/INFO]: Registering categories: jei:gui took 13.40 μs
+[14:54:43] [Render thread/INFO]: Registering categories: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering categories: jei:internal took 3.049 ms
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 5.365 ms
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jade:main took 31.00 μs
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 16.00 μs
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:fabric_gui took 25.80 μs
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:gui took 35.00 μs
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 14.20 μs
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 2.132 ms
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jade:main took 35.30 μs
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 45.70 μs
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:fabric_gui took 21.60 μs
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:gui took 48.80 μs
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 13.90 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 44.70 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jade:main took 10.80 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:debug took 9.900 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:fabric_gui took 9.900 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:gui took 17.40 μs
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering advanced plugins: jei:internal took 14.30 μs
+[14:54:43] [Render thread/INFO]: Building recipe registry...
+[14:54:43] [Render thread/INFO]: Building recipe registry took 21.34 ms
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:minecraft took 464.4 ms
+[14:54:43] [Render thread/INFO]: Registering recipes: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jade:main took 58.10 μs
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:debug took 31.50 μs
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:fabric_gui took 21.80 μs
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:gui took 19.00 μs
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering recipes: jei:internal took 15.80 μs
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 4.597 ms
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jade:main took 22.90 μs
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 15.50 μs
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:fabric_gui took 34.30 μs
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui took 20.90 μs
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 25.80 μs
+[14:54:43] [Render thread/INFO]: Building runtime...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 19.49 ms
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jade:main took 27.70 μs
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:debug took 26.70 μs
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:fabric_gui took 16.90 μs
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:gui ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:gui took 14.30 ms
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[14:54:43] [Render thread/INFO]: Registering gui handlers: jei:internal took 28.40 μs
+[14:54:43] [Render thread/INFO]: Registering Runtime: jei:minecraft ...
+[14:54:43] [Render thread/INFO]: Registering Runtime: jei:minecraft took 46.20 μs
+[14:54:43] [Render thread/INFO]: Registering Runtime: jade:main ...
+[14:54:43] [Render thread/INFO]: Registering Runtime: jade:main took 60.20 μs
+[14:54:43] [Render thread/INFO]: Registering Runtime: jei:debug ...
+[14:54:43] [Render thread/INFO]: Registering Runtime: jei:debug took 23.30 μs
+[14:54:43] [Render thread/INFO]: Registering Runtime: jei:fabric_gui ...
+[14:54:43] [Render thread/INFO]: Starting JEI GUI
+[14:54:43] [Render thread/INFO]: Building ingredient list...
+[14:54:43] [Render thread/INFO]: Building ingredient list took 8.456 ms
+[14:54:43] [Render thread/INFO]: Building ingredient filter...
+[14:54:44] [Render thread/INFO]: Loading config file: F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\config\jei\jei-client.ini
+[14:54:44] [Render thread/INFO]: Adding 1406 ingredients
+[14:54:44] [Render thread/INFO]: Added 1406 ingredients
+[14:54:44] [Render thread/INFO]: Building ingredient filter took 494.6 ms
+[14:54:44] [Render thread/INFO]: Registering Runtime: jei:fabric_gui took 617.1 ms
+[14:54:44] [Render thread/INFO]: Registering Runtime: jei:gui ...
+[14:54:44] [Render thread/INFO]: Registering Runtime: jei:gui took 1.239 ms
+[14:54:44] [Render thread/INFO]: Registering Runtime: jei:internal ...
+[14:54:44] [Render thread/INFO]: Registering Runtime: jei:internal took 20.70 μs
+[14:54:44] [Render thread/INFO]: Building runtime took 716.8 ms
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:minecraft took 44.90 μs
+[14:54:44] [Render thread/INFO]: Sending Runtime: jade:main ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jade:main took 24.40 μs
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:debug took 30.20 μs
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:fabric_gui ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:fabric_gui took 19.80 μs
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:gui ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:gui took 11.20 μs
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[14:54:44] [Render thread/INFO]: Sending Runtime: jei:internal took 10.40 μs
+[14:54:44] [Render thread/INFO]: Starting JEI took 1.568 s
+[14:54:44] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:ancient_city_replaceable, minecraft:mangrove_logs_can_grow_through, minecraft:mangrove_roots_can_grow_through, minecraft:nether_carver_replaceables, minecraft:overworld_carver_replaceables
+[14:54:47] [Render thread/INFO]: [System] [CHAT] Welcome xkhh to Spawn, owned by GhostLing528.
+[14:54:47] [Render thread/INFO]: Stopping worker threads
+[14:54:47] [Render thread/INFO]: Started 1 worker threads
+[14:54:47] [Render thread/INFO]: Stopping worker threads
+[14:54:47] [Render thread/INFO]: Started 1 worker threads
+[14:54:47] [Render thread/INFO]: [System] [CHAT] [BetterRTP] There is currently an update for BetterRTP version #3.6.9-1 you have version #3.3.0
+[14:54:47] [Render thread/INFO]: [System] [CHAT] xkhh加入了游戏
+[14:54:47] [Render thread/INFO]: Loaded 190 advancements
+[14:54:48] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:54:48] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:54:48] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:54:48] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:54:49] [Render thread/INFO]: Reloading entity icon resources...
+[14:54:49] [Render thread/INFO]: Done!
+[14:54:52] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:54:52] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:54:54] [Render thread/INFO]: [System] [CHAT] Inventory Profiles Next: 版本：'1.10.1' 已更新。\n下载链接："Modrinth" 或 "CurseForge"
+[14:54:57] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:54:57] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:02] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:55:02] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:07] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:55:07] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:12] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:55:12] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:17] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:55:17] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:22] [Render thread/INFO]: [System] [CHAT] 请输入/l 密码 来登录游戏 
+[14:55:22] [Render thread/INFO]: [System] [CHAT]  如果你从未注册,请换个游戏名!
+[14:55:26] [Render thread/INFO]: [System] [CHAT] 已成功登录!
+[14:55:26] [Render thread/INFO]: [System] [CHAT] Now leaving Spawn.
+[14:55:26] [Render thread/INFO]: Stopping worker threads
+[14:55:26] [Render thread/INFO]: Started 1 worker threads
+[14:55:26] [Render thread/INFO]: Stopping worker threads
+[14:55:26] [Render thread/INFO]: Started 1 worker threads
+[14:56:02] [Render thread/INFO]: Minimap session finalized.
+[14:56:02] [Render thread/INFO]: Stopping JEI
+[14:56:02] [Render thread/INFO]: Stopping JEI
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft ...
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft took 22.30 μs
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jade:main ...
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jade:main took 7.900 μs
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug ...
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug took 9.900 μs
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:fabric_gui ...
+[14:56:02] [Render thread/INFO]: Stopping JEI GUI
+[14:56:02] [JEI GUI Config file watcher/INFO]: FileWatcher was interrupted, stopping.
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:fabric_gui took 3.553 ms
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui ...
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui took 10.60 μs
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal ...
+[14:56:02] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal took 6.900 μs
+[14:56:02] [JEI Library Config file watcher/INFO]: FileWatcher was interrupted, stopping.
+[14:56:02] [Render thread/INFO]: Stopping worker threads
+[14:56:03] [Render thread/ERROR]: Reported exception thrown!
+net.minecraft.class_148: Rendering entity in world
+	at net.minecraft.class_898.method_3954(class_898.java:172) ~[client-intermediary.jar:?]
+	at net.minecraft.class_761.method_22977(class_761.java:1568) ~[client-intermediary.jar:?]
+	at net.minecraft.class_761.method_22710(class_761.java:1316) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3188(class_757.java:1039) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:816) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1177) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:768) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:244) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.19.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.19.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.fabricmc.fabric.api.renderer.v1.Renderer.meshBuilder()" because the return value of "net.fabricmc.fabric.api.renderer.v1.RendererAccess.getRenderer()" is null
+	at me.pepperbell.continuity.impl.client.ProcessingContextImpl.<init>(ProcessingContextImpl.java:19) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.client.model.CTMBakedModel$CTMQuadTransform.<init>(CTMBakedModel.java:70) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.<init>(ModelObjectsContainer.java:10) ~[continuity-2.0.2+1.19.jar:?]
+	at java.lang.ThreadLocal$SuppliedThreadLocal.initialValue(ThreadLocal.java:305) ~[?:?]
+	at java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:195) ~[?:?]
+	at java.lang.ThreadLocal.get(ThreadLocal.java:172) ~[?:?]
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.get(ModelObjectsContainer.java:18) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.impl.client.ContinuityFeatureStatesImpl.get(ContinuityFeatureStatesImpl.java:16) ~[continuity-2.0.2+1.19.jar:?]
+	at me.pepperbell.continuity.api.client.ContinuityFeatureStates.get(ContinuityFeatureStates.java:10) ~[continuity-2.0.2+1.19.jar:?]
+	at net.minecraft.class_901.handler$zbb000$continuity$beforeRenderModel(class_901.java:518) ~[client-intermediary.jar:?]
+	at net.minecraft.class_901.method_3965(class_901.java:45) ~[client-intermediary.jar:?]
+	at net.minecraft.class_901.method_3936(class_901.java:17) ~[client-intermediary.jar:?]
+	at net.minecraft.class_898.method_3954(class_898.java:141) ~[client-intermediary.jar:?]
+	... 17 more
+---- Minecraft Crash Report ----
+// Who set us up the TNT?
+
+Time: 2023-05-20 14:56:03
+Description: Rendering entity in world
+
+java.lang.NullPointerException: Cannot invoke "net.fabricmc.fabric.api.renderer.v1.Renderer.meshBuilder()" because the return value of "net.fabricmc.fabric.api.renderer.v1.RendererAccess.getRenderer()" is null
+	at me.pepperbell.continuity.impl.client.ProcessingContextImpl.<init>(ProcessingContextImpl.java:19)
+	at me.pepperbell.continuity.client.model.CTMBakedModel$CTMQuadTransform.<init>(CTMBakedModel.java:70)
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.<init>(ModelObjectsContainer.java:10)
+	at java.base/java.lang.ThreadLocal$SuppliedThreadLocal.initialValue(ThreadLocal.java:305)
+	at java.base/java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:195)
+	at java.base/java.lang.ThreadLocal.get(ThreadLocal.java:172)
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.get(ModelObjectsContainer.java:18)
+	at me.pepperbell.continuity.impl.client.ContinuityFeatureStatesImpl.get(ContinuityFeatureStatesImpl.java:16)
+	at me.pepperbell.continuity.api.client.ContinuityFeatureStates.get(ContinuityFeatureStates.java:10)
+	at net.minecraft.class_901.handler$zbb000$continuity$beforeRenderModel(class_901.java:518)
+	at net.minecraft.class_901.method_3965(class_901.java:45)
+	at net.minecraft.class_901.method_3936(class_901.java:17)
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+	at net.minecraft.class_757.method_3192(class_757.java:816)
+	at net.minecraft.class_310.method_1523(class_310.java:1177)
+	at net.minecraft.class_310.method_1514(class_310.java:768)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at me.pepperbell.continuity.impl.client.ProcessingContextImpl.<init>(ProcessingContextImpl.java:19)
+	at me.pepperbell.continuity.client.model.CTMBakedModel$CTMQuadTransform.<init>(CTMBakedModel.java:70)
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.<init>(ModelObjectsContainer.java:10)
+	at java.base/java.lang.ThreadLocal$SuppliedThreadLocal.initialValue(ThreadLocal.java:305)
+	at java.base/java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:195)
+	at java.base/java.lang.ThreadLocal.get(ThreadLocal.java:172)
+	at me.pepperbell.continuity.client.model.ModelObjectsContainer.get(ModelObjectsContainer.java:18)
+	at me.pepperbell.continuity.impl.client.ContinuityFeatureStatesImpl.get(ContinuityFeatureStatesImpl.java:16)
+	at me.pepperbell.continuity.api.client.ContinuityFeatureStates.get(ContinuityFeatureStates.java:10)
+	at net.minecraft.class_901.handler$zbb000$continuity$beforeRenderModel(class_901.java:518)
+	at net.minecraft.class_901.method_3965(class_901.java:45)
+	at net.minecraft.class_901.method_3936(class_901.java:17)
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+
+-- Entity being rendered --
+Details:
+	Entity Type: minecraft:falling_block (net.minecraft.class_1540)
+	Entity ID: 143976
+	Entity Name: 下落的方块
+	Entity's Exact location: 716.50, 48.96, -898.50
+	Entity's Block location: World: (716,48,-899), Section: (at 12,0,13 in 44,3,-57; chunk contains blocks 704,-64,-912 to 719,319,-897), Region: (1,-2; contains chunks 32,-64 to 63,-33, blocks 512,-64,-1024 to 1023,319,-513)
+	Entity's Momentum: 0.00, -0.04, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: null
+	Immitating BlockState: Block{minecraft:gravel}
+Stacktrace:
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+	at net.minecraft.class_757.method_3192(class_757.java:816)
+	at net.minecraft.class_310.method_1523(class_310.java:1177)
+	at net.minecraft.class_310.method_1514(class_310.java:768)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- Renderer details --
+Details:
+	Assigned renderer: net.minecraft.class_901@6b2fdc3f
+	Location: -0.20,1.73,2.17 - World: (-1,1,2), Section: (at 15,1,2 in -1,0,0; chunk contains blocks -16,-64,0 to -1,319,15), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,-64,0 to -1,319,511)
+	Rotation: 0.0
+	Delta: 0.040026665
+Stacktrace:
+	at net.minecraft.class_898.method_3954(class_898.java:141)
+	at net.minecraft.class_761.method_22977(class_761.java:1568)
+	at net.minecraft.class_761.method_22710(class_761.java:1316)
+	at net.minecraft.class_757.method_3188(class_757.java:1039)
+	at net.minecraft.class_757.method_3192(class_757.java:816)
+	at net.minecraft.class_310.method_1523(class_310.java:1177)
+	at net.minecraft.class_310.method_1514(class_310.java:768)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- Affected level --
+Details:
+	All players: 1 total; [class_746['xkhh'/143100, l='ClientLevel', x=716.70, y=46.00, z=-900.67]]
+	Chunk stats: 1024, 461
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (48,70,32), Section: (at 0,6,0 in 3,4,2; chunk contains blocks 48,-64,32 to 63,319,47), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,-64,0 to 511,319,511)
+	Level time: 45720 game time, 22342111 day time
+	Server brand: Paper
+	Server type: Non-integrated multiplayer server
+Stacktrace:
+	at net.minecraft.class_638.method_8538(class_638.java:453)
+	at net.minecraft.class_310.method_1587(class_310.java:2341)
+	at net.minecraft.class_310.method_1514(class_310.java:787)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:462)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- Last reload --
+Details:
+	Reload number: 1
+	Reload reason: initial
+	Finished: Yes
+	Packs: Default, Fabric Mods, minecraft/supporteatinganimation, continuity/default, betterbeds/fancybeds, betterbeds/connectedbeds, [1.18.1]MASA全家桶汉化包.zip
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.7, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 159129536 bytes (151 MiB) / 775946240 bytes (740 MiB) up to 3758096384 bytes (3584 MiB)
+	CPUs: 2
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Celeron(R) CPU G1840 @ 2.80GHz
+	Identifier: Intel64 Family 6 Model 60 Stepping 3
+	Microarchitecture: Haswell (Client)
+	Frequency (GHz): 2.79
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 2
+	Graphics card #0 name: Intel(R) HD Graphics
+	Graphics card #0 vendor: Intel Corporation (0x8086)
+	Graphics card #0 VRAM (MB): 1024.00
+	Graphics card #0 deviceId: 0x0402
+	Graphics card #0 versionInfo: DriverVersion=20.19.15.4835
+	Memory slot #0 capacity (MB): 4096.00
+	Memory slot #0 clockSpeed (GHz): 1.60
+	Memory slot #0 type: DDR3
+	Virtual memory max (MB): 8321.20
+	Virtual memory used (MB): 4898.27
+	Swap memory total (MB): 4537.99
+	Swap memory used (MB): 1085.92
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx3584m
+	Fabric Mods: 
+		advancementinfo: AdvancementInfo 1.19.1-fabric0.58.5-1.3.1
+		appleskin: AppleSkin 2.4.1+mc1.19
+		betterbeds: Better Beds 1.2.0
+		boatiview: Boat Item View Fabric 0.0.4
+			cloth-config: Cloth Config v8 8.0.75
+				cloth-basic-math: cloth-basic-math 0.6.1
+		continuity: Continuity 2.0.2+1.19
+		dashloader: DashLoader 4.1.3+1.19
+			com_github_luben_zstd-jni: zstd-jni 1.5.2-2
+			dev_quantumfusion_hyphen: Hyphen 0.2.2
+			dev_quantumfusion_taski: Taski 1.1.0
+		eatinganimationid: Eating Animation 1.9.1
+		fabric-api: Fabric API 0.76.0+1.19.2
+			fabric-api-base: Fabric API Base 0.4.15+8f4e8eb390
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.14+93d8cb8290
+			fabric-biome-api-v1: Fabric Biome API (v1) 9.1.1+16f1e31390
+			fabric-block-api-v1: Fabric Block API (v1) 1.0.2+e415d50e90
+			fabric-blockrenderlayer-v1: Fabric BlockRenderLayer Registration (v1) 1.1.25+cafc6e8e90
+			fabric-client-tags-api-v1: Fabric Client Tags 1.0.5+b35fea8390
+			fabric-command-api-v1: Fabric Command API (v1) 1.2.16+f71b366f90
+			fabric-command-api-v2: Fabric Command API (v2) 2.2.1+413cbbc790
+			fabric-commands-v0: Fabric Commands (v0) 0.2.33+df3654b390
+			fabric-containers-v0: Fabric Containers (v0) 0.1.41+df3654b390
+			fabric-content-registries-v0: Fabric Content Registries (v0) 3.5.2+7c6cd14d90
+			fabric-convention-tags-v1: Fabric Convention Tags 1.3.0+4bc6e26290
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.2.8+aeb40ebe90
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 5.3.8+413cbbc790
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 2.1.35+0d0f210290
+			fabric-entity-events-v1: Fabric Entity Events (v1) 1.5.4+9244241690
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.4.34+562bff6e90
+			fabric-events-lifecycle-v0: Fabric Events Lifecycle (v0) 0.2.36+df3654b390
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.24+b6b6abb490
+			fabric-item-api-v1: Fabric Item API (v1) 1.6.6+b7d1888890
+			fabric-item-groups-v0: Fabric Item Groups (v0) 0.3.39+9244241690
+			fabric-key-binding-api-v1: Fabric Key Binding API (v1) 1.0.25+5c4fce2890
+			fabric-keybindings-v0: Fabric Key Bindings (v0) 0.2.23+df3654b390
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.2.4+1b46dc7890
+			fabric-loot-api-v2: Fabric Loot API (v2) 1.1.13+83a8659290
+			fabric-loot-tables-v1: Fabric Loot Tables (v1) 1.1.16+9e7660c690
+			fabric-message-api-v1: Fabric Message API (v1) 5.0.7+93d8cb8290
+			fabric-mining-level-api-v1: Fabric Mining Level API (v1) 2.1.24+33fbc73890
+			fabric-models-v0: Fabric Models (v0) 0.3.21+c6af733c90
+			fabric-networking-api-v1: Fabric Networking API (v1) 1.2.11+10eb22f490
+			fabric-networking-v0: Fabric Networking (v0) 0.3.28+df3654b390
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 4.2.2+d8ef690890
+			fabric-particles-v1: Fabric Particles (v1) 1.0.14+4d0d570390
+			fabric-recipe-api-v1: Fabric Recipe API (v1) 1.0.1+413cbbc790
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 0.9.32+9244241690
+			fabric-renderer-api-v1: Fabric Renderer API (v1) 1.2.1+1adbf27790
+			fabric-renderer-indigo: Fabric Renderer - Indigo 0.8.0+1adbf27790
+			fabric-renderer-registries-v1: Fabric Renderer Registries (v1) 3.2.24+df3654b390
+			fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.3.19+6e0787e690
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.0.11+4d0d570390
+			fabric-rendering-v0: Fabric Rendering (v0) 1.1.27+df3654b390
+			fabric-rendering-v1: Fabric Rendering (v1) 1.12.1+d8ef690890
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 2.1.2+aae9039d90
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 0.8.4+edbdcddb90
+			fabric-screen-api-v1: Fabric Screen API (v1) 1.0.32+4d0d570390
+			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.7+1cc24b1b90
+			fabric-sound-api-v1: Fabric Sound API (v1) 1.0.2+c4f28df590
+			fabric-textures-v0: Fabric Textures (v0) 1.0.24+aeb40ebe90
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 2.1.6+413cbbc790
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 1.3.3+08b73de490
+		fabric-language-kotlin: Fabric Language Kotlin 1.9.4+kotlin.1.8.21
+			org_jetbrains_kotlin_kotlin-reflect: kotlin-reflect 1.8.21
+			org_jetbrains_kotlin_kotlin-stdlib: kotlin-stdlib 1.8.21
+			org_jetbrains_kotlin_kotlin-stdlib-jdk7: kotlin-stdlib-jdk7 1.8.21
+			org_jetbrains_kotlin_kotlin-stdlib-jdk8: kotlin-stdlib-jdk8 1.8.21
+			org_jetbrains_kotlinx_atomicfu-jvm: atomicfu-jvm 0.20.2
+			org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: kotlinx-coroutines-core-jvm 1.6.4
+			org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: kotlinx-coroutines-jdk8 1.6.4
+			org_jetbrains_kotlinx_kotlinx-datetime-jvm: kotlinx-datetime-jvm 0.4.0
+			org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm: kotlinx-serialization-cbor-jvm 1.5.0
+			org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: kotlinx-serialization-core-jvm 1.5.0
+			org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: kotlinx-serialization-json-jvm 1.5.0
+		fabricloader: Fabric Loader 0.14.19
+		fpsreducer: FPS Reducer 1.19.2-2.1
+		inventoryprofilesnext: Inventory Profiles Next 1.9.7
+		iris: Iris 1.6.2
+			io_github_douira_glsl-transformer: glsl-transformer 2.0.0-pre13
+			org_anarres_jcpp: jcpp 1.4.14
+			org_antlr_antlr4-runtime: antlr4-runtime 4.11.1
+		jade: Jade 8.7.3
+		java: Java HotSpot(TM) 64-Bit Server VM 17
+		jei: Just Enough Items 11.6.0.1015
+		lazydfu: LazyDFU 0.1.3
+		libipn: libIPN 2.0.7
+		malilib: MaLiLib 0.13.0
+		minecraft: Minecraft 1.19.2
+		modmenu: Mod Menu 4.2.0-beta.2
+		physicsmod: Physics Mod 2.12.3
+		presencefootsteps: Presence Footsteps 1.6.4
+			kirin: Kirin UI 1.11.1
+		sodium: Sodium 0.4.4+build.18
+			org_joml_joml: joml 1.10.4
+		sodium-extra: Sodium Extra 0.4.16+mc1.19.2-build.90
+			caffeineconfig: CaffeineConfig 1.0.0+1.17
+		tweakeroo: Tweakeroo 0.14.3
+		wi_zoom: WI Zoom 1.4-MC1.19.2
+		xaerominimap: Xaero's Minimap 23.4.3
+	Loaded Shaderpack: (off)
+	NEC status: No NEC detected
+	Launched Version: 1.19.2-Fabric 0.14.19
+	Backend library: LWJGL version 3.3.1 SNAPSHOT
+	Backend API: Intel(R) HD Graphics GL version 3.2.0 - Build 20.19.15.4835, Intel
+	Window size: 854x480
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fabric'
+	Type: Client (map_client.txt)
+	Graphics mode: fancy
+	Resource Packs: vanilla, Fabric Mods, minecraft/supporteatinganimation, continuity/default, betterbeds/fancybeds (incompatible), betterbeds/connectedbeds (incompatible), file/[1.18.1]MASA全家桶汉化包.zip (incompatible)
+	Current Language: 简体中文 (中国大陆)
+	CPU: 2x Intel(R) Celeron(R) CPU G1840 @ 2.80GHz
+#@!@# Game crashed! Crash report saved to: #@!@# F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\crash-reports\crash-2023-05-20_14.56.03-client.txt
+[14:56:05.440] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[14:56:05.440] [Crash] 步骤 2：准备日志文本
+[14:56:05.440] [Crash] crash-2023-05-20_14.56.03-client.txt 分类为 CrashReport
+[14:56:05.440] [Crash] latest.log 分类为 MinecraftLog
+[14:56:05.440] [Crash] RawOutput.log 分类为 MinecraftLog
+[14:56:05.440] [Crash] 输出报告：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\logs\latest.log，作为 Minecraft 或启动器日志
+[14:56:05.440] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1144490692398\RawOutput.log，作为 Minecraft 或启动器日志
+[14:56:05.440] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1144490692398\RawOutput.log，作为启动器日志
+[14:56:05.440] [Crash] 导入分析：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\logs\latest.log，作为 Minecraft 日志
+[14:56:05.440] [Crash] 输出报告：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\crash-reports\crash-2023-05-20_14.56.03-client.txt，作为 Minecraft 崩溃报告
+[14:56:05.440] [Crash] 导入分析：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\crash-reports\crash-2023-05-20_14.56.03-client.txt，作为 Minecraft 崩溃报告
+[14:56:05.440] [Crash] 步骤 2：准备日志文本完成，找到游戏日志、崩溃日志用作分析
+[14:56:05.440] [Crash] 步骤 3：分析崩溃原因
+[14:56:05.440] [Crash] 开始进行崩溃日志堆栈分析
+[14:56:05.550] [Crash] 找到 3 条可能的堆栈信息
+[14:56:05.550] [Crash]  - me.pepperbell.continuity.impl.client
+[14:56:05.550] [Crash]  - me.pepperbell.continuity.client.model
+[14:56:05.550] [Crash]  - me.pepperbell.continuity.api.client
+[14:56:05.550] [Crash] 从堆栈信息中找到 3 个可能的 Mod ID 关键词
+[14:56:05.550] [Crash]  - pepperbell, continuity, impl
+[14:56:05.550] [Crash] 检测到 Fabric Mod 信息格式
+[14:56:05.550] [Crash] 找到 0 个可能的 Mod 项目行
+[14:56:05.550] [Crash] 找到 0 个可能的崩溃 Mod 匹配行
+[14:56:05.550] [Crash] 找到 0 个可能的崩溃 Mod 文件名
+[14:56:05.550] [Crash] 可能的崩溃原因：崩溃日志堆栈分析发现关键字（pepperbell；continuity；impl）
+[14:56:05.550] [Crash] 步骤 3：分析崩溃原因完成，找到 1 条可能的原因
+[14:56:05.550] [Crash]  - 崩溃日志堆栈分析发现关键字（pepperbell；continuity；impl）
+[14:56:05.550] [System] 窗口已置顶，位置：(432, 245), 816 x 520
+[14:56:05.565] [Control] 普通弹窗：Minecraft 出现错误
+你的游戏遇到了一些问题，这可能是某些 Mod 所引起的，PCL 找到了以下可疑的关键词：
+ - pepperbell, continuity, impl
+
+如果你知道这些关键词对应的 Mod，那么有可能就是它引起的错误，你也可以查看错误报告获取详情。
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+[14:56:07.596] [Control] 按下按钮：查看日志
+[14:56:07.596] [System] 执行外部命令：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\versions\1.19.2-Fabric 0.14.19\crash-reports\crash-2023-05-20_14.56.03-client.txt 
+[14:58:02.977] [Control] 按下按钮：导出错误报告
+[14:58:02.977] [Control] 普通弹框返回：3
+[14:58:03.559] [Animation] 两个动画帧间隔 312 ms
+[14:58:03.746] [Animation] 两个动画帧间隔 266 ms
+[14:58:09.007] [UI] 选择文件返回：F:\360MoveData\Users\Administrator\Desktop\错误报告-2023-5-20_14.58.02.zip
+[14:58:09.114] [System] 诊断信息：
+操作系统：Microsoft Windows 10 专业版
+剩余内存：1325 M / 3783 M
+DPI：96（100%）
+MC 文件夹：F:\360MoveData\Users\Administrator\Desktop\PCL\.minecraft\
+文件位置：F:\360MoveData\Users\Administrator\Desktop\PCL\

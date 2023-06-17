@@ -1,0 +1,98 @@
+[035月2023 19:46:22.830] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, lmxigou, --version, [The Last One]整合包, --gameDir, C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包, --assetsDir, C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\assets, --assetIndex, 1.16, --uuid, 5e851d8660dc4c299845b37cd5938fa0, --accessToken, ????????, --userType, Mojang, --versionType, PCL2, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.35, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[035月2023 19:46:22.836] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 17.0.2 by Eclipse Adoptium
+[035月2023 19:46:22.872] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [minecraft,testharness,fmlclient,fmlserver]
+[035月2023 19:46:22.905] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : []
+[035月2023 19:46:23.016] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [mixin,eventbus,object_holder_definalize,runtime_enum_extender,capability_inject_definalize,accesstransformer,runtimedistcleaner]
+[035月2023 19:46:23.036] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
+[035月2023 19:46:23.216] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: [C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包\mods\[汉化]I18nUpdateMod-3.4.1-all.jar, C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包\mods\[高清修复]OptiFine_1.16.5_HD_U_G8.jar, C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包\mods\[魔改前置]MixinBootstrap-1.0.5.jar]
+[035月2023 19:46:23.426] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [mixin,OptiFine,fml,I18nUpdateMod,mixinbootstrap]
+[035月2023 19:46:23.426] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
+[035月2023 19:46:23.429] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service mixin
+[035月2023 19:46:23.431] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service mixin
+[035月2023 19:46:23.432] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service OptiFine
+[035月2023 19:46:23.432] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[035月2023 19:46:23.435] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包\mods\[高清修复]OptiFine_1.16.5_HD_U_G8.jar
+[035月2023 19:46:23.440] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[035月2023 19:46:23.460] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service OptiFine
+[035月2023 19:46:23.461] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
+[035月2023 19:46:23.461] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/]: Injecting tracing printstreams for STDOUT/STDERR.
+[035月2023 19:46:23.469] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 36.2
+[035月2023 19:46:23.469] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 36.2 loading
+[035月2023 19:46:23.469] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 8.1.3+8.1.3+main-8.1.x.c94d18ec
+[035月2023 19:46:23.470] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Initializing modjar URL handler
+[035月2023 19:46:23.471] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 3.0.1+61+master.47bca0e
+[035月2023 19:46:23.473] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 4.0.0+65+master.6080a3f
+[035月2023 19:46:23.473] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
+[035月2023 19:46:23.481] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 4.0.6+14+master.c21a551
+[035月2023 19:46:23.482] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 3.2.0+13+master.8ddb2cc
+[035月2023 19:46:23.483] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 3
+[035月2023 19:46:23.731] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[035月2023 19:46:23.732] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
+[035月2023 19:46:23.732] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service I18nUpdateMod
+[035月2023 19:46:23.733] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service I18nUpdateMod
+[035月2023 19:46:23.733] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service mixinbootstrap
+[035月2023 19:46:23.733] [main/DEBUG] [MixinBootstrap Launch/]: MixinLauncherPlugin detected
+[035月2023 19:46:23.733] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service mixinbootstrap
+[035月2023 19:46:23.735] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
+[035月2023 19:46:23.753] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
+[035月2023 19:46:23.755] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service mixin
+[035月2023 19:46:23.828] [main/DEBUG] [mixin/]: Mixin bootstrap service org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapperBootstrap is not available: LaunchWrapper is not available
+[035月2023 19:46:23.829] [main/DEBUG] [mixin/]: MixinService [ModLauncher] was successfully booted in jdk.internal.loader.ClassLoaders$AppClassLoader@70dea4e
+[035月2023 19:46:23.883] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Administrator/Desktop/常用文件/大型yx/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[035月2023 19:46:23.891] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
+[035月2023 19:46:23.892] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[035月2023 19:46:23.893] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[035月2023 19:46:23.894] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[035月2023 19:46:23.895] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[035月2023 19:46:23.896] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[035月2023 19:46:23.899] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service mixin
+[035月2023 19:46:23.899] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service OptiFine
+[035月2023 19:46:23.900] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[035月2023 19:46:23.900] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service OptiFine
+[035月2023 19:46:23.900] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
+[035月2023 19:46:23.900] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
+[035月2023 19:46:23.903] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing GAMEDIR directory : C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包
+[035月2023 19:46:23.904] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包
+[035月2023 19:46:23.905] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing MODSDIR directory : C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包\mods
+[035月2023 19:46:23.905] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包\mods
+[035月2023 19:46:23.906] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing CONFIGDIR directory : C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包\config
+[035月2023 19:46:23.906] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包\config
+[035月2023 19:46:23.906] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包\config\fml.toml
+[035月2023 19:46:23.906] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration
+[035月2023 19:46:23.963] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: java.lang.reflect.InvocationTargetException
+[035月2023 19:46:23.964] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[035月2023 19:46:23.964] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[035月2023 19:46:23.965] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[035月2023 19:46:23.965] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[035月2023 19:46:23.966] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:58)
+[035月2023 19:46:23.967] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:51)
+[035月2023 19:46:23.967] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: Caused by: java.lang.RuntimeException: Failed to load FML config from C:\Users\Administrator\Desktop\常用文件\大型yx\.minecraft\versions\[The Last One]整合包\config\fml.toml
+[035月2023 19:46:23.968] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:50)
+[035月2023 19:46:23.968] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.fml.loading.FMLConfig.load(FMLConfig.java:63)
+[035月2023 19:46:23.969] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.initialize(FMLServiceProvider.java:67)
+[035月2023 19:46:23.970] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.onInitialize(TransformationServiceDecorator.java:68)
+[035月2023 19:46:23.970] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseTransformationServices$7(TransformationServicesHandler.java:107)
+[035月2023 19:46:23.971] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1065)
+[035月2023 19:46:23.971] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initialiseTransformationServices(TransformationServicesHandler.java:107)
+[035月2023 19:46:23.972] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:59)
+[035月2023 19:46:23.975] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
+[035月2023 19:46:23.978] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[035月2023 19:46:23.979] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	... 6 more
+[035月2023 19:46:23.980] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: Caused by: com.electronwill.nightconfig.core.io.ParsingException: Not enough data available
+[035月2023 19:46:23.980] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.core.io.ParsingException.notEnoughData(ParsingException.java:22)
+[035月2023 19:46:23.981] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.core.io.ReaderInput.directReadChar(ReaderInput.java:36)
+[035月2023 19:46:23.981] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.core.io.AbstractInput.readChar(AbstractInput.java:49)
+[035月2023 19:46:23.981] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.core.io.AbstractInput.readCharsUntil(AbstractInput.java:123)
+[035月2023 19:46:23.982] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.toml.TableParser.parseKey(TableParser.java:166)
+[035月2023 19:46:23.982] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.toml.TableParser.parseDottedKey(TableParser.java:145)
+[035月2023 19:46:23.983] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:55)
+[035月2023 19:46:23.983] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:44)
+[035月2023 19:46:23.984] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+[035月2023 19:46:23.985] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+[035月2023 19:46:23.985] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+[035月2023 19:46:23.986] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+[035月2023 19:46:23.987] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+[035月2023 19:46:23.987] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.core.file.AutoreloadFileConfig.load(AutoreloadFileConfig.java:41)
+[035月2023 19:46:23.988] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+[035月2023 19:46:23.989] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:46)
+[035月2023 19:46:23.990] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	... 15 more

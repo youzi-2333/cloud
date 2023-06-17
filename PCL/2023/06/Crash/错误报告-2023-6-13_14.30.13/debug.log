@@ -1,0 +1,127 @@
+[136月2023 14:30:05.950] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, AmbrielBB, --version, 测试, --gameDir, C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试, --assetsDir, C:\Users\86159\Desktop\MC\1.20\.minecraft\assets, --assetIndex, 5, --uuid, 94cb198bc7f3460c90b8f96d0b721f36, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --quickPlayPath, ${quickPlayPath}, --launchTarget, forgeclient, --fml.forgeVersion, 46.0.14, --fml.mcVersion, 1.20, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230608.053357]
+[136月2023 14:30:05.964] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by BellSoft; OS Windows 10 arch amd64 version 10.0
+[136月2023 14:30:06.098] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [fmlclientdev,forgeclient,minecraft,forgegametestserverdev,fmlserveruserdev,fmlclient,fmldatauserdev,forgeserverdev,forgeserveruserdev,forgeclientdev,forgeclientuserdev,forgeserver,forgedatadev,fmlserver,fmlclientuserdev,fmlserverdev,forgedatauserdev,testharness,forgegametestserveruserdev]
+[136月2023 14:30:06.151] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : [srgtomcp]
+[136月2023 14:30:06.198] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [mixin,eventbus,slf4jfixer,object_holder_definalize,runtime_enum_extender,capability_token_subclass,accesstransformer,runtimedistcleaner]
+[136月2023 14:30:06.253] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
+[136月2023 14:30:07.058] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: 
+[136月2023 14:30:07.089] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [mixin,fml]
+[136月2023 14:30:07.090] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
+[136月2023 14:30:07.092] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service mixin
+[136月2023 14:30:07.093] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service mixin
+[136月2023 14:30:07.093] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
+[136月2023 14:30:07.101] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 1.0
+[136月2023 14:30:07.102] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 1.0 loading
+[136月2023 14:30:07.102] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 10.0.8+10.0.8+main.0ef7e830
+[136月2023 14:30:07.103] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 8.0.4+66+master.c09db6d7
+[136月2023 14:30:07.104] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 6.0.3+6.0.3+master.039e4ea9
+[136月2023 14:30:07.104] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
+[136月2023 14:30:07.108] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 5.0.1+15+master.dc5a2922
+[136月2023 14:30:07.110] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 7.0.0+7.0.0+master.a23b7993
+[136月2023 14:30:07.111] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 5
+[136月2023 14:30:07.117] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
+[136月2023 14:30:07.119] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
+[136月2023 14:30:07.137] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
+[136月2023 14:30:07.138] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service mixin
+[136月2023 14:30:07.189] [main/DEBUG] [mixin/]: MixinService [ModLauncher] was successfully booted in cpw.mods.cl.ModuleClassLoader@4b168fa9
+[136月2023 14:30:07.236] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/86159/Desktop/MC/1.20/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23149!/ Service=ModLauncher Env=CLIENT
+[136月2023 14:30:07.244] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
+[136月2023 14:30:07.244] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[136月2023 14:30:07.247] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[136月2023 14:30:07.251] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[136月2023 14:30:07.252] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[136月2023 14:30:07.252] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[136月2023 14:30:07.258] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service mixin
+[136月2023 14:30:07.259] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
+[136月2023 14:30:07.259] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
+[136月2023 14:30:07.260] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试
+[136月2023 14:30:07.261] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods
+[136月2023 14:30:07.261] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\config
+[136月2023 14:30:07.262] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\config\fml.toml
+[136月2023 14:30:07.263] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration
+[136月2023 14:30:07.386] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing ModFile
+[136月2023 14:30:07.396] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing launch handler
+[136月2023 14:30:07.397] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Using forgeclient as launch service
+[136月2023 14:30:07.457] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Received command line version data  : VersionInfo[forgeVersion=46.0.14, mcVersion=1.20, mcpVersion=20230608.053357, forgeGroup=net.minecraftforge]
+[136月2023 14:30:07.460] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service fml
+[136月2023 14:30:07.462] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Current naming domain is 'srg'
+[136月2023 14:30:07.463] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Identified name mapping providers {}
+[136月2023 14:30:07.463] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services begin scanning
+[136月2023 14:30:07.468] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service mixin
+[136月2023 14:30:07.469] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service mixin
+[136月2023 14:30:07.469] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service fml
+[136月2023 14:30:07.470] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Initiating mod scan
+[136月2023 14:30:07.501] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModListHandler/CORE]: Found mod coordinates from lists: []
+[136月2023 14:30:07.508] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Mod Locators : (mods folder:null),(maven libs:null),(exploded directory:null),(minecraft:null),(userdev classpath:null)
+[136月2023 14:30:07.508] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Dependency Locators : (JarInJar:null)
+[136月2023 14:30:07.546] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[JEI物品管理器] jei-1.20-forge-14.0.0.5.jar
+[136月2023 14:30:07.681] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [JEI物品管理器] jei-1.20-forge-14.0.0.5.jar with {jei} mods - versions {14.0.0.5}
+[136月2023 14:30:07.691] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[Xaero的世界地图] XaerosWorldMap_1.30.3_Forge_1.20.jar
+[136月2023 14:30:07.695] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Xaero的世界地图] XaerosWorldMap_1.30.3_Forge_1.20.jar with {xaeroworldmap} mods - versions {1.30.3}
+[136月2023 14:30:07.705] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[Xaero的小地图] Xaeros_Minimap_23.4.4_Forge_1.20.jar
+[136月2023 14:30:07.709] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Xaero的小地图] Xaeros_Minimap_23.4.4_Forge_1.20.jar with {xaerominimap} mods - versions {23.4.4}
+[136月2023 14:30:07.726] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[伐树] FallingTree-1.20-4.0.0.jar
+[136月2023 14:30:07.729] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [伐树] FallingTree-1.20-4.0.0.jar with {fallingtree} mods - versions {4.0.0}
+[136月2023 14:30:07.741] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[双开门] doubledoors-1.20.0-4.5.jar
+[136月2023 14:30:07.744] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [双开门] doubledoors-1.20.0-4.5.jar with {doubledoors} mods - versions {4.5}
+[136月2023 14:30:07.755] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[开放式电梯] elevatorid-1.20-1.8.13.jar
+[136月2023 14:30:07.757] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [开放式电梯] elevatorid-1.20-1.8.13.jar with {elevatorid} mods - versions {1.20-1.8.13}
+[136月2023 14:30:07.767] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[持续钓鱼] recast-1.20.0-3.0.jar
+[136月2023 14:30:07.771] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [持续钓鱼] recast-1.20.0-3.0.jar with {recast} mods - versions {3.0}
+[136月2023 14:30:07.786] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[时装盔甲重置版] cosmeticarmorreworked-1.20-v1.jar
+[136月2023 14:30:07.790] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [时装盔甲重置版] cosmeticarmorreworked-1.20-v1.jar with {cosmeticarmorreworked} mods - versions {1.20-v1}
+[136月2023 14:30:07.802] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[更好的刷怪笼控制] betterspawnercontrol-1.20.0-4.2.jar
+[136月2023 14:30:07.804] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [更好的刷怪笼控制] betterspawnercontrol-1.20.0-4.2.jar with {betterspawnercontrol} mods - versions {4.2}
+[136月2023 14:30:07.812] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[村庄出生点] villagespawnpoint-1.20.0-4.0.jar
+[136月2023 14:30:07.815] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [村庄出生点] villagespawnpoint-1.20.0-4.0.jar with {villagespawnpoint} mods - versions {4.0}
+[136月2023 14:30:07.822] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[烟花苦力怕] creepre_firework-2.1.0.jar
+[136月2023 14:30:07.824] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [烟花苦力怕] creepre_firework-2.1.0.jar with {creeper_firework} mods - versions {2.1.0}
+[136月2023 14:30:07.835] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[物品栏HUD+] invhud.forge.1.20-3.4.13.jar
+[136月2023 14:30:07.845] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [物品栏HUD+] invhud.forge.1.20-3.4.13.jar with {inventoryhud} mods - versions {3.4.13}
+[136月2023 14:30:07.854] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[玉 ?] Jade-1.20-forge-11.0.3.jar
+[136月2023 14:30:07.858] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [玉 ?] Jade-1.20-forge-11.0.3.jar with {jade} mods - versions {11.0.3}
+[136月2023 14:30:07.868] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[终极汽车] car-1.20-1.0.4.jar
+[136月2023 14:30:07.873] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [终极汽车] car-1.20-1.0.4.jar with {car} mods - versions {1.20-1.0.4}
+[136月2023 14:30:07.893] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[结构变体] repurposed_structures-7.0.0+1.20-forge.jar
+[136月2023 14:30:07.896] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [结构变体] repurposed_structures-7.0.0+1.20-forge.jar with {repurposed_structures} mods - versions {7.0.0+1.20-forge}
+[136月2023 14:30:07.904] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[聊天头像] chat_heads-0.10.15-forge-1.20.jar
+[136月2023 14:30:07.907] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [聊天头像] chat_heads-0.10.15-forge-1.20.jar with {chat_heads} mods - versions {0.10.15}
+[136月2023 14:30:07.916] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[自然音效] AmbientSounds_FORGE_v5.2.19_mc1.20.jar
+[136月2023 14:30:07.918] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [自然音效] AmbientSounds_FORGE_v5.2.19_mc1.20.jar with {ambientsounds} mods - versions {5.2.19}
+[136月2023 14:30:07.929] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[超多生物群系] BiomesOPlenty-1.20-18.0.0.557.jar
+[136月2023 14:30:07.931] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [超多生物群系] BiomesOPlenty-1.20-18.0.0.557.jar with {biomesoplenty} mods - versions {18.0.0.557}
+[136月2023 14:30:07.942] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[铷] rubidium-0.6.5.jar
+[136月2023 14:30:07.944] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [铷] rubidium-0.6.5.jar with {rubidium} mods - versions {0.6.5}
+[136月2023 14:30:07.952] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\[静谧四季／季节] SereneSeasons-1.20-9.0.0.41.jar
+[136月2023 14:30:07.954] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [静谧四季／季节] SereneSeasons-1.20-9.0.0.41.jar with {sereneseasons} mods - versions {9.0.0.41}
+[136月2023 14:30:07.961] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\cloth-config-11.0.99-forge.jar
+[136月2023 14:30:07.963] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file cloth-config-11.0.99-forge.jar with {cloth_config} mods - versions {11.0.99}
+[136月2023 14:30:07.973] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\collective-1.20.0-6.57.jar
+[136月2023 14:30:07.974] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file collective-1.20.0-6.57.jar with {collective} mods - versions {6.57}
+[136月2023 14:30:07.983] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\CreativeCore_FORGE_v2.10.22_mc1.20.jar
+[136月2023 14:30:07.985] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file CreativeCore_FORGE_v2.10.22_mc1.20.jar with {creativecore} mods - versions {2.10.22}
+[136月2023 14:30:08.000] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\ferritecore-6.0.0-forge.jar
+[136月2023 14:30:08.002] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ferritecore-6.0.0-forge.jar with {ferritecore} mods - versions {6.0.0}
+[136月2023 14:30:08.008] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\humblingbundle-1.20.0-2.1.jar
+[136月2023 14:30:08.009] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file humblingbundle-1.20.0-2.1.jar with {humblingbundle} mods - versions {2.1}
+[136月2023 14:30:08.016] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\mcwifipnp-1.6.5-1.20-forge.jar
+[136月2023 14:30:08.018] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file mcwifipnp-1.6.5-1.20-forge.jar with {mcwifipnp} mods - versions {1.6.5}
+[136月2023 14:30:08.024] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\moonlight-1.20-2.5.2-forge.jar
+[136月2023 14:30:08.025] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file moonlight-1.20-2.5.2-forge.jar with {moonlight} mods - versions {1.20-2.5.2}
+[136月2023 14:30:08.033] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\NoChatReports-FORGE-1.20-v2.2.0.jar
+[136月2023 14:30:08.034] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file NoChatReports-FORGE-1.20-v2.2.0.jar with {nochatreports} mods - versions {1.20-v2.2.0}
+[136月2023 14:30:08.040] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\replantingcrops-1.20.0-5.1.jar
+[136月2023 14:30:08.041] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file replantingcrops-1.20.0-5.1.jar with {replantingcrops} mods - versions {5.1}
+[136月2023 14:30:08.051] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\staaaaaaaaaaaack-forge-1.20-1.1-36.jar
+[136月2023 14:30:08.052] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file staaaaaaaaaaaack-forge-1.20-1.1-36.jar with {staaaaaaaaaaaack} mods - versions {1.20-1.1-36}
+[136月2023 14:30:08.057] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\stackrefill-1.20.0-4.0.jar
+[136月2023 14:30:08.058] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file stackrefill-1.20.0-4.0.jar with {stackrefill} mods - versions {4.0}
+[136月2023 14:30:08.069] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\supplementaries-1.20-2.5.0.jar
+[136月2023 14:30:08.071] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file supplementaries-1.20-2.5.0.jar with {supplementaries} mods - versions {1.20-2.5.0}
+[136月2023 14:30:08.079] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\TerraBlender-forge-1.20-3.0.0.163.jar
+[136月2023 14:30:08.081] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file TerraBlender-forge-1.20-3.0.0.163.jar with {terrablender} mods - versions {3.0.0.163}
+[136月2023 14:30:08.087] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\TES-forge-1.20-1.1.1.jar
+[136月2023 14:30:08.089] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file TES-forge-1.20-1.1.1.jar with {tslatentitystatus} mods - versions {1.1.1}
+[136月2023 14:30:08.097] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\86159\Desktop\MC\1.20\.minecraft\versions\测试\mods\villagernames-1.20.0-5.2.jar
+[136月2023 14:30:08.099] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file villagernames-1.20.0-5.2.jar with {villagernames} mods - versions {5.2}
+[136月2023 14:30:08.600] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file client-1.20-20230608.053357-srg.jar with {minecraft} mods - versions {1.20}

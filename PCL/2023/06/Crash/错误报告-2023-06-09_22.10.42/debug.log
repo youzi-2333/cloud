@@ -1,0 +1,1011 @@
+[096月2023 22:10:28.577] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, MAXCARZZY, --version, 1.19.2-Forge_43.2.0, --gameDir, C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\Users\MI\AppData\Roaming\.minecraft\assets, --assetIndex, 1.19, --uuid, d399b45ac55a4eb7a21c45eaf66c4980, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[096月2023 22:10:28.577] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.2 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[096月2023 22:10:28.617] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [fmlclientdev,forgeclient,minecraft,forgegametestserverdev,fmlserveruserdev,fmlclient,fmldatauserdev,forgeserverdev,forgeserveruserdev,forgeclientdev,forgeclientuserdev,forgeserver,forgedatadev,fmlserver,fmlclientuserdev,fmlserverdev,forgedatauserdev,testharness,forgegametestserveruserdev]
+[096月2023 22:10:28.631] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : [srgtomcp]
+[096月2023 22:10:28.647] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [mixin,eventbus,slf4jfixer,object_holder_definalize,runtime_enum_extender,capability_token_subclass,accesstransformer,runtimedistcleaner]
+[096月2023 22:10:28.667] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
+[096月2023 22:10:29.262] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: 
+[096月2023 22:10:29.277] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [mixin,fml]
+[096月2023 22:10:29.277] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
+[096月2023 22:10:29.277] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service mixin
+[096月2023 22:10:29.277] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service mixin
+[096月2023 22:10:29.277] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
+[096月2023 22:10:29.282] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 1.0
+[096月2023 22:10:29.282] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 1.0 loading
+[096月2023 22:10:29.282] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 10.0.8+10.0.8+main.0ef7e830
+[096月2023 22:10:29.282] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 8.0.4+66+master.c09db6d7
+[096月2023 22:10:29.282] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 6.0.3+6.0.3+master.039e4ea9
+[096月2023 22:10:29.282] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
+[096月2023 22:10:29.287] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 5.0.1+15+master.dc5a2922
+[096月2023 22:10:29.287] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 6.0.0+6.0.0+master.42474703
+[096月2023 22:10:29.287] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 5
+[096月2023 22:10:29.287] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
+[096月2023 22:10:29.287] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
+[096月2023 22:10:29.298] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
+[096月2023 22:10:29.298] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service mixin
+[096月2023 22:10:29.317] [main/DEBUG] [mixin/]: MixinService [ModLauncher] was successfully booted in cpw.mods.cl.ModuleClassLoader@14ec4505
+[096月2023 22:10:29.337] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/MI/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23146!/ Service=ModLauncher Env=CLIENT
+[096月2023 22:10:29.337] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
+[096月2023 22:10:29.337] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[096月2023 22:10:29.345] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[096月2023 22:10:29.345] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[096月2023 22:10:29.347] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[096月2023 22:10:29.347] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[096月2023 22:10:29.347] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service mixin
+[096月2023 22:10:29.347] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
+[096月2023 22:10:29.347] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
+[096月2023 22:10:29.347] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing GAMEDIR directory : C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0
+[096月2023 22:10:29.347] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0
+[096月2023 22:10:29.347] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing MODSDIR directory : C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods
+[096月2023 22:10:29.347] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods
+[096月2023 22:10:29.347] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing CONFIGDIR directory : C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\config
+[096月2023 22:10:29.347] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\config
+[096月2023 22:10:29.347] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\config\fml.toml
+[096月2023 22:10:29.347] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration
+[096月2023 22:10:29.393] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing default config directory directory : C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\defaultconfigs
+[096月2023 22:10:29.393] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing ModFile
+[096月2023 22:10:29.397] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing launch handler
+[096月2023 22:10:29.397] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Using forgeclient as launch service
+[096月2023 22:10:29.417] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Received command line version data  : VersionInfo[forgeVersion=43.2.0, mcVersion=1.19.2, mcpVersion=20220805.130853, forgeGroup=net.minecraftforge]
+[096月2023 22:10:29.422] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service fml
+[096月2023 22:10:29.422] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Current naming domain is 'srg'
+[096月2023 22:10:29.425] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Identified name mapping providers {}
+[096月2023 22:10:29.425] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services begin scanning
+[096月2023 22:10:29.425] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service mixin
+[096月2023 22:10:29.425] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service mixin
+[096月2023 22:10:29.425] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service fml
+[096月2023 22:10:29.425] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Initiating mod scan
+[096月2023 22:10:29.441] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModListHandler/CORE]: Found mod coordinates from lists: []
+[096月2023 22:10:29.447] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Mod Locators : (mods folder:null),(maven libs:null),(exploded directory:null),(minecraft:null),(userdev classpath:null)
+[096月2023 22:10:29.447] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Dependency Locators : (JarInJar:null)
+[096月2023 22:10:29.457] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[JEI物品管理器] jei-1.19.2-forge-11.6.0.1015.jar
+[096月2023 22:10:29.512] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [JEI物品管理器] jei-1.19.2-forge-11.6.0.1015.jar with {jei} mods - versions {11.6.0.1015}
+[096月2023 22:10:29.517] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的家具] mcw-furniture-3.1.0-mc1.19.2forge.jar
+[096月2023 22:10:29.521] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Macaw的家具] mcw-furniture-3.1.0-mc1.19.2forge.jar with {mcwfurnitures} mods - versions {3.1.0}
+[096月2023 22:10:29.521] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的屋顶] mcw-roofs-2.2.3-mc1.19.2forge.jar
+[096月2023 22:10:29.527] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Macaw的屋顶] mcw-roofs-2.2.3-mc1.19.2forge.jar with {mcwroofs} mods - versions {2.2.3}
+[096月2023 22:10:29.527] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的栅栏与墙] mcw-fences-1.0.7-mc1.19.2forge.jar
+[096月2023 22:10:29.532] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Macaw的栅栏与墙] mcw-fences-1.0.7-mc1.19.2forge.jar with {mcwfences} mods - versions {1.0.7}
+[096月2023 22:10:29.532] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的桥梁] mcw-bridges-2.0.7-mc1.19.2forge.jar
+[096月2023 22:10:29.532] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Macaw的桥梁] mcw-bridges-2.0.7-mc1.19.2forge.jar with {mcwbridges} mods - versions {2.0.7}
+[096月2023 22:10:29.537] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的门] mcw-doors-1.0.9forge-mc1.19.2.jar
+[096月2023 22:10:29.537] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Macaw的门] mcw-doors-1.0.9forge-mc1.19.2.jar with {mcwdoors} mods - versions {1.0.9}
+[096月2023 22:10:29.537] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Xaero的世界地图] XaerosWorldMap_1.30.3_Forge_1.19.1.jar
+[096月2023 22:10:29.547] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Xaero的世界地图] XaerosWorldMap_1.30.3_Forge_1.19.1.jar with {xaeroworldmap} mods - versions {1.30.3}
+[096月2023 22:10:29.547] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Xaero的小地图] Xaeros_Minimap_23.4.4_Forge_1.19.1.jar
+[096月2023 22:10:29.547] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Xaero的小地图] Xaeros_Minimap_23.4.4_Forge_1.19.1.jar with {xaerominimap} mods - versions {23.4.4}
+[096月2023 22:10:29.553] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[一键背包整理Next] InventoryProfilesNext-forge-1.19-1.10.3.jar
+[096月2023 22:10:29.557] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [一键背包整理Next] InventoryProfilesNext-forge-1.19-1.10.3.jar with {inventoryprofilesnext} mods - versions {1.10.3}
+[096月2023 22:10:29.557] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[暮色森林] twilightforest-1.19.2-4.2.1518-universal.jar
+[096月2023 22:10:29.567] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [暮色森林] twilightforest-1.19.2-4.2.1518-universal.jar with {twilightforest} mods - versions {4.2.1518}
+[096月2023 22:10:29.568] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[更多箱子] ironchest-1.19.2-14.2.7.jar
+[096月2023 22:10:29.568] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [更多箱子] ironchest-1.19.2-14.2.7.jar with {ironchest} mods - versions {1.19.2-14.2.7}
+[096月2023 22:10:29.577] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[机械动力] create-1.19.2-0.5.1.b.jar
+[096月2023 22:10:29.577] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [机械动力] create-1.19.2-0.5.1.b.jar with {create} mods - versions {0.5.1.b}
+[096月2023 22:10:29.584] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[机械动力：合金] alloyed-1.19.2-v1.5.jar
+[096月2023 22:10:29.587] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [机械动力：合金] alloyed-1.19.2-v1.5.jar with {alloyed} mods - versions {1.19.2}
+[096月2023 22:10:29.587] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[机械动力：物品附加] create-stuff-additions1.19.2_v2.0.3b.jar
+[096月2023 22:10:29.587] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [机械动力：物品附加] create-stuff-additions1.19.2_v2.0.3b.jar with {create_sa} mods - versions {2.0.3.}
+[096月2023 22:10:29.600] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[模拟殖民地] minecolonies-1.19.2-1.0.1351-RELEASE.jar
+[096月2023 22:10:29.605] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [模拟殖民地] minecolonies-1.19.2-1.0.1351-RELEASE.jar with {minecolonies} mods - versions {1.19.2-1.0.1351-RELEASE}
+[096月2023 22:10:29.607] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[氡] radon-0.8.2.jar
+[096月2023 22:10:29.607] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [氡] radon-0.8.2.jar with {radon} mods - versions {0.8.2}
+[096月2023 22:10:29.667] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[沉浸工程] ImmersiveEngineering-1.19.2-9.2.2-165.jar
+[096月2023 22:10:29.667] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [沉浸工程] ImmersiveEngineering-1.19.2-9.2.2-165.jar with {immersiveengineering} mods - versions {1.19.2-9.2.2-165}
+[096月2023 22:10:29.677] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[现代化修复] modernfix-mc1.19.2-forge-3.7.1.jar
+[096月2023 22:10:29.677] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [现代化修复] modernfix-mc1.19.2-forge-3.7.1.jar with {modernfix} mods - versions {3.7.1}
+[096月2023 22:10:29.679] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[精妙核心] sophisticatedcore-1.19.2-0.5.69.311.jar
+[096月2023 22:10:29.679] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [精妙核心] sophisticatedcore-1.19.2-0.5.69.311.jar with {sophisticatedcore} mods - versions {1.19.2-0.5.69.311}
+[096月2023 22:10:29.687] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[精妙背包] sophisticatedbackpacks-1.19.2-3.18.50.849.jar
+[096月2023 22:10:29.687] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [精妙背包] sophisticatedbackpacks-1.19.2-3.18.50.849.jar with {sophisticatedbackpacks} mods - versions {1.19.2-3.18.50.849}
+[096月2023 22:10:29.697] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[结构化] structurize-1.19.2-1.0.491-ALPHA.jar
+[096月2023 22:10:29.697] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [结构化] structurize-1.19.2-1.0.491-ALPHA.jar with {structurize} mods - versions {1.19.2-1.0.491-ALPHA}
+[096月2023 22:10:29.707] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[通用机械] Mekanism-1.19.2-10.3.8.477.jar
+[096月2023 22:10:29.707] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [通用机械] Mekanism-1.19.2-10.3.8.477.jar with {mekanism} mods - versions {10.3.8}
+[096月2023 22:10:29.711] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[通用机械发电机] MekanismGenerators-1.19.2-10.3.8.477.jar
+[096月2023 22:10:29.717] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [通用机械发电机] MekanismGenerators-1.19.2-10.3.8.477.jar with {mekanismgenerators} mods - versions {10.3.8}
+[096月2023 22:10:29.717] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[通用机械工具] MekanismTools-1.19.2-10.3.8.477.jar
+[096月2023 22:10:29.722] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [通用机械工具] MekanismTools-1.19.2-10.3.8.477.jar with {mekanismtools} mods - versions {10.3.8}
+[096月2023 22:10:29.727] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[铷 · 扩展] rubidium-extra-0.4.17+mc1.19.2-build.71.jar
+[096月2023 22:10:29.732] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [铷 · 扩展] rubidium-extra-0.4.17+mc1.19.2-build.71.jar with {sodiumextra} mods - versions {0.4.17+mc1.19.2-build.71}
+[096月2023 22:10:29.732] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[铷] rubidium-0.6.2b.jar
+[096月2023 22:10:29.737] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [铷] rubidium-0.6.2b.jar with {rubidium} mods - versions {0.6.2b}
+[096月2023 22:10:29.737] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\blockui-1.19-0.0.69-ALPHA.jar
+[096月2023 22:10:29.737] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file blockui-1.19-0.0.69-ALPHA.jar with {blockui} mods - versions {1.19-0.0.69-ALPHA}
+[096月2023 22:10:29.743] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\canary-mc1.19.2-0.2.4.jar
+[096月2023 22:10:29.743] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file canary-mc1.19.2-0.2.4.jar with {canary} mods - versions {0.2.4}
+[096月2023 22:10:29.747] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\createaddition-1.19.2-20230527a.jar
+[096月2023 22:10:29.747] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file createaddition-1.19.2-20230527a.jar with {createaddition} mods - versions {1.19.2-20230527a}
+[096月2023 22:10:29.752] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\createarmoryv0.5.2.jar
+[096月2023 22:10:29.752] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file createarmoryv0.5.2.jar with {createarmory} mods - versions {0.5}
+[096月2023 22:10:29.759] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\curios-forge-1.19.2-5.1.4.1.jar
+[096月2023 22:10:29.759] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file curios-forge-1.19.2-5.1.4.1.jar with {curios} mods - versions {1.19.2-5.1.4.1}
+[096月2023 22:10:29.759] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\DistantHorizons-1.6.9a-1.19.2.jar
+[096月2023 22:10:29.759] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file DistantHorizons-1.6.9a-1.19.2.jar with {lod} mods - versions {1.6.9a}
+[096月2023 22:10:29.767] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar
+[096月2023 22:10:29.767] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar with {domum_ornamentum} mods - versions {1.19-1.0.76-ALPHA}
+[096月2023 22:10:29.772] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\geckolib-forge-1.19-3.1.40.jar
+[096月2023 22:10:29.775] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file geckolib-forge-1.19-3.1.40.jar with {geckolib3} mods - versions {3.1.40}
+[096月2023 22:10:29.777] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\Jade-1.19.1-forge-8.8.1.jar
+[096月2023 22:10:29.777] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Jade-1.19.1-forge-8.8.1.jar with {jade} mods - versions {8.8.1}
+[096月2023 22:10:29.782] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\JustEnoughResources-1.19.2-1.2.2.200.jar
+[096月2023 22:10:29.782] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file JustEnoughResources-1.19.2-1.2.2.200.jar with {jeresources} mods - versions {1.2.2.200}
+[096月2023 22:10:29.827] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\libIPN-forge-1.19-3.0.2.jar
+[096月2023 22:10:29.837] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file libIPN-forge-1.19-3.0.2.jar with {libipn} mods - versions {3.0.2}
+[096月2023 22:10:29.839] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\MoreMekanismProcessing-1.19.2-3.0.jar
+[096月2023 22:10:29.839] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file MoreMekanismProcessing-1.19.2-3.0.jar with {moremekanismprocessing} mods - versions {3.0}
+[096月2023 22:10:29.839] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\multipiston-1.19.2-1.2.21-ALPHA.jar
+[096月2023 22:10:29.839] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file multipiston-1.19.2-1.2.21-ALPHA.jar with {multipiston} mods - versions {1.19.2-1.2.21-ALPHA}
+[096月2023 22:10:29.847] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\oculus-mc1.19.2-1.2.8a.jar
+[096月2023 22:10:29.847] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file oculus-mc1.19.2-1.2.8a.jar with {oculus} mods - versions {1.2.8a}
+[096月2023 22:10:29.847] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\pluto-mc1.19.2-0.0.9.jar
+[096月2023 22:10:29.847] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file pluto-mc1.19.2-0.0.9.jar with {pluto} mods - versions {0.0.9}
+[096月2023 22:10:30.007] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file client-1.19.2-20220805.130853-srg.jar with {minecraft} mods - versions {1.19.2}
+[096月2023 22:10:30.007] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.0\fmlcore-1.19.2-43.2.0.jar
+[096月2023 22:10:30.013] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.0\fmlcore-1.19.2-43.2.0.jar is missing mods.toml file
+[096月2023 22:10:30.017] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.0\javafmllanguage-1.19.2-43.2.0.jar
+[096月2023 22:10:30.017] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.0\javafmllanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[096月2023 22:10:30.017] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.0\lowcodelanguage-1.19.2-43.2.0.jar
+[096月2023 22:10:30.017] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.0\lowcodelanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[096月2023 22:10:30.017] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.0\mclanguage-1.19.2-43.2.0.jar
+[096月2023 22:10:30.017] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.0\mclanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[096月2023 22:10:30.057] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.19.2-43.2.0\forge-1.19.2-43.2.0-universal.jar
+[096月2023 22:10:30.057] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file forge-1.19.2-43.2.0-universal.jar with {forge} mods - versions {43.2.0}
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from client-1.19.2-20220805.130853-srg.jar, it does not contain dependency information.
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from MoreMekanismProcessing-1.19.2-3.0.jar, it does not contain dependency information.
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from DistantHorizons-1.6.9a-1.19.2.jar, it does not contain dependency information.
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [氡] radon-0.8.2.jar, it does not contain dependency information.
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [Macaw的桥梁] mcw-bridges-2.0.7-mc1.19.2forge.jar, it does not contain dependency information.
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from libIPN-forge-1.19-3.0.2.jar, it does not contain dependency information.
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [机械动力：合金] alloyed-1.19.2-v1.5.jar, it does not contain dependency information.
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [沉浸工程] ImmersiveEngineering-1.19.2-9.2.2-165.jar, it does not contain dependency information.
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from Jade-1.19.1-forge-8.8.1.jar, it does not contain dependency information.
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [Macaw的栅栏与墙] mcw-fences-1.0.7-mc1.19.2forge.jar, it does not contain dependency information.
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [JEI物品管理器] jei-1.19.2-forge-11.6.0.1015.jar, it does not contain dependency information.
+[096月2023 22:10:30.077] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from multipiston-1.19.2-1.2.21-ALPHA.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [通用机械] Mekanism-1.19.2-10.3.8.477.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [铷] rubidium-0.6.2b.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [精妙核心] sophisticatedcore-1.19.2-0.5.69.311.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from curios-forge-1.19.2-5.1.4.1.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from createarmoryv0.5.2.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from blockui-1.19-0.0.69-ALPHA.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from oculus-mc1.19.2-1.2.8a.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [Xaero的小地图] Xaeros_Minimap_23.4.4_Forge_1.19.1.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [机械动力：物品附加] create-stuff-additions1.19.2_v2.0.3b.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [Xaero的世界地图] XaerosWorldMap_1.30.3_Forge_1.19.1.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [现代化修复] modernfix-mc1.19.2-forge-3.7.1.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from canary-mc1.19.2-0.2.4.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [结构化] structurize-1.19.2-1.0.491-ALPHA.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [精妙背包] sophisticatedbackpacks-1.19.2-3.18.50.849.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from pluto-mc1.19.2-0.0.9.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [通用机械工具] MekanismTools-1.19.2-10.3.8.477.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [模拟殖民地] minecolonies-1.19.2-1.0.1351-RELEASE.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [一键背包整理Next] InventoryProfilesNext-forge-1.19-1.10.3.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [Macaw的屋顶] mcw-roofs-2.2.3-mc1.19.2forge.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [Macaw的门] mcw-doors-1.0.9forge-mc1.19.2.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [Macaw的家具] mcw-furniture-3.1.0-mc1.19.2forge.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [通用机械发电机] MekanismGenerators-1.19.2-10.3.8.477.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from JustEnoughResources-1.19.2-1.2.2.200.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from forge-1.19.2-43.2.0-universal.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [暮色森林] twilightforest-1.19.2-4.2.1518-universal.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from geckolib-forge-1.19-3.1.40.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from [更多箱子] ironchest-1.19.2-14.2.7.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from createaddition-1.19.2-20230527a.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from mclanguage-1.19.2-43.2.0.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from javafmllanguage-1.19.2-43.2.0.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from fmlcore-1.19.2-43.2.0.jar, it does not contain dependency information.
+[096月2023 22:10:30.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from lowcodelanguage-1.19.2-43.2.0.jar, it does not contain dependency information.
+[096月2023 22:10:30.152] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate 
+[096月2023 22:10:30.152] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file flywheel-forge-1.19.2-0.6.8.a-14.jar with {flywheel} mods - versions {0.6.8.a-14}
+[096月2023 22:10:30.152] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate 
+[096月2023 22:10:30.152] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file kffmod-3.12.0.jar with {kotlinforforge} mods - versions {3.12.0}
+[096月2023 22:10:30.157] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate 
+[096月2023 22:10:30.157] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ColaMixinConfig-v1.0.2.jar with {caffeineconfig} mods - versions {1.0.2}
+[096月2023 22:10:30.157] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from Registrate-MC1.19-1.1.5.jar, it does not contain dependency information.
+[096月2023 22:10:30.157] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from flywheel-forge-1.19.2-0.6.8.a-14.jar, it does not contain dependency information.
+[096月2023 22:10:30.157] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from kfflang-3.12.0.jar, it does not contain dependency information.
+[096月2023 22:10:30.157] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from kfflib-3.12.0.jar, it does not contain dependency information.
+[096月2023 22:10:30.157] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from kffmod-3.12.0.jar, it does not contain dependency information.
+[096月2023 22:10:30.157] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.AbstractJarFileDependencyLocator/]: Failed to load resource META-INF\jarjar\metadata.json from ColaMixinConfig-v1.0.2.jar, it does not contain dependency information.
+[096月2023 22:10:30.177] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate 
+[096月2023 22:10:30.177] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ColaMixinConfig-v1.0.2.jar with {caffeineconfig} mods - versions {1.0.2}
+[096月2023 22:10:30.189] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate 
+[096月2023 22:10:30.189] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file kffmod-3.12.0.jar with {kotlinforforge} mods - versions {3.12.0}
+[096月2023 22:10:30.197] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate 
+[096月2023 22:10:30.197] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file flywheel-forge-1.19.2-0.6.8.a-14.jar with {flywheel} mods - versions {0.6.8.a-14}
+[096月2023 22:10:30.197] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[096月2023 22:10:30.197] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\MoreMekanismProcessing-1.19.2-3.0.jar
+[096月2023 22:10:30.204] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file MoreMekanismProcessing-1.19.2-3.0.jar with {moremekanismprocessing} mods - versions {3.0}
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\MoreMekanismProcessing-1.19.2-3.0.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[机械动力：合金] alloyed-1.19.2-v1.5.jar
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [机械动力：合金] alloyed-1.19.2-v1.5.jar with {alloyed} mods - versions {1.19.2}
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[机械动力：合金] alloyed-1.19.2-v1.5.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[41,)]]
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[JEI物品管理器] jei-1.19.2-forge-11.6.0.1015.jar
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [JEI物品管理器] jei-1.19.2-forge-11.6.0.1015.jar with {jei} mods - versions {11.6.0.1015}
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[JEI物品管理器] jei-1.19.2-forge-11.6.0.1015.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[41,)]]
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\multipiston-1.19.2-1.2.21-ALPHA.jar
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file multipiston-1.19.2-1.2.21-ALPHA.jar with {multipiston} mods - versions {1.19.2-1.2.21-ALPHA}
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\multipiston-1.19.2-1.2.21-ALPHA.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[38,)]]
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[通用机械] Mekanism-1.19.2-10.3.8.477.jar
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [通用机械] Mekanism-1.19.2-10.3.8.477.jar with {mekanism} mods - versions {10.3.8}
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[通用机械] Mekanism-1.19.2-10.3.8.477.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[精妙核心] sophisticatedcore-1.19.2-0.5.69.311.jar
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [精妙核心] sophisticatedcore-1.19.2-0.5.69.311.jar with {sophisticatedcore} mods - versions {1.19.2-0.5.69.311}
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[精妙核心] sophisticatedcore-1.19.2-0.5.69.311.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[18,)]]
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[铷] rubidium-0.6.2b.jar
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [铷] rubidium-0.6.2b.jar with {rubidium} mods - versions {0.6.2b}
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[铷] rubidium-0.6.2b.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[39,)]]
+[096月2023 22:10:30.207] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[机械动力] create-1.19.2-0.5.1.b.jar
+[096月2023 22:10:30.217] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [机械动力] create-1.19.2-0.5.1.b.jar with {create} mods - versions {0.5.1.b}
+[096月2023 22:10:30.217] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[机械动力] create-1.19.2-0.5.1.b.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.217] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Xaero的世界地图] XaerosWorldMap_1.30.3_Forge_1.19.1.jar
+[096月2023 22:10:30.217] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Xaero的世界地图] XaerosWorldMap_1.30.3_Forge_1.19.1.jar with {xaeroworldmap} mods - versions {1.30.3}
+[096月2023 22:10:30.217] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Xaero的世界地图] XaerosWorldMap_1.30.3_Forge_1.19.1.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[42,)]]
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod xaeroworldmap_core with Javascript path META-INF/xaeroworldmap_core.js
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod META-INF/xaeroworldmap_core.js
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[现代化修复] modernfix-mc1.19.2-forge-3.7.1.jar
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [现代化修复] modernfix-mc1.19.2-forge-3.7.1.jar with {modernfix} mods - versions {3.7.1}
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[现代化修复] modernfix-mc1.19.2-forge-3.7.1.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[精妙背包] sophisticatedbackpacks-1.19.2-3.18.50.849.jar
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [精妙背包] sophisticatedbackpacks-1.19.2-3.18.50.849.jar with {sophisticatedbackpacks} mods - versions {1.19.2-3.18.50.849}
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[精妙背包] sophisticatedbackpacks-1.19.2-3.18.50.849.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[18,)]]
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的门] mcw-doors-1.0.9forge-mc1.19.2.jar
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Macaw的门] mcw-doors-1.0.9forge-mc1.19.2.jar with {mcwdoors} mods - versions {1.0.9}
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的门] mcw-doors-1.0.9forge-mc1.19.2.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[28,)]]
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[通用机械发电机] MekanismGenerators-1.19.2-10.3.8.477.jar
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [通用机械发电机] MekanismGenerators-1.19.2-10.3.8.477.jar with {mekanismgenerators} mods - versions {10.3.8}
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[通用机械发电机] MekanismGenerators-1.19.2-10.3.8.477.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.220] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\JustEnoughResources-1.19.2-1.2.2.200.jar
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file JustEnoughResources-1.19.2-1.2.2.200.jar with {jeresources} mods - versions {1.2.2.200}
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\JustEnoughResources-1.19.2-1.2.2.200.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.19.2-43.2.0\forge-1.19.2-43.2.0-universal.jar
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file forge-1.19.2-43.2.0-universal.jar with {forge} mods - versions {43.2.0}
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.19.2-43.2.0\forge-1.19.2-43.2.0-universal.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[24,]]]
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod field_to_method with Javascript path coremods/field_to_method.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod field_to_instanceof with Javascript path coremods/field_to_instanceof.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod add_bouncer_method with Javascript path coremods/add_bouncer_method.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod coremods/field_to_method.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod coremods/field_to_instanceof.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod coremods/add_bouncer_method.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[暮色森林] twilightforest-1.19.2-4.2.1518-universal.jar
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [暮色森林] twilightforest-1.19.2-4.2.1518-universal.jar with {twilightforest} mods - versions {4.2.1518}
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[暮色森林] twilightforest-1.19.2-4.2.1518-universal.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod seed with Javascript path META-INF/asm/seed.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod maprendercontext with Javascript path META-INF/asm/maprendercontext.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod music with Javascript path META-INF/asm/music.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod multipart with Javascript path META-INF/asm/multipart.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod foliage with Javascript path META-INF/asm/foliage.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod mount with Javascript path META-INF/asm/mount.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod book with Javascript path META-INF/asm/book.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod META-INF/asm/seed.js
+[096月2023 22:10:30.227] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod META-INF/asm/maprendercontext.js
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod META-INF/asm/music.js
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod META-INF/asm/multipart.js
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod META-INF/asm/foliage.js
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod META-INF/asm/mount.js
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod META-INF/asm/book.js
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[更多箱子] ironchest-1.19.2-14.2.7.jar
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [更多箱子] ironchest-1.19.2-14.2.7.jar with {ironchest} mods - versions {1.19.2-14.2.7}
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[更多箱子] ironchest-1.19.2-14.2.7.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[41,44)]]
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的桥梁] mcw-bridges-2.0.7-mc1.19.2forge.jar
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Macaw的桥梁] mcw-bridges-2.0.7-mc1.19.2forge.jar with {mcwbridges} mods - versions {2.0.7}
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的桥梁] mcw-bridges-2.0.7-mc1.19.2forge.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[28,)]]
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[氡] radon-0.8.2.jar
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [氡] radon-0.8.2.jar with {radon} mods - versions {0.8.2}
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[氡] radon-0.8.2.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[39,)]]
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\DistantHorizons-1.6.9a-1.19.2.jar
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file DistantHorizons-1.6.9a-1.19.2.jar with {lod} mods - versions {1.6.9a}
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\DistantHorizons-1.6.9a-1.19.2.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[40,44)]]
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file client-1.19.2-20220805.130853-srg.jar with {minecraft} mods - versions {1.19.2}
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraft\client\1.19.2-20220805.130853\client-1.19.2-20220805.130853-srg.jar with languages [LanguageSpec[languageName=minecraft, acceptedVersions=1]]
+[096月2023 22:10:30.232] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\libIPN-forge-1.19-3.0.2.jar
+[096月2023 22:10:30.236] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file libIPN-forge-1.19-3.0.2.jar with {libipn} mods - versions {3.0.2}
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\libIPN-forge-1.19-3.0.2.jar with languages [LanguageSpec[languageName=kotlinforforge, acceptedVersions=[3.11.0,)]]
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[沉浸工程] ImmersiveEngineering-1.19.2-9.2.2-165.jar
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [沉浸工程] ImmersiveEngineering-1.19.2-9.2.2-165.jar with {immersiveengineering} mods - versions {1.19.2-9.2.2-165}
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[沉浸工程] ImmersiveEngineering-1.19.2-9.2.2-165.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[25,)]]
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate 
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ColaMixinConfig-v1.0.2.jar with {caffeineconfig} mods - versions {1.0.2}
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file  with languages [LanguageSpec[languageName=javafml, acceptedVersions=[32,)]]
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\Jade-1.19.1-forge-8.8.1.jar
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Jade-1.19.1-forge-8.8.1.jar with {jade} mods - versions {8.8.1}
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\Jade-1.19.1-forge-8.8.1.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[42,)]]
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的栅栏与墙] mcw-fences-1.0.7-mc1.19.2forge.jar
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Macaw的栅栏与墙] mcw-fences-1.0.7-mc1.19.2forge.jar with {mcwfences} mods - versions {1.0.7}
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的栅栏与墙] mcw-fences-1.0.7-mc1.19.2forge.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[28,)]]
+[096月2023 22:10:30.237] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar with {domum_ornamentum} mods - versions {1.19-1.0.76-ALPHA}
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[28,)]]
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate 
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file kffmod-3.12.0.jar with {kotlinforforge} mods - versions {3.12.0}
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file  with languages [LanguageSpec[languageName=kotlinforforge, acceptedVersions=[3,)]]
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate 
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file flywheel-forge-1.19.2-0.6.8.a-14.jar with {flywheel} mods - versions {0.6.8.a-14}
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file  with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\curios-forge-1.19.2-5.1.4.1.jar
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file curios-forge-1.19.2-5.1.4.1.jar with {curios} mods - versions {1.19.2-5.1.4.1}
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\curios-forge-1.19.2-5.1.4.1.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[41,)]]
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\blockui-1.19-0.0.69-ALPHA.jar
+[096月2023 22:10:30.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file blockui-1.19-0.0.69-ALPHA.jar with {blockui} mods - versions {1.19-0.0.69-ALPHA}
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\blockui-1.19-0.0.69-ALPHA.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[41,)]]
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\createarmoryv0.5.2.jar
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file createarmoryv0.5.2.jar with {createarmory} mods - versions {0.5}
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\createarmoryv0.5.2.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Xaero的小地图] Xaeros_Minimap_23.4.4_Forge_1.19.1.jar
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Xaero的小地图] Xaeros_Minimap_23.4.4_Forge_1.19.1.jar with {xaerominimap} mods - versions {23.4.4}
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Xaero的小地图] Xaeros_Minimap_23.4.4_Forge_1.19.1.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[42,)]]
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod xaerominimap_core with Javascript path META-INF/xaerominimap_core.js
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod META-INF/xaerominimap_core.js
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\oculus-mc1.19.2-1.2.8a.jar
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file oculus-mc1.19.2-1.2.8a.jar with {oculus} mods - versions {1.2.8a}
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\oculus-mc1.19.2-1.2.8a.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[39,)]]
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[机械动力：物品附加] create-stuff-additions1.19.2_v2.0.3b.jar
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [机械动力：物品附加] create-stuff-additions1.19.2_v2.0.3b.jar with {create_sa} mods - versions {2.0.3.}
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[机械动力：物品附加] create-stuff-additions1.19.2_v2.0.3b.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[铷 · 扩展] rubidium-extra-0.4.17+mc1.19.2-build.71.jar
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [铷 · 扩展] rubidium-extra-0.4.17+mc1.19.2-build.71.jar with {sodiumextra} mods - versions {0.4.17+mc1.19.2-build.71}
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[铷 · 扩展] rubidium-extra-0.4.17+mc1.19.2-build.71.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.247] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\canary-mc1.19.2-0.2.4.jar
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file canary-mc1.19.2-0.2.4.jar with {canary} mods - versions {0.2.4}
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\canary-mc1.19.2-0.2.4.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[结构化] structurize-1.19.2-1.0.491-ALPHA.jar
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [结构化] structurize-1.19.2-1.0.491-ALPHA.jar with {structurize} mods - versions {1.19.2-1.0.491-ALPHA}
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[结构化] structurize-1.19.2-1.0.491-ALPHA.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[41,)]]
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[模拟殖民地] minecolonies-1.19.2-1.0.1351-RELEASE.jar
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [模拟殖民地] minecolonies-1.19.2-1.0.1351-RELEASE.jar with {minecolonies} mods - versions {1.19.2-1.0.1351-RELEASE}
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[模拟殖民地] minecolonies-1.19.2-1.0.1351-RELEASE.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[38,)]]
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[通用机械工具] MekanismTools-1.19.2-10.3.8.477.jar
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [通用机械工具] MekanismTools-1.19.2-10.3.8.477.jar with {mekanismtools} mods - versions {10.3.8}
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[通用机械工具] MekanismTools-1.19.2-10.3.8.477.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\pluto-mc1.19.2-0.0.9.jar
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file pluto-mc1.19.2-0.0.9.jar with {pluto} mods - versions {0.0.9}
+[096月2023 22:10:30.252] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\pluto-mc1.19.2-0.0.9.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[43,)]]
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的屋顶] mcw-roofs-2.2.3-mc1.19.2forge.jar
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Macaw的屋顶] mcw-roofs-2.2.3-mc1.19.2forge.jar with {mcwroofs} mods - versions {2.2.3}
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的屋顶] mcw-roofs-2.2.3-mc1.19.2forge.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[28,)]]
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[一键背包整理Next] InventoryProfilesNext-forge-1.19-1.10.3.jar
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [一键背包整理Next] InventoryProfilesNext-forge-1.19-1.10.3.jar with {inventoryprofilesnext} mods - versions {1.10.3}
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[一键背包整理Next] InventoryProfilesNext-forge-1.19-1.10.3.jar with languages [LanguageSpec[languageName=kotlinforforge, acceptedVersions=[3.11,)]]
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的家具] mcw-furniture-3.1.0-mc1.19.2forge.jar
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file [Macaw的家具] mcw-furniture-3.1.0-mc1.19.2forge.jar with {mcwfurnitures} mods - versions {3.1.0}
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[Macaw的家具] mcw-furniture-3.1.0-mc1.19.2forge.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[28,)]]
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\geckolib-forge-1.19-3.1.40.jar
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file geckolib-forge-1.19-3.1.40.jar with {geckolib3} mods - versions {3.1.40}
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\geckolib-forge-1.19-3.1.40.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[41,)]]
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\createaddition-1.19.2-20230527a.jar
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file createaddition-1.19.2-20230527a.jar with {createaddition} mods - versions {1.19.2-20230527a}
+[096月2023 22:10:30.257] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\createaddition-1.19.2-20230527a.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[40,)]]
+[096月2023 22:10:30.262] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file  with languages []
+[096月2023 22:10:30.262] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file  with languages []
+[096月2023 22:10:30.262] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service fml
+[096月2023 22:10:30.277] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found 4 language providers
+[096月2023 22:10:30.282] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider minecraft, version 1.0
+[096月2023 22:10:30.282] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider javafml, version 43
+[096月2023 22:10:30.282] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider kotlinforforge, version 3.12.0
+[096月2023 22:10:30.282] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider lowcodefml, version 43
+[096月2023 22:10:30.287] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/]: Configured system mods: [minecraft, forge]
+[096月2023 22:10:30.287] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/]: Found system mod: minecraft
+[096月2023 22:10:30.287] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/]: Found system mod: forge
+[096月2023 22:10:30.292] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Found 93 mod requirements (77 mandatory, 16 optional)
+[096月2023 22:10:30.297] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Found 1 mod requirements missing (1 mandatory, 0 optional)
+[096月2023 22:10:30.297] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'forge', Requested by: 'create', Expected range: '[43.2.3,)', Actual version: '43.2.0'
+[096月2023 22:10:30.797] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading transformers
+[096月2023 22:10:30.797] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformers for transformation service mixin
+[096月2023 22:10:30.797] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformers for transformation service mixin
+[096月2023 22:10:30.797] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformers for transformation service fml
+[096月2023 22:10:30.797] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading coremod transformers
+[096月2023 22:10:30.797] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from coremods/field_to_method.js
+[096月2023 22:10:30.997] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
+[096月2023 22:10:30.997] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from coremods/field_to_instanceof.js
+[096月2023 22:10:31.067] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
+[096月2023 22:10:31.067] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from coremods/add_bouncer_method.js
+[096月2023 22:10:31.100] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
+[096月2023 22:10:31.107] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@2aaf152b to Target : CLASS {Lnet/minecraft/world/level/biome/Biome;} {} {V}
+[096月2023 22:10:31.112] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@77114efe to Target : CLASS {Lnet/minecraft/world/level/levelgen/structure/Structure;} {} {V}
+[096月2023 22:10:31.112] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@79a7bfbc to Target : CLASS {Lnet/minecraft/world/effect/MobEffectInstance;} {} {V}
+[096月2023 22:10:31.112] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@77f68df to Target : CLASS {Lnet/minecraft/world/level/block/LiquidBlock;} {} {V}
+[096月2023 22:10:31.112] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@3e4e4c1 to Target : CLASS {Lnet/minecraft/world/item/BucketItem;} {} {V}
+[096月2023 22:10:31.112] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@7e7f3cfd to Target : CLASS {Lnet/minecraft/world/level/block/StairBlock;} {} {V}
+[096月2023 22:10:31.112] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@3ae126d1 to Target : CLASS {Lnet/minecraft/world/level/block/FlowerPotBlock;} {} {V}
+[096月2023 22:10:31.112] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@46a488c2 to Target : CLASS {Lnet/minecraft/world/item/ItemStack;} {} {V}
+[096月2023 22:10:31.112] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@6242ae3b to Target : CLASS {Lnet/minecraft/network/play/client/CClientSettingsPacket;} {} {V}
+[096月2023 22:10:31.112] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformers for transformation service fml
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(moremekanismprocessing)
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(moremekanismprocessing)
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(moremekanismprocessing)
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(moremekanismprocessing)
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(moremekanismprocessing)
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(moremekanismprocessing)]
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(alloyed)
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(alloyed)
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(alloyed)
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(alloyed)
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(alloyed)
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(alloyed)]
+[096月2023 22:10:32.220] [main/DEBUG] [mixin/]: Registering mixin config: alloyed.mixins.json
+[096月2023 22:10:32.242] [main/DEBUG] [mixin/]: Compatibility level JAVA_17 specified by alloyed.mixins.json is higher than the maximum level supported by this version of mixin (JAVA_13).
+[096月2023 22:10:32.247] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(jei)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(jei)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(jei)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(jei)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(jei)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(jei)]
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(multipiston)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(multipiston)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(multipiston)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(multipiston)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(multipiston)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(multipiston)]
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(mekanism)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(mekanism)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(mekanism)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(mekanism)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(mekanism)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mekanism)]
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(sophisticatedcore)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(sophisticatedcore)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(sophisticatedcore)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(sophisticatedcore)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(sophisticatedcore)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(sophisticatedcore)]
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(rubidium)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(rubidium)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(rubidium)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(rubidium)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(rubidium)
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(rubidium)]
+[096月2023 22:10:32.247] [main/DEBUG] [mixin/]: Registering mixin config: rubidium.mixins.json
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(create)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(create)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(create)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(create)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(create)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(create)]
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Registering mixin config: create.mixins.json
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Compatibility level JAVA_16 specified by create.mixins.json is higher than the maximum level supported by this version of mixin (JAVA_13).
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(xaeroworldmap)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(xaeroworldmap)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(xaeroworldmap)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(xaeroworldmap)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(xaeroworldmap)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(xaeroworldmap)]
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(modernfix)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(modernfix)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(modernfix)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(modernfix)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(modernfix)
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(modernfix)]
+[096月2023 22:10:32.252] [main/DEBUG] [mixin/]: Registering mixin config: modernfix-common.mixins.json
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: Registering mixin config: modernfix-forge.mixins.json
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: Compatibility level JAVA_8 specified by modernfix-forge.mixins.json is lower than the default level supported by the current mixin service (JAVA_16).
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(sophisticatedbackpacks)
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(sophisticatedbackpacks)
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(sophisticatedbackpacks)
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(sophisticatedbackpacks)
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(sophisticatedbackpacks)
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(sophisticatedbackpacks)]
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(mcwdoors)
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(mcwdoors)
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(mcwdoors)
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(mcwdoors)
+[096月2023 22:10:32.257] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(mcwdoors)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mcwdoors)]
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(mekanismgenerators)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(mekanismgenerators)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(mekanismgenerators)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(mekanismgenerators)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(mekanismgenerators)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mekanismgenerators)]
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(jeresources)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(jeresources)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(jeresources)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(jeresources)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(jeresources)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(jeresources)]
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(forge)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(forge)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(forge)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(forge)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(forge)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(forge)]
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(twilightforest)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(twilightforest)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(twilightforest)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(twilightforest)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(twilightforest)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(twilightforest)]
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(ironchest)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(ironchest)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(ironchest)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(ironchest)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(ironchest)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(ironchest)]
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(mcwbridges)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(mcwbridges)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(mcwbridges)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(mcwbridges)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(mcwbridges)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mcwbridges)]
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(radon)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(radon)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(radon)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(radon)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(radon)
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(radon)]
+[096月2023 22:10:32.262] [main/DEBUG] [mixin/]: Registering mixin config: radon.mixins.json
+[096月2023 22:10:32.267] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[096月2023 22:10:32.267] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(lod)
+[096月2023 22:10:32.267] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(lod)
+[096月2023 22:10:32.267] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(lod)
+[096月2023 22:10:32.267] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(lod)
+[096月2023 22:10:32.267] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(lod)
+[096月2023 22:10:32.267] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(lod)]
+[096月2023 22:10:32.267] [main/DEBUG] [mixin/]: Registering mixin config: lod.mixins.json
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(minecraft)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(minecraft)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(minecraft)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(minecraft)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(minecraft)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(minecraft)]
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(libipn)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(libipn)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(libipn)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(libipn)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(libipn)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(libipn)]
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(immersiveengineering)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(immersiveengineering)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(immersiveengineering)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(immersiveengineering)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(immersiveengineering)
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(immersiveengineering)]
+[096月2023 22:10:32.268] [main/DEBUG] [mixin/]: Registering mixin config: immersiveengineering.mixins.json
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(caffeineconfig)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(caffeineconfig)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(caffeineconfig)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(caffeineconfig)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(caffeineconfig)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(caffeineconfig)]
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(jade)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(jade)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(jade)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(jade)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(jade)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(jade)]
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(mcwfences)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(mcwfences)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(mcwfences)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(mcwfences)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(mcwfences)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mcwfences)]
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(domum_ornamentum)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(domum_ornamentum)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(domum_ornamentum)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(domum_ornamentum)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(domum_ornamentum)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(domum_ornamentum)]
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(kotlinforforge)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(kotlinforforge)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(kotlinforforge)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(kotlinforforge)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(kotlinforforge)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(kotlinforforge)]
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(flywheel)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(flywheel)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(flywheel)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(flywheel)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(flywheel)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(flywheel)]
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Registering mixin config: flywheel.mixins.json
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(curios)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(curios)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(curios)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(curios)
+[096月2023 22:10:32.272] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(curios)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(curios)]
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Registering mixin config: curios.mixins.json
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(blockui)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(blockui)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(blockui)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(blockui)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(blockui)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(blockui)]
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(createarmory)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(createarmory)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(createarmory)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(createarmory)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(createarmory)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(createarmory)]
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(xaerominimap)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(xaerominimap)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(xaerominimap)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(xaerominimap)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(xaerominimap)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(xaerominimap)]
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(oculus)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(oculus)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(oculus)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(oculus)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(oculus)
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(oculus)]
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Registering mixin config: mixins.oculus.json
+[096月2023 22:10:32.277] [main/DEBUG] [mixin/]: Compatibility level JAVA_8 specified by mixins.oculus.json is lower than the default level supported by the current mixin service (JAVA_16).
+[096月2023 22:10:32.282] [main/DEBUG] [mixin/]: Registering mixin config: mixins.oculus.fantastic.json
+[096月2023 22:10:32.282] [main/DEBUG] [mixin/]: Compatibility level JAVA_8 specified by mixins.oculus.fantastic.json is lower than the default level supported by the current mixin service (JAVA_16).
+[096月2023 22:10:32.282] [main/DEBUG] [mixin/]: Registering mixin config: mixins.oculus.vertexformat.json
+[096月2023 22:10:32.284] [main/DEBUG] [mixin/]: Compatibility level JAVA_8 specified by mixins.oculus.vertexformat.json is lower than the default level supported by the current mixin service (JAVA_16).
+[096月2023 22:10:32.284] [main/DEBUG] [mixin/]: Registering mixin config: mixins.oculus.bettermipmaps.json
+[096月2023 22:10:32.287] [main/DEBUG] [mixin/]: Compatibility level JAVA_8 specified by mixins.oculus.bettermipmaps.json is lower than the default level supported by the current mixin service (JAVA_16).
+[096月2023 22:10:32.287] [main/DEBUG] [mixin/]: Registering mixin config: mixins.oculus.fixes.maxfpscrash.json
+[096月2023 22:10:32.287] [main/DEBUG] [mixin/]: Compatibility level JAVA_8 specified by mixins.oculus.fixes.maxfpscrash.json is lower than the default level supported by the current mixin service (JAVA_16).
+[096月2023 22:10:32.287] [main/DEBUG] [mixin/]: Registering mixin config: mixins.oculus.optimized-stitching.json
+[096月2023 22:10:32.287] [main/DEBUG] [mixin/]: Compatibility level JAVA_8 specified by mixins.oculus.optimized-stitching.json is lower than the default level supported by the current mixin service (JAVA_16).
+[096月2023 22:10:32.287] [main/DEBUG] [mixin/]: Registering mixin config: oculus-batched-entity-rendering.mixins.json
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Compatibility level JAVA_8 specified by oculus-batched-entity-rendering.mixins.json is lower than the default level supported by the current mixin service (JAVA_16).
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Registering mixin config: mixins.oculus.compat.sodium.json
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Compatibility level JAVA_8 specified by mixins.oculus.compat.sodium.json is lower than the default level supported by the current mixin service (JAVA_16).
+[096月2023 22:10:32.292] [main/ERROR] [mixin/]: Mixin config mixins.oculus.compat.sodium.json does not specify "minVersion" property
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(create_sa)
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(create_sa)
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(create_sa)
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(create_sa)
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(create_sa)
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(create_sa)]
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(sodiumextra)
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(sodiumextra)
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(sodiumextra)
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(sodiumextra)
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(sodiumextra)
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(sodiumextra)]
+[096月2023 22:10:32.292] [main/DEBUG] [mixin/]: Registering mixin config: sodium-extra.mixins.json
+[096月2023 22:10:32.297] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(canary)
+[096月2023 22:10:32.297] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(canary)
+[096月2023 22:10:32.297] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(canary)
+[096月2023 22:10:32.297] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(canary)
+[096月2023 22:10:32.297] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(canary)
+[096月2023 22:10:32.297] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(canary)]
+[096月2023 22:10:32.297] [main/DEBUG] [mixin/]: Registering mixin config: canary.mixins.json
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(structurize)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(structurize)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(structurize)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(structurize)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(structurize)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(structurize)]
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(minecolonies)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(minecolonies)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(minecolonies)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(minecolonies)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(minecolonies)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(minecolonies)]
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(mekanismtools)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(mekanismtools)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(mekanismtools)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(mekanismtools)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(mekanismtools)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mekanismtools)]
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(pluto)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(pluto)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(pluto)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(pluto)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(pluto)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(pluto)]
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Registering mixin config: pluto.mixins.json
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(mcwroofs)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(mcwroofs)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(mcwroofs)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(mcwroofs)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(mcwroofs)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mcwroofs)]
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(inventoryprofilesnext)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(inventoryprofilesnext)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(inventoryprofilesnext)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(inventoryprofilesnext)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(inventoryprofilesnext)
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(inventoryprofilesnext)]
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Registering mixin config: mixins.ipnext.json
+[096月2023 22:10:32.300] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(mcwfurnitures)
+[096月2023 22:10:32.306] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(mcwfurnitures)
+[096月2023 22:10:32.306] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(mcwfurnitures)
+[096月2023 22:10:32.306] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(mcwfurnitures)
+[096月2023 22:10:32.306] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(mcwfurnitures)
+[096月2023 22:10:32.306] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mcwfurnitures)]
+[096月2023 22:10:32.306] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(geckolib3)
+[096月2023 22:10:32.306] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(geckolib3)
+[096月2023 22:10:32.306] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(geckolib3)
+[096月2023 22:10:32.306] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(geckolib3)
+[096月2023 22:10:32.306] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(geckolib3)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(geckolib3)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(createaddition)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(createaddition)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(createaddition)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(createaddition)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(createaddition)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(createaddition)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Registering mixin config: createaddition.mixins.json
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(Registrate.MC1._19)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(Registrate.MC1._19)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(Registrate.MC1._19)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(Registrate.MC1._19)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(Registrate.MC1._19)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(Registrate.MC1._19)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Adding mixin platform agents for container SecureJarResource(thedarkcolour.kotlinforforge.lib)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(thedarkcolour.kotlinforforge.lib)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(thedarkcolour.kotlinforforge.lib)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for SecureJarResource(thedarkcolour.kotlinforforge.lib)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container SecureJarResource(thedarkcolour.kotlinforforge.lib)
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(thedarkcolour.kotlinforforge.lib)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: inject() running with 49 agents
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(moremekanismprocessing)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(alloyed)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(jei)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(multipiston)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mekanism)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(sophisticatedcore)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(rubidium)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(create)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(xaeroworldmap)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(modernfix)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(sophisticatedbackpacks)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mcwdoors)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mekanismgenerators)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(jeresources)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(forge)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(twilightforest)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(ironchest)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mcwbridges)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(radon)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(lod)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(minecraft)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(libipn)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(immersiveengineering)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(caffeineconfig)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(jade)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mcwfences)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(domum_ornamentum)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(kotlinforforge)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(flywheel)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(curios)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(blockui)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(createarmory)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(xaerominimap)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(oculus)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(create_sa)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(sodiumextra)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(canary)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(structurize)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(minecolonies)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mekanismtools)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(pluto)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mcwroofs)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(inventoryprofilesnext)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(mcwfurnitures)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(geckolib3)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(createaddition)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(Registrate.MC1._19)]
+[096月2023 22:10:32.307] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(thedarkcolour.kotlinforforge.lib)]
+[096月2023 22:10:32.312] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.19.2-Forge_43.2.0, --gameDir, C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\Users\MI\AppData\Roaming\.minecraft\assets, --uuid, d399b45ac55a4eb7a21c45eaf66c4980, --username, MAXCARZZY, --assetIndex, 1.19, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480]
+[096月2023 22:10:32.407] [main/DEBUG] [mixin/]: Error cleaning class output directory: .mixin.out
+[096月2023 22:10:32.407] [main/DEBUG] [mixin/]: Preparing mixins for MixinEnvironment[DEFAULT]
+[096月2023 22:10:32.407] [main/DEBUG] [mixin/]: Selecting config alloyed.mixins.json
+[096月2023 22:10:32.412] [main/WARN] [mixin/]: Reference map 'alloyed.refmap.json' for alloyed.mixins.json could not be read. If this is a development environment you can ignore this message
+[096月2023 22:10:32.412] [main/DEBUG] [mixin/]: Selecting config rubidium.mixins.json
+[096月2023 22:10:32.447] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[096月2023 22:10:32.448] [main/DEBUG] [mixin/]: Selecting config create.mixins.json
+[096月2023 22:10:32.448] [main/DEBUG] [mixin/]: Selecting config modernfix-common.mixins.json
+[096月2023 22:10:32.507] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix: 56 options available, 0 override(s) found
+[096月2023 22:10:32.507] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[096月2023 22:10:32.517] [main/DEBUG] [mixin/]: Selecting config modernfix-forge.mixins.json
+[096月2023 22:10:32.517] [main/DEBUG] [mixin/]: Selecting config radon.mixins.json
+[096月2023 22:10:32.517] [main/DEBUG] [mixin/]: Selecting config lod.mixins.json
+[096月2023 22:10:32.522] [main/DEBUG] [mixin/]: Selecting config immersiveengineering.mixins.json
+[096月2023 22:10:32.537] [main/DEBUG] [mixin/]: Registering new injector for @Inject with org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo
+[096月2023 22:10:32.537] [main/DEBUG] [mixin/]: Registering new injector for @ModifyArg with org.spongepowered.asm.mixin.injection.struct.ModifyArgInjectionInfo
+[096月2023 22:10:32.537] [main/DEBUG] [mixin/]: Registering new injector for @ModifyArgs with org.spongepowered.asm.mixin.injection.struct.ModifyArgsInjectionInfo
+[096月2023 22:10:32.537] [main/DEBUG] [mixin/]: Registering new injector for @Redirect with org.spongepowered.asm.mixin.injection.struct.RedirectInjectionInfo
+[096月2023 22:10:32.542] [main/DEBUG] [mixin/]: Registering new injector for @ModifyVariable with org.spongepowered.asm.mixin.injection.struct.ModifyVariableInjectionInfo
+[096月2023 22:10:32.544] [main/DEBUG] [mixin/]: Registering new injector for @ModifyConstant with org.spongepowered.asm.mixin.injection.struct.ModifyConstantInjectionInfo
+[096月2023 22:10:32.547] [main/DEBUG] [mixin/]: Registering new injector for @CaptureOwner with blusunrize.immersiveengineering.common.mixin.CaptureOwnerInjectionInfo
+[096月2023 22:10:32.547] [main/DEBUG] [mixin/]: Selecting config flywheel.mixins.json
+[096月2023 22:10:32.547] [main/DEBUG] [mixin/]: Selecting config curios.mixins.json
+[096月2023 22:10:32.552] [main/DEBUG] [mixin/]: Selecting config mixins.oculus.json
+[096月2023 22:10:32.552] [main/DEBUG] [mixin/]: Selecting config mixins.oculus.fantastic.json
+[096月2023 22:10:32.557] [main/DEBUG] [mixin/]: Selecting config mixins.oculus.vertexformat.json
+[096月2023 22:10:32.560] [main/DEBUG] [mixin/]: Selecting config mixins.oculus.bettermipmaps.json
+[096月2023 22:10:32.560] [main/DEBUG] [mixin/]: Selecting config mixins.oculus.fixes.maxfpscrash.json
+[096月2023 22:10:32.560] [main/DEBUG] [mixin/]: Selecting config mixins.oculus.optimized-stitching.json
+[096月2023 22:10:32.567] [main/DEBUG] [mixin/]: Selecting config oculus-batched-entity-rendering.mixins.json
+[096月2023 22:10:32.567] [main/DEBUG] [mixin/]: Selecting config mixins.oculus.compat.sodium.json
+[096月2023 22:10:32.572] [main/DEBUG] [mixin/]: Selecting config sodium-extra.mixins.json
+[096月2023 22:10:32.582] [main/INFO] [Sodium Extra Config/]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[096月2023 22:10:32.587] [main/DEBUG] [mixin/]: Selecting config canary.mixins.json
+[096月2023 22:10:32.602] [main/WARN] [CanaryConfig/]: Option 'mixin.world.block_entity_ticking.world_border' requires 'mixin.util.world_border_listener=true' but found 'false'. Setting 'mixin.world.block_entity_ticking.world_border=false'.
+[096月2023 22:10:32.602] [main/INFO] [Canary/]: Loaded configuration file for Canary: 140 options available, 0 override(s) found
+[096月2023 22:10:32.608] [main/DEBUG] [mixin/]: Selecting config pluto.mixins.json
+[096月2023 22:10:32.608] [main/DEBUG] [mixin/]: Selecting config mixins.ipnext.json
+[096月2023 22:10:32.612] [main/DEBUG] [mixin/]: Selecting config createaddition.mixins.json
+[096月2023 22:10:32.617] [main/DEBUG] [mixin/]: Preparing alloyed.mixins.json (0)
+[096月2023 22:10:32.617] [main/DEBUG] [mixin/]: Preparing rubidium.mixins.json (54)
+[096月2023 22:10:32.837] [main/DEBUG] [mixin/]: Preparing modernfix-common.mixins.json (61)
+[096月2023 22:10:32.937] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/biome/Biome
+[096月2023 22:10:32.960] [main/DEBUG] [mixin/]: Preparing modernfix-forge.mixins.json (29)
+[096月2023 22:10:32.997] [main/DEBUG] [mixin/]: Preparing radon.mixins.json (19)
+[096月2023 22:10:33.027] [main/DEBUG] [mixin/]: Preparing lod.mixins.json (8)
+[096月2023 22:10:33.037] [main/DEBUG] [mixin/]: Preparing immersiveengineering.mixins.json (31)
+[096月2023 22:10:33.088] [main/DEBUG] [mixin/]: Preparing flywheel.mixins.json (29)
+[096月2023 22:10:33.117] [main/DEBUG] [mixin/]: @Mixin target me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder is public in flywheel.mixins.json:instancemanage.SodiumChunkRenderDataMixin and should be specified in value
+[096月2023 22:10:33.120] [main/DEBUG] [mixin/]: Preparing curios.mixins.json (6)
+[096月2023 22:10:33.162] [main/DEBUG] [mixin/]: Preparing mixins.oculus.json (70)
+[096月2023 22:10:33.237] [main/DEBUG] [mixin/]: Preparing mixins.oculus.fantastic.json (5)
+[096月2023 22:10:33.237] [main/DEBUG] [mixin/]: Preparing mixins.oculus.vertexformat.json (7)
+[096月2023 22:10:33.237] [main/DEBUG] [mixin/]: Preparing mixins.oculus.bettermipmaps.json (1)
+[096月2023 22:10:33.247] [main/DEBUG] [mixin/]: Preparing mixins.oculus.fixes.maxfpscrash.json (1)
+[096月2023 22:10:33.247] [main/DEBUG] [mixin/]: Preparing mixins.oculus.optimized-stitching.json (1)
+[096月2023 22:10:33.247] [main/DEBUG] [mixin/]: Preparing oculus-batched-entity-rendering.mixins.json (13)
+[096月2023 22:10:33.257] [main/DEBUG] [mixin/]: Preparing mixins.oculus.compat.sodium.json (34)
+[096月2023 22:10:33.267] [main/DEBUG] [mixin/]: Preparing sodium-extra.mixins.json (37)
+[096月2023 22:10:33.297] [main/DEBUG] [mixin/]: Preparing canary.mixins.json (215)
+[096月2023 22:10:33.447] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/item/ItemStack
+[096月2023 22:10:33.537] [main/DEBUG] [mixin/]: Preparing pluto.mixins.json (16)
+[096月2023 22:10:33.548] [main/DEBUG] [mixin/]: Preparing mixins.ipnext.json (9)
+[096月2023 22:10:33.548] [main/WARN] [IMixinConfigPlugin/]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[096月2023 22:10:33.548] [main/INFO] [IMixinConfigPlugin/]: Inventory Profiles Next dependency resolution failed! Probably missing libIPN.
+[096月2023 22:10:33.548] [main/DEBUG] [mixin/]: Preparing createaddition.mixins.json (3)
+[096月2023 22:10:33.562] [main/DEBUG] [mixin/]: Preparing create.mixins.json (31)
+[096月2023 22:10:33.617] [main/DEBUG] [mixin/]: Inner class org/embeddedt/modernfix/common/mixin/perf/cache_model_materials/BlockModelMixin$1 in org/embeddedt/modernfix/common/mixin/perf/cache_model_materials/BlockModelMixin on net/minecraft/client/renderer/block/model/BlockModel gets unique name net/minecraft/client/renderer/block/model/BlockModel$Anonymous$c47a4bf3bb60456bbb83294bd20ed8d1
+[096月2023 22:10:33.677] [main/DEBUG] [mixin/]: Inner class com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1 in com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin on net/minecraft/world/level/chunk/storage/SectionStorage gets unique name net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$ff48bb4177b6462e8f2bed99de6c6ca1
+[096月2023 22:10:33.687] [main/DEBUG] [mixin/]: Inner class com/abdelaziz/canary/mixin/chunk/palette/PalettedContainerMixin$1 in com/abdelaziz/canary/mixin/chunk/palette/PalettedContainerMixin on net/minecraft/world/level/chunk/PalettedContainer$Strategy gets unique name net/minecraft/world/level/chunk/PalettedContainer$Strategy$Anonymous$5f97b2d2661b43f290eaf87d8a2dee47
+[096月2023 22:10:33.687] [main/DEBUG] [mixin/]: Inner class com/abdelaziz/canary/mixin/chunk/palette/PalettedContainerMixin$2 in com/abdelaziz/canary/mixin/chunk/palette/PalettedContainerMixin on net/minecraft/world/level/chunk/PalettedContainer$Strategy gets unique name net/minecraft/world/level/chunk/PalettedContainer$Strategy$Anonymous$74e2dc1a1e2647f2b0dd572848a74671
+[096月2023 22:10:33.717] [main/DEBUG] [mixin/]: Prepared 591 mixins in 1.310 sec (2.2ms avg) (0ms load, 0ms transform, 0ms plugin)
+[096月2023 22:10:33.723] [main/DEBUG] [mixin/]: Mixing ClientMainMixin from flywheel.mixins.json into net.minecraft.client.main.Main
+[096月2023 22:10:33.777] [main/DEBUG] [io.netty.util.internal.logging.InternalLoggerFactory/]: Using SLF4J as the default logging framework
+[096月2023 22:10:33.777] [main/DEBUG] [io.netty.util.ResourceLeakDetector/]: -Dio.netty.leakDetection.level: simple
+[096月2023 22:10:33.777] [main/DEBUG] [io.netty.util.ResourceLeakDetector/]: -Dio.netty.leakDetection.targetRecords: 4
+[096月2023 22:10:33.827] [main/DEBUG] [mixin/]: Mixing perf.tag_id_caching.TagOrElementLocationMixin from modernfix-forge.mixins.json into net.minecraft.util.ExtraCodecs$TagOrElementLocation
+[096月2023 22:10:33.827] [main/DEBUG] [mixin/]: modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:33.857] [main/DEBUG] [mixin/]: Mixing texture.MixinResourceLocation from mixins.oculus.json into net.minecraft.resources.ResourceLocation
+[096月2023 22:10:33.857] [main/DEBUG] [mixin/]: mixins.oculus.json:texture.MixinResourceLocation: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:33.887] [main/DEBUG] [mixin/]: Mixing perf.thread_priorities.UtilMixin from modernfix-common.mixins.json into net.minecraft.Util
+[096月2023 22:10:33.897] [main/DEBUG] [mixin/]: Renaming synthetic method lambda$adjustPriorityOfThreadFactory$0(Ljava/util/concurrent/ForkJoinPool$ForkJoinWorkerThreadFactory;Ljava/util/concurrent/ForkJoinPool;)Ljava/util/concurrent/ForkJoinWorkerThread; to md5d1b5f$lambda$adjustPriorityOfThreadFactory$0$0 in modernfix-common.mixins.json:perf.thread_priorities.UtilMixin
+[096月2023 22:10:33.897] [main/DEBUG] [mixin/]: Mixing MixinUtilBackgroudThread from lod.mixins.json into net.minecraft.Util
+[096月2023 22:10:33.927] [main/DEBUG] [mixin/]: Mixing math.sine_lut.MthMixin from canary.mixins.json into net.minecraft.util.Mth
+[096月2023 22:10:33.957] [main/DEBUG] [mixin/]: Mixing MixinSystemReport from mixins.oculus.json into net.minecraft.SystemReport
+[096月2023 22:10:33.957] [main/DEBUG] [mixin/]: mixins.oculus.json:MixinSystemReport: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:33.957] [main/DEBUG] [mixin/]: Renaming synthetic method lambda$fillSystemDetails$1()Ljava/lang/String; to md5d1b5f$lambda$fillSystemDetails$1$0 in mixins.oculus.json:MixinSystemReport
+[096月2023 22:10:33.957] [main/DEBUG] [mixin/]: Renaming synthetic method lambda$fillSystemDetails$0(Ljava/lang/StringBuilder;Lnet/coderbot/iris/shaderpack/ShaderPack;)V to md5d1b5f$lambda$fillSystemDetails$0$1 in mixins.oculus.json:MixinSystemReport
+[096月2023 22:10:33.987] [main/DEBUG] [oshi.util.FileUtil/]: No oshi.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@1a0c5e9
+[096月2023 22:10:34.417] [main/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@1a0c5e9
+[096月2023 22:10:34.817] [pool-3-thread-1/DEBUG] [mixin/]: Mixing feature.measure_time.BootstrapMixin from modernfix-common.mixins.json into net.minecraft.server.Bootstrap
+[096月2023 22:10:34.827] [pool-3-thread-1/DEBUG] [mixin/]: Mixing core.BootstrapMixin from modernfix-forge.mixins.json into net.minecraft.server.Bootstrap
+[096月2023 22:10:34.827] [pool-3-thread-1/DEBUG] [mixin/]: modernfix-forge.mixins.json:core.BootstrapMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:34.837] [pool-3-thread-1/INFO] [net.minecraft.server.Bootstrap/]: ModernFix bootstrap
+[096月2023 22:10:34.847] [pool-3-thread-1/DEBUG] [mixin/]: Mixing perf.fast_registry_validation.ResourceKeyMixin from modernfix-forge.mixins.json into net.minecraft.resources.ResourceKey
+[096月2023 22:10:34.847] [pool-3-thread-1/DEBUG] [mixin/]: modernfix-forge.mixins.json:perf.fast_registry_validation.ResourceKeyMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:34.847] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$createEfficient$0(Lnet/minecraft/resources/ResourceLocation;)Ljava/util/Map; to md5d1b5f$lambda$createEfficient$0$0 in modernfix-forge.mixins.json:perf.fast_registry_validation.ResourceKeyMixin
+[096月2023 22:10:34.878] [pool-3-thread-1/DEBUG] [mixin/]: Mixing perf.reduce_blockstate_cache_rebuilds.GameDataMixin from modernfix-forge.mixins.json into net.minecraftforge.registries.GameData
+[096月2023 22:10:34.878] [pool-3-thread-1/DEBUG] [mixin/]: modernfix-forge.mixins.json:perf.reduce_blockstate_cache_rebuilds.GameDataMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:34.897] [pool-3-thread-1/DEBUG] [mixin/]: Mixing perf.fast_registry_validation.ForgeRegistryMixin from modernfix-forge.mixins.json into net.minecraftforge.registries.ForgeRegistry
+[096月2023 22:10:34.897] [pool-3-thread-1/DEBUG] [mixin/]: modernfix-forge.mixins.json:perf.fast_registry_validation.ForgeRegistryMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:34.917] [pool-3-thread-1/DEBUG] [mixin/]: Mixing perf.reduce_blockstate_cache_rebuilds.BlockCallbacksMixin from modernfix-forge.mixins.json into net.minecraftforge.registries.GameData$BlockCallbacks
+[096月2023 22:10:34.917] [pool-3-thread-1/DEBUG] [mixin/]: modernfix-forge.mixins.json:perf.reduce_blockstate_cache_rebuilds.BlockCallbacksMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:34.932] [pool-3-thread-1/DEBUG] [mixin/]: Mixing features.fast_biome_colors.MixinBlock from rubidium.mixins.json into net.minecraft.world.level.block.Block
+[096月2023 22:10:34.937] [pool-3-thread-1/DEBUG] [mixin/]: Mixing shapes.blockstate_cache.BlockMixin from canary.mixins.json into net.minecraft.world.level.block.Block
+[096月2023 22:10:34.937] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$static$0(Lnet/minecraft/world/phys/shapes/VoxelShape;)Z to md5d1b5f$lambda$static$0$0 in canary.mixins.json:shapes.blockstate_cache.BlockMixin
+[096月2023 22:10:34.947] [pool-3-thread-1/DEBUG] [mixin/]: Mixing MixinBlockStateBehavior from mixins.oculus.json into net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase
+[096月2023 22:10:34.947] [pool-3-thread-1/DEBUG] [mixin/]: mixins.oculus.json:MixinBlockStateBehavior: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:34.947] [pool-3-thread-1/DEBUG] [mixin/]: Mixing perf.reduce_blockstate_cache_rebuilds.BlockStateBaseMixin from modernfix-common.mixins.json into net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase
+[096月2023 22:10:34.957] [pool-3-thread-1/DEBUG] [mixin/]: Mixing block.MixinAbstractBlockState from radon.mixins.json into net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase
+[096月2023 22:10:34.957] [pool-3-thread-1/DEBUG] [mixin/]: Mixing coremods.AbstractBlockStateMixin from immersiveengineering.mixins.json into net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase
+[096月2023 22:10:34.959] [pool-3-thread-1/DEBUG] [mixin/]: Mixing ai.pathing.BlockStateBaseMixin from canary.mixins.json into net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase
+[096月2023 22:10:34.967] [pool-3-thread-1/DEBUG] [mixin/]: Mixing block.flatten_states.BlockStateBaseMixin from canary.mixins.json into net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase
+[096月2023 22:10:34.967] [pool-3-thread-1/DEBUG] [mixin/]: Mixing util.block_tracking.BlockStateBaseMixin from canary.mixins.json into net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase
+[096月2023 22:10:34.987] [pool-3-thread-1/DEBUG] [mixin/]: Mixing alloc.blockstate.StateHolderMixin from canary.mixins.json into net.minecraft.world.level.block.state.StateHolder
+[096月2023 22:10:34.997] [pool-3-thread-1/DEBUG] [mixin/]: Mixing math.fast_blockpos.BlockPosMixin from canary.mixins.json into net.minecraft.core.BlockPos
+[096月2023 22:10:35.022] [pool-3-thread-1/DEBUG] [mixin/]: Mixing EntityMixin from create.mixins.json into net.minecraft.world.entity.Entity
+[096月2023 22:10:35.023] [pool-3-thread-1/DEBUG] [mixin/]: create.mixins.json:EntityMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[096月2023 22:10:35.023] [pool-3-thread-1/DEBUG] [mixin/]: Mixing AccessorEntity from curios.mixins.json into net.minecraft.world.entity.Entity
+[096月2023 22:10:35.027] [pool-3-thread-1/DEBUG] [mixin/]: Mixing alloc.deep_passengers.EntityMixin from canary.mixins.json into net.minecraft.world.entity.Entity
+[096月2023 22:10:35.037] [pool-3-thread-1/DEBUG] [mixin/]: Mixing block.hopper.EntityAccessor from canary.mixins.json into net.minecraft.world.entity.Entity
+[096月2023 22:10:35.037] [pool-3-thread-1/DEBUG] [mixin/]: Mixing collections.fluid_submersion.EntityMixin from canary.mixins.json into net.minecraft.world.entity.Entity
+[096月2023 22:10:35.039] [pool-3-thread-1/DEBUG] [mixin/]: Mixing entity.collisions.suffocation.EntityMixin from canary.mixins.json into net.minecraft.world.entity.Entity
+[096月2023 22:10:35.039] [pool-3-thread-1/DEBUG] [mixin/]: Mixing entity.collisions.unpushable_cramming.EntityMixin from canary.mixins.json into net.minecraft.world.entity.Entity
+[096月2023 22:10:35.039] [pool-3-thread-1/DEBUG] [mixin/]: Mixing entity.skip_fire_check.EntityMixin from canary.mixins.json into net.minecraft.world.entity.Entity
+[096月2023 22:10:35.047] [pool-3-thread-1/DEBUG] [mixin/]: Mixing ContraptionDriverInteractMixin from create.mixins.json into net.minecraft.world.entity.Entity
+[096月2023 22:10:35.047] [pool-3-thread-1/DEBUG] [mixin/]: create.mixins.json:ContraptionDriverInteractMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[096月2023 22:10:35.047] [pool-3-thread-1/DEBUG] [mixin/]: Mixing client.EntityContraptionInteractionMixin from create.mixins.json into net.minecraft.world.entity.Entity
+[096月2023 22:10:35.047] [pool-3-thread-1/DEBUG] [mixin/]: create.mixins.json:client.EntityContraptionInteractionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[096月2023 22:10:35.047] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$create$onSpawnSprintParticle$4(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/core/BlockPos;Lcom/simibubi/create/content/contraptions/Contraption;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V to md5d1b5f$lambda$create$onSpawnSprintParticle$4$0 in create.mixins.json:client.EntityContraptionInteractionMixin
+[096月2023 22:10:35.047] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$create$onMove$3(Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/world/entity/Entity;Lcom/simibubi/create/content/contraptions/AbstractContraptionEntity;)Z to md5d1b5f$lambda$create$onMove$3$1 in create.mixins.json:client.EntityContraptionInteractionMixin
+[096月2023 22:10:35.047] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$create$contraptionStepSounds$2(Lorg/apache/commons/lang3/mutable/MutableBoolean;Lcom/simibubi/create/content/contraptions/Contraption;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V to md5d1b5f$lambda$create$contraptionStepSounds$2$2 in create.mixins.json:client.EntityContraptionInteractionMixin
+[096月2023 22:10:35.047] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$forCollision$1(Lnet/minecraft/world/phys/Vec3;Lorg/apache/logging/log4j/util/TriConsumer;Lcom/simibubi/create/content/contraptions/AbstractContraptionEntity;)V to md5d1b5f$lambda$forCollision$1$3 in create.mixins.json:client.EntityContraptionInteractionMixin
+[096月2023 22:10:35.047] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$create$getIntersectionContraptionsStream$0(Lcom/simibubi/create/content/contraptions/AbstractContraptionEntity;)Z to md5d1b5f$lambda$create$getIntersectionContraptionsStream$0$4 in create.mixins.json:client.EntityContraptionInteractionMixin
+[096月2023 22:10:35.108] [pool-3-thread-1/DEBUG] [mixin/]: Mixing MixinLivingEntity from curios.mixins.json into net.minecraft.world.entity.LivingEntity
+[096月2023 22:10:35.108] [pool-3-thread-1/DEBUG] [mixin/]: Mixing alloc.enum_values.living_entity.LivingEntityMixin from canary.mixins.json into net.minecraft.world.entity.LivingEntity
+[096月2023 22:10:35.108] [pool-3-thread-1/DEBUG] [mixin/]: Mixing entity.collisions.unpushable_cramming.LivingEntityMixin from canary.mixins.json into net.minecraft.world.entity.LivingEntity
+[096月2023 22:10:35.108] [pool-3-thread-1/DEBUG] [mixin/]: Mixing entity.fast_elytra_check.LivingEntityMixin from canary.mixins.json into net.minecraft.world.entity.LivingEntity
+[096月2023 22:10:35.108] [pool-3-thread-1/DEBUG] [mixin/]: Mixing entity.fast_hand_swing.LivingEntityMixin from canary.mixins.json into net.minecraft.world.entity.LivingEntity
+[096月2023 22:10:35.108] [pool-3-thread-1/DEBUG] [mixin/]: Mixing entity.fast_powder_snow_check.LivingEntityMixin from canary.mixins.json into net.minecraft.world.entity.LivingEntity
+[096月2023 22:10:35.108] [pool-3-thread-1/DEBUG] [mixin/]: Mixing entity.skip_equipment_change_check.LivingEntityMixin from canary.mixins.json into net.minecraft.world.entity.LivingEntity
+[096月2023 22:10:35.117] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$static$0(Lnet/minecraft/world/item/ItemStack;)Z to md5d1b5f$lambda$static$0$0 in canary.mixins.json:entity.skip_equipment_change_check.LivingEntityMixin
+[096月2023 22:10:35.119] [pool-3-thread-1/DEBUG] [mixin/]: Mixing CustomItemUseEffectsMixin from create.mixins.json into net.minecraft.world.entity.LivingEntity
+[096月2023 22:10:35.119] [pool-3-thread-1/DEBUG] [mixin/]: create.mixins.json:CustomItemUseEffectsMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[096月2023 22:10:35.119] [pool-3-thread-1/DEBUG] [mixin/]: Mixing LavaSwimmingMixin from create.mixins.json into net.minecraft.world.entity.LivingEntity
+[096月2023 22:10:35.119] [pool-3-thread-1/DEBUG] [mixin/]: create.mixins.json:LavaSwimmingMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[096月2023 22:10:35.127] [pool-3-thread-1/DEBUG] [mixin/]: Mixing accessor.LivingEntityAccessor from create.mixins.json into net.minecraft.world.entity.LivingEntity
+[096月2023 22:10:35.132] [pool-3-thread-1/DEBUG] [mixin/]: create.mixins.json:accessor.LivingEntityAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[096月2023 22:10:35.177] [pool-3-thread-1/DEBUG] [mixin/]: Mixing perf.model_optimizations.PropertyMixin from modernfix-common.mixins.json into net.minecraft.world.level.block.state.properties.Property
+[096月2023 22:10:35.183] [pool-3-thread-1/DEBUG] [mixin/]: Mixing perf.model_optimizations.BooleanPropertyMixin from modernfix-common.mixins.json into net.minecraft.world.level.block.state.properties.BooleanProperty
+[096月2023 22:10:35.187] [pool-3-thread-1/DEBUG] [mixin/]: Mixing alloc.chunk_random.LevelMixin from canary.mixins.json into net.minecraft.world.level.Level
+[096月2023 22:10:35.187] [pool-3-thread-1/DEBUG] [mixin/]: Mixing block.hopper.LevelMixin from canary.mixins.json into net.minecraft.world.level.Level
+[096月2023 22:10:35.187] [pool-3-thread-1/DEBUG] [mixin/]: Mixing util.block_entity_retrieval.LevelMixin from canary.mixins.json into net.minecraft.world.level.Level
+[096月2023 22:10:35.187] [pool-3-thread-1/DEBUG] [mixin/]: Mixing world.block_entity_ticking.sleeping.LevelMixin from canary.mixins.json into net.minecraft.world.level.Level
+[096月2023 22:10:35.187] [pool-3-thread-1/DEBUG] [mixin/]: Mixing world.chunk_access.LevelMixin from canary.mixins.json into net.minecraft.world.level.Level
+[096月2023 22:10:35.187] [pool-3-thread-1/DEBUG] [mixin/]: Mixing world.inline_block_access.LevelMixin from canary.mixins.json into net.minecraft.world.level.Level
+[096月2023 22:10:35.187] [pool-3-thread-1/DEBUG] [mixin/]: Mixing world.inline_height.LevelMixin from canary.mixins.json into net.minecraft.world.level.Level
+[096月2023 22:10:35.217] [pool-3-thread-1/DEBUG] [mixin/]: Mixing perf.cache_strongholds.ServerLevelMixin from modernfix-common.mixins.json into net.minecraft.server.level.ServerLevel
+[096月2023 22:10:35.222] [pool-3-thread-1/DEBUG] [mixin/]: Mixing coremods.ServerWorldMixin from immersiveengineering.mixins.json into net.minecraft.server.level.ServerLevel
+[096月2023 22:10:35.222] [pool-3-thread-1/DEBUG] [mixin/]: Mixing alloc.chunk_random.ServerLevelMixin from canary.mixins.json into net.minecraft.server.level.ServerLevel
+[096月2023 22:10:35.222] [pool-3-thread-1/DEBUG] [mixin/]: Mixing chunk.entity_class_groups.ServerLevelAccessor from canary.mixins.json into net.minecraft.server.level.ServerLevel
+[096月2023 22:10:35.222] [pool-3-thread-1/DEBUG] [mixin/]: Mixing entity.inactive_navigations.ServerLevelMixin from canary.mixins.json into net.minecraft.server.level.ServerLevel
+[096月2023 22:10:35.222] [pool-3-thread-1/DEBUG] [mixin/]: Mixing profiler.ServerLevelMixin from canary.mixins.json into net.minecraft.server.level.ServerLevel
+[096月2023 22:10:35.227] [pool-3-thread-1/DEBUG] [mixin/]: Mixing util.entity_movement_tracking.ServerLevelAccessor from canary.mixins.json into net.minecraft.server.level.ServerLevel
+[096月2023 22:10:35.227] [pool-3-thread-1/DEBUG] [mixin/]: Mixing fast_entity_access.ServerLevelMixin from pluto.mixins.json into net.minecraft.server.level.ServerLevel
+[096月2023 22:10:35.227] [pool-3-thread-1/DEBUG] [mixin/]: Mixing accessor.ServerLevelAccessor from create.mixins.json into net.minecraft.server.level.ServerLevel
+[096月2023 22:10:35.227] [pool-3-thread-1/DEBUG] [mixin/]: create.mixins.json:accessor.ServerLevelAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[096月2023 22:10:35.237] [pool-3-thread-1/DEBUG] [mixin/]: Unexpected: Registered method getEntityManager()Lnet/minecraft/world/level/entity/PersistentEntitySectionManager; in net.minecraft.server.level.ServerLevel was not merged
+[096月2023 22:10:35.257] [pool-3-thread-1/DEBUG] [mixin/]: Mixing accessors.ItemEntityAccess from immersiveengineering.mixins.json into net.minecraft.world.entity.item.ItemEntity
+[096月2023 22:10:35.267] [pool-3-thread-1/DEBUG] [mixin/]: Mixing calc.if_else.entity.handle_entity_event.player.PlayerMixin from canary.mixins.json into net.minecraft.world.entity.player.Player
+[096月2023 22:10:35.267] [pool-3-thread-1/DEBUG] [mixin/]: Mixing calc.if_else.player_slot.PlayerMixin from canary.mixins.json into net.minecraft.world.entity.player.Player
+[096月2023 22:10:35.297] [pool-3-thread-1/DEBUG] [mixin/]: Mixing perf.fast_forge_dummies.NamespacedHolderHelperMixin from modernfix-forge.mixins.json into net.minecraftforge.registries.NamespacedHolderHelper
+[096月2023 22:10:35.297] [pool-3-thread-1/DEBUG] [mixin/]: modernfix-forge.mixins.json:perf.fast_forge_dummies.NamespacedHolderHelperMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:35.302] [pool-3-thread-1/DEBUG] [mixin/]: Mixing features.fast_biome_colors.MixinFluid from rubidium.mixins.json into net.minecraft.world.level.material.Fluid
+[096月2023 22:10:35.308] [pool-3-thread-1/DEBUG] [mixin/]: Mixing MixinItem from mixins.oculus.json into net.minecraft.world.item.Item
+[096月2023 22:10:35.308] [pool-3-thread-1/DEBUG] [mixin/]: mixins.oculus.json:MixinItem: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:35.317] [pool-3-thread-1/DEBUG] [mixin/]: Mixing EntityTypeMixin from flywheel.mixins.json into net.minecraft.world.entity.EntityType
+[096月2023 22:10:35.327] [pool-3-thread-1/DEBUG] [mixin/]: Mixing accessors.BETypeAccess from immersiveengineering.mixins.json into net.minecraft.world.level.block.entity.BlockEntityType
+[096月2023 22:10:35.327] [pool-3-thread-1/DEBUG] [mixin/]: Mixing BlockEntityTypeMixin from flywheel.mixins.json into net.minecraft.world.level.block.entity.BlockEntityType
+[096月2023 22:10:35.337] [pool-3-thread-1/DEBUG] [mixin/]: Mixing chunk.MixinChunkStatus from radon.mixins.json into net.minecraft.world.level.chunk.ChunkStatus
+[096月2023 22:10:35.337] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$getPreLightFuture$5(Lnet/minecraft/server/level/ChunkHolder$ChunkLoadingFailure;)Ljava/util/concurrent/CompletableFuture; to md5d1b5f$lambda$getPreLightFuture$5$0 in radon.mixins.json:chunk.MixinChunkStatus
+[096月2023 22:10:35.337] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$getPreLightFuture$4(Lnet/minecraft/server/level/ThreadedLevelLightEngine;Lnet/minecraft/world/level/chunk/ChunkAccess;)Ljava/util/concurrent/CompletableFuture; to md5d1b5f$lambda$getPreLightFuture$4$1 in radon.mixins.json:chunk.MixinChunkStatus
+[096月2023 22:10:35.337] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$injectLightmapSetup$3(Lnet/minecraft/world/level/chunk/ChunkStatus$LoadingTask;Lnet/minecraft/world/level/chunk/ChunkStatus;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/server/level/ThreadedLevelLightEngine;Ljava/util/function/Function;Lnet/minecraft/world/level/chunk/ChunkAccess;)Ljava/util/concurrent/CompletableFuture; to md5d1b5f$lambda$injectLightmapSetup$3$2 in radon.mixins.json:chunk.MixinChunkStatus
+[096月2023 22:10:35.337] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$injectLightmapSetup$2(Lnet/minecraft/server/level/ThreadedLevelLightEngine;Lcom/mojang/datafixers/util/Either;)Ljava/util/concurrent/CompletionStage; to md5d1b5f$lambda$injectLightmapSetup$2$3 in radon.mixins.json:chunk.MixinChunkStatus
+[096月2023 22:10:35.337] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$injectLightmapSetup$1(Lnet/minecraft/world/level/chunk/ChunkStatus$GenerationTask;Lnet/minecraft/world/level/chunk/ChunkStatus;Ljava/util/concurrent/Executor;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/server/level/ThreadedLevelLightEngine;Ljava/util/function/Function;Ljava/util/List;Lnet/minecraft/world/level/chunk/ChunkAccess;Z)Ljava/util/concurrent/CompletableFuture; to md5d1b5f$lambda$injectLightmapSetup$1$4 in radon.mixins.json:chunk.MixinChunkStatus
+[096月2023 22:10:35.337] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$injectLightmapSetup$0(Lnet/minecraft/server/level/ThreadedLevelLightEngine;Lcom/mojang/datafixers/util/Either;)Ljava/util/concurrent/CompletionStage; to md5d1b5f$lambda$injectLightmapSetup$0$5 in radon.mixins.json:chunk.MixinChunkStatus
+[096月2023 22:10:35.375] [pool-3-thread-1/DEBUG] [mixin/]: Mixing ai.poi.PoiTypesMixin from canary.mixins.json into net.minecraft.world.entity.ai.village.poi.PoiTypes
+[096月2023 22:10:35.375] [pool-3-thread-1/DEBUG] [mixin/]: Renaming @Accessor method getBlockStateToPoiType()Ljava/util/Map; to getBlockStateToPoiType_$md$5d1b5f$0 in canary.mixins.json:ai.poi.PoiTypesMixin
+[096月2023 22:10:35.375] [pool-3-thread-1/DEBUG] [mixin/]: Renaming @Accessor method setBlockStateToPoiType(Ljava/util/Map;)V to setBlockStateToPoiType_$md$5d1b5f$1 in canary.mixins.json:ai.poi.PoiTypesMixin
+[096月2023 22:10:35.454] [pool-3-thread-1/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/levelgen/structure/Structure
+[096月2023 22:10:35.487] [pool-3-thread-1/DEBUG] [mixin/]: Mixing DimensionTypeAccessor from mixins.oculus.json into net.minecraft.world.level.dimension.DimensionType
+[096月2023 22:10:35.487] [pool-3-thread-1/DEBUG] [mixin/]: mixins.oculus.json:DimensionTypeAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[096月2023 22:10:35.557] [pool-3-thread-1/DEBUG] [mixin/]: Mixing perf.reduce_blockstate_cache_rebuilds.BlocksMixin from modernfix-common.mixins.json into net.minecraft.world.level.block.Blocks
+[096月2023 22:10:35.557] [pool-3-thread-1/DEBUG] [mixin/]: Renaming synthetic method lambda$getEmptyConsumer$0(Ljava/lang/Object;)V to md5d1b5f$lambda$getEmptyConsumer$0$0 in modernfix-common.mixins.json:perf.reduce_blockstate_cache_rebuilds.BlocksMixin
+[096月2023 22:10:35.581] [pool-3-thread-1/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/LiquidBlock
+[096月2023 22:10:35.592] [pool-3-thread-1/DEBUG] [mixin/]: Mixing features.render_layer.leaves.MixinLeavesBlock from rubidium.mixins.json into net.minecraft.world.level.block.LeavesBlock
+[096月2023 22:10:35.597] [pool-3-thread-1/DEBUG] [mixin/]: Mixing accessor.DispenserBlockAccessor from create.mixins.json into net.minecraft.world.level.block.DispenserBlock
+[096月2023 22:10:35.597] [pool-3-thread-1/DEBUG] [mixin/]: create.mixins.json:accessor.DispenserBlockAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[096月2023 22:10:35.613] [pool-3-thread-1/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_block.PistonBaseBlockMixin from canary.mixins.json into net.minecraft.world.level.block.piston.PistonBaseBlock
+[096月2023 22:10:35.629] [pool-3-thread-1/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/StairBlock
+[096月2023 22:10:35.637] [pool-3-thread-1/DEBUG] [mixin/]: Mixing alloc.enum_values.redstone_wire.RedStoneWireBlockMixin from canary.mixins.json into net.minecraft.world.level.block.RedStoneWireBlock
+[096月2023 22:10:35.637] [pool-3-thread-1/DEBUG] [mixin/]: Mixing block.redstone_wire.RedStoneWireBlockMixin from canary.mixins.json into net.minecraft.world.level.block.RedStoneWireBlock
+[096月2023 22:10:35.727] [pool-3-thread-1/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/FlowerPotBlock
+[096月2023 22:10:35.740] [pool-3-thread-1/DEBUG] [mixin/]: Mixing util.inventory_comparator_tracking.ComparatorBlockMixin from canary.mixins.json into net.minecraft.world.level.block.ComparatorBlock
+[096月2023 22:10:35.747] [pool-3-thread-1/DEBUG] [mixin/]: Mixing block.hopper.HopperBlockMixin from canary.mixins.json into net.minecraft.world.level.block.HopperBlock
+[096月2023 22:10:35.777] [pool-3-thread-1/DEBUG] [mixin/]: Mixing accessors.ConcretePowderBlockAccess from immersiveengineering.mixins.json into net.minecraft.world.level.block.ConcretePowderBlock
+[096月2023 22:10:35.821] [pool-3-thread-1/DEBUG] [mixin/]: Mixing calc.if_else.block_entity.composter.ComposterBlockMixin from canary.mixins.json into net.minecraft.world.level.block.ComposterBlock
+[096月2023 22:10:35.827] [pool-3-thread-1/DEBUG] [mixin/]: Mixing MixinPowderSnowBlock from curios.mixins.json into net.minecraft.world.level.block.PowderSnowBlock
+[096月2023 22:10:35.847] [pool-3-thread-1/DEBUG] [mixin/]: Mixing calc.if_else.dripstone_shape.PointedDripstoneBlockMixin from canary.mixins.json into net.minecraft.world.level.block.PointedDripstoneBlock
+[096月2023 22:10:35.868] [pool-3-thread-1/DEBUG] [mixin/]: Mixing core.MixinDirection from rubidium.mixins.json into net.minecraft.core.Direction
+[096月2023 22:10:35.868] [pool-3-thread-1/DEBUG] [mixin/]: Mixing math.fast_blockpos.DirectionMixin from canary.mixins.json into net.minecraft.core.Direction
+[096月2023 22:10:35.868] [pool-3-thread-1/DEBUG] [mixin/]: Mixing math.fast_util.DirectionMixin from canary.mixins.json into net.minecraft.core.Direction
+[096月2023 22:10:35.899] [pool-3-thread-1/DEBUG] [mixin/]: Mixing block.moving_block_shapes.VoxelShapeMixin from canary.mixins.json into net.minecraft.world.phys.shapes.VoxelShape
+[096月2023 22:10:35.907] [pool-3-thread-1/DEBUG] [mixin/]: Mixing shapes.specialized_shapes.VoxelShapeMixin from canary.mixins.json into net.minecraft.world.phys.shapes.VoxelShape
+[096月2023 22:10:36.027] [pool-3-thread-1/DEBUG] [mixin/]: Mixing shapes.optimized_matching.ShapesMixin from canary.mixins.json into net.minecraft.world.phys.shapes.Shapes
+[096月2023 22:10:36.027] [pool-3-thread-1/DEBUG] [mixin/]: Mixing shapes.shape_merging.ShapesMixin from canary.mixins.json into net.minecraft.world.phys.shapes.Shapes
+[096月2023 22:10:36.027] [pool-3-thread-1/DEBUG] [mixin/]: Mixing shapes.specialized_shapes.ShapesMixin from canary.mixins.json into net.minecraft.world.phys.shapes.Shapes
+[096月2023 22:10:36.042] [pool-3-thread-1/DEBUG] [mixin/]: Mixing shapes.precompute_shape_arrays.CubeVoxelShapeMixin from canary.mixins.json into net.minecraft.world.phys.shapes.CubeVoxelShape
+[096月2023 22:10:36.047] [pool-3-thread-1/DEBUG] [mixin/]: Mixing shapes.precompute_shape_arrays.CubePointRangeMixin from canary.mixins.json into net.minecraft.world.phys.shapes.CubePointRange

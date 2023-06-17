@@ -1,0 +1,81 @@
+---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 2023-05-02 19:30:39
+Description: Initializing game
+
+java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+	at com.sun.jna.Structure.setAlignType(Structure.java:291)
+	at com.sun.jna.Structure.<init>(Structure.java:208)
+	at com.sun.jna.Structure.<init>(Structure.java:204)
+	at com.sun.jna.Structure.<init>(Structure.java:191)
+	at com.sun.jna.Structure.<init>(Structure.java:183)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:126)
+	at com.sun.jna.platform.win32.Guid$GUID.fromString(Guid.java:257)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:150)
+	at com.sun.jna.platform.win32.Guid$CLSID.<init>(Guid.java:460)
+	at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:16)
+	at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:42)
+	at elz.<init>(SourceFile:17)
+	at emh.<init>(SourceFile:647)
+	at net.minecraft.client.main.Main.main(SourceFile:198)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at com.sun.jna.Structure.setAlignType(Structure.java:291)
+	at com.sun.jna.Structure.<init>(Structure.java:208)
+	at com.sun.jna.Structure.<init>(Structure.java:204)
+	at com.sun.jna.Structure.<init>(Structure.java:191)
+	at com.sun.jna.Structure.<init>(Structure.java:183)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:126)
+	at com.sun.jna.platform.win32.Guid$GUID.fromString(Guid.java:257)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:150)
+	at com.sun.jna.platform.win32.Guid$CLSID.<init>(Guid.java:460)
+	at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:16)
+	at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:42)
+	at elz.<init>(SourceFile:17)
+	at emh.<init>(SourceFile:647)
+
+-- Initialization --
+Details:
+	Modules: ~~ERROR~~ NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+Stacktrace:
+	at net.minecraft.client.main.Main.main(SourceFile:198)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.4
+	Minecraft Version ID: 1.19.4
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.2, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 238911296 bytes (227 MiB) / 381681664 bytes (364 MiB) up to 5582618624 bytes (5324 MiB)
+	CPUs: 16
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx5324m
+	Launched Version: 1.19.4
+	Backend library: LWJGL version 3.3.1 build 7
+	Backend API: NVIDIA GeForce RTX 3050 Ti Laptop GPU/PCIe/SSE2 GL version 3.2.0 NVIDIA 531.41, NVIDIA Corporation
+	Window size: <not initialized>
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Probably not. Client jar signature and brand is untouched
+	Type: Client (map_client.txt)
+	CPU: <unknown>

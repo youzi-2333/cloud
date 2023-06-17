@@ -1,0 +1,1819 @@
+[16:04:48.364] [Start] 程序版本：Snapshot 2.2.10（249）
+[16:04:48.367] [Start] 识别码：22C7-539A-16D0-EA8B
+[16:04:48.367] [Start] 程序路径：C:\app\minecraft\
+[16:04:48.370] [Start] 第一阶段加载用时：109 ms
+[16:04:48.532] [UI] 刷新主题：5
+[16:04:48.579] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[16:04:48.579] [Start] 第二阶段加载用时：203 ms
+[16:04:48.579] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[16:04:48.752] [Start] 加载 DLL：Json
+[16:04:48.752] [System] 获取资源：Json
+[16:04:48.847] [Java] 缓存中有 1 个可用的 Java
+[16:04:48.878] [System] 窗口已置顶，位置：(448.666666666667, 206), 810 x 500
+[16:04:48.878] [Animation] 动画线程开始
+[16:04:48.878] [Start] 第三阶段加载用时：140 ms
+[16:04:48.896] [Launch] Minecraft 文件夹：C:\app\minecraft\.minecraft\
+[16:04:48.925] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[16:04:48.944] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[16:04:48.963] [Minecraft] 启动按钮：Minecraft 版本：C:\app\minecraft\.minecraft\versions\1.20-Forge_46.0.2\
+[16:04:48.967] [Loader] 加载器 登录 状态改变：Loading
+[16:04:48.968] [Launch] 登录线程已启动
+[16:04:48.969] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[16:04:48.971] [Launch] 登录方式：微软正版（Ping2004）
+[16:04:48.971] [Launch] 开始微软登录步骤 2（刷新登录）
+[16:04:48.974] [Skin] 载入头像成功：Loader Skin Ms
+[16:04:48.976] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[16:04:49.115] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[16:04:49.115] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[16:04:49.115] [Server] 正在连接到 PCL2 服务器
+[16:04:49.115] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[16:04:49.115] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1686557089-032be1c7-0-d9d5a6c3c7cc880612492fb58194c7c4，最大超时 10000
+[16:04:49.160] [Server] 服务器公告：108|294|293|5，无需更新
+[16:04:49.176] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[16:04:49.223] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[16:04:49.490] [System] DPI：144，工作区尺寸：2560 x 1368，系统版本：10.0.22621.0
+[16:04:49.726] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[16:04:49.742] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[16:04:50.499] [Launch] 开始微软登录步骤 3
+[16:04:50.499] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[16:04:50.762] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[16:04:51.263] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[16:04:52.019] [Launch] 开始微软登录步骤 4
+[16:04:52.019] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[16:04:52.287] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[16:04:52.790] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[16:04:53.546] [Launch] 开始微软登录步骤 5
+[16:04:53.546] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[16:04:53.813] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[16:04:54.317] [Launch] 开始微软登录步骤 6
+[16:04:54.317] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[16:04:54.587] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[16:04:55.111] [Launch] 微软登录完成
+[16:04:55.111] [UI] 解锁隐藏主题：10
+[16:04:55.111] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[16:04:55.138] [Loader] 加载器 登录 状态改变：Finished
+[16:06:27.443] [Control] 按下单选按钮：设置
+[16:06:27.537] [Control] 切换主要页面：Setup, -1
+[16:06:27.631] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[16:06:27.646] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[16:06:36.785] [Control] 按下单选按钮：下载
+[16:06:36.801] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[16:06:36.817] [Control] 切换主要页面：Download, -1
+[16:06:36.817] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[16:06:36.817] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，最大超时 10000
+[16:06:36.833] [Loader] 加载器 DlClientList Bmclapi 状态改变：Aborted
+[16:06:36.927] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[16:06:36.928] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[16:06:36.928] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[16:06:36.928] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[16:06:36.928] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[16:06:36.928] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，最大超时 10000
+[16:06:36.928] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[16:06:36.928] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[16:06:36.928] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，最大超时 10000
+[16:06:36.928] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，最大超时 10000
+[16:06:36.928] [Download] 刷新 Forge 推荐版本缓存开始
+[16:06:36.943] [Loader] 加载器 源码获取 315# 状态改变：Loading
+[16:06:36.958] [Download] -1798645995_314 323#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[16:06:36.974] [Loader] 加载线程 DlClientList Bmclapi (27) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[16:06:37.005] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[16:06:37.021] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[16:06:37.133] [Download] -1798645995_314：文件大小 46262 B（45.2 K）
+[16:06:37.168] [Download] -1798645995_314：已完成，剩余文件 0
+[16:06:37.168] [Loader] 加载器 源码获取 315# 状态改变：Finished
+[16:06:37.168] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[16:06:37.180] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[16:06:37.180] [Download] 刷新 Forge 推荐版本缓存成功
+[16:06:37.195] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[16:06:37.211] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[16:06:39.152] [Control] 按下单选列表项：整合包
+[16:06:39.167] [Loader] 加载器 DlCfProject ModPack 状态改变：Loading
+[16:06:39.167] [Download] CurseForge 工程列表搜索原始文本：
+[16:06:39.167] [Download] CurseForge 工程列表搜索最终文本：
+[16:06:39.167] [Download] 开始获取 CurseForge 工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=Featured&sortOrder=desc&pageSize=50&categoryId=0&classId=4471
+[16:06:39.167] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=Featured&sortOrder=desc&pageSize=50&categoryId=0&classId=4471，最大超时 10000
+[16:06:40.002] [System] 获取资源：ModData
+[16:06:40.002] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/611/496/256/256/637995823847751059.png
+[16:06:40.002] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/279/234/256/256/637276853291457748.png
+[16:06:40.002] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/298/994/256/256/637351626050046394.png
+[16:06:40.014] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/628/232/256/256/638024585348557149.png
+[16:06:40.014] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/632/815/256/256/638033379562195656.png
+[16:06:40.014] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/780/552/256/256/638125961291118791_animated.gif
+[16:06:40.014] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/468/243/256/256/637751369169569212.png
+[16:06:40.014] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/592/944/256/256/637965415571102225.png
+[16:06:40.014] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/651/140/256/256/638051446127306822.png
+[16:06:40.014] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/485/618/256/256/637786105420601729.png
+[16:06:40.014] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/356/341/256/256/637516501018536427.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/199/573/256/256/636907930795697123.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/595/284/256/256/637969851390579025.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/594/10/256/256/637967185605583019.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/494/814/256/256/637807169632525273.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/342/120/256/256/637485779500419856.jpeg
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/286/772/256/256/637305737753885398.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/342/91/256/256/637485703554418199.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/802/846/256/256/638167781404367651.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/585/168/256/256/637951766687771704.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/481/121/256/256/637780327883756539.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/624/61/256/256/638019077256631063.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/597/359/256/256/637974123292958177.png
+[16:06:40.018] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/147/482/256/256/636576924791375629.png
+[16:06:40.029] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/450/731/256/256/637712078711696255.png
+[16:06:40.029] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/412/464/256/256/637631922993692518.png
+[16:06:40.029] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/823/27/256/256/638206664288947738.png
+[16:06:40.029] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/593/71/256/256/637965640919658046.png
+[16:06:40.029] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/786/571/256/256/638137997057123045.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/431/487/256/256/637667061539266129_animated.gif
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/768/269/256/256/638104922297531668.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/144/220/256/256/636554450588038771.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/184/286/256/256/636820598450762928.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/388/926/256/256/637581040113975390.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/147/67/256/256/636574428512291945.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/796/819/256/256/638157258334276459.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/53/277/256/256/636123179703547229.jpeg
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/799/680/256/256/638162280002372301.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/652/614/256/256/638054490832291850.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/141/791/256/256/636544733395786830.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/542/751/256/256/637871751703729159.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/596/62/256/256/637971545078749929_animated.gif
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/630/292/256/256/638029267991555056.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/172/175/256/256/636734768210805980.jpeg
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/390/512/256/256/637582347684237630.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/594/16/256/256/637967192029411805.png
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/132/473/256/256/636475587017635909.jpeg
+[16:06:40.034] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/371/737/256/256/637541833950548019.jpeg
+[16:06:40.049] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/818/920/256/256/638198258817539212.png
+[16:06:40.050] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/27/883/256/256/635818079923323584.png
+[16:06:40.081] [Loader] 加载器 DlCfProject ModPack 状态改变：Finished
+[16:06:40.713] [Control] 按下单选列表项：Mod
+[16:06:40.713] [Loader] 加载器 DlCfProject Mod 状态改变：Loading
+[16:06:40.713] [Download] CurseForge 工程列表搜索原始文本：
+[16:06:40.713] [Download] CurseForge 工程列表搜索最终文本：
+[16:06:40.713] [Download] 开始获取 CurseForge 工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=Featured&sortOrder=desc&pageSize=50&categoryId=0&classId=6
+[16:06:40.713] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=Featured&sortOrder=desc&pageSize=50&categoryId=0&classId=6，最大超时 10000
+[16:06:41.809] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg
+[16:06:41.810] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png
+[16:06:41.811] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png
+[16:06:41.811] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png
+[16:06:41.812] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/197/186/256/256/636890440894617244.png
+[16:06:41.814] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png
+[16:06:41.814] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png
+[16:06:41.815] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png
+[16:06:41.816] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/610/296/256/256/637992132031410062.png
+[16:06:41.816] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/84/193/256/256/636193647832736518_animated.gif
+[16:06:41.817] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/588/688/256/256/637958999303347142.png
+[16:06:41.817] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/134/260/256/256/636490526725752670.png
+[16:06:41.818] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/588/685/256/256/637958998949519797.png
+[16:06:41.818] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png
+[16:06:41.818] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/42/418/256/256/636008504954894502.png
+[16:06:41.819] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/54/102/256/256/636131217371752080.png
+[16:06:41.819] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/588/295/256/256/637958240318838626.png
+[16:06:41.820] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png
+[16:06:41.820] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/49/636/256/256/636080292232708069.png
+[16:06:41.821] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif
+[16:06:41.821] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/495/151/256/256/637808085409071880.png
+[16:06:41.822] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/183/63/256/256/636812486536100113.png
+[16:06:41.822] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/185/822/256/256/636829723898798601.png
+[16:06:41.823] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/102/452/256/256/636330854499701192.png
+[16:06:41.823] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/32/419/256/256/635880199659979425.png
+[16:06:41.824] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/601/893/256/256/637981624482095236.png
+[16:06:41.825] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/14/212/256/256/635589178760357568.png
+[16:06:41.825] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/128/0/256/256/636443677885740239.png
+[16:06:41.826] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png
+[16:06:41.826] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/393/435/256/256/637588742363737916.png
+[16:06:41.827] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/142/108/256/256/636546700830987709.png
+[16:06:41.827] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/106/654/256/256/636360849723336023.png
+[16:06:41.828] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png
+[16:06:41.828] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/296/125/256/256/637339523674599205.png
+[16:06:41.828] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png
+[16:06:41.830] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/203/105/256/256/636930549407382137.png
+[16:06:41.830] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/86/225/256/256/636207446427836220.png
+[16:06:41.831] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png
+[16:06:41.831] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/275/363/256/256/637261948352026071.png
+[16:06:41.832] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/214/988/256/256/636995179309161946.png
+[16:06:41.832] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/10/842/256/256/635468327818431130.png
+[16:06:41.833] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/776/232/256/256/638118144989284933.png
+[16:06:41.833] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/14/190/256/256/635588122347757413.png
+[16:06:41.834] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/352/207/256/256/637507429195617557.png
+[16:06:41.834] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/315/851/256/256/637416816156818030.png
+[16:06:41.835] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/488/103/256/256/637791963715589901.png
+[16:06:41.835] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/345/318/256/256/637492631463701682.png
+[16:06:41.836] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/302/731/256/256/637368998906148773.png
+[16:06:41.836] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/312/479/256/256/637405957010986350.png
+[16:06:41.837] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/438/285/256/256/637683437662979606.png
+[16:06:41.858] [Loader] 加载器 DlCfProject Mod 状态改变：Finished
+[16:06:46.959] [Control] Mod 搜索请求输入文本：机械
+[16:06:46.961] [Loader] 加载器 DlCfProject Mod 状态改变：Loading
+[16:06:46.961] [Download] CurseForge 工程列表搜索原始文本：机械
+[16:06:47.042] [Download] CurseForge 工程列表中文搜索原始关键词：Create Mechanical Tech MechTech 
+[16:06:47.042] [Download] CurseForge 工程列表中文搜索最终关键词：Create Mechanical Tech MechTech  
+[16:06:47.042] [Download] CurseForge 工程列表搜索最终文本：mech create mechanical tech mechtech
+[16:06:47.042] [Download] 开始获取 CurseForge 工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=Featured&sortOrder=desc&pageSize=50&categoryId=0&classId=6&searchFilter=mech+create+mechanical+tech+mechtech
+[16:06:47.042] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=Featured&sortOrder=desc&pageSize=50&categoryId=0&classId=6&searchFilter=mech+create+mechanical+tech+mechtech，最大超时 10000
+[16:06:47.755] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/798/614/256/256/638160518534525620.png
+[16:06:47.755] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/798/624/256/256/638160519853126907.png
+[16:06:47.757] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png
+[16:06:47.759] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/435/793/256/256/637676306043621312.png
+[16:06:47.760] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/324/92/256/256/637439262783945672.png
+[16:06:47.760] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/635/559/256/256/638037447277826357.png
+[16:06:47.760] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/548/377/256/256/637883834427445340.png
+[16:06:47.762] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/412/231/256/256/637631343026186429.png
+[16:06:47.762] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/169/440/256/256/636715176146379845.png
+[16:06:47.763] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/592/364/256/256/637964174110406177.png
+[16:06:47.763] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/435/791/256/256/637676305372930983.png
+[16:06:47.764] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/624/857/256/256/638021175448741701.png
+[16:06:47.764] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/395/165/256/256/637593021699632902.png
+[16:06:47.766] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/617/188/256/256/638003047810426326.png
+[16:06:47.767] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/575/151/256/256/637938488169044717.png
+[16:06:47.767] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/485/499/256/256/637785766533825730.png
+[16:06:47.768] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/581/663/256/256/637946833899375959.png
+[16:06:47.769] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/678/863/256/256/638068392669917967.png
+[16:06:47.769] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/146/873/256/256/636572728845670538.jpeg
+[16:06:47.770] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/594/523/256/256/637968460826818042_animated.gif
+[16:06:47.770] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/450/152/256/256/637710668194640250.png
+[16:06:47.771] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/770/583/256/256/638109213062028041.png
+[16:06:47.772] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/690/948/256/256/638070432055416156.png
+[16:06:47.772] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/601/287/256/256/637980136211380412.png
+[16:06:47.772] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/585/29/256/256/637951524914026425.png
+[16:06:47.773] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/592/180/256/256/637963690063909213.png
+[16:06:47.773] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/676/189/256/256/638066998336576214.png
+[16:06:47.775] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/678/973/256/256/638068706453658102.png
+[16:06:47.775] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/578/646/256/256/637943020287934042.png
+[16:06:47.776] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/690/933/256/256/638070399061092156.png
+[16:06:47.777] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/578/949/256/256/637943643378648135.png
+[16:06:47.777] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/471/370/256/256/637759564933914503.png
+[16:06:47.777] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/561/333/256/256/637913426513296898.png
+[16:06:47.778] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/399/230/256/256/637602609368637818.png
+[16:06:47.779] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/768/154/256/256/638104649096946388.png
+[16:06:47.779] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/735/830/256/256/638085113276083412.png
+[16:06:47.780] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/313/323/256/256/637408525090531469.png
+[16:06:47.780] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/441/603/256/256/637692152773705214.png
+[16:06:47.781] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/561/979/256/256/637915026173187011.png
+[16:06:47.782] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/762/845/256/256/638098599601932631.png
+[16:06:47.783] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/149/172/256/256/636587361206010743.png
+[16:06:47.783] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/447/447/256/256/637706651376558818.png
+[16:06:47.784] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/124/157/256/256/636419719354295708.png
+[16:06:47.785] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/825/835/256/256/638211834174137892.png
+[16:06:47.785] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/656/809/256/256/638056961586942423.png
+[16:06:47.786] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/780/128/256/256/638125202493840254.png
+[16:06:47.786] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/331/456/256/256/637460662622561569.png
+[16:06:47.787] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/627/746/256/256/638023270746987908.png
+[16:06:47.787] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/784/899/256/256/638134571091012848_animated.gif
+[16:06:47.808] [Loader] 加载器 DlCfProject Mod 状态改变：Finished
+[16:06:50.776] [Loader] 加载器 DlCfFile Main 状态改变：Loading
+[16:06:50.776] [Control] 切换主要页面：CfDetail, 0
+[16:06:50.776] [Control] 按下 CurseForge 工程列表项：机械动力 (Create)
+[16:06:50.776] [Download] 开始获取 CurseForge 工程 ID 为 328085 的文件列表
+[16:06:50.776] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[16:06:51.279] [Download] 文件列表中需要获取的前置 Mod：486392
+[16:06:51.279] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods），最大超时 15000
+[16:06:51.911] [Loader] 加载器 DlCfFile Main 状态改变：Finished
+[16:06:54.837] [Control] 展开卡片：1.19.2
+[16:07:01.763] [Animation] 两个动画帧间隔 266 ms
+[16:07:16.114] [UI] 选择文件返回：D:\mod\[机械动力] create-1.19.2-0.5.1.b.jar
+[16:07:16.115] [Loader] 加载器 Mod 下载：Create 1.19.2 v0.5.1b  状态改变：Loading
+[16:07:16.115] [Loader] 加载器 下载文件 状态改变：Loading
+[16:07:16.119] [Control] 按下单击列表项：Create 1.19.2 v0.5.1b
+[16:07:16.162] [Download] [机械动力] create-1.19.2-0.5.1.b.jar 1137#：开始，起始点 0，https://media.forgecdn.net/files/4550/987/create-1.19.2-0.5.1.b.jar
+[16:07:16.825] [Download] [机械动力] create-1.19.2-0.5.1.b.jar：文件大小 14616429 B（13.9 M）
+[16:07:17.502] [Download] 速度下限已提升到 3.03 M
+[16:07:17.833] [Download] 速度下限已提升到 5.31 M
+[16:07:18.006] [Download] 速度下限已提升到 6.53 M
+[16:07:18.479] [Control] 按下图标按钮：BtnTitleInner
+[16:07:18.479] [Control] 切换主要页面：Download, -1
+[16:07:19.543] [Download] [机械动力] create-1.19.2-0.5.1.b.jar：已完成，剩余文件 0
+[16:07:19.543] [Loader] 加载器 下载文件 状态改变：Finished
+[16:07:19.543] [Loader] 加载器 Mod 下载：Create 1.19.2 v0.5.1b  状态改变：Finished
+[16:07:19.564] [UI] 弹出提示：Mod 下载：Create 1.19.2 v0.5.1b 成功！
+[16:07:34.514] [Control] Mod 搜索请求输入文本：机械动力
+[16:07:34.514] [Loader] 加载器 DlCfProject Mod 状态改变：Loading
+[16:07:34.515] [Download] CurseForge 工程列表搜索原始文本：机械动力
+[16:07:34.629] [Download] CurseForge 工程列表中文搜索原始关键词：Create Create Confectionery Create : Stuff Additions 
+[16:07:34.629] [Download] CurseForge 工程列表中文搜索最终关键词：Create Create Confectionery Create : Stuff Additions  
+[16:07:34.629] [Download] CurseForge 工程列表搜索最终文本：confectionery create : stuff additions
+[16:07:34.629] [Download] 开始获取 CurseForge 工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=Featured&sortOrder=desc&pageSize=50&categoryId=0&classId=6&searchFilter=confectionery+create+%3A+stuff+additions
+[16:07:34.629] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=Featured&sortOrder=desc&pageSize=50&categoryId=0&classId=6&searchFilter=confectionery+create+%3A+stuff+additions，最大超时 10000
+[16:07:35.384] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/492/673/256/256/637801316468843158.png
+[16:07:35.385] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/43/130/256/256/636017838645578016.png
+[16:07:35.385] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/11/717/256/256/635500833747212362.png
+[16:07:35.386] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/493/889/256/256/637804258699325177.png
+[16:07:35.389] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/396/53/256/256/637595201838124646.png
+[16:07:35.391] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/90/821/256/256/636242663294021100.png
+[16:07:35.392] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/288/139/256/256/637310578402821633.png
+[16:07:35.395] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/184/710/256/256/636822933430135774.png
+[16:07:35.396] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/471/407/256/256/637759673263806631.png
+[16:07:35.397] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/589/219/256/256/637960044370958333.png
+[16:07:35.403] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/493/896/256/256/637804294345803722.png
+[16:07:35.405] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/748/459/256/256/638088072740609827_animated.gif
+[16:07:35.408] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/496/574/256/256/637811463484618431.png
+[16:07:35.408] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/191/67/256/256/636858036071365663.png
+[16:07:35.411] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/245/50/256/256/637149530144181671.png
+[16:07:35.413] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/540/95/256/256/637865051105512265.png
+[16:07:35.414] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/618/973/256/256/638005334344032722.png
+[16:07:35.416] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/203/917/256/256/636935834645837559.png
+[16:07:35.417] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/152/846/256/256/636614472137003477.png
+[16:07:35.418] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/252/957/256/256/637191364746758629.jpeg
+[16:07:35.443] [Loader] 加载器 DlCfProject Mod 状态改变：Finished
+[16:07:39.260] [Control] 切换主要页面：CfDetail, 0
+[16:07:39.260] [Control] 按下 CurseForge 工程列表项：机械动力甜食 (Create Confectionery)
+[16:07:39.433] [Loader] 加载器 DlCfFile Main 状态改变：Loading
+[16:07:39.433] [Download] 开始获取 CurseForge 工程 ID 为 531834 的文件列表
+[16:07:39.433] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[16:07:39.951] [Loader] 加载器 DlCfFile Main 状态改变：Finished
+[16:07:41.301] [Control] 展开卡片：1.19.2
+[16:07:49.199] [UI] 选择文件返回：D:\mod\[机械动力甜食] create-confectionery1.19.2_v1.0.9.jar
+[16:07:49.199] [Loader] 加载器 Mod 下载：create-confectionery1.19.2_v1.0.9.jar  状态改变：Loading
+[16:07:49.199] [Loader] 加载器 下载文件 状态改变：Loading
+[16:07:49.199] [Control] 按下单击列表项：create-confectionery1.19.2_v1.0.9.jar
+[16:07:49.226] [Download] [机械动力甜食] create-confectionery1.19.2_v1.0.9.jar 1433#：开始，起始点 0，https://media.forgecdn.net/files/4561/123/create-confectionery1.19.2_v1.0.9.jar
+[16:07:49.305] [Download] [机械动力甜食] create-confectionery1.19.2_v1.0.9.jar：文件大小 2121033 B（2.02 M）
+[16:07:50.329] [Download] [机械动力甜食] create-confectionery1.19.2_v1.0.9.jar：已完成，剩余文件 0
+[16:07:50.329] [Loader] 加载器 下载文件 状态改变：Finished
+[16:07:50.329] [Loader] 加载器 Mod 下载：create-confectionery1.19.2_v1.0.9.jar  状态改变：Finished
+[16:07:50.344] [UI] 弹出提示：Mod 下载：create-confectionery1.19.2_v1.0.9.jar 成功！
+[16:07:51.163] [Control] 按下图标按钮：BtnTitleInner
+[16:07:51.163] [Control] 切换主要页面：Download, -1
+[16:07:52.363] [Control] 切换主要页面：CfDetail, 0
+[16:07:52.363] [Control] 按下 CurseForge 工程列表项：机械动力：物品附加 (Create : Stuff Additions)
+[16:07:52.534] [Loader] 加载器 DlCfFile Main 状态改变：Loading
+[16:07:52.534] [Download] 开始获取 CurseForge 工程 ID 为 466792 的文件列表
+[16:07:52.534] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[16:07:53.039] [Loader] 加载器 DlCfFile Main 状态改变：Finished
+[16:07:54.426] [Control] 展开卡片：1.19.2
+[16:08:03.610] [UI] 选择文件返回：D:\mod\[机械动力：物品附加] create-stuff-additions1.19.2_v2.0.3b.jar
+[16:08:03.610] [Loader] 加载器 Mod 下载：Create S&A 1.19.2 V2.0.3b  状态改变：Loading
+[16:08:03.610] [Loader] 加载器 下载文件 状态改变：Loading
+[16:08:03.610] [Control] 按下单击列表项：Create S&A 1.19.2 V2.0.3b
+[16:08:03.642] [Download] [机械动力：物品附加] create-stuff-additions1.19.2_v2.0.3b.jar 1554#：开始，起始点 0，https://media.forgecdn.net/files/4555/265/create-stuff-additions1.19.2_v2.0.3b.jar
+[16:08:04.319] [Download] [机械动力：物品附加] create-stuff-additions1.19.2_v2.0.3b.jar：文件大小 1143429 B（1.09 M）
+[16:08:04.725] [Download] [机械动力：物品附加] create-stuff-additions1.19.2_v2.0.3b.jar：已完成，剩余文件 0
+[16:08:04.725] [Loader] 加载器 下载文件 状态改变：Finished
+[16:08:04.725] [Loader] 加载器 Mod 下载：Create S&A 1.19.2 V2.0.3b  状态改变：Finished
+[16:08:04.746] [UI] 弹出提示：Mod 下载：Create S&A 1.19.2 V2.0.3b 成功！
+[16:08:05.720] [Control] 按下图标按钮：BtnTitleInner
+[16:08:05.720] [Control] 切换主要页面：Download, -1
+[16:08:07.782] [Control] 切换主要页面：CfDetail, 0
+[16:08:07.782] [Control] 按下 CurseForge 工程列表项：Create Crafts & Additions
+[16:08:07.972] [Loader] 加载器 DlCfFile Main 状态改变：Loading
+[16:08:07.972] [Download] 开始获取 CurseForge 工程 ID 为 439890 的文件列表
+[16:08:07.972] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[16:08:09.058] [Loader] 加载器 DlCfFile Main 状态改变：Finished
+[16:08:10.004] [Control] 展开卡片：1.19.2
+[16:08:12.415] [Control] 切换主要页面：CfDetail, 0
+[16:08:12.415] [Control] 按下 CurseForge 工程列表项：Create Fabric
+[16:08:12.589] [Loader] 加载器 DlCfFile Main 状态改变：Loading
+[16:08:12.589] [Download] 开始获取 CurseForge 工程 ID 为 624165 的文件列表
+[16:08:12.589] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[16:08:13.471] [Loader] 加载器 DlCfFile Main 状态改变：Finished
+[16:08:14.417] [Control] 展开卡片：1.19.2
+[16:08:15.077] [Report] FPS 0, 动画 6, 下载中 0（0 B/s）
+[16:08:22.522] [UI] 选择文件返回：D:\mod\create-fabric-0.5.0.i-1017+1.19.2.jar
+[16:08:22.522] [Loader] 加载器 Mod 下载：Create 1.19.2 v0.5.0.i Patch 6  状态改变：Loading
+[16:08:22.522] [Loader] 加载器 下载文件 状态改变：Loading
+[16:08:22.523] [Control] 按下单击列表项：Create 1.19.2 v0.5.0.i Patch 6
+[16:08:22.580] [Download] create-fabric-0.5.0.i-1017+1.19.2.jar 1730#：开始，起始点 0，https://media.forgecdn.net/files/4537/370/create-fabric-0.5.0.i-1017%2B1.19.2.jar
+[16:08:22.690] [Download] create-fabric-0.5.0.i-1017+1.19.2.jar：文件大小 18066675 B（17.2 M）
+[16:08:23.950] [Control] 按下图标按钮：BtnTitleInner
+[16:08:23.950] [Control] 切换主要页面：CfDetail, -1
+[16:08:24.123] [Loader] 加载器 DlCfFile Main 状态改变：Loading
+[16:08:24.154] [Loader] 加载器 DlCfFile Main 状态改变：Finished
+[16:08:26.088] [Download] create-fabric-0.5.0.i-1017+1.19.2.jar：已完成，剩余文件 0
+[16:08:26.088] [Loader] 加载器 下载文件 状态改变：Finished
+[16:08:26.088] [Loader] 加载器 Mod 下载：Create 1.19.2 v0.5.0.i Patch 6  状态改变：Finished
+[16:08:26.124] [UI] 弹出提示：Mod 下载：Create 1.19.2 v0.5.0.i Patch 6 成功！
+[16:08:26.171] [Control] 展开卡片：1.19.2
+[16:08:31.643] [UI] 选择文件返回：D:\mod\createaddition-1.19.2-20230527a.jar
+[16:08:31.643] [Loader] 加载器 Mod 下载：createaddition-forge-1.19.2-20230527a  状态改变：Loading
+[16:08:31.643] [Loader] 加载器 下载文件 状态改变：Loading
+[16:08:31.643] [Control] 按下单击列表项：createaddition-forge-1.19.2-20230527a
+[16:08:31.736] [Download] createaddition-1.19.2-20230527a.jar 1845#：开始，起始点 0，https://media.forgecdn.net/files/4554/44/createaddition-1.19.2-20230527a.jar
+[16:08:32.587] [Download] createaddition-1.19.2-20230527a.jar：文件大小 997614 B（974 K）
+[16:08:33.264] [Download] createaddition-1.19.2-20230527a.jar：已完成，剩余文件 0
+[16:08:33.264] [Loader] 加载器 下载文件 状态改变：Finished
+[16:08:33.264] [Loader] 加载器 Mod 下载：createaddition-forge-1.19.2-20230527a  状态改变：Finished
+[16:08:33.279] [UI] 弹出提示：Mod 下载：createaddition-forge-1.19.2-20230527a 成功！
+[16:08:33.861] [Control] 按下图标按钮：BtnTitleInner
+[16:08:33.861] [Control] 切换主要页面：Download, -1
+[16:08:39.892] [Control] 切换主要页面：CfDetail, 0
+[16:08:39.892] [Control] 按下 CurseForge 工程列表项：Create Fabric
+[16:08:40.065] [Loader] 加载器 DlCfFile Main 状态改变：Loading
+[16:08:40.096] [Loader] 加载器 DlCfFile Main 状态改变：Finished
+[16:08:41.390] [Control] 按下图标按钮：BtnTitleInner
+[16:08:41.390] [Control] 切换主要页面：Download, -1
+[16:08:42.726] [Control] 按下单选按钮：启动
+[16:08:42.726] [Control] 切换主要页面：Launch, -1
+[16:08:45.048] [Control] 按下按钮：版本设置
+[16:08:45.079] [Control] 切换主要页面：VersionSetup, 0
+[16:08:48.578] [Control] 按下按钮：删除版本
+[16:08:48.593] [Control] 普通弹窗：删除版本
+你确定要删除版本 1.20-Forge_46.0.2 吗？该操作不可撤销！
+由于该版本开启了版本隔离，删除版本时该版本对应的存档、资源包、Mod 等文件也将被一并删除！
+[16:08:49.538] [Control] 按下按钮：确定
+[16:08:49.538] [Control] 普通弹框返回：1
+[16:08:49.554] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[16:08:49.554] [Control] 切换主要页面：Launch, -1
+[16:08:49.554] [UI] 弹出提示：版本 1.20-Forge_46.0.2 已删除！
+[16:08:49.554] [Setup] 当前选择的 Minecraft 版本：
+[16:08:49.554] [Minecraft] 未找到可用 Minecraft 版本
+[16:08:49.570] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[16:08:49.680] [Minecraft] 启动按钮：无 Minecraft 版本，要求下载
+[16:08:50.908] [Control] 按下按钮：下载游戏
+[16:08:50.908] [Control] 切换主要页面：Download, 1
+[16:08:51.964] [Report] FPS 0, 动画 15, 下载中 0（0 B/s）
+[16:08:52.971] [Control] 展开卡片：正式版 (89)
+[16:08:55.207] [Report] FPS 0, 动画 8, 下载中 0（0 B/s）
+[16:08:57.569] [Loader] 加载器 DlForgeVersion 1.19.2 状态改变：Loading
+[16:08:57.569] [Loader] 加载器 Fabric API List Loader 状态改变：Loading
+[16:08:57.573] [Control] 按下单击列表项：1.19.2
+[16:08:57.573] [Download] 开始获取 CurseForge 工程 ID 为 306612 的文件列表
+[16:08:57.573] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[16:08:57.573] [Loader] 加载器 DlForgeVersion Bmclapi 状态改变：Loading
+[16:08:57.573] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/forge/minecraft/1.19.2，最大超时 10000
+[16:08:57.791] [Loader] 加载器 DlForgeVersion Bmclapi 状态改变：Finished
+[16:08:57.807] [Loader] 加载器 DlForgeVersion 1.19.2 状态改变：Finished
+[16:08:58.201] [Loader] 加载器 Fabric API List Loader 状态改变：Finished
+[16:08:59.084] [Control] 展开卡片：Forge
+[16:09:00.044] [Control] 按下单击列表项：43.2.0
+[16:09:01.663] [Control] 按下按钮：开始安装
+[16:09:01.722] [Download] 已清理合并安装缓存
+[16:09:01.722] [Download] Forge 缓存：C:\Users\ping\AppData\Local\Temp\PCL\Install\1.19.2-Forge_43.2.0\versions\1.19.2-forge-43.2.0
+[16:09:01.722] [Download] 对应的原版版本：1.19.2
+[16:09:01.722] [Download] 检测为新版 Forge：43.2.0
+[16:09:01.722] [Loader] 加载器 1.19.2-Forge_43.2.0 安装 状态改变：Loading
+[16:09:01.726] [Loader] 加载器 下载原版 1.19.2 状态改变：Loading
+[16:09:01.726] [Loader] 加载器 下载原版 Json 文件 状态改变：Loading
+[16:09:01.726] [Loader] 加载器 下载 Forge 43.2.0 状态改变：Loading
+[16:09:01.726] [Loader] 加载器 准备 Mod 加载器下载 状态改变：Loading
+[16:09:01.730] [Loader] 加载器 准备 Mod 加载器下载 状态改变：Finished
+[16:09:01.730] [Loader] 加载器 下载 Mod 加载器主文件 状态改变：Loading
+[16:09:01.774] [Download] ForgeInstall-43.2.0_23228 2804#：开始，起始点 0，https://bmclapi2.bangbang93.com/maven/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-installer.jar
+[16:09:01.774] [Download] 1.19.2-Forge_43.2.0.json 2805#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/ed548106acf3ac7e8205a6ee8fd2710facfa164f/1.19.2.json
+[16:09:02.169] [Download] 1.19.2-Forge_43.2.0.json：文件大小 34505 B（33.7 K）
+[16:09:02.169] [Download] 1.19.2-Forge_43.2.0.json：已完成，剩余文件 1
+[16:09:02.169] [Loader] 加载器 下载原版 Json 文件 状态改变：Finished
+[16:09:02.169] [Loader] 加载器 下载原版支持库文件 状态改变：Loading
+[16:09:02.169] [Loader] 加载器 分析原版支持库文件（副加载器） 状态改变：Loading
+[16:09:02.183] [Loader] 加载器 下载原版资源文件 状态改变：Loading
+[16:09:02.183] [Loader] 加载器 分析资源文件索引地址（副加载器） 状态改变：Loading
+[16:09:02.185] [Download] 版本 1.19.2-Forge_43.2.0 对应的资源文件索引为 1.19
+[16:09:02.185] [Loader] 加载器 分析资源文件索引地址（副加载器） 状态改变：Finished
+[16:09:02.185] [Loader] 加载器 下载资源文件索引（副加载器） 状态改变：Loading
+[16:09:02.185] [Minecraft] 无法完全确认 MC 版本号的版本：1.19.2-Forge_43.2.0
+[16:09:02.230] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[16:09:02.230] [Setup] 版本隔离使用全局设置：1.19.2-Forge_43.2.0
+[16:09:02.278] [Download] 1.19.json 2816#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/a9c8b05a8082a65678beda6dfa2b8f21fa627bce/1.19.json
+[16:09:02.348] [Download] 1.19.json：文件大小 385608 B（377 K）
+[16:09:02.530] [Loader] 加载器 分析原版支持库文件（副加载器） 状态改变：Finished
+[16:09:02.530] [Loader] 加载器 下载原版支持库文件（副加载器） 状态改变：Loading
+[16:09:02.655] [Download] 1.19.2-Forge_43.2.0.jar 2845#：开始，起始点 0，https://piston-data.mojang.com/v1/objects/055b30d860ead928cba3849ba920c88b6950b654/client.jar
+[16:09:02.655] [Download] oshi-core-5.8.5.jar 2846#：开始，起始点 0，https://download.mcbbs.net/maven/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar
+[16:09:02.655] [Download] logging-1.0.0.jar 2847#：开始，起始点 0，https://download.mcbbs.net/maven/com/mojang/logging/1.0.0/logging-1.0.0.jar
+[16:09:02.655] [Download] jna-5.10.0.jar 2848#：开始，起始点 0，https://download.mcbbs.net/maven/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar
+[16:09:02.655] [Download] jna-platform-5.10.0.jar 2849#：开始，起始点 0，https://download.mcbbs.net/maven/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar
+[16:09:02.655] [Download] icu4j-70.1.jar 2850#：开始，起始点 0，https://download.mcbbs.net/maven/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar
+[16:09:02.655] [Download] slf4j-api-1.8.0-beta4.jar 2851#：开始，起始点 0，https://download.mcbbs.net/maven/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar
+[16:09:02.655] [Download] javabridge-1.2.24.jar 2852#：开始，起始点 0，https://download.mcbbs.net/maven/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar
+[16:09:02.655] [Download] log4j-slf4j18-impl-2.17.0.jar 2853#：开始，起始点 0，https://download.mcbbs.net/maven/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar
+[16:09:02.655] [Download] netty-buffer-4.1.77.Final.jar 2854#：开始，起始点 0，https://download.mcbbs.net/maven/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar
+[16:09:02.655] [Download] netty-common-4.1.77.Final.jar 2855#：开始，起始点 0，https://download.mcbbs.net/maven/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar
+[16:09:02.655] [Download] netty-codec-4.1.77.Final.jar 2856#：开始，起始点 0，https://download.mcbbs.net/maven/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar
+[16:09:02.655] [Download] netty-handler-4.1.77.Final.jar 2857#：开始，起始点 0，https://download.mcbbs.net/maven/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar
+[16:09:02.655] [Download] netty-resolver-4.1.77.Final.jar 2858#：开始，起始点 0，https://download.mcbbs.net/maven/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar
+[16:09:02.655] [Download] netty-transport-native-unix-common-4.1.77.Final.jar 2859#：开始，起始点 0，https://download.mcbbs.net/maven/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar
+[16:09:02.655] [Download] netty-transport-4.1.77.Final.jar 2860#：开始，起始点 0，https://download.mcbbs.net/maven/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar
+[16:09:02.655] [Download] netty-transport-classes-epoll-4.1.77.Final.jar 2861#：开始，起始点 0，https://download.mcbbs.net/maven/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar
+[16:09:02.655] [Download] authlib-3.11.49.jar 2862#：开始，起始点 0，https://download.mcbbs.net/maven/com/mojang/authlib/3.11.49/authlib-3.11.49.jar
+[16:09:02.655] [Download] guava-31.0.1-jre.jar 2863#：开始，起始点 0，https://download.mcbbs.net/maven/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[16:09:02.655] [Download] httpcore-4.4.14.jar 2864#：开始，起始点 0，https://download.mcbbs.net/maven/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar
+[16:09:02.655] [Download] brigadier-1.0.18.jar 2865#：开始，起始点 0，https://download.mcbbs.net/maven/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar
+[16:09:02.655] [Download] datafixerupper-5.0.28.jar 2867#：开始，起始点 0，https://download.mcbbs.net/maven/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar
+[16:09:02.655] [Download] text2speech-1.16.7.jar 2866#：开始，起始点 0，https://download.mcbbs.net/maven/com/mojang/text2speech/1.16.7/text2speech-1.16.7.jar
+[16:09:02.655] [Download] gson-2.8.9.jar 2868#：开始，起始点 0，https://download.mcbbs.net/maven/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar
+[16:09:02.655] [Download] fastutil-8.5.6.jar 2869#：开始，起始点 0，https://download.mcbbs.net/maven/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar
+[16:09:02.655] [Download] log4j-api-2.17.0.jar 2870#：开始，起始点 0，https://download.mcbbs.net/maven/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar
+[16:09:02.766] [Download] logging-1.0.0.jar：文件大小 15343 B（15 K）
+[16:09:02.766] [Download] slf4j-api-1.8.0-beta4.jar：文件大小 44213 B（43.2 K）
+[16:09:02.766] [Download] jna-5.10.0.jar：文件大小 1756400 B（1.68 M）
+[16:09:02.782] [Download] log4j-core-2.17.0.jar 2871#：开始，起始点 0，https://download.mcbbs.net/maven/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar
+[16:09:02.782] [Download] netty-transport-native-unix-common-4.1.77.Final.jar：文件大小 43213 B（42.2 K）
+[16:09:02.782] [Download] javabridge-1.2.24.jar：文件大小 6053 B（5.91 K）
+[16:09:02.782] [Download] netty-common-4.1.77.Final.jar：文件大小 653053 B（638 K）
+[16:09:02.798] [Download] netty-resolver-4.1.77.Final.jar：文件大小 37776 B（36.9 K）
+[16:09:02.798] [Download] icu4j-70.1.jar：文件大小 13708936 B（13.1 M）
+[16:09:02.798] [Download] logging-1.0.0.jar：已完成，剩余文件 28
+[16:09:02.813] [Download] javabridge-1.2.24.jar：已完成，剩余文件 27
+[16:09:02.813] [Download] guava-31.0.1-jre.jar：文件大小 2974216 B（2.84 M）
+[16:09:02.829] [Download] netty-codec-4.1.77.Final.jar：文件大小 337017 B（329 K）
+[16:09:02.845] [Download] netty-handler-4.1.77.Final.jar：文件大小 528268 B（516 K）
+[16:09:02.845] [Download] fastutil-8.5.6.jar：文件大小 23565248 B（22.5 M）
+[16:09:02.861] [Download] text2speech-1.16.7.jar：文件大小 12279 B（12 K）
+[16:09:02.861] [Download] log4j-api-2.17.0.jar：文件大小 301776 B（295 K）
+[16:09:02.861] [Download] netty-transport-classes-epoll-4.1.77.Final.jar：文件大小 139612 B（136 K）
+[16:09:02.876] [Download] authlib-3.11.49.jar：文件大小 120100 B（117 K）
+[16:09:02.892] [Download] brigadier-1.0.18.jar：文件大小 77116 B（75.3 K）
+[16:09:02.892] [Download] text2speech-1.16.7.jar：已完成，剩余文件 26
+[16:09:02.892] [Download] log4j-slf4j18-impl-2.17.0.jar：文件大小 21244 B（20.7 K）
+[16:09:02.908] [Download] gson-2.8.9.jar：文件大小 258075 B（252 K）
+[16:09:02.923] [Download] httpcore-4.4.14.jar：文件大小 328436 B（321 K）
+[16:09:02.939] [Download] netty-resolver-4.1.77.Final.jar：已完成，剩余文件 25
+[16:09:02.954] [Download] netty-transport-native-unix-common-4.1.77.Final.jar：已完成，剩余文件 24
+[16:09:02.960] [Download] netty-transport-4.1.77.Final.jar：文件大小 480832 B（470 K）
+[16:09:02.970] [Download] log4j-core-2.17.0.jar：文件大小 1789339 B（1.71 M）
+[16:09:02.986] [Download] log4j-slf4j18-impl-2.17.0.jar：已完成，剩余文件 23
+[16:09:03.017] [Download] datafixerupper-5.0.28.jar：文件大小 684966 B（669 K）
+[16:09:03.081] [Download] jna-platform-5.10.0.jar：文件大小 1343495 B（1.28 M）
+[16:09:03.171] [Download] netty-buffer-4.1.77.Final.jar：文件大小 303738 B（297 K）
+[16:09:03.178] [Download] brigadier-1.0.18.jar：已完成，剩余文件 22
+[16:09:03.261] [Download] 1.19.json：已完成，剩余文件 21
+[16:09:03.261] [Loader] 加载器 下载资源文件索引（副加载器） 状态改变：Finished
+[16:09:03.261] [Loader] 加载器 分析所需资源文件（副加载器） 状态改变：Loading
+[16:09:03.286] [Download] slf4j-api-1.8.0-beta4.jar：已完成，剩余文件 20
+[16:09:03.744] [Download] ForgeInstall-43.2.0_23228：文件大小 6883740 B（6.56 M）
+[16:09:04.110] [Download] authlib-3.11.49.jar：已完成，剩余文件 19
+[16:09:04.364] [Download] datafixerupper-5.0.28.jar：已完成，剩余文件 18
+[16:09:04.370] [Download] netty-common-4.1.77.Final.jar：已完成，剩余文件 17
+[16:09:04.396] [Download] 1.19.2-Forge_43.2.0.jar：文件大小 21644740 B（20.6 M）
+[16:09:04.728] [Download] 速度下限已提升到 7.03 M
+[16:09:05.077] [Download] 速度下限已提升到 7.4 M
+[16:09:05.235] [Download] netty-transport-classes-epoll-4.1.77.Final.jar：已完成，剩余文件 16
+[16:09:05.424] [Download] 速度下限已提升到 7.52 M
+[16:09:05.583] [Download] 速度下限已提升到 8.75 M
+[16:09:05.591] [Download] log4j-api-2.17.0.jar：已完成，剩余文件 15
+[16:09:05.599] [Download] gson-2.8.9.jar：已完成，剩余文件 14
+[16:09:05.862] [Download] netty-codec-4.1.77.Final.jar：已完成，剩余文件 13
+[16:09:05.884] [Download] netty-handler-4.1.77.Final.jar：已完成，剩余文件 12
+[16:09:05.932] [Download] 速度下限已提升到 10.3 M
+[16:09:06.105] [Download] 速度下限已提升到 10.3 M
+[16:09:06.281] [Download] httpcore-4.4.14.jar：已完成，剩余文件 11
+[16:09:06.785] [Download] netty-transport-4.1.77.Final.jar：已完成，剩余文件 10
+[16:09:07.231] [Download] netty-buffer-4.1.77.Final.jar：已完成，剩余文件 9
+[16:09:07.273] [Download] jna-5.10.0.jar：已完成，剩余文件 8
+[16:09:07.759] [Download] oshi-core-5.8.5.jar：已完成，剩余文件 7
+[16:09:07.947] [Download] jna-platform-5.10.0.jar：已完成，剩余文件 6
+[16:09:08.065] [Download] log4j-core-2.17.0.jar：已完成，剩余文件 5
+[16:09:08.137] [Download] guava-31.0.1-jre.jar：已完成，剩余文件 4
+[16:09:08.201] [Control] 按下附加按钮：下载管理
+[16:09:08.201] [Control] 切换主要页面：DownloadManager, 0
+[16:09:08.201] [Download] fastutil-8.5.6.jar：已完成，剩余文件 3
+[16:09:08.232] [Download] icu4j-70.1.jar：已完成，剩余文件 2
+[16:09:13.361] [Download] 1.19.2-Forge_43.2.0.jar：已完成，剩余文件 1
+[16:09:13.361] [Loader] 加载器 下载原版支持库文件（副加载器） 状态改变：Finished
+[16:09:13.361] [Loader] 加载器 下载原版支持库文件 状态改变：Finished
+[16:09:13.660] [Loader] 加载器 分析所需资源文件（副加载器） 状态改变：Finished
+[16:09:13.676] [Loader] 加载器 下载资源文件（副加载器） 状态改变：Loading
+[16:09:13.785] [Download] e59ec638c80192c7521d7c4193c2e9f927cc9d3f 3298#：开始，起始点 0，https://download.mcbbs.net/assets/e5/e59ec638c80192c7521d7c4193c2e9f927cc9d3f
+[16:09:13.785] [Download] 5cb7a27c2aac31fd77b39c387de9679171b0c6c6 3299#：开始，起始点 0，https://download.mcbbs.net/assets/5c/5cb7a27c2aac31fd77b39c387de9679171b0c6c6
+[16:09:13.785] [Download] 343376122b2d8df819f24e578dde1099064c953e 3300#：开始，起始点 0，https://download.mcbbs.net/assets/34/343376122b2d8df819f24e578dde1099064c953e
+[16:09:13.785] [Download] 8ec6acb504876d1ecf634dc2f54906295e8a3bbc 3301#：开始，起始点 0，https://download.mcbbs.net/assets/8e/8ec6acb504876d1ecf634dc2f54906295e8a3bbc
+[16:09:13.785] [Download] 874a9ab90f86db3043da9c62fc53812c95333114 3302#：开始，起始点 0，https://download.mcbbs.net/assets/87/874a9ab90f86db3043da9c62fc53812c95333114
+[16:09:13.785] [Download] ed428a5dd11f904a298d1d4b41fe8c5cc3a09144 3303#：开始，起始点 0，https://download.mcbbs.net/assets/ed/ed428a5dd11f904a298d1d4b41fe8c5cc3a09144
+[16:09:13.785] [Download] 6a972ba675028c468f7f7ab12985072f3b9e4c89 3304#：开始，起始点 0，https://download.mcbbs.net/assets/6a/6a972ba675028c468f7f7ab12985072f3b9e4c89
+[16:09:13.785] [Download] d11e43d75e4d3c4df691a7fbcdcece8762b8fc2b 3305#：开始，起始点 0，https://download.mcbbs.net/assets/d1/d11e43d75e4d3c4df691a7fbcdcece8762b8fc2b
+[16:09:13.785] [Download] d62e09b5610d45751373fca6970ccef3c4628b03 3306#：开始，起始点 0，https://download.mcbbs.net/assets/d6/d62e09b5610d45751373fca6970ccef3c4628b03
+[16:09:13.785] [Download] 5a258f5ddfc55d5f1aa06d9d1e6ecb8c777886f1 3307#：开始，起始点 0，https://download.mcbbs.net/assets/5a/5a258f5ddfc55d5f1aa06d9d1e6ecb8c777886f1
+[16:09:13.785] [Download] 4c6ca9a8afe226d796df98de6b44a6bb9bfe6457 3308#：开始，起始点 0，https://download.mcbbs.net/assets/4c/4c6ca9a8afe226d796df98de6b44a6bb9bfe6457
+[16:09:13.785] [Download] f055de6e8d7bf3f99fb38dbe6948fb63ca12ee48 3309#：开始，起始点 0，https://download.mcbbs.net/assets/f0/f055de6e8d7bf3f99fb38dbe6948fb63ca12ee48
+[16:09:13.785] [Download] 4a7ff915695571a322df6125f063dfa245c79c24 3310#：开始，起始点 0，https://download.mcbbs.net/assets/4a/4a7ff915695571a322df6125f063dfa245c79c24
+[16:09:13.785] [Download] abf5d0fca6c6e023f0615f63c9e1ba3799e98571 3311#：开始，起始点 0，https://download.mcbbs.net/assets/ab/abf5d0fca6c6e023f0615f63c9e1ba3799e98571
+[16:09:13.785] [Download] d1332060277623bf6f60249fd32c79fb24863507 3312#：开始，起始点 0，https://download.mcbbs.net/assets/d1/d1332060277623bf6f60249fd32c79fb24863507
+[16:09:13.785] [Download] 56651a6769accbed0489df7a39e728294ee73805 3313#：开始，起始点 0，https://download.mcbbs.net/assets/56/56651a6769accbed0489df7a39e728294ee73805
+[16:09:13.785] [Download] ca6b2acbfce75da3ca18d80309f15470ebeb4f54 3314#：开始，起始点 0，https://download.mcbbs.net/assets/ca/ca6b2acbfce75da3ca18d80309f15470ebeb4f54
+[16:09:13.785] [Download] a93f16193c7f99f93430ef32b9af94692c06f254 3315#：开始，起始点 0，https://download.mcbbs.net/assets/a9/a93f16193c7f99f93430ef32b9af94692c06f254
+[16:09:13.785] [Download] d45d893a026dcba8f54ac8ae9762d49b51165105 3317#：开始，起始点 0，https://download.mcbbs.net/assets/d4/d45d893a026dcba8f54ac8ae9762d49b51165105
+[16:09:13.785] [Download] 6b5ff13f07f032baa713300d28cb6c5b2401efa2 3318#：开始，起始点 0，https://download.mcbbs.net/assets/6b/6b5ff13f07f032baa713300d28cb6c5b2401efa2
+[16:09:13.785] [Download] 6e05440e88376b5a43608e3cebcc6d229852884c 3319#：开始，起始点 0，https://download.mcbbs.net/assets/6e/6e05440e88376b5a43608e3cebcc6d229852884c
+[16:09:13.785] [Download] 0ba334de9bca297d2806f2bb37a68214aaccf116 3320#：开始，起始点 0，https://download.mcbbs.net/assets/0b/0ba334de9bca297d2806f2bb37a68214aaccf116
+[16:09:13.785] [Download] c202b3923d34073866da282459f751491ba4e8a2 3321#：开始，起始点 0，https://download.mcbbs.net/assets/c2/c202b3923d34073866da282459f751491ba4e8a2
+[16:09:13.785] [Download] b03210cb88c9b8da1291ae4700160df12299b899 3322#：开始，起始点 0，https://download.mcbbs.net/assets/b0/b03210cb88c9b8da1291ae4700160df12299b899
+[16:09:13.785] [Download] 7e13e5d0749e5910e17202bfcbfff1b46acd40a7 3323#：开始，起始点 0，https://download.mcbbs.net/assets/7e/7e13e5d0749e5910e17202bfcbfff1b46acd40a7
+[16:09:13.785] [Download] 264d86528d105fb83a7373aed97041f9394125a7 3324#：开始，起始点 0，https://download.mcbbs.net/assets/26/264d86528d105fb83a7373aed97041f9394125a7
+[16:09:13.785] [Download] d938e0743c4ab0b67796895dcfbd3fcde28dc978 3325#：开始，起始点 0，https://download.mcbbs.net/assets/d9/d938e0743c4ab0b67796895dcfbd3fcde28dc978
+[16:09:13.785] [Download] e18a562580403067ed689d10f0bc9b8d01326556 3326#：开始，起始点 0，https://download.mcbbs.net/assets/e1/e18a562580403067ed689d10f0bc9b8d01326556
+[16:09:13.785] [Download] c14c64258936d68f8edbd02cd8cb9dc35501e12d 3327#：开始，起始点 0，https://download.mcbbs.net/assets/c1/c14c64258936d68f8edbd02cd8cb9dc35501e12d
+[16:09:13.785] [Download] 321392d121f2d7ce4ea38dcb3eacc0130d5474f8 3328#：开始，起始点 0，https://download.mcbbs.net/assets/32/321392d121f2d7ce4ea38dcb3eacc0130d5474f8
+[16:09:13.785] [Download] a5edbbc4ed009fa72c605d97340f35d8e41e6c33 3329#：开始，起始点 0，https://download.mcbbs.net/assets/a5/a5edbbc4ed009fa72c605d97340f35d8e41e6c33
+[16:09:13.785] [Download] ef9ac36b766f250b720acdcff16d34b750fc17b2 3330#：开始，起始点 0，https://download.mcbbs.net/assets/ef/ef9ac36b766f250b720acdcff16d34b750fc17b2
+[16:09:13.785] [Download] 1feb1fc52924a7e8db7815b24b422eeaf3bebe0a 3332#：开始，起始点 0，https://download.mcbbs.net/assets/1f/1feb1fc52924a7e8db7815b24b422eeaf3bebe0a
+[16:09:13.785] [Download] 994c5e3c27353eb77dee97e54762d78f0f0e5e63 3331#：开始，起始点 0，https://download.mcbbs.net/assets/99/994c5e3c27353eb77dee97e54762d78f0f0e5e63
+[16:09:13.785] [Download] 8e2b566d44e1656cc3e057e2a663a07a1c3fbec6 3333#：开始，起始点 0，https://download.mcbbs.net/assets/8e/8e2b566d44e1656cc3e057e2a663a07a1c3fbec6
+[16:09:13.785] [Download] af4dbce09ed03ddc033c62f20a1642da2bf7d8cf 3334#：开始，起始点 0，https://download.mcbbs.net/assets/af/af4dbce09ed03ddc033c62f20a1642da2bf7d8cf
+[16:09:13.785] [Download] 0df1022b9bb1ff2e1291dad9cc2344d849ddcb22 3335#：开始，起始点 0，https://download.mcbbs.net/assets/0d/0df1022b9bb1ff2e1291dad9cc2344d849ddcb22
+[16:09:13.785] [Download] bcdd6161a26273bae72fb4849aaf2a4216a360b6 3336#：开始，起始点 0，https://download.mcbbs.net/assets/bc/bcdd6161a26273bae72fb4849aaf2a4216a360b6
+[16:09:13.785] [Download] c05053d80edeaa1840bc2dac3c0f96c8c666bd2a 3337#：开始，起始点 0，https://download.mcbbs.net/assets/c0/c05053d80edeaa1840bc2dac3c0f96c8c666bd2a
+[16:09:13.785] [Download] 84b4f8825efc355e065e0ca0e4f030b4f7d5776f 3338#：开始，起始点 0，https://download.mcbbs.net/assets/84/84b4f8825efc355e065e0ca0e4f030b4f7d5776f
+[16:09:13.785] [Download] 75ed12a3ca798031430c688b62e9e3ad1fd2b4c3 3339#：开始，起始点 0，https://download.mcbbs.net/assets/75/75ed12a3ca798031430c688b62e9e3ad1fd2b4c3
+[16:09:13.785] [Download] fb5a9a951154e2395d87e2d119ec9beffc01b84f 3341#：开始，起始点 0，https://download.mcbbs.net/assets/fb/fb5a9a951154e2395d87e2d119ec9beffc01b84f
+[16:09:13.785] [Download] 88dc4f9963aa1cda2cfd5b2fd10d6546a89d15ef 3340#：开始，起始点 0，https://download.mcbbs.net/assets/88/88dc4f9963aa1cda2cfd5b2fd10d6546a89d15ef
+[16:09:13.785] [Download] e197eeafe8d9693e1ec4d734953e906ae9d1e393 3342#：开始，起始点 0，https://download.mcbbs.net/assets/e1/e197eeafe8d9693e1ec4d734953e906ae9d1e393
+[16:09:13.785] [Download] a20b6d705e7e281276b3d2aa3c46ae0facd97b40 3343#：开始，起始点 0，https://download.mcbbs.net/assets/a2/a20b6d705e7e281276b3d2aa3c46ae0facd97b40
+[16:09:13.785] [Download] 371479bc53dd6ed46b01b55c0df92773840cca77 3344#：开始，起始点 0，https://download.mcbbs.net/assets/37/371479bc53dd6ed46b01b55c0df92773840cca77
+[16:09:13.785] [Download] 83962d5e112037fdd11d6b066811ce37f261a3d4 3345#：开始，起始点 0，https://download.mcbbs.net/assets/83/83962d5e112037fdd11d6b066811ce37f261a3d4
+[16:09:13.785] [Download] 2ab93e8b767cdafec68b36c3e30c4ef37873530c 3346#：开始，起始点 0，https://download.mcbbs.net/assets/2a/2ab93e8b767cdafec68b36c3e30c4ef37873530c
+[16:09:13.785] [Download] 52c903f61ff31cba654453f04cc55bc71a6b5a66 3347#：开始，起始点 0，https://download.mcbbs.net/assets/52/52c903f61ff31cba654453f04cc55bc71a6b5a66
+[16:09:13.785] [Download] e8e9b18111e6da86e094aed5fc711f25ef602b15 3348#：开始，起始点 0，https://download.mcbbs.net/assets/e8/e8e9b18111e6da86e094aed5fc711f25ef602b15
+[16:09:13.785] [Download] eed521b4e76263546af1e075b7cb434b8ee2068b 3349#：开始，起始点 0，https://download.mcbbs.net/assets/ee/eed521b4e76263546af1e075b7cb434b8ee2068b
+[16:09:13.785] [Download] 2fbe1c49c7b8ea523dd0013475cfb6c95527a17f 3350#：开始，起始点 0，https://download.mcbbs.net/assets/2f/2fbe1c49c7b8ea523dd0013475cfb6c95527a17f
+[16:09:13.785] [Download] cf88d5cc7768addcea27a2d0217e27128c69a580 3351#：开始，起始点 0，https://download.mcbbs.net/assets/cf/cf88d5cc7768addcea27a2d0217e27128c69a580
+[16:09:13.785] [Download] 294570159e6eed0db6db8e492298a0bd62733097 3352#：开始，起始点 0，https://download.mcbbs.net/assets/29/294570159e6eed0db6db8e492298a0bd62733097
+[16:09:13.785] [Download] a3c0890d6d14899b5efded7686fc36d47af0fa4c 3353#：开始，起始点 0，https://download.mcbbs.net/assets/a3/a3c0890d6d14899b5efded7686fc36d47af0fa4c
+[16:09:13.785] [Download] bc743503a9b0ba1b4f1eda33acda41a781953f85 3354#：开始，起始点 0，https://download.mcbbs.net/assets/bc/bc743503a9b0ba1b4f1eda33acda41a781953f85
+[16:09:13.785] [Download] 9665c832266ccd9dbf6d109cedd22727858494ef 3355#：开始，起始点 0，https://download.mcbbs.net/assets/96/9665c832266ccd9dbf6d109cedd22727858494ef
+[16:09:13.785] [Download] 8336e6d043ddb1c0f4732582dc13124a5ec8bd14 3356#：开始，起始点 0，https://download.mcbbs.net/assets/83/8336e6d043ddb1c0f4732582dc13124a5ec8bd14
+[16:09:13.785] [Download] dfb4332eee136395561053adce1d5856900b0f3e 3357#：开始，起始点 0，https://download.mcbbs.net/assets/df/dfb4332eee136395561053adce1d5856900b0f3e
+[16:09:13.785] [Download] 877579d0c9d32f29ca7ef44115a23e7a640d6149 3358#：开始，起始点 0，https://download.mcbbs.net/assets/87/877579d0c9d32f29ca7ef44115a23e7a640d6149
+[16:09:13.785] [Download] eaf9a5de1ae562c1641f1092dca78d97ca16f91a 3359#：开始，起始点 0，https://download.mcbbs.net/assets/ea/eaf9a5de1ae562c1641f1092dca78d97ca16f91a
+[16:09:13.785] [Download] b793543a285be4f1e901db2b016577f680858f68 3360#：开始，起始点 0，https://download.mcbbs.net/assets/b7/b793543a285be4f1e901db2b016577f680858f68
+[16:09:13.785] [Download] 04cc4bf5d825727a79d4341d65510a4369797005 3361#：开始，起始点 0，https://download.mcbbs.net/assets/04/04cc4bf5d825727a79d4341d65510a4369797005
+[16:09:13.801] [Download] 8ec6acb504876d1ecf634dc2f54906295e8a3bbc：文件大小 751854 B（734 K）
+[16:09:13.801] [Download] ed428a5dd11f904a298d1d4b41fe8c5cc3a09144：文件大小 319825 B（312 K）
+[16:09:13.801] [Download] 6a972ba675028c468f7f7ab12985072f3b9e4c89：文件大小 371889 B（363 K）
+[16:09:13.801] [Download] 874a9ab90f86db3043da9c62fc53812c95333114：文件大小 370387 B（362 K）
+[16:09:13.801] [Download] 56651a6769accbed0489df7a39e728294ee73805：文件大小 373005 B（364 K）
+[16:09:13.801] [Download] 343376122b2d8df819f24e578dde1099064c953e：文件大小 369399 B（361 K）
+[16:09:13.817] [Download] abf5d0fca6c6e023f0615f63c9e1ba3799e98571：文件大小 268919 B（263 K）
+[16:09:13.817] [Download] ca6b2acbfce75da3ca18d80309f15470ebeb4f54：文件大小 344888 B（337 K）
+[16:09:13.817] [Download] 5cb7a27c2aac31fd77b39c387de9679171b0c6c6：文件大小 354388 B（346 K）
+[16:09:13.834] [Download] 4a7ff915695571a322df6125f063dfa245c79c24：文件大小 376526 B（368 K）
+[16:09:13.835] [Download] f055de6e8d7bf3f99fb38dbe6948fb63ca12ee48：文件大小 884932 B（864 K）
+[16:09:13.835] [Download] d1332060277623bf6f60249fd32c79fb24863507：文件大小 344860 B（337 K）
+[16:09:13.835] [Download] d11e43d75e4d3c4df691a7fbcdcece8762b8fc2b：文件大小 452808 B（442 K）
+[16:09:13.835] [Download] 4c6ca9a8afe226d796df98de6b44a6bb9bfe6457：文件大小 371652 B（363 K）
+[16:09:13.835] [Download] a93f16193c7f99f93430ef32b9af94692c06f254：文件大小 435665 B（425 K）
+[16:09:13.835] [Download] d62e09b5610d45751373fca6970ccef3c4628b03：文件大小 357146 B（349 K）
+[16:09:13.855] [Download] e59ec638c80192c7521d7c4193c2e9f927cc9d3f：文件大小 824352 B（805 K）
+[16:09:13.871] [Control] 按下图标按钮：BtnTitleInner
+[16:09:13.871] [Control] 切换主要页面：Download, -1
+[16:09:13.927] [Download] 5a258f5ddfc55d5f1aa06d9d1e6ecb8c777886f1：文件大小 881445 B（861 K）
+[16:09:13.927] [Download] c05053d80edeaa1840bc2dac3c0f96c8c666bd2a：文件大小 376597 B（368 K）
+[16:09:13.942] [Download] 88dc4f9963aa1cda2cfd5b2fd10d6546a89d15ef：文件大小 345900 B（338 K）
+[16:09:13.958] [Download] c14c64258936d68f8edbd02cd8cb9dc35501e12d：文件大小 376034 B（367 K）
+[16:09:13.989] [Download] 83962d5e112037fdd11d6b066811ce37f261a3d4：文件大小 682973 B（667 K）
+[16:09:13.989] [Download] 2ab93e8b767cdafec68b36c3e30c4ef37873530c：文件大小 354890 B（347 K）
+[16:09:14.005] [Download] 0ba334de9bca297d2806f2bb37a68214aaccf116：文件大小 366136 B（358 K）
+[16:09:14.038] [Download] abf5d0fca6c6e023f0615f63c9e1ba3799e98571：已完成，剩余文件 259
+[16:09:14.038] [Download] bc743503a9b0ba1b4f1eda33acda41a781953f85：文件大小 316609 B（309 K）
+[16:09:14.071] [Download] d938e0743c4ab0b67796895dcfbd3fcde28dc978：文件大小 365908 B（357 K）
+[16:09:14.071] [Download] e18a562580403067ed689d10f0bc9b8d01326556：文件大小 655469 B（640 K）
+[16:09:14.071] [Download] 321392d121f2d7ce4ea38dcb3eacc0130d5474f8：文件大小 373919 B（365 K）
+[16:09:14.100] [Download] 264d86528d105fb83a7373aed97041f9394125a7：文件大小 344883 B（337 K）
+[16:09:14.100] [Download] a5edbbc4ed009fa72c605d97340f35d8e41e6c33：文件大小 374901 B（366 K）
+[16:09:14.131] [Download] 8336e6d043ddb1c0f4732582dc13124a5ec8bd14：文件大小 423526 B（414 K）
+[16:09:14.147] [Download] ab49d96f2d3ba34d672335c390a4af595deb3900 3409#：开始，起始点 0，https://download.mcbbs.net/assets/ab/ab49d96f2d3ba34d672335c390a4af595deb3900
+[16:09:14.147] [Download] 994c5e3c27353eb77dee97e54762d78f0f0e5e63：文件大小 426569 B（417 K）
+[16:09:14.147] [Download] 2fbe1c49c7b8ea523dd0013475cfb6c95527a17f：文件大小 366419 B（358 K）
+[16:09:14.163] [Download] ab49d96f2d3ba34d672335c390a4af595deb3900：文件大小 337635 B（330 K）
+[16:09:14.172] [Download] c202b3923d34073866da282459f751491ba4e8a2：文件大小 348598 B（340 K）
+[16:09:14.194] [Download] af4dbce09ed03ddc033c62f20a1642da2bf7d8cf：文件大小 383321 B（374 K）
+[16:09:14.210] [Download] a3c0890d6d14899b5efded7686fc36d47af0fa4c：文件大小 406414 B（397 K）
+[16:09:14.210] [Download] 52c903f61ff31cba654453f04cc55bc71a6b5a66：文件大小 826196 B（807 K）
+[16:09:14.210] [Download] dfb4332eee136395561053adce1d5856900b0f3e：文件大小 892181 B（871 K）
+[16:09:14.210] [Download] 6b5ff13f07f032baa713300d28cb6c5b2401efa2：文件大小 365731 B（357 K）
+[16:09:14.210] [Download] 75ed12a3ca798031430c688b62e9e3ad1fd2b4c3：文件大小 367669 B（359 K）
+[16:09:14.225] [Download] 9665c832266ccd9dbf6d109cedd22727858494ef：文件大小 253287 B（247 K）
+[16:09:14.225] [Download] cf88d5cc7768addcea27a2d0217e27128c69a580：文件大小 289600 B（283 K）
+[16:09:14.225] [Download] 877579d0c9d32f29ca7ef44115a23e7a640d6149：文件大小 884018 B（863 K）
+[16:09:14.225] [Download] 8e2b566d44e1656cc3e057e2a663a07a1c3fbec6：文件大小 374809 B（366 K）
+[16:09:14.225] [Download] eed521b4e76263546af1e075b7cb434b8ee2068b：文件大小 376264 B（367 K）
+[16:09:14.225] [Download] ef9ac36b766f250b720acdcff16d34b750fc17b2：文件大小 375297 B（367 K）
+[16:09:14.241] [Download] 04cc4bf5d825727a79d4341d65510a4369797005：文件大小 350054 B（342 K）
+[16:09:14.257] [Download] ed428a5dd11f904a298d1d4b41fe8c5cc3a09144：已完成，剩余文件 258
+[16:09:14.273] [Download] 6714e3f227a091e8d4f9657bc8e9f3a49fe5a9ae 3410#：开始，起始点 0，https://download.mcbbs.net/assets/67/6714e3f227a091e8d4f9657bc8e9f3a49fe5a9ae
+[16:09:14.301] [Download] 0df1022b9bb1ff2e1291dad9cc2344d849ddcb22：文件大小 376747 B（368 K）
+[16:09:14.306] [Download] ca6b2acbfce75da3ca18d80309f15470ebeb4f54：已完成，剩余文件 257
+[16:09:14.306] [Download] 5cb7a27c2aac31fd77b39c387de9679171b0c6c6：已完成，剩余文件 256
+[16:09:14.311] [Download] 6714e3f227a091e8d4f9657bc8e9f3a49fe5a9ae：文件大小 362701 B（354 K）
+[16:09:14.311] [Download] fb5a9a951154e2395d87e2d119ec9beffc01b84f：文件大小 789178 B（771 K）
+[16:09:14.352] [Download] d45d893a026dcba8f54ac8ae9762d49b51165105：文件大小 345000 B（337 K）
+[16:09:14.372] [Download] b03210cb88c9b8da1291ae4700160df12299b899：文件大小 980532 B（958 K）
+[16:09:14.372] [Download] 6e05440e88376b5a43608e3cebcc6d229852884c：文件大小 358435 B（350 K）
+[16:09:14.384] [Download] bcdd6161a26273bae72fb4849aaf2a4216a360b6：文件大小 374184 B（365 K）
+[16:09:14.399] [Download] 0e9f5e314f46740b59eb9dde34be214bd2b96aa6 3412#：开始，起始点 0，https://download.mcbbs.net/assets/0e/0e9f5e314f46740b59eb9dde34be214bd2b96aa6
+[16:09:14.399] [Download] 9d1b6140aae336c48c3cb3d42b33211d1826a00a 3411#：开始，起始点 0，https://download.mcbbs.net/assets/9d/9d1b6140aae336c48c3cb3d42b33211d1826a00a
+[16:09:14.399] [Download] 5b068815040393ad89b574042ded0b867897cc9e 3413#：开始，起始点 0，https://download.mcbbs.net/assets/5b/5b068815040393ad89b574042ded0b867897cc9e
+[16:09:14.399] [Download] 371479bc53dd6ed46b01b55c0df92773840cca77：文件大小 397049 B（388 K）
+[16:09:14.399] [Download] 7e13e5d0749e5910e17202bfcbfff1b46acd40a7：文件大小 354706 B（346 K）
+[16:09:14.415] [Download] 9d1b6140aae336c48c3cb3d42b33211d1826a00a：文件大小 372081 B（363 K）
+[16:09:14.415] [Download] ab49d96f2d3ba34d672335c390a4af595deb3900：已完成，剩余文件 255
+[16:09:14.415] [Download] 8ec6acb504876d1ecf634dc2f54906295e8a3bbc：已完成，剩余文件 254
+[16:09:14.415] [Download] 5b068815040393ad89b574042ded0b867897cc9e：文件大小 415304 B（406 K）
+[16:09:14.415] [Download] 0e9f5e314f46740b59eb9dde34be214bd2b96aa6：文件大小 345186 B（337 K）
+[16:09:14.415] [Download] e197eeafe8d9693e1ec4d734953e906ae9d1e393：文件大小 397496 B（388 K）
+[16:09:14.446] [Download] eaf9a5de1ae562c1641f1092dca78d97ca16f91a：文件大小 898684 B（878 K）
+[16:09:14.446] [Download] e8e9b18111e6da86e094aed5fc711f25ef602b15：文件大小 364484 B（356 K）
+[16:09:14.525] [Download] dcf467f22ed86cfc1775bc03636a9b460d50acce 3415#：开始，起始点 0，https://download.mcbbs.net/assets/dc/dcf467f22ed86cfc1775bc03636a9b460d50acce
+[16:09:14.525] [Download] e9a2f51947dc537469133c6287c78d4d2f2b2b58 3414#：开始，起始点 0，https://download.mcbbs.net/assets/e9/e9a2f51947dc537469133c6287c78d4d2f2b2b58
+[16:09:14.525] [Download] 4c6ca9a8afe226d796df98de6b44a6bb9bfe6457：已完成，剩余文件 253
+[16:09:14.540] [Download] dcf467f22ed86cfc1775bc03636a9b460d50acce：文件大小 376542 B（368 K）
+[16:09:14.540] [Download] e9a2f51947dc537469133c6287c78d4d2f2b2b58：文件大小 373906 B（365 K）
+[16:09:14.540] [Download] d1332060277623bf6f60249fd32c79fb24863507：已完成，剩余文件 252
+[16:09:14.588] [Download] ForgeInstall-43.2.0_23228：已完成，剩余文件 251
+[16:09:14.588] [Loader] 加载器 下载 Mod 加载器主文件 状态改变：Finished
+[16:09:14.588] [Loader] 加载器 分析 Mod 加载器支持库文件 状态改变：Loading
+[16:09:14.603] [Download] 需要 Mappings 下载信息，开始获取原版 Json 文件
+[16:09:14.603] [Loader] 加载器 源码获取 3429# 状态改变：Loading
+[16:09:14.619] [Download] a20b6d705e7e281276b3d2aa3c46ae0facd97b40：文件大小 388997 B（380 K）
+[16:09:14.650] [Download] 5de299f4985808174431103d6801f6b1bb6695cb 3432#：开始，起始点 0，https://download.mcbbs.net/assets/5d/5de299f4985808174431103d6801f6b1bb6695cb
+[16:09:14.650] [Download] 09dcd0a0f7313920d433da26b26d9bb451f24594 3433#：开始，起始点 0，https://download.mcbbs.net/assets/09/09dcd0a0f7313920d433da26b26d9bb451f24594
+[16:09:14.650] [Download] 84b4f8825efc355e065e0ca0e4f030b4f7d5776f：文件大小 346477 B（338 K）
+[16:09:14.672] [Download] 5de299f4985808174431103d6801f6b1bb6695cb：文件大小 832865 B（813 K）
+[16:09:14.754] [Download] 6a972ba675028c468f7f7ab12985072f3b9e4c89：已完成，剩余文件 251
+[16:09:14.760] [Download] 343376122b2d8df819f24e578dde1099064c953e：已完成，剩余文件 250
+[16:09:14.776] [Download] bc567f09e45d400f3cea1ba71e2797c5d29de860 3434#：开始，起始点 0，https://download.mcbbs.net/assets/bc/bc567f09e45d400f3cea1ba71e2797c5d29de860
+[16:09:14.776] [Download] c95cf8797dcabe76801378eeb907762570fc290e 3435#：开始，起始点 0，https://download.mcbbs.net/assets/c9/c95cf8797dcabe76801378eeb907762570fc290e
+[16:09:14.776] [Download] 2bcb416d7e9257e8afa2d0d80d0e58a4dc5f5c90 3436#：开始，起始点 0，https://download.mcbbs.net/assets/2b/2bcb416d7e9257e8afa2d0d80d0e58a4dc5f5c90
+[16:09:14.788] [Download] 874a9ab90f86db3043da9c62fc53812c95333114：已完成，剩余文件 249
+[16:09:14.790] [Download] 6714e3f227a091e8d4f9657bc8e9f3a49fe5a9ae：已完成，剩余文件 248
+[16:09:14.793] [Download] c95cf8797dcabe76801378eeb907762570fc290e：文件大小 804692 B（786 K）
+[16:09:14.793] [Download] e59ec638c80192c7521d7c4193c2e9f927cc9d3f：已完成，剩余文件 247
+[16:09:14.793] [Download] 2bcb416d7e9257e8afa2d0d80d0e58a4dc5f5c90：文件大小 359452 B（351 K）
+[16:09:14.808] [Download] bc567f09e45d400f3cea1ba71e2797c5d29de860：文件大小 363573 B（355 K）
+[16:09:14.855] [Download] 09dcd0a0f7313920d433da26b26d9bb451f24594：文件大小 583647 B（570 K）
+[16:09:14.855] [Download] 9d1b6140aae336c48c3cb3d42b33211d1826a00a：已完成，剩余文件 246
+[16:09:14.902] [Download] bd8d9eb633220c4da979ca37fc998cd436a7e509 3437#：开始，起始点 0，https://download.mcbbs.net/assets/bd/bd8d9eb633220c4da979ca37fc998cd436a7e509
+[16:09:14.902] [Download] 576dd67b533a55aadecfebf457f2cad110262487 3438#：开始，起始点 0，https://download.mcbbs.net/assets/57/576dd67b533a55aadecfebf457f2cad110262487
+[16:09:14.902] [Download] c13e3ecdfa6d6a088e7dc0beea1f66177f96fbda 3439#：开始，起始点 0，https://download.mcbbs.net/assets/c1/c13e3ecdfa6d6a088e7dc0beea1f66177f96fbda
+[16:09:14.902] [Download] 56651a6769accbed0489df7a39e728294ee73805：已完成，剩余文件 245
+[16:09:14.919] [Download] bd8d9eb633220c4da979ca37fc998cd436a7e509：文件大小 282542 B（276 K）
+[16:09:14.919] [Download] 576dd67b533a55aadecfebf457f2cad110262487：文件大小 527498 B（515 K）
+[16:09:14.919] [Download] e9a2f51947dc537469133c6287c78d4d2f2b2b58：已完成，剩余文件 244
+[16:09:14.946] [Download] c13e3ecdfa6d6a088e7dc0beea1f66177f96fbda：文件大小 377193 B（368 K）
+[16:09:14.985] [Download] d11e43d75e4d3c4df691a7fbcdcece8762b8fc2b：已完成，剩余文件 243
+[16:09:15.029] [Download] bb6d6921159cfa25c59aeb683f4923ad364815c6 3441#：开始，起始点 0，https://download.mcbbs.net/assets/bb/bb6d6921159cfa25c59aeb683f4923ad364815c6
+[16:09:15.029] [Download] 8d7602a60933c8e1a2ad2ea4b89bda88c2458683 3440#：开始，起始点 0，https://download.mcbbs.net/assets/8d/8d7602a60933c8e1a2ad2ea4b89bda88c2458683
+[16:09:15.029] [Download] 26140f17859bea6ab4e71e6e11def1d2e00d43f8 3442#：开始，起始点 0，https://download.mcbbs.net/assets/26/26140f17859bea6ab4e71e6e11def1d2e00d43f8
+[16:09:15.044] [Download] 26140f17859bea6ab4e71e6e11def1d2e00d43f8：文件大小 266593 B（260 K）
+[16:09:15.044] [Download] dcf467f22ed86cfc1775bc03636a9b460d50acce：已完成，剩余文件 242
+[16:09:15.044] [Download] bb6d6921159cfa25c59aeb683f4923ad364815c6：文件大小 378695 B（370 K）
+[16:09:15.044] [Download] 8d7602a60933c8e1a2ad2ea4b89bda88c2458683：文件大小 376492 B（368 K）
+[16:09:15.076] [Download] 1feb1fc52924a7e8db7815b24b422eeaf3bebe0a：文件大小 376797 B（368 K）
+[16:09:15.154] [Download] 6309046c49ff1efc702568c32efb14207c795210 3443#：开始，起始点 0，https://download.mcbbs.net/assets/63/6309046c49ff1efc702568c32efb14207c795210
+[16:09:15.202] [Download] 5b068815040393ad89b574042ded0b867897cc9e：已完成，剩余文件 241
+[16:09:15.202] [Download] 0e9f5e314f46740b59eb9dde34be214bd2b96aa6：已完成，剩余文件 240
+[16:09:15.217] [Download] 294570159e6eed0db6db8e492298a0bd62733097：文件大小 373549 B（365 K）
+[16:09:15.229] [Download] 6309046c49ff1efc702568c32efb14207c795210：文件大小 359285 B（351 K）
+[16:09:15.233] [Download] a93f16193c7f99f93430ef32b9af94692c06f254：已完成，剩余文件 239
+[16:09:15.235] [Download] 4a7ff915695571a322df6125f063dfa245c79c24：已完成，剩余文件 238
+[16:09:15.281] [Download] 28f39271dd9bc4d7860143bdebf8b81b811d5f27 3444#：开始，起始点 0，https://download.mcbbs.net/assets/28/28f39271dd9bc4d7860143bdebf8b81b811d5f27
+[16:09:15.281] [Download] 2308a8649ca3367404e064286748003338d57beb 3445#：开始，起始点 0，https://download.mcbbs.net/assets/23/2308a8649ca3367404e064286748003338d57beb
+[16:09:15.281] [Download] ed61bd9edb3716a1915c8c71929e36ab0d862682 3446#：开始，起始点 0，https://download.mcbbs.net/assets/ed/ed61bd9edb3716a1915c8c71929e36ab0d862682
+[16:09:15.281] [Download] e4cd21e4cf18f4fb6147efafbda651eb9f7577f6 3447#：开始，起始点 0，https://download.mcbbs.net/assets/e4/e4cd21e4cf18f4fb6147efafbda651eb9f7577f6
+[16:09:15.289] [Download] d62e09b5610d45751373fca6970ccef3c4628b03：已完成，剩余文件 237
+[16:09:15.297] [Download] 2308a8649ca3367404e064286748003338d57beb：文件大小 913161 B（892 K）
+[16:09:15.297] [Download] e4cd21e4cf18f4fb6147efafbda651eb9f7577f6：文件大小 883570 B（863 K）
+[16:09:15.297] [Download] 28f39271dd9bc4d7860143bdebf8b81b811d5f27：文件大小 362896 B（354 K）
+[16:09:15.312] [Download] ed61bd9edb3716a1915c8c71929e36ab0d862682：文件大小 372060 B（363 K）
+[16:09:15.407] [Download] b4a32ad9163d64aa7ad836e309dbdc27fc38234c 3451#：开始，起始点 0，https://download.mcbbs.net/assets/b4/b4a32ad9163d64aa7ad836e309dbdc27fc38234c
+[16:09:15.423] [Download] b4a32ad9163d64aa7ad836e309dbdc27fc38234c：文件大小 397540 B（388 K）
+[16:09:15.470] [Download] c13e3ecdfa6d6a088e7dc0beea1f66177f96fbda：已完成，剩余文件 236
+[16:09:15.501] [Download] 2bcb416d7e9257e8afa2d0d80d0e58a4dc5f5c90：已完成，剩余文件 235
+[16:09:15.532] [Download] 11b53f03de55300492f89e3b9dacba8d44aefbc8 3453#：开始，起始点 0，https://download.mcbbs.net/assets/11/11b53f03de55300492f89e3b9dacba8d44aefbc8
+[16:09:15.532] [Download] 1e5ce45248b28cfd09b761b757e469424fa09846 3454#：开始，起始点 0，https://download.mcbbs.net/assets/1e/1e5ce45248b28cfd09b761b757e469424fa09846
+[16:09:15.532] [Download] a84c7b31c4ea3965e976f9d6d8abf10834eb88e2 3455#：开始，起始点 0，https://download.mcbbs.net/assets/a8/a84c7b31c4ea3965e976f9d6d8abf10834eb88e2
+[16:09:15.532] [Download] f055de6e8d7bf3f99fb38dbe6948fb63ca12ee48：已完成，剩余文件 234
+[16:09:15.544] [Download] 26140f17859bea6ab4e71e6e11def1d2e00d43f8：已完成，剩余文件 233
+[16:09:15.548] [Download] a84c7b31c4ea3965e976f9d6d8abf10834eb88e2：文件大小 886219 B（865 K）
+[16:09:15.564] [Download] 速度下限已提升到 10.3 M
+[16:09:15.580] [Download] 11b53f03de55300492f89e3b9dacba8d44aefbc8：文件大小 408896 B（399 K）
+[16:09:15.580] [Download] bd8d9eb633220c4da979ca37fc998cd436a7e509：已完成，剩余文件 232
+[16:09:15.580] [Download] 1e5ce45248b28cfd09b761b757e469424fa09846：文件大小 385501 B（376 K）
+[16:09:15.658] [Download] 59d56a946ab13ecba3eb192fdb90bc648706e78d 3456#：开始，起始点 0，https://download.mcbbs.net/assets/59/59d56a946ab13ecba3eb192fdb90bc648706e78d
+[16:09:15.658] [Download] ee47499596ce0b9042d7182ca132c97b76275201 3457#：开始，起始点 0，https://download.mcbbs.net/assets/ee/ee47499596ce0b9042d7182ca132c97b76275201
+[16:09:15.674] [Download] 59d56a946ab13ecba3eb192fdb90bc648706e78d：文件大小 944629 B（922 K）
+[16:09:15.679] [Download] ee47499596ce0b9042d7182ca132c97b76275201：文件大小 366742 B（358 K）
+[16:09:15.706] [Download] 576dd67b533a55aadecfebf457f2cad110262487：已完成，剩余文件 231
+[16:09:15.785] [Download] 812f6703a08a98b5d805447126573872a0f4ef0d 3458#：开始，起始点 0，https://download.mcbbs.net/assets/81/812f6703a08a98b5d805447126573872a0f4ef0d
+[16:09:15.810] [Download] 812f6703a08a98b5d805447126573872a0f4ef0d：文件大小 375696 B（367 K）
+[16:09:15.816] [Download] 8d7602a60933c8e1a2ad2ea4b89bda88c2458683：已完成，剩余文件 230
+[16:09:15.820] [Download] 6309046c49ff1efc702568c32efb14207c795210：已完成，剩余文件 229
+[16:09:15.821] [Download] bb6d6921159cfa25c59aeb683f4923ad364815c6：已完成，剩余文件 228
+[16:09:15.832] [Download] 321392d121f2d7ce4ea38dcb3eacc0130d5474f8：已完成，剩余文件 227
+[16:09:15.911] [Download] 075be482936a7dfdae42320725d6ab70f2baec24 3460#：开始，起始点 0，https://download.mcbbs.net/assets/07/075be482936a7dfdae42320725d6ab70f2baec24
+[16:09:15.911] [Download] 17dfeedf432e0f7c52c800271ec0f167a96ac5ef 3461#：开始，起始点 0，https://download.mcbbs.net/assets/17/17dfeedf432e0f7c52c800271ec0f167a96ac5ef
+[16:09:15.911] [Download] 721654ab9408419f263434f43ee82a2e8794fccb 3462#：开始，起始点 0，https://download.mcbbs.net/assets/72/721654ab9408419f263434f43ee82a2e8794fccb
+[16:09:15.912] [Download] 9ac35142dbf5ab135d3da0a91fcf096b2b9171fb 3463#：开始，起始点 0，https://download.mcbbs.net/assets/9a/9ac35142dbf5ab135d3da0a91fcf096b2b9171fb
+[16:09:15.927] [Download] 721654ab9408419f263434f43ee82a2e8794fccb：文件大小 361115 B（353 K）
+[16:09:15.927] [Download] 9ac35142dbf5ab135d3da0a91fcf096b2b9171fb：文件大小 356806 B（348 K）
+[16:09:15.927] [Download] 075be482936a7dfdae42320725d6ab70f2baec24：文件大小 358854 B（350 K）
+[16:09:15.963] [Download] bc567f09e45d400f3cea1ba71e2797c5d29de860：已完成，剩余文件 226
+[16:09:15.965] [Download] 17dfeedf432e0f7c52c800271ec0f167a96ac5ef：文件大小 821150 B（802 K）
+[16:09:16.021] [Download] 66fc657d0895ed025de8e9637b6317621435e8ad 3464#：开始，起始点 0，https://download.mcbbs.net/assets/66/66fc657d0895ed025de8e9637b6317621435e8ad
+[16:09:16.053] [Download] 66fc657d0895ed025de8e9637b6317621435e8ad：文件大小 360176 B（352 K）
+[16:09:16.120] [Download] 7e13e5d0749e5910e17202bfcbfff1b46acd40a7：已完成，剩余文件 225
+[16:09:16.123] [Download] 28f39271dd9bc4d7860143bdebf8b81b811d5f27：已完成，剩余文件 224
+[16:09:16.148] [Download] 97131d8b3ac3027bada6cd41e49d6afa26d08cb8 3465#：开始，起始点 0，https://download.mcbbs.net/assets/97/97131d8b3ac3027bada6cd41e49d6afa26d08cb8
+[16:09:16.148] [Download] 56103590543b46f90c02c804d7a6de16ffc28eed 3466#：开始，起始点 0，https://download.mcbbs.net/assets/56/56103590543b46f90c02c804d7a6de16ffc28eed
+[16:09:16.163] [Download] 97131d8b3ac3027bada6cd41e49d6afa26d08cb8：文件大小 388773 B（380 K）
+[16:09:16.179] [Download] 56103590543b46f90c02c804d7a6de16ffc28eed：文件大小 400711 B（391 K）
+[16:09:16.295] [Download] ed61bd9edb3716a1915c8c71929e36ab0d862682：已完成，剩余文件 223
+[16:09:16.295] [Download] d45d893a026dcba8f54ac8ae9762d49b51165105：已完成，剩余文件 222
+[16:09:16.401] [Download] c77a8ae1494e430323b620912c6d81adf5f4a5d0 3468#：开始，起始点 0，https://download.mcbbs.net/assets/c7/c77a8ae1494e430323b620912c6d81adf5f4a5d0
+[16:09:16.401] [Download] 5731bb18d3962fa74a42540ecdf921f9447ec005 3467#：开始，起始点 0，https://download.mcbbs.net/assets/57/5731bb18d3962fa74a42540ecdf921f9447ec005
+[16:09:16.416] [Download] 5731bb18d3962fa74a42540ecdf921f9447ec005：文件大小 344174 B（336 K）
+[16:09:16.480] [Download] c77a8ae1494e430323b620912c6d81adf5f4a5d0：文件大小 399957 B（391 K）
+[16:09:16.496] [Download] 264d86528d105fb83a7373aed97041f9394125a7：已完成，剩余文件 221
+[16:09:16.510] [Download] b4a32ad9163d64aa7ad836e309dbdc27fc38234c：已完成，剩余文件 220
+[16:09:16.527] [Download] 3a5f7e8f28faaf71c68c60b5ae195e93c9d9b63d 3476#：开始，起始点 0，https://download.mcbbs.net/assets/3a/3a5f7e8f28faaf71c68c60b5ae195e93c9d9b63d
+[16:09:16.527] [Download] 003871a8e427a56337bf46a5d08338a7d6250b2a 3477#：开始，起始点 0，https://download.mcbbs.net/assets/00/003871a8e427a56337bf46a5d08338a7d6250b2a
+[16:09:16.545] [Download] 3a5f7e8f28faaf71c68c60b5ae195e93c9d9b63d：文件大小 852029 B（832 K）
+[16:09:16.545] [Download] e8e9b18111e6da86e094aed5fc711f25ef602b15：已完成，剩余文件 219
+[16:09:16.590] [Download] 003871a8e427a56337bf46a5d08338a7d6250b2a：文件大小 423941 B（414 K）
+[16:09:16.652] [Download] 153173edd8d44158108b4487641a9b2522f0c613 3479#：开始，起始点 0，https://download.mcbbs.net/assets/15/153173edd8d44158108b4487641a9b2522f0c613
+[16:09:16.684] [Download] 153173edd8d44158108b4487641a9b2522f0c613：文件大小 400136 B（391 K）
+[16:09:16.699] [Download] a20b6d705e7e281276b3d2aa3c46ae0facd97b40：已完成，剩余文件 218
+[16:09:16.699] [Download] 2fbe1c49c7b8ea523dd0013475cfb6c95527a17f：已完成，剩余文件 217
+[16:09:16.699] [Download] 371479bc53dd6ed46b01b55c0df92773840cca77：已完成，剩余文件 216
+[16:09:16.746] [Download] 6b5ff13f07f032baa713300d28cb6c5b2401efa2：已完成，剩余文件 215
+[16:09:16.746] [Download] 1e5ce45248b28cfd09b761b757e469424fa09846：已完成，剩余文件 214
+[16:09:16.778] [Download] e09e40430a29bd8d60f01d60be57a8a566a202a3 3481#：开始，起始点 0，https://download.mcbbs.net/assets/e0/e09e40430a29bd8d60f01d60be57a8a566a202a3
+[16:09:16.778] [Download] 09eed4386d27128cde4765965b68ee2e44a2dfec 3482#：开始，起始点 0，https://download.mcbbs.net/assets/09/09eed4386d27128cde4765965b68ee2e44a2dfec
+[16:09:16.778] [Download] 4f16c4a5f0c71757d82fb7c179b2b1efb1873b57 3484#：开始，起始点 0，https://download.mcbbs.net/assets/4f/4f16c4a5f0c71757d82fb7c179b2b1efb1873b57
+[16:09:16.778] [Download] c14f5ab8ef68299fc30585026c3ae7946ca3a154 3483#：开始，起始点 0，https://download.mcbbs.net/assets/c1/c14f5ab8ef68299fc30585026c3ae7946ca3a154
+[16:09:16.778] [Download] 55108758c17018cbbda29641c8cb840a3d31e999 3485#：开始，起始点 0，https://download.mcbbs.net/assets/55/55108758c17018cbbda29641c8cb840a3d31e999
+[16:09:16.793] [Download] 294570159e6eed0db6db8e492298a0bd62733097：已完成，剩余文件 213
+[16:09:16.793] [Download] 55108758c17018cbbda29641c8cb840a3d31e999：文件大小 267166 B（261 K）
+[16:09:16.793] [Download] 4f16c4a5f0c71757d82fb7c179b2b1efb1873b57：文件大小 371695 B（363 K）
+[16:09:16.809] [Download] c14f5ab8ef68299fc30585026c3ae7946ca3a154：文件大小 382120 B（373 K）
+[16:09:16.819] [Download] 0ba334de9bca297d2806f2bb37a68214aaccf116：已完成，剩余文件 212
+[16:09:16.826] [Download] e09e40430a29bd8d60f01d60be57a8a566a202a3：文件大小 876770 B（856 K）
+[16:09:16.829] [Download] 09eed4386d27128cde4765965b68ee2e44a2dfec：文件大小 415141 B（405 K）
+[16:09:16.853] [Download] 88dc4f9963aa1cda2cfd5b2fd10d6546a89d15ef：已完成，剩余文件 211
+[16:09:16.853] [Download] 9665c832266ccd9dbf6d109cedd22727858494ef：已完成，剩余文件 210
+[16:09:16.861] [Download] 09dcd0a0f7313920d433da26b26d9bb451f24594：已完成，剩余文件 209
+[16:09:16.875] [Download] d938e0743c4ab0b67796895dcfbd3fcde28dc978：已完成，剩余文件 208
+[16:09:16.904] [Download] ce222bc81ed6f618c984c925c3342eb821e5ffee 3488#：开始，起始点 0，https://download.mcbbs.net/assets/ce/ce222bc81ed6f618c984c925c3342eb821e5ffee
+[16:09:16.904] [Download] 7491a606ad58b1a623069e09630f896ae6ae5f3b 3489#：开始，起始点 0，https://download.mcbbs.net/assets/74/7491a606ad58b1a623069e09630f896ae6ae5f3b
+[16:09:16.904] [Download] 924e04818728a03d18f59f2a6375e8f3c8c244ec 3490#：开始，起始点 0，https://download.mcbbs.net/assets/92/924e04818728a03d18f59f2a6375e8f3c8c244ec
+[16:09:16.904] [Download] 309d513ed7e253e1bb519ea243a8f1c81e56b870 3491#：开始，起始点 0，https://download.mcbbs.net/assets/30/309d513ed7e253e1bb519ea243a8f1c81e56b870
+[16:09:16.904] [Download] d21a4fd78ab3b18c74a24530d46fe98d2136a049 3492#：开始，起始点 0，https://download.mcbbs.net/assets/d2/d21a4fd78ab3b18c74a24530d46fe98d2136a049
+[16:09:16.904] [Download] e8fc3bc2def1ac52ee30fcae707b7b6a0559bb28 3493#：开始，起始点 0，https://download.mcbbs.net/assets/e8/e8fc3bc2def1ac52ee30fcae707b7b6a0559bb28
+[16:09:16.920] [Download] 309d513ed7e253e1bb519ea243a8f1c81e56b870：文件大小 504320 B（492 K）
+[16:09:16.920] [Download] 924e04818728a03d18f59f2a6375e8f3c8c244ec：文件大小 378958 B（370 K）
+[16:09:16.920] [Download] 7491a606ad58b1a623069e09630f896ae6ae5f3b：文件大小 384665 B（376 K）
+[16:09:16.920] [Download] d21a4fd78ab3b18c74a24530d46fe98d2136a049：文件大小 419151 B（409 K）
+[16:09:16.936] [Download] 0df1022b9bb1ff2e1291dad9cc2344d849ddcb22：已完成，剩余文件 207
+[16:09:16.949] [Download] bc743503a9b0ba1b4f1eda33acda41a781953f85：已完成，剩余文件 206
+[16:09:16.949] [Download] ce222bc81ed6f618c984c925c3342eb821e5ffee：文件大小 841402 B（822 K）
+[16:09:16.951] [Download] 8336e6d043ddb1c0f4732582dc13124a5ec8bd14：已完成，剩余文件 205
+[16:09:16.969] [Download] c95cf8797dcabe76801378eeb907762570fc290e：已完成，剩余文件 204
+[16:09:16.983] [Download] e8fc3bc2def1ac52ee30fcae707b7b6a0559bb28：文件大小 363281 B（355 K）
+[16:09:17.006] [Download] 5de299f4985808174431103d6801f6b1bb6695cb：已完成，剩余文件 203
+[16:09:17.031] [Download] c2edf0c61913e0351087ab0beb002820b0bdfa52 3496#：开始，起始点 0，https://download.mcbbs.net/assets/c2/c2edf0c61913e0351087ab0beb002820b0bdfa52
+[16:09:17.031] [Download] 4a7b45a8f9a62d3d03b1cdf95869fe30e5cc6ca6 3495#：开始，起始点 0，https://download.mcbbs.net/assets/4a/4a7b45a8f9a62d3d03b1cdf95869fe30e5cc6ca6
+[16:09:17.031] [Download] 0c1e15b0c2e32d698fbdafe47f09c90976126542 3497#：开始，起始点 0，https://download.mcbbs.net/assets/0c/0c1e15b0c2e32d698fbdafe47f09c90976126542
+[16:09:17.031] [Download] ed480c6848c5d66cada0ced44a623ef1fa32b9d3 3498#：开始，起始点 0，https://download.mcbbs.net/assets/ed/ed480c6848c5d66cada0ced44a623ef1fa32b9d3
+[16:09:17.031] [Download] 5c26e976b740537457aafe2b06483b609c5c9217 3499#：开始，起始点 0，https://download.mcbbs.net/assets/5c/5c26e976b740537457aafe2b06483b609c5c9217
+[16:09:17.031] [Download] 6017b341f38ee9dae4bc9a320af865e083b1caaa 3500#：开始，起始点 0，https://download.mcbbs.net/assets/60/6017b341f38ee9dae4bc9a320af865e083b1caaa
+[16:09:17.031] [Download] 9ac35142dbf5ab135d3da0a91fcf096b2b9171fb：已完成，剩余文件 202
+[16:09:17.046] [Download] 5c26e976b740537457aafe2b06483b609c5c9217：文件大小 442140 B（432 K）
+[16:09:17.046] [Download] ed480c6848c5d66cada0ced44a623ef1fa32b9d3：文件大小 872915 B（852 K）
+[16:09:17.046] [Download] c14c64258936d68f8edbd02cd8cb9dc35501e12d：已完成，剩余文件 201
+[16:09:17.062] [Download] 6017b341f38ee9dae4bc9a320af865e083b1caaa：文件大小 440846 B（431 K）
+[16:09:17.078] [Download] 075be482936a7dfdae42320725d6ab70f2baec24：已完成，剩余文件 200
+[16:09:17.078] [Control] 按下单选按钮：启动
+[16:09:17.078] [Control] 切换主要页面：Launch, -1
+[16:09:17.094] [Download] 4a7b45a8f9a62d3d03b1cdf95869fe30e5cc6ca6：文件大小 784802 B（766 K）
+[16:09:17.094] [Download] c2edf0c61913e0351087ab0beb002820b0bdfa52：文件大小 367849 B（359 K）
+[16:09:17.094] [Download] b793543a285be4f1e901db2b016577f680858f68：已完成，剩余文件 199
+[16:09:17.094] [Download] 0c1e15b0c2e32d698fbdafe47f09c90976126542：文件大小 439496 B（429 K）
+[16:09:17.140] [Download] 721654ab9408419f263434f43ee82a2e8794fccb：已完成，剩余文件 198
+[16:09:17.141] [Download] 2ab93e8b767cdafec68b36c3e30c4ef37873530c：已完成，剩余文件 197
+[16:09:17.156] [Download] 1feb1fc52924a7e8db7815b24b422eeaf3bebe0a：已完成，剩余文件 196
+[16:09:17.157] [Download] 79d0a37f47ec935fc2dbc54752bbee41a890d8e1 3509#：开始，起始点 0，https://download.mcbbs.net/assets/79/79d0a37f47ec935fc2dbc54752bbee41a890d8e1
+[16:09:17.157] [Download] d35ff3803e264365262935f5c6d384fd3ae58b08 3510#：开始，起始点 0，https://download.mcbbs.net/assets/d3/d35ff3803e264365262935f5c6d384fd3ae58b08
+[16:09:17.157] [Download] 011cf0d5b4015b52129caa98c7c4a35ea7a795ed 3511#：开始，起始点 0，https://download.mcbbs.net/assets/01/011cf0d5b4015b52129caa98c7c4a35ea7a795ed
+[16:09:17.157] [Download] a1daff5daa55f870c29becece97fc88e3da0b18e 3512#：开始，起始点 0，https://download.mcbbs.net/assets/a1/a1daff5daa55f870c29becece97fc88e3da0b18e
+[16:09:17.157] [Download] e956e0986b597ec1b7d1db720dc8aec3a0642630 3513#：开始，起始点 0，https://download.mcbbs.net/assets/e9/e956e0986b597ec1b7d1db720dc8aec3a0642630
+[16:09:17.157] [Download] d11ce21cc8a280448e9c12a28406583127809b79 3514#：开始，起始点 0，https://download.mcbbs.net/assets/d1/d11ce21cc8a280448e9c12a28406583127809b79
+[16:09:17.172] [Download] d11ce21cc8a280448e9c12a28406583127809b79：文件大小 6427 B（6.28 K）
+[16:09:17.176] [Download] 011cf0d5b4015b52129caa98c7c4a35ea7a795ed：文件大小 6363 B（6.21 K）
+[16:09:17.176] [Download] a1daff5daa55f870c29becece97fc88e3da0b18e：文件大小 412960 B（403 K）
+[16:09:17.176] [Download] 79d0a37f47ec935fc2dbc54752bbee41a890d8e1：文件大小 776485 B（758 K）
+[16:09:17.176] [Download] d11ce21cc8a280448e9c12a28406583127809b79：已完成，剩余文件 195
+[16:09:17.176] [Download] d35ff3803e264365262935f5c6d384fd3ae58b08：文件大小 1502181 B（1.43 M）
+[16:09:17.176] [Download] e956e0986b597ec1b7d1db720dc8aec3a0642630：文件大小 841529 B（822 K）
+[16:09:17.188] [Download] 011cf0d5b4015b52129caa98c7c4a35ea7a795ed：已完成，剩余文件 194
+[16:09:17.251] [Download] c05053d80edeaa1840bc2dac3c0f96c8c666bd2a：已完成，剩余文件 193
+[16:09:17.282] [Download] 10d2bc498bffd73e0f120ba3eb336953db05c713 3534#：开始，起始点 0，https://download.mcbbs.net/assets/10/10d2bc498bffd73e0f120ba3eb336953db05c713
+[16:09:17.282] [Download] 5c44e7a8da8afddd9220121ba76ec1badebb56c3 3533#：开始，起始点 0，https://download.mcbbs.net/assets/5c/5c44e7a8da8afddd9220121ba76ec1badebb56c3
+[16:09:17.282] [Download] 96084ab7c8b613de3570318e9dca9f9107e3912f 3535#：开始，起始点 0，https://download.mcbbs.net/assets/96/96084ab7c8b613de3570318e9dca9f9107e3912f
+[16:09:17.298] [Download] 96084ab7c8b613de3570318e9dca9f9107e3912f：文件大小 16103 B（15.7 K）
+[16:09:17.314] [Download] 10d2bc498bffd73e0f120ba3eb336953db05c713：文件大小 983688 B（961 K）
+[16:09:17.345] [Download] 5c44e7a8da8afddd9220121ba76ec1badebb56c3：文件大小 7320 B（7.15 K）
+[16:09:17.370] [Download] 84b4f8825efc355e065e0ca0e4f030b4f7d5776f：已完成，剩余文件 192
+[16:09:17.377] [Download] 6e05440e88376b5a43608e3cebcc6d229852884c：已完成，剩余文件 191
+[16:09:17.399] [Download] c202b3923d34073866da282459f751491ba4e8a2：已完成，剩余文件 190
+[16:09:17.408] [Download] e11e318343cc7dad5d1ffd7f73b64a38c8efd307 3536#：开始，起始点 0，https://download.mcbbs.net/assets/e1/e11e318343cc7dad5d1ffd7f73b64a38c8efd307
+[16:09:17.408] [Download] 2a90d96c42860d179a6647e857e68d9ff3c4122c 3537#：开始，起始点 0，https://download.mcbbs.net/assets/2a/2a90d96c42860d179a6647e857e68d9ff3c4122c
+[16:09:17.408] [Download] 70ae9c314c2c280af94a08c2403801e120ee4b3c 3538#：开始，起始点 0，https://download.mcbbs.net/assets/70/70ae9c314c2c280af94a08c2403801e120ee4b3c
+[16:09:17.424] [Download] e11e318343cc7dad5d1ffd7f73b64a38c8efd307：文件大小 787743 B（769 K）
+[16:09:17.424] [Download] 5c44e7a8da8afddd9220121ba76ec1badebb56c3：已完成，剩余文件 189
+[16:09:17.430] [Download] 56103590543b46f90c02c804d7a6de16ffc28eed：已完成，剩余文件 188
+[16:09:17.440] [Download] 70ae9c314c2c280af94a08c2403801e120ee4b3c：文件大小 699799 B（683 K）
+[16:09:17.476] [Download] 2a90d96c42860d179a6647e857e68d9ff3c4122c：文件大小 16047 B（15.7 K）
+[16:09:17.495] [Download] ee47499596ce0b9042d7182ca132c97b76275201：已完成，剩余文件 187
+[16:09:17.518] [Download] 2a90d96c42860d179a6647e857e68d9ff3c4122c：已完成，剩余文件 186
+[16:09:17.533] [Download] 7f13e0926abdaabfd578894be4b46a83a909a2fe 3539#：开始，起始点 0，https://download.mcbbs.net/assets/7f/7f13e0926abdaabfd578894be4b46a83a909a2fe
+[16:09:17.533] [Download] 83cd04b0b3cdc335a51f1fda759c765e42f1415f 3540#：开始，起始点 0，https://download.mcbbs.net/assets/83/83cd04b0b3cdc335a51f1fda759c765e42f1415f
+[16:09:17.533] [Download] e6b344b76e04ca1d8beb47b6577e2eb7a385ed41 3542#：开始，起始点 0，https://download.mcbbs.net/assets/e6/e6b344b76e04ca1d8beb47b6577e2eb7a385ed41
+[16:09:17.533] [Download] 9519c93477a4394b4ceaaa0f856c7fdd7babd834 3541#：开始，起始点 0，https://download.mcbbs.net/assets/95/9519c93477a4394b4ceaaa0f856c7fdd7babd834
+[16:09:17.533] [Download] fc2e7d9dcbd71d08515a82da1bdc79005da299f5 3543#：开始，起始点 0，https://download.mcbbs.net/assets/fc/fc2e7d9dcbd71d08515a82da1bdc79005da299f5
+[16:09:17.533] [Download] 75ed12a3ca798031430c688b62e9e3ad1fd2b4c3：已完成，剩余文件 185
+[16:09:17.540] [Download] eed521b4e76263546af1e075b7cb434b8ee2068b：已完成，剩余文件 184
+[16:09:17.549] [Download] 7f13e0926abdaabfd578894be4b46a83a909a2fe：文件大小 19960 B（19.5 K）
+[16:09:17.554] [Download] 11b53f03de55300492f89e3b9dacba8d44aefbc8：已完成，剩余文件 183
+[16:09:17.565] [Download] e6b344b76e04ca1d8beb47b6577e2eb7a385ed41：文件大小 16304 B（15.9 K）
+[16:09:17.576] [Download] fc2e7d9dcbd71d08515a82da1bdc79005da299f5：文件大小 40893 B（39.9 K）
+[16:09:17.605] [Download] 994c5e3c27353eb77dee97e54762d78f0f0e5e63：已完成，剩余文件 182
+[16:09:17.612] [Download] 9519c93477a4394b4ceaaa0f856c7fdd7babd834：文件大小 66031 B（64.5 K）
+[16:09:17.612] [Download] 7f13e0926abdaabfd578894be4b46a83a909a2fe：已完成，剩余文件 181
+[16:09:17.628] [Download] e6b344b76e04ca1d8beb47b6577e2eb7a385ed41：已完成，剩余文件 180
+[16:09:17.659] [Download] 621d728698d4555b55f15b1c0d1b42d9d886bf71 3544#：开始，起始点 0，https://download.mcbbs.net/assets/62/621d728698d4555b55f15b1c0d1b42d9d886bf71
+[16:09:17.659] [Download] 9a5729d795b1edfeffaa99506983c8b279880fa9 3545#：开始，起始点 0，https://download.mcbbs.net/assets/9a/9a5729d795b1edfeffaa99506983c8b279880fa9
+[16:09:17.659] [Download] 0a884f3786db5a9600e3df34c453849da4f8a798 3547#：开始，起始点 0，https://download.mcbbs.net/assets/0a/0a884f3786db5a9600e3df34c453849da4f8a798
+[16:09:17.659] [Download] 2734be26ce05875ef04d8e2d9fdede5944d9ce5f 3546#：开始，起始点 0，https://download.mcbbs.net/assets/27/2734be26ce05875ef04d8e2d9fdede5944d9ce5f
+[16:09:17.659] [Download] e46d7f7c79af85eca73f3255450446a96c6ee4f3 3548#：开始，起始点 0，https://download.mcbbs.net/assets/e4/e46d7f7c79af85eca73f3255450446a96c6ee4f3
+[16:09:17.676] [Download] 9a5729d795b1edfeffaa99506983c8b279880fa9：文件大小 684521 B（668 K）
+[16:09:17.676] [Download] e46d7f7c79af85eca73f3255450446a96c6ee4f3：文件大小 35429 B（34.6 K）
+[16:09:17.676] [Download] 2734be26ce05875ef04d8e2d9fdede5944d9ce5f：文件大小 16246 B（15.9 K）
+[16:09:17.676] [Download] 621d728698d4555b55f15b1c0d1b42d9d886bf71：文件大小 40432 B（39.5 K）
+[16:09:17.676] [Download] 83cd04b0b3cdc335a51f1fda759c765e42f1415f：文件大小 39692 B（38.8 K）
+[16:09:17.676] [Download] 0a884f3786db5a9600e3df34c453849da4f8a798：文件大小 18975 B（18.5 K）
+[16:09:17.695] [Download] a5edbbc4ed009fa72c605d97340f35d8e41e6c33：已完成，剩余文件 179
+[16:09:17.723] [Download] 0a884f3786db5a9600e3df34c453849da4f8a798：已完成，剩余文件 178
+[16:09:17.738] [Download] cf88d5cc7768addcea27a2d0217e27128c69a580：已完成，剩余文件 177
+[16:09:17.741] [Download] a3c0890d6d14899b5efded7686fc36d47af0fa4c：已完成，剩余文件 176
+[16:09:17.754] [Download] bcdd6161a26273bae72fb4849aaf2a4216a360b6：已完成，剩余文件 175
+[16:09:17.776] [Download] 5a258f5ddfc55d5f1aa06d9d1e6ecb8c777886f1：已完成，剩余文件 174
+[16:09:17.786] [Download] 8cfde379664d1eade49c90bb85a2b8883dc70ef3 3549#：开始，起始点 0，https://download.mcbbs.net/assets/8c/8cfde379664d1eade49c90bb85a2b8883dc70ef3
+[16:09:17.786] [Download] b9711ded25fc398d77ab0286a665fb7f7ea34ae8 3550#：开始，起始点 0，https://download.mcbbs.net/assets/b9/b9711ded25fc398d77ab0286a665fb7f7ea34ae8
+[16:09:17.786] [Download] 536e0c2007d7eba53fbbb4bfb07e68a4d42474bf 3551#：开始，起始点 0，https://download.mcbbs.net/assets/53/536e0c2007d7eba53fbbb4bfb07e68a4d42474bf
+[16:09:17.786] [Download] 09b1789901e23513e0f4bd1baf6607756994f017 3552#：开始，起始点 0，https://download.mcbbs.net/assets/09/09b1789901e23513e0f4bd1baf6607756994f017
+[16:09:17.786] [Download] 186bc52af560ff1f2e05193f23f06919b36d99ae 3553#：开始，起始点 0，https://download.mcbbs.net/assets/18/186bc52af560ff1f2e05193f23f06919b36d99ae
+[16:09:17.786] [Download] 89d4fabe0ce4dfae1970b3aa31a871ae7fa9a4fe 3554#：开始，起始点 0，https://download.mcbbs.net/assets/89/89d4fabe0ce4dfae1970b3aa31a871ae7fa9a4fe
+[16:09:17.802] [Download] 8cfde379664d1eade49c90bb85a2b8883dc70ef3：文件大小 16634 B（16.2 K）
+[16:09:17.802] [Download] 89d4fabe0ce4dfae1970b3aa31a871ae7fa9a4fe：文件大小 19052 B（18.6 K）
+[16:09:17.802] [Download] 536e0c2007d7eba53fbbb4bfb07e68a4d42474bf：文件大小 16103 B（15.7 K）
+[16:09:17.802] [Download] 186bc52af560ff1f2e05193f23f06919b36d99ae：文件大小 16343 B（16 K）
+[16:09:17.818] [Download] b9711ded25fc398d77ab0286a665fb7f7ea34ae8：文件大小 15417 B（15.1 K）
+[16:09:17.837] [Download] 8e2b566d44e1656cc3e057e2a663a07a1c3fbec6：已完成，剩余文件 173
+[16:09:17.843] [Download] 8cfde379664d1eade49c90bb85a2b8883dc70ef3：已完成，剩余文件 172
+[16:09:17.843] [Download] 09b1789901e23513e0f4bd1baf6607756994f017：文件大小 16501 B（16.1 K）
+[16:09:17.843] [Download] 536e0c2007d7eba53fbbb4bfb07e68a4d42474bf：已完成，剩余文件 171
+[16:09:17.843] [Download] 55108758c17018cbbda29641c8cb840a3d31e999：已完成，剩余文件 170
+[16:09:17.852] [Download] 96084ab7c8b613de3570318e9dca9f9107e3912f：已完成，剩余文件 169
+[16:09:17.852] [Download] fc2e7d9dcbd71d08515a82da1bdc79005da299f5：已完成，剩余文件 168
+[16:09:17.867] [Download] e197eeafe8d9693e1ec4d734953e906ae9d1e393：已完成，剩余文件 167
+[16:09:17.881] [Download] 83cd04b0b3cdc335a51f1fda759c765e42f1415f：已完成，剩余文件 166
+[16:09:17.897] [Download] b9711ded25fc398d77ab0286a665fb7f7ea34ae8：已完成，剩余文件 165
+[16:09:17.897] [Download] 89d4fabe0ce4dfae1970b3aa31a871ae7fa9a4fe：已完成，剩余文件 164
+[16:09:17.913] [Download] e4292a4a7458731abcd7e4cadb65f32318101fbb 3557#：开始，起始点 0，https://download.mcbbs.net/assets/e4/e4292a4a7458731abcd7e4cadb65f32318101fbb
+[16:09:17.913] [Download] 554f0b9cf3bd5a30b1c3d79fa17f4676af7b4121 3558#：开始，起始点 0，https://download.mcbbs.net/assets/55/554f0b9cf3bd5a30b1c3d79fa17f4676af7b4121
+[16:09:17.913] [Download] a7628183f6f9946090d949fc373338f764549e4b 3559#：开始，起始点 0，https://download.mcbbs.net/assets/a7/a7628183f6f9946090d949fc373338f764549e4b
+[16:09:17.913] [Download] 257fd27134f704147a59f4567c4682665e0bb50d 3560#：开始，起始点 0，https://download.mcbbs.net/assets/25/257fd27134f704147a59f4567c4682665e0bb50d
+[16:09:17.913] [Download] 21b1c1df5ff13c3388617dd4c52e7b4c6051ab2c 3561#：开始，起始点 0，https://download.mcbbs.net/assets/21/21b1c1df5ff13c3388617dd4c52e7b4c6051ab2c
+[16:09:17.913] [Download] 9cffc55f9e837f429341c3519b50f560fa89a57e 3562#：开始，起始点 0，https://download.mcbbs.net/assets/9c/9cffc55f9e837f429341c3519b50f560fa89a57e
+[16:09:17.913] [Download] 2aeaa10c6e3e8edeb5a81b1598e770c7942b7902 3563#：开始，起始点 0，https://download.mcbbs.net/assets/2a/2aeaa10c6e3e8edeb5a81b1598e770c7942b7902
+[16:09:17.913] [Download] 84ef7ddf267d05bda8d303606c6ea5fc039beb00 3565#：开始，起始点 0，https://download.mcbbs.net/assets/84/84ef7ddf267d05bda8d303606c6ea5fc039beb00
+[16:09:17.913] [Download] 3a785f3a6b50372a4f90ae77be1b42a54760ddb6 3564#：开始，起始点 0，https://download.mcbbs.net/assets/3a/3a785f3a6b50372a4f90ae77be1b42a54760ddb6
+[16:09:17.913] [Download] fcf3c4aaefdee767e7f20394052e97c1e49427eb 3566#：开始，起始点 0，https://download.mcbbs.net/assets/fc/fcf3c4aaefdee767e7f20394052e97c1e49427eb
+[16:09:17.913] [Download] e46d7f7c79af85eca73f3255450446a96c6ee4f3：已完成，剩余文件 163
+[16:09:17.928] [Download] 3a785f3a6b50372a4f90ae77be1b42a54760ddb6：文件大小 16543 B（16.2 K）
+[16:09:17.928] [Download] e4292a4a7458731abcd7e4cadb65f32318101fbb：文件大小 15770 B（15.4 K）
+[16:09:17.928] [Download] a7628183f6f9946090d949fc373338f764549e4b：文件大小 16313 B（15.9 K）
+[16:09:17.928] [Download] 9519c93477a4394b4ceaaa0f856c7fdd7babd834：已完成，剩余文件 162
+[16:09:17.928] [Download] 84ef7ddf267d05bda8d303606c6ea5fc039beb00：文件大小 15334 B（15 K）
+[16:09:17.928] [Download] 9cffc55f9e837f429341c3519b50f560fa89a57e：文件大小 16476 B（16.1 K）
+[16:09:17.928] [Download] 257fd27134f704147a59f4567c4682665e0bb50d：文件大小 15671 B（15.3 K）
+[16:09:17.928] [Download] 554f0b9cf3bd5a30b1c3d79fa17f4676af7b4121：文件大小 15298 B（14.9 K）
+[16:09:17.944] [Download] fcf3c4aaefdee767e7f20394052e97c1e49427eb：文件大小 15297 B（14.9 K）
+[16:09:17.944] [Download] 2aeaa10c6e3e8edeb5a81b1598e770c7942b7902：文件大小 44504 B（43.5 K）
+[16:09:17.944] [Download] e4292a4a7458731abcd7e4cadb65f32318101fbb：已完成，剩余文件 161
+[16:09:17.960] [Download] 21b1c1df5ff13c3388617dd4c52e7b4c6051ab2c：文件大小 16959 B（16.6 K）
+[16:09:17.960] [Download] 2734be26ce05875ef04d8e2d9fdede5944d9ce5f：已完成，剩余文件 160
+[16:09:17.960] [Download] fcf3c4aaefdee767e7f20394052e97c1e49427eb：已完成，剩余文件 159
+[16:09:17.982] [Download] 84ef7ddf267d05bda8d303606c6ea5fc039beb00：已完成，剩余文件 158
+[16:09:17.992] [Download] 21b1c1df5ff13c3388617dd4c52e7b4c6051ab2c：已完成，剩余文件 157
+[16:09:18.024] [Download] 09b1789901e23513e0f4bd1baf6607756994f017：已完成，剩余文件 156
+[16:09:18.039] [Download] 188fa491a4e0a34654041444f9c2dcadb0178e71 3569#：开始，起始点 0，https://download.mcbbs.net/assets/18/188fa491a4e0a34654041444f9c2dcadb0178e71
+[16:09:18.039] [Download] a7628183f6f9946090d949fc373338f764549e4b：已完成，剩余文件 155
+[16:09:18.039] [Download] 965504e61be930f8bf76b793af2a96ba4341ccf5 3570#：开始，起始点 0，https://download.mcbbs.net/assets/96/965504e61be930f8bf76b793af2a96ba4341ccf5
+[16:09:18.039] [Download] 4a75f341fdd845fc5fa58365677e822acccfee8b 3571#：开始，起始点 0，https://download.mcbbs.net/assets/4a/4a75f341fdd845fc5fa58365677e822acccfee8b
+[16:09:18.039] [Download] 86040880d64d2b718d7fc8b1f2c5c4f0c8753a8c 3572#：开始，起始点 0，https://download.mcbbs.net/assets/86/86040880d64d2b718d7fc8b1f2c5c4f0c8753a8c
+[16:09:18.039] [Download] 54e1bd09b8279ca1ba08c9d1f63ea4d30d17193e 3573#：开始，起始点 0，https://download.mcbbs.net/assets/54/54e1bd09b8279ca1ba08c9d1f63ea4d30d17193e
+[16:09:18.039] [Download] 9f0632cc162799c85caecae2a49ce55647b12ce3 3574#：开始，起始点 0，https://download.mcbbs.net/assets/9f/9f0632cc162799c85caecae2a49ce55647b12ce3
+[16:09:18.040] [Download] 9eb6c8b553d13bc0b98b3ca3cf220842ad33e06d 3575#：开始，起始点 0，https://download.mcbbs.net/assets/9e/9eb6c8b553d13bc0b98b3ca3cf220842ad33e06d
+[16:09:18.040] [Download] efcfcd51fe0aeabb98e9d452136e7a865718ebfe 3576#：开始，起始点 0，https://download.mcbbs.net/assets/ef/efcfcd51fe0aeabb98e9d452136e7a865718ebfe
+[16:09:18.040] [Download] 5bacd01efcca5fe66ad2e335a9bbff7d4e9d5e62 3577#：开始，起始点 0，https://download.mcbbs.net/assets/5b/5bacd01efcca5fe66ad2e335a9bbff7d4e9d5e62
+[16:09:18.040] [Download] ec065c71057ba1524c0baa84064055b0bde4ae3a 3578#：开始，起始点 0，https://download.mcbbs.net/assets/ec/ec065c71057ba1524c0baa84064055b0bde4ae3a
+[16:09:18.042] [Download] 812f6703a08a98b5d805447126573872a0f4ef0d：已完成，剩余文件 154
+[16:09:18.042] [Download] 04cc4bf5d825727a79d4341d65510a4369797005：已完成，剩余文件 153
+[16:09:18.049] [Download] 3a785f3a6b50372a4f90ae77be1b42a54760ddb6：已完成，剩余文件 152
+[16:09:18.055] [Download] 9eb6c8b553d13bc0b98b3ca3cf220842ad33e06d：文件大小 15650 B（15.3 K）
+[16:09:18.055] [Download] ec065c71057ba1524c0baa84064055b0bde4ae3a：文件大小 17109 B（16.7 K）
+[16:09:18.055] [Download] 5bacd01efcca5fe66ad2e335a9bbff7d4e9d5e62：文件大小 16230 B（15.8 K）
+[16:09:18.055] [Download] 965504e61be930f8bf76b793af2a96ba4341ccf5：文件大小 15289 B（14.9 K）
+[16:09:18.070] [Download] 9f0632cc162799c85caecae2a49ce55647b12ce3：文件大小 16396 B（16 K）
+[16:09:18.076] [Download] 188fa491a4e0a34654041444f9c2dcadb0178e71：文件大小 16523 B（16.1 K）
+[16:09:18.076] [Download] 54e1bd09b8279ca1ba08c9d1f63ea4d30d17193e：文件大小 15257 B（14.9 K）
+[16:09:18.086] [Download] 9cffc55f9e837f429341c3519b50f560fa89a57e：已完成，剩余文件 151
+[16:09:18.090] [Download] 54e1bd09b8279ca1ba08c9d1f63ea4d30d17193e：已完成，剩余文件 150
+[16:09:18.090] [Download] e4cd21e4cf18f4fb6147efafbda651eb9f7577f6：已完成，剩余文件 149
+[16:09:18.090] [Download] 186bc52af560ff1f2e05193f23f06919b36d99ae：已完成，剩余文件 148
+[16:09:18.090] [Download] 4a75f341fdd845fc5fa58365677e822acccfee8b：文件大小 31879 B（31.1 K）
+[16:09:18.102] [Download] 86040880d64d2b718d7fc8b1f2c5c4f0c8753a8c：文件大小 16515 B（16.1 K）
+[16:09:18.102] [Download] efcfcd51fe0aeabb98e9d452136e7a865718ebfe：文件大小 17173 B（16.8 K）
+[16:09:18.118] [Download] ec065c71057ba1524c0baa84064055b0bde4ae3a：已完成，剩余文件 147
+[16:09:18.118] [Download] 9eb6c8b553d13bc0b98b3ca3cf220842ad33e06d：已完成，剩余文件 146
+[16:09:18.149] [Download] 188fa491a4e0a34654041444f9c2dcadb0178e71：已完成，剩余文件 145
+[16:09:18.165] [Download] 818732baa3813112c02aa3f471e53a188c6b592d 3579#：开始，起始点 0，https://download.mcbbs.net/assets/81/818732baa3813112c02aa3f471e53a188c6b592d
+[16:09:18.165] [Download] ad73569e3ec802aa8b6099bf8895e934b4476c3d 3580#：开始，起始点 0，https://download.mcbbs.net/assets/ad/ad73569e3ec802aa8b6099bf8895e934b4476c3d
+[16:09:18.165] [Download] 681c27e93a2d584b7edc476005849f518fe0634b 3581#：开始，起始点 0，https://download.mcbbs.net/assets/68/681c27e93a2d584b7edc476005849f518fe0634b
+[16:09:18.165] [Download] f562a2306e3baf2efcb34103bba6d3bd50f7a019 3582#：开始，起始点 0，https://download.mcbbs.net/assets/f5/f562a2306e3baf2efcb34103bba6d3bd50f7a019
+[16:09:18.165] [Download] a2913347cecf4295a92abd5e55f3437690d98f68 3583#：开始，起始点 0，https://download.mcbbs.net/assets/a2/a2913347cecf4295a92abd5e55f3437690d98f68
+[16:09:18.165] [Download] 416f81d97bb18882740aa7947057f58d66e1ea1f 3584#：开始，起始点 0，https://download.mcbbs.net/assets/41/416f81d97bb18882740aa7947057f58d66e1ea1f
+[16:09:18.165] [Download] 745a95675dba15c8db4a14ab66c9bae3553b80b3 3585#：开始，起始点 0，https://download.mcbbs.net/assets/74/745a95675dba15c8db4a14ab66c9bae3553b80b3
+[16:09:18.165] [Download] 0719b2d51a490acf93a783c66191e0524dc48aeb 3586#：开始，起始点 0，https://download.mcbbs.net/assets/07/0719b2d51a490acf93a783c66191e0524dc48aeb
+[16:09:18.165] [Download] d2198802bace5fd820abee94227aa9975d7ce8ca 3587#：开始，起始点 0，https://download.mcbbs.net/assets/d2/d2198802bace5fd820abee94227aa9975d7ce8ca
+[16:09:18.181] [Download] 4a75f341fdd845fc5fa58365677e822acccfee8b：已完成，剩余文件 144
+[16:09:18.182] [Download] efcfcd51fe0aeabb98e9d452136e7a865718ebfe：已完成，剩余文件 143
+[16:09:18.182] [Download] a2913347cecf4295a92abd5e55f3437690d98f68：文件大小 18669 B（18.2 K）
+[16:09:18.183] [Download] 0719b2d51a490acf93a783c66191e0524dc48aeb：文件大小 40185 B（39.2 K）
+[16:09:18.184] [Download] 818732baa3813112c02aa3f471e53a188c6b592d：文件大小 17089 B（16.7 K）
+[16:09:18.184] [Download] 6017b341f38ee9dae4bc9a320af865e083b1caaa：已完成，剩余文件 142
+[16:09:18.184] [Download] 745a95675dba15c8db4a14ab66c9bae3553b80b3：文件大小 31416 B（30.7 K）
+[16:09:18.188] [Download] 681c27e93a2d584b7edc476005849f518fe0634b：文件大小 16207 B（15.8 K）
+[16:09:18.188] [Download] 416f81d97bb18882740aa7947057f58d66e1ea1f：文件大小 19476 B（19 K）
+[16:09:18.197] [Download] 965504e61be930f8bf76b793af2a96ba4341ccf5：已完成，剩余文件 141
+[16:09:18.213] [Download] f562a2306e3baf2efcb34103bba6d3bd50f7a019：文件大小 16417 B（16 K）
+[16:09:18.213] [Download] 554f0b9cf3bd5a30b1c3d79fa17f4676af7b4121：已完成，剩余文件 140
+[16:09:18.229] [Download] d2198802bace5fd820abee94227aa9975d7ce8ca：文件大小 16125 B（15.7 K）
+[16:09:18.229] [Download] 5bacd01efcca5fe66ad2e335a9bbff7d4e9d5e62：已完成，剩余文件 139
+[16:09:18.240] [Download] ad73569e3ec802aa8b6099bf8895e934b4476c3d：文件大小 16475 B（16.1 K）
+[16:09:18.240] [Download] af4dbce09ed03ddc033c62f20a1642da2bf7d8cf：已完成，剩余文件 138
+[16:09:18.245] [Download] 416f81d97bb18882740aa7947057f58d66e1ea1f：已完成，剩余文件 137
+[16:09:18.260] [Download] d2198802bace5fd820abee94227aa9975d7ce8ca：已完成，剩余文件 136
+[16:09:18.265] [Download] 681c27e93a2d584b7edc476005849f518fe0634b：已完成，剩余文件 135
+[16:09:18.274] [Download] a2913347cecf4295a92abd5e55f3437690d98f68：已完成，剩余文件 134
+[16:09:18.277] [Download] f562a2306e3baf2efcb34103bba6d3bd50f7a019：已完成，剩余文件 133
+[16:09:18.277] [Download] 2aeaa10c6e3e8edeb5a81b1598e770c7942b7902：已完成，剩余文件 132
+[16:09:18.292] [Download] 9015f0e20c778f87b03f7634680b08813d1248d9 3590#：开始，起始点 0，https://download.mcbbs.net/assets/90/9015f0e20c778f87b03f7634680b08813d1248d9
+[16:09:18.292] [Download] 626d60714610c3021781ab1961a59a456992bd24 3589#：开始，起始点 0，https://download.mcbbs.net/assets/62/626d60714610c3021781ab1961a59a456992bd24
+[16:09:18.292] [Download] 7a9214b072c0a4bb8da0b4dd579dad5af7b1de8a 3591#：开始，起始点 0，https://download.mcbbs.net/assets/7a/7a9214b072c0a4bb8da0b4dd579dad5af7b1de8a
+[16:09:18.292] [Download] 141675b6e9ba9d49eaf2c12e7116edbb7ea9e6b1 3592#：开始，起始点 0，https://download.mcbbs.net/assets/14/141675b6e9ba9d49eaf2c12e7116edbb7ea9e6b1
+[16:09:18.292] [Download] 6c746d87cba81756d32e508856ddab2c65900b1c 3593#：开始，起始点 0，https://download.mcbbs.net/assets/6c/6c746d87cba81756d32e508856ddab2c65900b1c
+[16:09:18.292] [Download] a5f46f4a4375c409fedf3f27dbce19b03fb7ccf4 3594#：开始，起始点 0，https://download.mcbbs.net/assets/a5/a5f46f4a4375c409fedf3f27dbce19b03fb7ccf4
+[16:09:18.292] [Download] f61c7b790be045eee8cd79438457d8fef7a7c32f 3595#：开始，起始点 0，https://download.mcbbs.net/assets/f6/f61c7b790be045eee8cd79438457d8fef7a7c32f
+[16:09:18.292] [Download] 760bf8264dcbb1a788f37f11b75c24622c68a67b 3596#：开始，起始点 0，https://download.mcbbs.net/assets/76/760bf8264dcbb1a788f37f11b75c24622c68a67b
+[16:09:18.292] [Download] a2bc0ee41300cbb60250ede884876497d6fd8f09 3597#：开始，起始点 0，https://download.mcbbs.net/assets/a2/a2bc0ee41300cbb60250ede884876497d6fd8f09
+[16:09:18.292] [Download] 7681c60eee7b6c65d4ff3786108f772df74526e4 3599#：开始，起始点 0，https://download.mcbbs.net/assets/76/7681c60eee7b6c65d4ff3786108f772df74526e4
+[16:09:18.292] [Download] 16b9b9868af0efd6d8d516ca6477b9ad3a50be09 3598#：开始，起始点 0，https://download.mcbbs.net/assets/16/16b9b9868af0efd6d8d516ca6477b9ad3a50be09
+[16:09:18.292] [Download] 0f92e6b4aed55c38966151c73606f6082eafbad1 3600#：开始，起始点 0，https://download.mcbbs.net/assets/0f/0f92e6b4aed55c38966151c73606f6082eafbad1
+[16:09:18.292] [Download] 090976a0e1368b73a35dc6298630de8a2283fcb9 3601#：开始，起始点 0，https://download.mcbbs.net/assets/09/090976a0e1368b73a35dc6298630de8a2283fcb9
+[16:09:18.292] [Download] b69aecc48378d9878233a54942d863991d013776 3602#：开始，起始点 0，https://download.mcbbs.net/assets/b6/b69aecc48378d9878233a54942d863991d013776
+[16:09:18.292] [Download] 818732baa3813112c02aa3f471e53a188c6b592d：已完成，剩余文件 131
+[16:09:18.292] [Download] 745a95675dba15c8db4a14ab66c9bae3553b80b3：已完成，剩余文件 130
+[16:09:18.308] [Download] 9f0632cc162799c85caecae2a49ce55647b12ce3：已完成，剩余文件 129
+[16:09:18.310] [Download] ad73569e3ec802aa8b6099bf8895e934b4476c3d：已完成，剩余文件 128
+[16:09:18.310] [Download] 0f92e6b4aed55c38966151c73606f6082eafbad1：文件大小 16320 B（15.9 K）
+[16:09:18.311] [Download] f61c7b790be045eee8cd79438457d8fef7a7c32f：文件大小 16738 B（16.3 K）
+[16:09:18.311] [Download] b69aecc48378d9878233a54942d863991d013776：文件大小 18548 B（18.1 K）
+[16:09:18.311] [Download] a2bc0ee41300cbb60250ede884876497d6fd8f09：文件大小 17273 B（16.9 K）
+[16:09:18.311] [Download] a5f46f4a4375c409fedf3f27dbce19b03fb7ccf4：文件大小 42684 B（41.7 K）
+[16:09:18.311] [Download] 9015f0e20c778f87b03f7634680b08813d1248d9：文件大小 15904 B（15.5 K）
+[16:09:18.311] [Download] 7681c60eee7b6c65d4ff3786108f772df74526e4：文件大小 16143 B（15.8 K）
+[16:09:18.311] [Download] 760bf8264dcbb1a788f37f11b75c24622c68a67b：文件大小 18418 B（18 K）
+[16:09:18.311] [Download] 6c746d87cba81756d32e508856ddab2c65900b1c：文件大小 16514 B（16.1 K）
+[16:09:18.324] [Download] 0719b2d51a490acf93a783c66191e0524dc48aeb：已完成，剩余文件 127
+[16:09:18.346] [Download] 2308a8649ca3367404e064286748003338d57beb：已完成，剩余文件 126
+[16:09:18.348] [Download] 626d60714610c3021781ab1961a59a456992bd24：文件大小 16263 B（15.9 K）
+[16:09:18.351] [Download] b69aecc48378d9878233a54942d863991d013776：已完成，剩余文件 125
+[16:09:18.355] [Download] 141675b6e9ba9d49eaf2c12e7116edbb7ea9e6b1：文件大小 18882 B（18.4 K）
+[16:09:18.356] [Download] 090976a0e1368b73a35dc6298630de8a2283fcb9：文件大小 6139 B（6 K）
+[16:09:18.356] [Download] 16b9b9868af0efd6d8d516ca6477b9ad3a50be09：文件大小 16069 B（15.7 K）
+[16:09:18.356] [Download] 7681c60eee7b6c65d4ff3786108f772df74526e4：已完成，剩余文件 124
+[16:09:18.356] [Download] 621d728698d4555b55f15b1c0d1b42d9d886bf71：已完成，剩余文件 123
+[16:09:18.361] [Download] 7a9214b072c0a4bb8da0b4dd579dad5af7b1de8a：文件大小 39214 B（38.3 K）
+[16:09:18.361] [Download] 090976a0e1368b73a35dc6298630de8a2283fcb9：已完成，剩余文件 122
+[16:09:18.372] [Control] 按下单选按钮：下载
+[16:09:18.372] [Control] 切换主要页面：Download, -1
+[16:09:18.376] [Download] 66fc657d0895ed025de8e9637b6317621435e8ad：已完成，剩余文件 121
+[16:09:18.376] [Download] 0f92e6b4aed55c38966151c73606f6082eafbad1：已完成，剩余文件 120
+[16:09:18.387] [Download] 141675b6e9ba9d49eaf2c12e7116edbb7ea9e6b1：已完成，剩余文件 119
+[16:09:18.403] [Download] 626d60714610c3021781ab1961a59a456992bd24：已完成，剩余文件 118
+[16:09:18.403] [Download] 6c746d87cba81756d32e508856ddab2c65900b1c：已完成，剩余文件 117
+[16:09:18.403] [Download] e18a562580403067ed689d10f0bc9b8d01326556：已完成，剩余文件 116
+[16:09:18.418] [Download] d2f9d141bb75bca55664cfdba1105576b0753065 3612#：开始，起始点 0，https://download.mcbbs.net/assets/d2/d2f9d141bb75bca55664cfdba1105576b0753065
+[16:09:18.418] [Download] 24f939f94f47646bf387abc91b954b49fc1499ef 3611#：开始，起始点 0，https://download.mcbbs.net/assets/24/24f939f94f47646bf387abc91b954b49fc1499ef
+[16:09:18.418] [Download] cdfb3775775c0ac05016893031b4f7b498e53610 3613#：开始，起始点 0，https://download.mcbbs.net/assets/cd/cdfb3775775c0ac05016893031b4f7b498e53610
+[16:09:18.418] [Download] 7812d9e39b2d06cc4c53556fbe5560d55ef01407 3614#：开始，起始点 0，https://download.mcbbs.net/assets/78/7812d9e39b2d06cc4c53556fbe5560d55ef01407
+[16:09:18.418] [Download] bfa56e871350743b1476f29307b56392a3ce1416 3615#：开始，起始点 0，https://download.mcbbs.net/assets/bf/bfa56e871350743b1476f29307b56392a3ce1416
+[16:09:18.418] [Download] cfbf88a100673921221b9ca5476a59cab3a24c77 3616#：开始，起始点 0，https://download.mcbbs.net/assets/cf/cfbf88a100673921221b9ca5476a59cab3a24c77
+[16:09:18.418] [Download] eb4192c18aaf9b0c9a4d1a708d309cb5c227221f 3618#：开始，起始点 0，https://download.mcbbs.net/assets/eb/eb4192c18aaf9b0c9a4d1a708d309cb5c227221f
+[16:09:18.418] [Download] 2a557abda3f426f83a1d1776a84075b744114f5a 3617#：开始，起始点 0，https://download.mcbbs.net/assets/2a/2a557abda3f426f83a1d1776a84075b744114f5a
+[16:09:18.418] [Download] 4c9e9b26ef49fe3b99f458747ca854c15a704332 3619#：开始，起始点 0，https://download.mcbbs.net/assets/4c/4c9e9b26ef49fe3b99f458747ca854c15a704332
+[16:09:18.418] [Download] c8116e6d6b1f420bd5070cf332df54b7e4c35847 3620#：开始，起始点 0，https://download.mcbbs.net/assets/c8/c8116e6d6b1f420bd5070cf332df54b7e4c35847
+[16:09:18.418] [Download] 9349151dffc3a456da0c5f930bb1cfd4a3f0b3b6 3621#：开始，起始点 0，https://download.mcbbs.net/assets/93/9349151dffc3a456da0c5f930bb1cfd4a3f0b3b6
+[16:09:18.418] [Download] 043a7d5cb1328cfdcaf7a9bc5166929e850b3871 3622#：开始，起始点 0，https://download.mcbbs.net/assets/04/043a7d5cb1328cfdcaf7a9bc5166929e850b3871
+[16:09:18.418] [Download] cde7deec122133a572fe275dc412c7d38f0c557d 3623#：开始，起始点 0，https://download.mcbbs.net/assets/cd/cde7deec122133a572fe275dc412c7d38f0c557d
+[16:09:18.418] [Download] 464c49e74e27b1e8969730bc257f142d21c46adf 3624#：开始，起始点 0，https://download.mcbbs.net/assets/46/464c49e74e27b1e8969730bc257f142d21c46adf
+[16:09:18.418] [Download] 257fd27134f704147a59f4567c4682665e0bb50d：已完成，剩余文件 115
+[16:09:18.418] [Download] 6dba909cf5da97f5bd448024ddb9087d4dc2483b 3625#：开始，起始点 0，https://download.mcbbs.net/assets/6d/6dba909cf5da97f5bd448024ddb9087d4dc2483b
+[16:09:18.418] [Download] fbeada4b9800d40a2179876822618c3d813d1e92 3626#：开始，起始点 0，https://download.mcbbs.net/assets/fb/fbeada4b9800d40a2179876822618c3d813d1e92
+[16:09:18.418] [Download] 41b60e8fd082f244139a95d9fc0c5546a029cd08 3627#：开始，起始点 0，https://download.mcbbs.net/assets/41/41b60e8fd082f244139a95d9fc0c5546a029cd08
+[16:09:18.420] [Download] f61c7b790be045eee8cd79438457d8fef7a7c32f：已完成，剩余文件 114
+[16:09:18.420] [Download] 16b9b9868af0efd6d8d516ca6477b9ad3a50be09：已完成，剩余文件 113
+[16:09:18.434] [Download] bfa56e871350743b1476f29307b56392a3ce1416：文件大小 17454 B（17 K）
+[16:09:18.434] [Download] 7812d9e39b2d06cc4c53556fbe5560d55ef01407：文件大小 16757 B（16.4 K）
+[16:09:18.434] [Download] 41b60e8fd082f244139a95d9fc0c5546a029cd08：文件大小 14709 B（14.4 K）
+[16:09:18.434] [Download] 9349151dffc3a456da0c5f930bb1cfd4a3f0b3b6：文件大小 41151 B（40.2 K）
+[16:09:18.434] [Download] 9015f0e20c778f87b03f7634680b08813d1248d9：已完成，剩余文件 112
+[16:09:18.434] [Download] 043a7d5cb1328cfdcaf7a9bc5166929e850b3871：文件大小 17206 B（16.8 K）
+[16:09:18.434] [Download] 2a557abda3f426f83a1d1776a84075b744114f5a：文件大小 15251 B（14.9 K）
+[16:09:18.450] [Download] cdfb3775775c0ac05016893031b4f7b498e53610：文件大小 15653 B（15.3 K）
+[16:09:18.450] [Download] c8116e6d6b1f420bd5070cf332df54b7e4c35847：文件大小 15341 B（15 K）
+[16:09:18.450] [Download] 464c49e74e27b1e8969730bc257f142d21c46adf：文件大小 16090 B（15.7 K）
+[16:09:18.476] [Download] cfbf88a100673921221b9ca5476a59cab3a24c77：文件大小 15112 B（14.8 K）
+[16:09:18.479] [Download] 24f939f94f47646bf387abc91b954b49fc1499ef：文件大小 46824 B（45.7 K）
+[16:09:18.481] [Download] 7a9214b072c0a4bb8da0b4dd579dad5af7b1de8a：已完成，剩余文件 111
+[16:09:18.481] [Download] 043a7d5cb1328cfdcaf7a9bc5166929e850b3871：已完成，剩余文件 110
+[16:09:18.481] [Download] d2f9d141bb75bca55664cfdba1105576b0753065：文件大小 18079 B（17.7 K）
+[16:09:18.485] [Download] 4c9e9b26ef49fe3b99f458747ca854c15a704332：文件大小 26883 B（26.3 K）
+[16:09:18.485] [Download] 6dba909cf5da97f5bd448024ddb9087d4dc2483b：文件大小 22650 B（22.1 K）
+[16:09:18.500] [Download] fbeada4b9800d40a2179876822618c3d813d1e92：文件大小 16625 B（16.2 K）
+[16:09:18.501] [Download] 2a557abda3f426f83a1d1776a84075b744114f5a：已完成，剩余文件 109
+[16:09:18.503] [Download] 464c49e74e27b1e8969730bc257f142d21c46adf：已完成，剩余文件 108
+[16:09:18.503] [Download] a2bc0ee41300cbb60250ede884876497d6fd8f09：已完成，剩余文件 107
+[16:09:18.503] [Download] cde7deec122133a572fe275dc412c7d38f0c557d：文件大小 36044 B（35.2 K）
+[16:09:18.503] [Download] cdfb3775775c0ac05016893031b4f7b498e53610：已完成，剩余文件 106
+[16:09:18.513] [Download] bfa56e871350743b1476f29307b56392a3ce1416：已完成，剩余文件 105
+[16:09:18.525] [Download] 97131d8b3ac3027bada6cd41e49d6afa26d08cb8：已完成，剩余文件 104
+[16:09:18.529] [Download] 41b60e8fd082f244139a95d9fc0c5546a029cd08：已完成，剩余文件 103
+[16:09:18.545] [Download] 912cddcbb391af07d024ef085da7adb445456403 3662#：开始，起始点 0，https://download.mcbbs.net/assets/91/912cddcbb391af07d024ef085da7adb445456403
+[16:09:18.545] [Download] 5be9bc2dadede4024406b564cc6384cfd612957a 3663#：开始，起始点 0，https://download.mcbbs.net/assets/5b/5be9bc2dadede4024406b564cc6384cfd612957a
+[16:09:18.545] [Download] aa70ab2de7648d57dd7395696c54c7044f866511 3664#：开始，起始点 0，https://download.mcbbs.net/assets/aa/aa70ab2de7648d57dd7395696c54c7044f866511
+[16:09:18.545] [Download] 6ecd9f119565e991449cd43b67a4532e9b71bf46 3665#：开始，起始点 0，https://download.mcbbs.net/assets/6e/6ecd9f119565e991449cd43b67a4532e9b71bf46
+[16:09:18.545] [Download] 533da01f32edc557e10ed64fc9111a9c89ef625c 3666#：开始，起始点 0，https://download.mcbbs.net/assets/53/533da01f32edc557e10ed64fc9111a9c89ef625c
+[16:09:18.545] [Download] 9d64f7c726c4c5c19977ff092da2ba38eccb065f 3667#：开始，起始点 0，https://download.mcbbs.net/assets/9d/9d64f7c726c4c5c19977ff092da2ba38eccb065f
+[16:09:18.545] [Download] 09aef4ef872dbbd71df83eac7a0b0fd2695558de 3668#：开始，起始点 0，https[16:09:18.561] [Download] 944fb69a90f37c58423bab0381e051aa19ca4fd9：文件大小 16050 B（15.7 K）
+[Download] 3d08fe5a02cb0ca346f9c22dcb20beb1076a6e2c 3669#：开始，起始点 0，https://download.mcbbs.net/assets/3d/3d08fe5a02cb0ca346f9c22dcb20beb1076a6e2c
+[16:09:18.545] [Download] 3d4cdc0cee07f4358b5b63c3a87c8a09799e9fe2 3670#：开始，起始点 0，https://download.mcbbs.net/assets/3d/3d4cdc0cee07f4358b5b63c3a87c8a09799e9fe2
+[16:09:18.545] [Download] 6f98e248889fbf280e91ffdac3efc41192891cdc 3671#：开始，起始点 0，https://download.mcbbs.net/assets/6f/6f98e248889fbf280e91ffdac3efc41192891cdc
+[16:09:18.545] [Download] 944fb69a90f37c58423bab0381e051aa19ca4fd9 3673#：开始，起始点 0，https://download.mcbbs.net/assets/94/944fb69a90f37c58423bab0381e051aa19ca4fd9
+[16:09:18.545] [Download] aeb548d8375ca49815cf4fd494738855dd49cb20 3672#：开始，起始点 0，https://download.mcbbs.net/assets/ae/aeb548d8375ca49815cf4fd494738855dd49cb20
+[16:09:18.545] [Download] 153173edd8d44158108b4487641a9b2522f0c613：已完成，剩余文件 102
+[16:09:18.561] [Download] 6ecd9f119565e991449cd43b67a4532e9b71bf46：文件大小 18470 B（18 K）
+[16:09:18.561] [Download] aeb548d8375ca49815cf4fd494738855dd49cb20：文件大小 16257 B（15.9 K）
+[16:09:18.561] [Download] 3d4cdc0cee07f4358b5b63c3a87c8a09799e9fe2：文件大小 15864 B（15.5 K）
+[16:09:18.561] [Download] 09aef4ef872dbbd71df83eac7a0b0fd2695558de：文件大小 16067 B（15.7 K）
+[16:09:18.561] [Download] c8116e6d6b1f420bd5070cf332df54b7e4c35847：已完成，剩余文件 101
+[16:09:18.561] [Download] 9d64f7c726c4c5c19977ff092da2ba38eccb065f：文件大小 17178 B（16.8 K）
+[16:09:18.561] [Download] 5be9bc2dadede4024406b564cc6384cfd612957a：文件大小 17755 B（17.3 K）
+[16:09:18.561] [Download] aa70ab2de7648d57dd7395696c54c7044f866511：文件大小 16077 B（15.7 K）
+[16:09:18.561] [Download] eb4192c18aaf9b0c9a4d1a708d309cb5c227221f：文件大小 16879 B（16.5 K）
+[16:09:18.561] [Download] 533da01f32edc557e10ed64fc9111a9c89ef625c：文件大小 17480 B（17.1 K）
+[16:09:18.576] [Download] a1daff5daa55f870c29becece97fc88e3da0b18e：已完成，剩余文件 100
+[16:09:18.592] [Download] 3d08fe5a02cb0ca346f9c22dcb20beb1076a6e2c：文件大小 42858 B（41.9 K）
+[16:09:18.608] [Download] eb4192c18aaf9b0c9a4d1a708d309cb5c227221f：已完成，剩余文件 99
+[16:09:18.610] [Download] fbeada4b9800d40a2179876822618c3d813d1e92：已完成，剩余文件 98
+[16:09:18.613] [Download] c77a8ae1494e430323b620912c6d81adf5f4a5d0：已完成，剩余文件 97
+[16:09:18.614] [Download] cfbf88a100673921221b9ca5476a59cab3a24c77：已完成，剩余文件 96
+[16:09:18.614] [Download] ef9ac36b766f250b720acdcff16d34b750fc17b2：已完成，剩余文件 95
+[16:09:18.624] [Download] 3d4cdc0cee07f4358b5b63c3a87c8a09799e9fe2：已完成，剩余文件 94
+[16:09:18.624] [Download] 9d64f7c726c4c5c19977ff092da2ba38eccb065f：已完成，剩余文件 93
+[16:09:18.624] [Download] 9349151dffc3a456da0c5f930bb1cfd4a3f0b3b6：已完成，剩余文件 92
+[16:09:18.640] [Download] 4c9e9b26ef49fe3b99f458747ca854c15a704332：已完成，剩余文件 91
+[16:09:18.640] [Download] 533da01f32edc557e10ed64fc9111a9c89ef625c：已完成，剩余文件 90
+[16:09:18.640] [Download] 912cddcbb391af07d024ef085da7adb445456403：文件大小 40525 B（39.6 K）
+[16:09:18.650] [Download] 7812d9e39b2d06cc4c53556fbe5560d55ef01407：已完成，剩余文件 89
+[16:09:18.650] [Download] aeb548d8375ca49815cf4fd494738855dd49cb20：已完成，剩余文件 88
+[16:09:18.650] [Download] 6ecd9f119565e991449cd43b67a4532e9b71bf46：已完成，剩余文件 87
+[16:09:18.650] [Download] 5be9bc2dadede4024406b564cc6384cfd612957a：已完成，剩余文件 86
+[16:09:18.656] [Download] 09aef4ef872dbbd71df83eac7a0b0fd2695558de：已完成，剩余文件 85
+[16:09:18.656] [Download] 6f98e248889fbf280e91ffdac3efc41192891cdc：已完成，剩余文件 84
+[16:09:18.671] [Download] f40271791c3b49b443be50bb3c9493884dd23e67 3680#：开始，起始点 0，https://download.mcbbs.net/assets/f4/f40271791c3b49b443be50bb3c9493884dd23e67
+[16:09:18.671] [Download] 56f3ca02805f3f58857e65e636d0efa88365127e 3679#：开始，起始点 0，https://download.mcbbs.net/assets/56/56f3ca02805f3f58857e65e636d0efa88365127e
+[16:09:18.671] [Download] 242e5867807b262bc0d5ec693415c0ce10633ba6 3681#：开始，起始点 0，https://download.mcbbs.net/assets/24/242e5867807b262bc0d5ec693415c0ce10633ba6
+[16:09:18.671] [Download] 6100fe82c6c8f4bdbe6c4b63fd769483b87a14db 3682#：开始，起始点 0，https://download.mcbbs.net/assets/61/6100fe82c6c8f4bdbe6c4b63fd769483b87a14db
+[16:09:18.671] [Download] da3a23361dd32827dbe3161eb1ab5ea3b1ad2d68 3683#：开始，起始点 0，https://download.mcbbs.net/assets/da/da3a23361dd32827dbe3161eb1ab5ea3b1ad2d68
+[16:09:18.671] [Download] 645d50772ee23879f74f83f27123a0d1f16f06ab 3684#：开始，起始点 0，https://download.mcbbs.net/assets/64/645d50772ee23879f74f83f27123a0d1f16f06ab
+[16:09:18.671] [Download] e8b0832b2b6f8e77494b122b8da68b25230cdd76 3685#：开始，起始点 0，https://download.mcbbs.net/assets/e8/e8b0832b2b6f8e77494b122b8da68b25230cdd76
+[16:09:18.671] [Download] d2d54c51f6312ecfc229ef6a12b4f11b17579fdb 3686#：开始，起始点 0，https://download.mcbbs.net/assets/d2/d2d54c51f6312ecfc229ef6a12b4f11b17579fdb
+[16:09:18.671] [Download] 950aa0357153b9688f1b7cf88a084a89e1b3ced5 3687#：开始，起始点 0，https://download.mcbbs.net/assets/95/950aa0357153b9688f1b7cf88a084a89e1b3ced5
+[16:09:18.671] [Download] 0ef7d4d999ffafc6abb491a39a0acb1f8e5e41d4 3688#：开始，起始点 0，https://download.mcbbs.net/assets/0e/0ef7d4d999ffafc6abb491a39a0acb1f8e5e41d4
+[16:09:18.671] [Download] 888b93517f29920c44ec8dd2b19864986f1654dc 3689#：开始，起始点 0，https://download.mcbbs.net/assets/88/888b93517f29920c44ec8dd2b19864986f1654dc
+[16:09:18.671] [Download] 86040880d64d2b718d7fc8b1f2c5c4f0c8753a8c：已完成，剩余文件 83
+[16:09:18.671] [Download] 718f42afe76b9b3f450a272c142f83f00ca45d18 3690#：开始，起始点 0，https://download.mcbbs.net/assets/71/718f42afe76b9b3f450a272c142f83f00ca45d18
+[16:09:18.671] [Download] 32829b6cbf2bbefd2b44cf6d9b8c99d5b0a2aa1a 3692#：开始，起始点 0，https://download.mcbbs.net/assets/32/32829b6cbf2bbefd2b44cf6d9b8c99d5b0a2aa1a
+[16:09:18.671] [Download] b81f62822446110d86d47605b7dbf05835cebe52 3691#：开始，起始点 0，https://download.mcbbs.net/assets/b8/b81f62822446110d86d47605b7dbf05835cebe52
+[16:09:18.671] [Download] 591801fad1ac86be4b9d776e4caec2b63476e340 3693#：开始，起始点 0，https://download.mcbbs.net/assets/59/591801fad1ac86be4b9d776e4caec2b63476e340
+[16:09:18.671] [Download] 6f27b68e811f2b419b4f261da0ac78e22b689106 3694#：开始，起始点 0，https://download.mcbbs.net/assets/6f/6f27b68e811f2b419b4f261da0ac78e22b689106
+[16:09:18.671] [Download] 04b34b750d11d0ec120c9dc5703a8da252c81734 3695#：开始，起始点 0，https://download.mcbbs.net/assets/04/04b34b750d11d0ec120c9dc5703a8da252c81734
+[16:09:18.671] [Download] ed37c1fd8cbcfbfdde9fb7d610efd09363d2525f 3696#：开始，起始点 0，https://download.mcbbs.net/assets/ed/ed37c1fd8cbcfbfdde9fb7d610efd09363d2525f
+[16:09:18.671] [Download] 414617ada14c6098f2b380a3bf665c75b19be897 3697#：开始，起始点 0，https://download.mcbbs.net/assets/41/414617ada14c6098f2b380a3bf665c75b19be897
+[16:09:18.676] [Download] 944fb69a90f37c58423bab0381e051aa19ca4fd9：已完成，剩余文件 82
+[16:09:18.688] [Download] d2f9d141bb75bca55664cfdba1105576b0753065：已完成，剩余文件 81
+[16:09:18.688] [Download] 242e5867807b262bc0d5ec693415c0ce10633ba6：文件大小 14166 B（13.8 K）
+[16:09:18.688] [Download] 4f16c4a5f0c71757d82fb7c179b2b1efb1873b57：已完成，剩余文件 80
+[16:09:18.688] [Download] 56f3ca02805f3f58857e65e636d0efa88365127e：文件大小 16212 B（15.8 K）
+[16:09:18.688] [Download] a84c7b31c4ea3965e976f9d6d8abf10834eb88e2：已完成，剩余文件 79
+[16:09:18.688] [Download] 888b93517f29920c44ec8dd2b19864986f1654dc：文件大小 16123 B（15.7 K）
+[16:09:18.688] [Download] ed37c1fd8cbcfbfdde9fb7d610efd09363d2525f：文件大小 17108 B（16.7 K）
+[16:09:18.688] [Download] 414617ada14c6098f2b380a3bf665c75b19be897：文件大小 18009 B（17.6 K）
+[16:09:18.688] [Download] 950aa0357153b9688f1b7cf88a084a89e1b3ced5：文件大小 40509 B（39.6 K）
+[16:09:18.688] [Download] 718f42afe76b9b3f450a272c142f83f00ca45d18：文件大小 17840 B（17.4 K）
+[16:09:18.688] [Download] 645d50772ee23879f74f83f27123a0d1f16f06ab：文件大小 17950 B（17.5 K）
+[16:09:18.688] [Download] b81f62822446110d86d47605b7dbf05835cebe52：文件大小 18181 B（17.8 K）
+[16:09:18.688] [Download] aa70ab2de7648d57dd7395696c54c7044f866511：已完成，剩余文件 78
+[16:09:18.703] [Download] d2d54c51f6312ecfc229ef6a12b4f11b17579fdb：文件大小 17566 B（17.2 K）
+[16:09:18.703] [Download] 24f939f94f47646bf387abc91b954b49fc1499ef：已完成，剩余文件 77
+[16:09:18.703] [Download] 6f27b68e811f2b419b4f261da0ac78e22b689106：文件大小 38210 B（37.3 K）
+[16:09:18.703] [Download] 04b34b750d11d0ec120c9dc5703a8da252c81734：文件大小 17386 B（17 K）
+[16:09:18.703] [Download] 591801fad1ac86be4b9d776e4caec2b63476e340：文件大小 16321 B（15.9 K）
+[16:09:18.719] [Download] 0ef7d4d999ffafc6abb491a39a0acb1f8e5e41d4：文件大小 38925 B（38 K）
+[16:09:18.719] [Download] 6dba909cf5da97f5bd448024ddb9087d4dc2483b：已完成，剩余文件 76
+[16:09:18.719] [Download] e8fc3bc2def1ac52ee30fcae707b7b6a0559bb28：已完成，剩余文件 75
+[16:09:18.719] [Download] e8b0832b2b6f8e77494b122b8da68b25230cdd76：文件大小 42187 B（41.2 K）
+[16:09:18.719] [Download] b81f62822446110d86d47605b7dbf05835cebe52：已完成，剩余文件 74
+[16:09:18.735] [Download] 6100fe82c6c8f4bdbe6c4b63fd769483b87a14db：文件大小 16760 B（16.4 K）
+[16:09:18.735] [Download] 242e5867807b262bc0d5ec693415c0ce10633ba6：已完成，剩余文件 73
+[16:09:18.750] [Download] 32829b6cbf2bbefd2b44cf6d9b8c99d5b0a2aa1a：文件大小 18085 B（17.7 K）
+[16:09:18.766] [Download] c14f5ab8ef68299fc30585026c3ae7946ca3a154：已完成，剩余文件 72
+[16:09:18.769] [Download] f40271791c3b49b443be50bb3c9493884dd23e67：文件大小 16550 B（16.2 K）
+[16:09:18.769] [Download] ed37c1fd8cbcfbfdde9fb7d610efd09363d2525f：已完成，剩余文件 71
+[16:09:18.786] [Download] a5f46f4a4375c409fedf3f27dbce19b03fb7ccf4：已完成，剩余文件 70
+[16:09:18.787] [Download] 04b34b750d11d0ec120c9dc5703a8da252c81734：已完成，剩余文件 69
+[16:09:18.788] [Download] 760bf8264dcbb1a788f37f11b75c24622c68a67b：已完成，剩余文件 68
+[16:09:18.788] [Download] 591801fad1ac86be4b9d776e4caec2b63476e340：已完成，剩余文件 67
+[16:09:18.788] [Download] 924e04818728a03d18f59f2a6375e8f3c8c244ec：已完成，剩余文件 66
+[16:09:18.793] [Download] 414617ada14c6098f2b380a3bf665c75b19be897：已完成，剩余文件 65
+[16:09:18.793] [Download] 645d50772ee23879f74f83f27123a0d1f16f06ab：已完成，剩余文件 64
+[16:09:18.798] [Download] 09eed4386d27128cde4765965b68ee2e44a2dfec：已完成，剩余文件 63
+[16:09:18.798] [Download] 718f42afe76b9b3f450a272c142f83f00ca45d18：已完成，剩余文件 62
+[16:09:18.798] [Download] 6100fe82c6c8f4bdbe6c4b63fd769483b87a14db：已完成，剩余文件 61
+[16:09:18.798] [Control] 按下单选按钮：设置
+[16:09:18.798] [Control] 切换主要页面：Setup, -1
+[16:09:18.813] [Download] e8b0832b2b6f8e77494b122b8da68b25230cdd76：已完成，剩余文件 60
+[16:09:18.813] [Download] 56f3ca02805f3f58857e65e636d0efa88365127e：已完成，剩余文件 59
+[16:09:18.813] [Download] cde7deec122133a572fe275dc412c7d38f0c557d：已完成，剩余文件 58
+[16:09:18.813] [Download] 6f27b68e811f2b419b4f261da0ac78e22b689106：已完成，剩余文件 57
+[16:09:18.829] [Download] 888b93517f29920c44ec8dd2b19864986f1654dc：已完成，剩余文件 56
+[16:09:18.829] [Download] 3d08fe5a02cb0ca346f9c22dcb20beb1076a6e2c：已完成，剩余文件 55
+[16:09:18.844] [Download] f40271791c3b49b443be50bb3c9493884dd23e67：已完成，剩余文件 54
+[16:09:18.844] [Download] 0ef7d4d999ffafc6abb491a39a0acb1f8e5e41d4：已完成，剩余文件 53
+[16:09:18.844] [Download] 950aa0357153b9688f1b7cf88a084a89e1b3ced5：已完成，剩余文件 52
+[16:09:18.844] [Download] 7491a606ad58b1a623069e09630f896ae6ae5f3b：已完成，剩余文件 51
+[16:09:18.860] [Download] d21a4fd78ab3b18c74a24530d46fe98d2136a049：已完成，剩余文件 50
+[16:09:18.860] [Download] da3a23361dd32827dbe3161eb1ab5ea3b1ad2d68：文件大小 17464 B（17.1 K）
+[16:09:18.860] [Download] d2d54c51f6312ecfc229ef6a12b4f11b17579fdb：已完成，剩余文件 49
+[16:09:18.860] [Download] c2edf0c61913e0351087ab0beb002820b0bdfa52：已完成，剩余文件 48
+[16:09:18.860] [Download] 912cddcbb391af07d024ef085da7adb445456403：已完成，剩余文件 47
+[16:09:18.878] [Download] 32829b6cbf2bbefd2b44cf6d9b8c99d5b0a2aa1a：已完成，剩余文件 46
+[16:09:18.878] [Download] 5731bb18d3962fa74a42540ecdf921f9447ec005：已完成，剩余文件 45
+[16:09:18.878] [Download] 83962d5e112037fdd11d6b066811ce37f261a3d4：已完成，剩余文件 44
+[16:09:18.907] [Download] da3a23361dd32827dbe3161eb1ab5ea3b1ad2d68：已完成，剩余文件 43
+[16:09:18.907] [Download] 003871a8e427a56337bf46a5d08338a7d6250b2a：已完成，剩余文件 42
+[16:09:18.954] [Download] 5c26e976b740537457aafe2b06483b609c5c9217：已完成，剩余文件 41
+[16:09:19.033] [Download] 0c1e15b0c2e32d698fbdafe47f09c90976126542：已完成，剩余文件 40
+[16:09:19.117] [Download] 59d56a946ab13ecba3eb192fdb90bc648706e78d：已完成，剩余文件 39
+[16:09:19.119] [Download] 309d513ed7e253e1bb519ea243a8f1c81e56b870：已完成，剩余文件 38
+[16:09:19.127] [Download] 9a5729d795b1edfeffaa99506983c8b279880fa9：已完成，剩余文件 37
+[16:09:19.158] [Download] 3a5f7e8f28faaf71c68c60b5ae195e93c9d9b63d：已完成，剩余文件 36
+[16:09:19.174] [Download] 52c903f61ff31cba654453f04cc55bc71a6b5a66：已完成，剩余文件 35
+[16:09:19.177] [Download] b03210cb88c9b8da1291ae4700160df12299b899：已完成，剩余文件 34
+[16:09:19.194] [Download] 17dfeedf432e0f7c52c800271ec0f167a96ac5ef：已完成，剩余文件 33
+[16:09:19.209] [Download] fb5a9a951154e2395d87e2d119ec9beffc01b84f：已完成，剩余文件 32
+[16:09:19.209] [Download] ce222bc81ed6f618c984c925c3342eb821e5ffee：已完成，剩余文件 31
+[16:09:19.210] [Download] dfb4332eee136395561053adce1d5856900b0f3e：已完成，剩余文件 30
+[16:09:19.237] [Download] 877579d0c9d32f29ca7ef44115a23e7a640d6149：已完成，剩余文件 29
+[16:09:19.277] [Download] eaf9a5de1ae562c1641f1092dca78d97ca16f91a：已完成，剩余文件 28
+[16:09:19.336] [Download] 79d0a37f47ec935fc2dbc54752bbee41a890d8e1：已完成，剩余文件 27
+[16:09:19.395] [Download] e956e0986b597ec1b7d1db720dc8aec3a0642630：已完成，剩余文件 26
+[16:09:19.398] [Download] 70ae9c314c2c280af94a08c2403801e120ee4b3c：已完成，剩余文件 25
+[16:09:19.437] [Download] 4a7b45a8f9a62d3d03b1cdf95869fe30e5cc6ca6：已完成，剩余文件 24
+[16:09:19.453] [Download] d35ff3803e264365262935f5c6d384fd3ae58b08：已完成，剩余文件 23
+[16:09:19.465] [Download] e09e40430a29bd8d60f01d60be57a8a566a202a3：已完成，剩余文件 22
+[16:09:19.506] [Download] 10d2bc498bffd73e0f120ba3eb336953db05c713：已完成，剩余文件 21
+[16:09:19.522] [Download] e11e318343cc7dad5d1ffd7f73b64a38c8efd307：已完成，剩余文件 20
+[16:09:19.569] [Download] ed480c6848c5d66cada0ced44a623ef1fa32b9d3：已完成，剩余文件 19
+[16:09:19.790] [Download] b1b3818cfc504385ce863cfd5d67f26f18c44def 3735#：开始，起始点 0，https://download.mcbbs.net/assets/b1/b1b3818cfc504385ce863cfd5d67f26f18c44def
+[16:09:19.790] [Download] 2ede938f35ae9f25b9d810a33a8f75b0247a5416 3734#：开始，起始点 0，https://download.mcbbs.net/assets/2e/2ede938f35ae9f25b9d810a33a8f75b0247a5416
+[16:09:19.790] [Download] 157bdf9123fd108b1045b1c34ec8b9d0f7ba2f8f 3736#：开始，起始点 0，https://download.mcbbs.net/assets/15/157bdf9123fd108b1045b1c34ec8b9d0f7ba2f8f
+[16:09:19.790] [Download] 85fb344eeab7096661f70bdeccd90600978a5c5a 3738#：开始，起始点 0，https://download.mcbbs.net/assets/85/85fb344eeab7096661f70bdeccd90600978a5c5a
+[16:09:19.790] [Download] 0b13bde6427c138d1e4ecda739ceb04990e43b7d 3737#：开始，起始点 0，https://download.mcbbs.net/assets/0b/0b13bde6427c138d1e4ecda739ceb04990e43b7d
+[16:09:19.790] [Download] 475fea2335ea6e9af8cb790867a8f06fe65692bc 3739#：开始，起始点 0，https://download.mcbbs.net/assets/47/475fea2335ea6e9af8cb790867a8f06fe65692bc
+[16:09:19.790] [Download] a2fffcda4a262d55f3f0d41dca504d16219b4c1a 3740#：开始，起始点 0，https://download.mcbbs.net/assets/a2/a2fffcda4a262d55f3f0d41dca504d16219b4c1a
+[16:09:19.790] [Download] 92bbe9e1080bbe7ddab995b53aac2144d2106f4c 3741#：开始，起始点 0，https://download.mcbbs.net/assets/92/92bbe9e1080bbe7ddab995b53aac2144d2106f4c
+[16:09:19.790] [Download] 95caae37288d2475297fd2dd333dfcd2c03873ed 3742#：开始，起始点 0，https://download.mcbbs.net/assets/95/95caae37288d2475297fd2dd333dfcd2c03873ed
+[16:09:19.790] [Download] 0aeed86cdac58947166886cffeabca48cb8b08d5 3744#：开始，起始点 0，https://download.mcbbs.net/assets/0a/0aeed86cdac58947166886cffeabca48cb8b08d5
+[16:09:19.790] [Download] bf2b3e1b2e1f44d0c3c6b3068d2da453d4c830ff 3743#：开始，起始点 0，https://download.mcbbs.net/assets/bf/bf2b3e1b2e1f44d0c3c6b3068d2da453d4c830ff
+[16:09:19.790] [Download] f5d832081b290e0d1e821ad1850dee99621aa7b0 3745#：开始，起始点 0，https://download.mcbbs.net/assets/f5/f5d832081b290e0d1e821ad1850dee99621aa7b0
+[16:09:19.790] [Download] 063728868416ce2e3269bbe017aeb089b510e878 3746#：开始，起始点 0，https://download.mcbbs.net/assets/06/063728868416ce2e3269bbe017aeb089b510e878
+[16:09:19.790] [Download] 007893c1f34fed69252c604d26c354a904100495 3747#：开始，起始点 0，https://download.mcbbs.net/assets/00/007893c1f34fed69252c604d26c354a904100495
+[16:09:19.790] [Download] dc730e91de96c201e64b85fd2ab3e5c48e7b687f 3748#：开始，起始点 0，https://download.mcbbs.net/assets/dc/dc730e91de96c201e64b85fd2ab3e5c48e7b687f
+[16:09:19.790] [Download] -495420474_3428 3749#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/ed548106acf3ac7e8205a6ee8fd2710facfa164f/1.19.2.json
+[16:09:19.790] [Download] 5d1f117f0bfc658a465ecdd1be8336337b114047 3750#：开始，起始点 0，https://download.mcbbs.net/assets/5d/5d1f117f0bfc658a465ecdd1be8336337b114047
+[16:09:19.790] [Download] 4a5ee2dd5f2db4132e805024d6cfa5892650ff48 3751#：开始，起始点 0，https://download.mcbbs.net/assets/4a/4a5ee2dd5f2db4132e805024d6cfa5892650ff48
+[16:09:19.806] [Download] 0b13bde6427c138d1e4ecda739ceb04990e43b7d：文件大小 39000 B（38.1 K）
+[16:09:19.806] [Download] 5d1f117f0bfc658a465ecdd1be8336337b114047：文件大小 19977 B（19.5 K）
+[16:09:19.806] [Download] 92bbe9e1080bbe7ddab995b53aac2144d2106f4c：文件大小 16867 B（16.5 K）
+[16:09:19.806] [Download] b1b3818cfc504385ce863cfd5d67f26f18c44def：文件大小 47137 B（46 K）
+[16:09:19.806] [Download] bf2b3e1b2e1f44d0c3c6b3068d2da453d4c830ff：文件大小 42940 B（41.9 K）
+[16:09:19.806] [Download] 475fea2335ea6e9af8cb790867a8f06fe65692bc：文件大小 16664 B（16.3 K）
+[16:09:19.806] [Download] 2ede938f35ae9f25b9d810a33a8f75b0247a5416：文件大小 16800 B（16.4 K）
+[16:09:19.806] [Download] 063728868416ce2e3269bbe017aeb089b510e878：文件大小 19902 B（19.4 K）
+[16:09:19.806] [Download] 0aeed86cdac58947166886cffeabca48cb8b08d5：文件大小 40120 B（39.2 K）
+[16:09:19.806] [Download] dc730e91de96c201e64b85fd2ab3e5c48e7b687f：文件大小 17599 B（17.2 K）
+[16:09:19.806] [Download] 157bdf9123fd108b1045b1c34ec8b9d0f7ba2f8f：文件大小 14082 B（13.8 K）
+[16:09:19.806] [Download] 007893c1f34fed69252c604d26c354a904100495：文件大小 37974 B（37.1 K）
+[16:09:19.806] [Download] 95caae37288d2475297fd224d6cfa5892650ff48：文件大小 19753 B（19.3 K）
+[16:09:19.806] [Download] f5d832081b290e0d1e821ad1850dee99621aa7b0：文件大小 23079 B（22.5 K）
+[16:09:19.821] [Download] dc730e91de96c201e64b85fd2ab3e5c48e7b687f：已完成，剩余文件 18
+[16:09:19.821] [Download] 85fb344eeab7096661f70bdeccd90600978a5c5a：文件大小 15280 B（14.9 K）
+[16:09:19.823] [Download] 0b13bde6427c138d1e4ecda739ceb04990e43b7d：已完成，剩余文件 17
+[16:09:19.823] [Download] 5d1f117f0bfc658a465ecdd1be8336337b114047：已完成，剩余文件 16
+[16:09:19.823] [Download] 92bbe9e1080bbe7ddab995b53aac2144d2106f4c：已完成，剩余文件 15
+[16:09:19.837] [Download] 475fea2335ea6e9af8cb790867a8f06fe65692bc：已完成，剩余文件 14
+[16:09:19.845] [Download] 4a5ee2dd5f2db4132e805024d6cfa5892650ff48：已完成，剩余文件 13
+[16:09:19.845] [Download] 157bdf9123fd108b1045b1c34ec8b9d0f7ba2f8f：已完成，剩余文件 12
+[16:09:19.853] [Download] 95caae37288d2475297fd2dd333dfcd2c03873ed：已完成，剩余文件 11
+[16:09:19.854] [Download] a2fffcda4a262d55f3f0d41dca504d16219b4c1a：文件大小 18382 B（18 K）
+[16:09:19.854] [Download] 063728868416ce2e3269bbe017aeb089b510e878：已完成，剩余文件 10
+[16:09:19.854] [Download] 85fb344eeab7096661f70bdeccd90600978a5c5a：已完成，剩余文件 9
+[16:09:19.854] [Download] 2ede938f35ae9f25b9d810a33a8f75b0247a5416：已完成，剩余文件 8
+[16:09:19.854] [Download] bf2b3e1b2e1f44d0c3c6b3068d2da453d4c830ff：已完成，剩余文件 7
+[16:09:19.869] [Download] -495420474_3428：文件大小 34505 B（33.7 K）
+[16:09:19.869] [Download] 007893c1f34fed69252c604d26c354a904100495：已完成，剩余文件 6
+[16:09:19.869] [Download] f5d832081b290e0d1e821ad1850dee99621aa7b0：已完成，剩余文件 5
+[16:09:19.878] [Download] 0aeed86cdac58947166886cffeabca48cb8b08d5：已完成，剩余文件 4
+[16:09:19.878] [Download] b1b3818cfc504385ce863cfd5d67f26f18c44def：已完成，剩余文件 3
+[16:09:19.880] [Download] -495420474_3428：已完成，剩余文件 2
+[16:09:19.880] [Loader] 加载器 源码获取 3429# 状态改变：Finished
+[16:09:19.884] [Download] a2fffcda4a262d55f3f0d41dca504d16219b4c1a：已完成，剩余文件 1
+[16:09:19.916] [Download] 55e05b92ff63a3a762599a3c5d8911ef73632eed 3753#：开始，起始点 0，https://download.mcbbs.net/assets/55/55e05b92ff63a3a762599a3c5d8911ef73632eed
+[16:09:19.931] [Download] 55e05b92ff63a3a762599a3c5d8911ef73632eed：文件大小 735450 B（718 K）
+[16:09:19.978] [Control] 按下单选按钮：下载
+[16:09:19.978] [Control] 切换主要页面：Download, -1
+[16:09:20.199] [Download] 55e05b92ff63a3a762599a3c5d8911ef73632eed：已完成，剩余文件 0
+[16:09:20.199] [Loader] 加载器 下载资源文件（副加载器） 状态改变：Finished
+[16:09:20.199] [Loader] 加载器 下载原版资源文件 状态改变：Finished
+[16:09:20.199] [Loader] 加载器 下载原版 1.19.2 状态改变：Finished
+[16:09:20.466] [Control] 按下单选按钮：启动
+[16:09:20.466] [Control] 切换主要页面：Launch, -1
+[16:09:20.750] [Loader] 加载器 分析 Mod 加载器支持库文件 状态改变：Finished
+[16:09:20.750] [Loader] 加载器 下载 Mod 加载器支持库文件 状态改变：Loading
+[16:09:20.798] [Download] mcp_config-1.19.2-20220805.130853.zip 3856#：开始，起始点 0，https://maven.minecraftforge.net/de/oceanlabs/mcp/mcp_config/1.19.2-20220805.130853/mcp_config-1.19.2-20220805.130853.zip
+[16:09:20.798] [Download] fmlcore-1.19.2-43.2.0.jar 3857#：开始，起始点 0，https://maven.minecraftforge.net/net/minecraftforge/fmlcore/1.19.2-43.2.0/fmlcore-1.19.2-43.2.0.jar
+[16:09:20.798] [Download] forge-1.19.2-43.2.0-universal.jar 3858#：开始，起始点 0，https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-universal.jar
+[16:09:20.798] [Download] fmlloader-1.19.2-43.2.0.jar 3859#：开始，起始点 0，https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.19.2-43.2.0/fmlloader-1.19.2-43.2.0.jar
+[16:09:20.798] [Download] lowcodelanguage-1.19.2-43.2.0.jar 3860#：开始，起始点 0，https://maven.minecraftforge.net/net/minecraftforge/lowcodelanguage/1.19.2-43.2.0/lowcodelanguage-1.19.2-43.2.0.jar
+[16:09:20.798] [Download] javafmllanguage-1.19.2-43.2.0.jar 3861#：开始，起始点 0，https://maven.minecraftforge.net/net/minecraftforge/javafmllanguage/1.19.2-43.2.0/javafmllanguage-1.19.2-43.2.0.jar
+[16:09:20.798] [Download] mclanguage-1.19.2-43.2.0.jar 3862#：开始，起始点 0，https://maven.minecraftforge.net/net/minecraftforge/mclanguage/1.19.2-43.2.0/mclanguage-1.19.2-43.2.0.jar
+[16:09:20.798] [Download] securejarhandler-2.1.4.jar 3863#：开始，起始点 0，https://maven.minecraftforge.net/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar
+[16:09:20.798] [Download] JarJarMetadata-0.3.16.jar 3864#：开始，起始点 0，https://maven.minecraftforge.net/net/minecraftforge/JarJarMetadata/0.3.16/JarJarMetadata-0.3.16.jar
+[16:09:20.798] [Download] asm-util-9.3.jar 3865#：开始，起始点 0，https://maven.minecraftforge.net/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar
+[16:09:20.798] [Download] JarJarFileSystems-0.3.16.jar 3866#：开始，起始点 0，https://maven.minecraftforge.net/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar
+[16:09:20.798] [Download] forgespi-6.0.0.jar 3867#：开始，起始点 0，https://maven.minecraftforge.net/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar
+[16:09:20.798] [Download] JarJarSelector-0.3.16.jar 3868#：开始，起始点 0，https://maven.minecraftforge.net/net/minecraftforge/JarJarSelector/0.3.16/JarJarSelector-0.3.16.jar
+[16:09:20.924] [Download] client-1.19.2-20220805.130853-mappings.txt 3871#：开始，起始点 0，https://piston-data.mojang.com/v1/objects/8e8c9be5dc27802caba47053d4fdea328f7f89bd/client.txt
+[16:09:21.066] [Download] client-1.19.2-20220805.130853-mappings.txt：文件大小 7236064 B（6.9 M）
+[16:09:21.508] [Control] 按下按钮：版本选择
+[16:09:21.508] [Control] 切换主要页面：VersionSelect, 0
+[16:09:21.649] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > C:\app\minecraft\.minecraft\
+[16:09:21.665] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[16:09:21.665] [Minecraft] 文件夹列表变更，重载所有版本
+[16:09:21.681] [Setup] 当前选择的 Minecraft 版本：1.19.2-Forge_43.2.0
+[16:09:21.681] [Launch] 自动选择 Minecraft 版本：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\
+[16:09:21.728] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[16:09:22.705] [Download] JarJarMetadata-0.3.16.jar：文件大小 15242 B（14.9 K）
+[16:09:22.722] [Download] mcp_config-1.19.2-20220805.130853.zip：文件大小 1637294 B（1.56 M）
+[16:09:22.737] [Download] asm-util-9.3.jar：文件大小 85682 B（83.7 K）
+[16:09:22.753] [Download] mclanguage-1.19.2-43.2.0.jar：文件大小 4985 B（4.87 K）
+[16:09:22.753] [Download] fmlloader-1.19.2-43.2.0.jar：文件大小 261074 B（255 K）
+[16:09:22.768] [Download] JarJarFileSystems-0.3.16.jar：文件大小 32052 B（31.3 K）
+[16:09:22.768] [Download] javafmllanguage-1.19.2-43.2.0.jar：文件大小 16351 B（16 K）
+[16:09:22.768] [Download] securejarhandler-2.1.4.jar：文件大小 87315 B（85.3 K）
+[16:09:22.768] [Download] lowcodelanguage-1.19.2-43.2.0.jar：文件大小 7377 B（7.2 K）
+[16:09:23.116] [Download] JarJarMetadata-0.3.16.jar：已完成，剩余文件 13
+[16:09:23.179] [Download] javafmllanguage-1.19.2-43.2.0.jar：已完成，剩余文件 12
+[16:09:23.497] [Download] fmlcore-1.19.2-43.2.0.jar：文件大小 112533 B（110 K）
+[16:09:23.497] [Download] asm-util-9.3.jar：已完成，剩余文件 11
+[16:09:23.513] [Download] JarJarSelector-0.3.16.jar：文件大小 17374 B（17 K）
+[16:09:24.170] [Download] mclanguage-1.19.2-43.2.0.jar 3862#：超时（6s）
+[16:09:24.198] [Download] mclanguage-1.19.2-43.2.0.jar：已完成，剩余文件 10
+[16:09:24.298] [Download] mcp_config-1.19.2-20220805.130853.zip 3956#：出错，该下载源不支持断点续传。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[16:09:24.298] [Download] mcp_config-1.19.2-20220805.130853.zip 3792#：下载源被禁用（0）：https://maven.minecraftforge.net/de/oceanlabs/mcp/mcp_config/1.19.2-20220805.130853/mcp_config-1.19.2-20220805.130853.zip
+[16:09:24.298] 下载源 0 已被禁用：该下载源不支持断点续传。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[16:09:24.298] [Download] mcp_config-1.19.2-20220805.130853.zip 3954#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:24.312] [Download] mcp_config-1.19.2-20220805.130853.zip 3952#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:24.312] [Download] mcp_config-1.19.2-20220805.130853.zip 3951#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:24.327] [Download] mcp_config-1.19.2-20220805.130853.zip 3955#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:24.407] [Download] forge-1.19.2-43.2.0-universal.jar：文件大小 2604372 B（2.48 M）
+[16:09:24.444] [Download] client-1.19.2-20220805.130853-mappings.txt：已完成，剩余文件 9
+[16:09:24.580] [Download] mcp_config-1.19.2-20220805.130853.zip 3856#：中断
+[16:09:24.723] [Download] mcp_config-1.19.2-20220805.130853.zip 3953#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:24.802] [Download] forge-1.19.2-43.2.0-universal.jar 3961#：出错，该下载源不支持断点续传。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[16:09:24.802] [Download] forge-1.19.2-43.2.0-universal.jar 3804#：下载源被禁用（0）：https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-universal.jar
+[16:09:24.802] 下载源 0 已被禁用：该下载源不支持断点续传。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[16:09:24.802] [Download] forge-1.19.2-43.2.0-universal.jar 3963#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:24.896] [Download] JarJarFileSystems-0.3.16.jar：已完成，剩余文件 8
+[16:09:25.113] [Download] fmlloader-1.19.2-43.2.0.jar：已完成，剩余文件 7
+[16:09:25.150] [Download] forge-1.19.2-43.2.0-universal.jar 3858#：中断
+[16:09:25.276] [Download] mcp_config-1.19.2-20220805.130853.zip 3950#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:25.307] [Download] forge-1.19.2-43.2.0-universal.jar 3965#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:25.470] [Download] mcp_config-1.19.2-20220805.130853.zip：已完成，剩余文件 6
+[16:09:25.496] [Download] lowcodelanguage-1.19.2-43.2.0.jar：已完成，剩余文件 5
+[16:09:25.639] [Download] forge-1.19.2-43.2.0-universal.jar 3964#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:26.064] [Download] forge-1.19.2-43.2.0-universal.jar 3967#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:26.080] [Download] forge-1.19.2-43.2.0-universal.jar 3966#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:26.111] [Control] 按下图标按钮：BtnTitleInner
+[16:09:26.111] [Control] 切换主要页面：Launch, -1
+[16:09:26.189] [Download] forge-1.19.2-43.2.0-universal.jar 3970#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:26.205] [Download] forge-1.19.2-43.2.0-universal.jar 3972#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:26.205] [Download] forge-1.19.2-43.2.0-universal.jar 3971#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:26.253] [Minecraft] 启动按钮：Minecraft 版本：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\
+[16:09:26.300] [Download] forge-1.19.2-43.2.0-universal.jar 3976#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:26.301] [Download] forge-1.19.2-43.2.0-universal.jar 3975#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:26.819] [Download] forgespi-6.0.0.jar 3867#：超时（6s）
+[16:09:26.945] [Download] forgespi-6.0.0.jar 4020#：开始，起始点 0，https://download.mcbbs.net/maven/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar
+[16:09:26.960] [Download] forgespi-6.0.0.jar：文件大小 32714 B（31.9 K）
+[16:09:27.023] [Download] forge-1.19.2-43.2.0-universal.jar 3968#：出错，服务器无返回数据，但下载尚未完成
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+[16:09:27.086] [Download] forgespi-6.0.0.jar：已完成，剩余文件 4
+[16:09:27.199] [Download] forge-1.19.2-43.2.0-universal.jar：已完成，剩余文件 3
+[16:09:28.000] [Download] JarJarSelector-0.3.16.jar：已完成，剩余文件 2
+[16:09:28.268] [Download] securejarhandler-2.1.4.jar 3863#：超时（6s）
+[16:09:28.331] [Download] securejarhandler-2.1.4.jar 4040#：开始，起始点 0，https://download.mcbbs.net/maven/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar
+[16:09:28.425] [Download] securejarhandler-2.1.4.jar：已完成，剩余文件 1
+[16:09:28.992] [Control] 按下附加按钮：下载管理
+[16:09:28.992] [Control] 切换主要页面：DownloadManager, 0
+[16:09:35.599] [Download] fmlcore-1.19.2-43.2.0.jar：已完成，剩余文件 0
+[16:09:35.599] [Loader] 加载器 下载 Mod 加载器支持库文件 状态改变：Finished
+[16:09:35.599] [Loader] 加载器 获取 Mod 下载器支持库文件 状态改变：Loading
+[16:09:35.673] [Loader] 加载器 下载原版支持库文件 状态改变：Loading
+[16:09:35.673] [Loader] 加载器 分析原版支持库文件（副加载器） 状态改变：Loading
+[16:09:35.784] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[16:09:35.893] [Loader] 加载器 分析原版支持库文件（副加载器） 状态改变：Finished
+[16:09:35.893] [Loader] 加载器 下载原版支持库文件 状态改变：Finished
+[16:09:35.911] [Loader] 加载器 获取 Mod 下载器支持库文件 状态改变：Finished
+[16:09:35.911] [Loader] 加载器 安装 Mod 加载器（方式 A） 状态改变：Loading
+[16:09:35.911] [Download] 开始进行新版方式 Forge 安装：C:\Users\ping\AppData\Local\Temp\PCL\Cache\Code\ForgeInstall-43.2.0_23228
+[16:09:35.911] [Minecraft] 已创建 launcher_profiles.json：C:\Users\ping\AppData\Local\Temp\PCL\Install\1.19.2-Forge_43.2.0\
+[16:09:35.911] [System] 获取资源：ForgeInstaller
+[16:09:35.928] [Java] 开始完全遍历查找：C:\app\minecraft\
+[16:09:35.928] [Java] 开始完全遍历查找：C:\app\minecraft\.minecraft\
+[16:09:35.928] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-20\bin\java.exe -version
+[16:09:36.451] [Java] 选定的 Java：JDK 20 (20.0.1)，64 位：C:\Program Files\Java\jdk-20\bin\
+[16:09:36.451] [Download] 开始安装 Forge：-cp "C:\Users\ping\AppData\Local\Temp\PCL\Cache\forge_installer.jar;C:\Users\ping\AppData\Local\Temp\PCL\Cache\Code\ForgeInstall-43.2.0_23228" com.bangbang93.ForgeInstaller "C:\Users\ping\AppData\Local\Temp\PCL\Install\1.19.2-Forge_43.2.0\
+[16:09:36.895] [Installer] Extracting json
+[16:09:36.895] [Installer] Extracting json
+[16:09:36.910] [Installer] Downloading libraries
+[16:09:36.910] [Installer] Downloading libraries
+[16:09:36.937] [Installer]   File exists: Checksum validated.
+[16:09:36.940] [Installer]   File exists: Checksum validated.
+[16:09:36.943] [Installer]   File exists: Checksum validated.
+[16:09:36.945] [Installer]   File exists: Checksum validated.
+[16:09:36.947] [Installer]   File exists: Checksum validated.
+[16:09:36.949] [Installer]   File exists: Checksum validated.
+[16:09:36.951] [Installer]   File exists: Checksum validated.
+[16:09:36.953] [Installer]   File exists: Checksum validated.
+[16:09:36.955] [Installer]   File exists: Checksum validated.
+[16:09:36.956] [Installer]   File exists: Checksum validated.
+[16:09:36.958] [Installer]   File exists: Checksum validated.
+[16:09:36.960] [Installer]   File exists: Checksum validated.
+[16:09:36.962] [Installer]   File exists: Checksum validated.
+[16:09:36.964] [Installer]   File exists: Checksum validated.
+[16:09:36.965] [Installer]   File exists: Checksum validated.
+[16:09:36.967] [Installer]   File exists: Checksum validated.
+[16:09:36.968] [Installer]   File exists: Checksum validated.
+[16:09:36.970] [Installer]   File exists: Checksum validated.
+[16:09:36.972] [Installer]   File exists: Checksum validated.
+[16:09:36.974] [Installer]   File exists: Checksum validated.
+[16:09:36.977] [Installer]   File exists: Checksum validated.
+[16:09:36.978] [Installer]   File exists: Checksum validated.
+[16:09:36.983] [Installer]   File exists: Checksum validated.
+[16:09:36.985] [Installer]   File exists: Checksum validated.
+[16:09:36.986] [Installer]   File exists: Checksum validated.
+[16:09:36.988] [Installer]   File exists: Checksum validated.
+[16:09:36.989] [Installer]   File exists: Checksum validated.
+[16:09:36.992] [Installer]   File exists: Checksum validated.
+[16:09:36.993] [Installer]   File exists: Checksum validated.
+[16:09:36.994] [Installer]   File exists: Checksum validated.
+[16:09:36.996] [Installer]   File exists: Checksum validated.
+[16:09:37.001] [Installer]   File exists: Checksum validated.
+[16:09:37.006] [Installer]   File exists: Checksum validated.
+[16:09:37.008] [Installer]   File exists: Checksum validated.
+[16:09:37.010] [Installer]   File exists: Checksum validated.
+[16:09:37.012] [Installer]   File exists: Checksum validated.
+[16:09:37.014] [Installer]   File exists: Checksum validated.
+[16:09:37.016] [Installer]   File exists: Checksum validated.
+[16:09:37.017] [Installer]   File exists: Checksum validated.
+[16:09:37.019] [Installer]   File exists: Checksum validated.
+[16:09:37.022] [Installer]   File exists: Checksum validated.
+[16:09:37.024] [Installer]   File exists: Checksum validated.
+[16:09:37.026] [Installer]   File exists: Checksum validated.
+[16:09:37.028] [Installer]   File exists: Checksum validated.
+[16:09:37.029] [Installer]   File exists: Checksum validated.
+[16:09:37.030] [Installer]   File exists: Checksum validated.
+[16:09:37.032] [Installer]   File exists: Checksum validated.
+[16:09:37.036] [Installer]   File exists: Checksum validated.
+[16:09:37.038] [Installer]   File exists: Checksum validated.
+[16:09:37.040] [Installer]   File exists: Checksum validated.
+[16:09:37.041] [Installer]   File exists: Checksum validated.
+[16:09:37.043] [Installer]   File exists: Checksum validated.
+[16:09:37.044] [Installer]   File exists: Checksum validated.
+[16:09:37.046] [Installer]   File exists: Checksum validated.
+[16:09:37.047] [Installer]   File exists: Checksum validated.
+[16:09:37.050] [Installer]   File exists: Checksum validated.
+[16:09:37.052] [Installer]   File exists: Checksum validated.
+[16:09:37.053] [Installer]   File exists: Checksum validated.
+[16:09:37.056] [Installer]   File exists: Checksum validated.
+[16:09:37.058] [Installer]   File exists: Checksum validated.
+[16:09:37.060] [Installer]   File exists: Checksum validated.
+[16:09:37.061] [Installer]   File exists: Checksum validated.
+[16:09:37.064] [Installer]   File exists: Checksum validated.
+[16:09:37.066] [Installer]   File exists: Checksum validated.
+[16:09:37.067] [Installer]   File exists: Checksum validated.
+[16:09:37.069] [Installer]   File exists: Checksum validated.
+[16:09:37.071] [Installer]   File exists: Checksum validated.
+[16:09:37.072] [Installer]   File exists: Checksum validated.
+[16:09:37.074] [Installer]   File exists: Checksum validated.
+[16:09:37.076] [Installer]   File exists: Checksum validated.
+[16:09:37.077] [Installer]   File exists: Checksum validated.
+[16:09:37.080] [Installer]   File exists: Checksum validated.
+[16:09:37.118] [Installer] Building Processors
+[16:09:37.239] [Installer] Task: MERGE_MAPPING
+[16:09:38.469] [Installer] Splitting: 
+[16:09:51.690] [Installer] Injecting profile
+[16:09:51.910] [Setup] 版本隔离使用全局设置：1.19.2-forge-43.2.0
+[16:09:51.910] [Loader] 加载器 安装 Mod 加载器（方式 A） 状态改变：Finished
+[16:09:51.910] [Loader] 加载器 下载 Forge 43.2.0 状态改变：Finished
+[16:09:51.910] [Loader] 加载器 安装游戏 状态改变：Loading
+[16:09:51.910] [Download] 开始进行版本合并，输出：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\，Minecraft：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\，Forge：C:\Users\ping\AppData\Local\Temp\PCL\Install\1.19.2-Forge_43.2.0\versions\1.19.2-forge-43.2.0
+[16:09:51.910] [Download] 版本合并 1.19.2-Forge_43.2.0 完成
+[16:09:52.020] [Loader] 加载器 安装游戏 状态改变：Finished
+[16:09:52.020] [Loader] 加载器 下载游戏支持库文件 状态改变：Loading
+[16:09:52.020] [Loader] 加载器 分析游戏支持库文件（副加载器） 状态改变：Loading
+[16:09:52.099] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[16:09:52.335] [Loader] 加载器 分析游戏支持库文件（副加载器） 状态改变：Finished
+[16:09:52.335] [Loader] 加载器 下载游戏支持库文件（副加载器） 状态改变：Loading
+[16:09:52.335] [Loader] 加载器 下载游戏支持库文件（副加载器） 状态改变：Finished
+[16:09:52.335] [Loader] 加载器 下载游戏支持库文件 状态改变：Finished
+[16:09:52.335] [Loader] 加载器 1.19.2-Forge_43.2.0 安装 状态改变：Finished
+[16:09:52.335] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[16:09:52.344] [Minecraft] 文件夹列表变更，重载所有版本
+[16:09:52.351] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\
+[16:09:52.383] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[16:09:52.398] [UI] 弹出提示：1.19.2-Forge_43.2.0 安装成功！
+[16:09:52.665] [Control] 切换主要页面：Launch, -1
+[16:14:21.303] [Control] 按下按钮：版本设置
+[16:14:21.319] [Control] 切换主要页面：VersionSetup, 0
+[16:14:23.250] [Control] 按下单选列表项：Mod 管理
+[16:14:23.379] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[16:14:23.426] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[16:14:24.778] [Control] 按下按钮：打开 Mod 文件夹
+[16:14:42.636] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[16:14:42.773] [UI] 弹出提示：直接点击某个 Mod 项即可将它禁用！
+[16:14:42.804] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[16:14:46.123] [Control] 按下图标按钮：BtnTitleInner
+[16:14:46.125] [Control] 切换主要页面：Launch, -1
+[16:14:46.912] [Control] 按下按钮：启动游戏
+[16:14:46.912] [Loader] 加载器 Loader Launch 状态改变：Loading
+[16:14:46.927] [Launch] 预检测已通过
+[16:14:46.927] [Download] 开始后台更新资源文件索引
+[16:14:46.927] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[16:14:46.927] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[16:14:46.943] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[16:14:46.943] [Loader] 加载器 Java 处理 状态改变：Loading
+[16:14:46.943] [Loader] 加载器 Java 验证 状态改变：Loading
+[16:14:46.943] [Download] 版本 1.19.2-Forge_43.2.0 对应的资源文件索引为 1.19
+[16:14:46.943] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[16:14:46.943] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[16:14:46.943] [Loader] 加载器 登录 状态改变：Loading
+[16:14:46.943] [Loader] 加载器 补全文件 状态改变：Loading
+[16:14:46.943] [Launch] 登录线程已启动
+[16:14:46.943] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[16:14:46.943] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[16:14:46.943] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[16:14:46.943] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[16:14:46.943] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[16:14:46.943] [Download] 版本 1.19.2-Forge_43.2.0 对应的资源文件索引为 1.19
+[16:14:46.943] [Launch] 登录方式：微软正版（Ping2004）
+[16:14:46.943] [Launch] 微软登录完成
+[16:14:46.943] [UI] 解锁隐藏主题：10
+[16:14:46.943] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[16:14:46.943] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[16:14:46.943] [Java] 开始完全遍历查找：C:\app\minecraft\
+[16:14:46.943] [Java] 开始完全遍历查找：C:\app\minecraft\.minecraft\
+[16:14:46.943] [Java] 开始完全遍历查找：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\
+[16:14:46.943] [Java] 选定的 Java：JDK 20 (20.0.1)，64 位：C:\Program Files\Java\jdk-20\bin\
+[16:14:46.943] [Launch] 选择的 Java：JDK 20 (20.0.1)，64 位：C:\Program Files\Java\jdk-20\bin\
+[16:14:46.943] [Loader] 加载器 Java 验证 状态改变：Finished
+[16:14:46.943] [Loader] 加载器 Java 处理 状态改变：Finished
+[16:14:46.943] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[16:14:46.943] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[16:14:46.943] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[16:14:46.943] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[16:14:46.958] [Loader] 加载器 登录 状态改变：Finished
+[16:14:46.974] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[16:14:47.006] [Download] 1.19.json 4343#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/a9c8b05a8082a65678beda6dfa2b8f21fa627bce/1.19.json
+[16:14:47.008] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[16:14:47.008] [Loader] 加载器 下载资源文件 状态改变：Loading
+[16:14:47.008] [Loader] 加载器 下载资源文件 状态改变：Finished
+[16:14:47.008] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[16:14:47.084] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[16:14:47.089] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[16:14:47.089] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[16:14:47.089] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[16:14:47.089] [Loader] 加载器 补全文件 状态改变：Finished
+[16:14:47.089] [Loader] 加载器 提供参数中的服务器 IP 状态改变：Loading
+[16:14:47.089] [Loader] 加载器 提供参数中的服务器 IP 状态改变：Finished
+[16:14:47.089] [Loader] 加载器 获取启动参数 状态改变：Loading
+[16:14:47.089] [Launch] 开始获取 Minecraft 启动参数
+[16:14:47.089] [Launch] 获取新版 JVM 参数
+[16:14:47.104] [Launch] 当前剩余内存：9.8G
+[16:14:47.116] [Launch] 新版 JVM 参数获取成功：
+[16:14:47.116] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.3/asm-9.3.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx6348m cpw.mods.bootstraplauncher.BootstrapLauncher
+[16:14:47.116] [Launch] 获取新版 Game 参数
+[16:14:47.116] [Launch] 新版 Game 参数获取成功
+[16:14:47.116] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[16:14:47.116] [Launch] Minecraft 启动参数：
+[16:14:47.116] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\1.19.2-Forge_43.2.0-natives" -Dminecraft.launcher.brand=PCL2 -Dminecraft.launcher.version=249 -cp "C:\app\minecraft\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;C:\app\minecraft\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\app\minecraft\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\app\minecraft\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;C:\app\minecraft\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;C:\app\minecraft\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;C:\app\minecraft\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;C:\app\minecraft\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;C:\app\minecraft\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;C:\app\minecraft\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;C:\app\minecraft\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\app\minecraft\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;C:\app\minecraft\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;C:\app\minecraft\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;C:\app\minecraft\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;C:\app\minecraft\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;C:\app\minecraft\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;C:\app\minecraft\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;C:\app\minecraft\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;C:\app\minecraft\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\app\minecraft\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\app\minecraft\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\app\minecraft\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\app\minecraft\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\app\minecraft\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\app\minecraft\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;C:\app\minecraft\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\app\minecraft\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;C:\app\minecraft\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\app\minecraft\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\app\minecraft\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\app\minecraft\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\app\minecraft\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;C:\app\minecraft\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\app\minecraft\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\app\minecraft\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\app\minecraft\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;C:\app\minecraft\.minecraft\libraries\cpw\mods\securejarhandler\2.1.4\securejarhandler-2.1.4.jar;C:\app\minecraft\.minecraft\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;C:\app\minecraft\.minecraft\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;C:\app\minecraft\.minecraft\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;C:\app\minecraft\.minecraft\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;C:\app\minecraft\.minecraft\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;C:\app\minecraft\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\app\minecraft\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\app\minecraft\.minecraft\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;C:\app\minecraft\.minecraft\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;C:\app\minecraft\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\app\minecraft\.minecraft\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;C:\app\minecraft\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\app\minecraft\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\app\minecraft\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\app\minecraft\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\app\minecraft\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\app\minecraft\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\app\minecraft\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\app\minecraft\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\app\minecraft\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\app\minecraft\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\app\minecraft\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.16\JarJarSelector-0.3.16.jar;C:\app\minecraft\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.16\JarJarMetadata-0.3.16.jar;C:\app\minecraft\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\app\minecraft\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.16\JarJarFileSystems-0.3.16.jar;C:\app\minecraft\.minecraft\libraries\net\minecraftforge\fmlloader\1.19.2-43.2.0\fmlloader-1.19.2-43.2.0.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,1.19.2-Forge_43.2.0.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory="C:\app\minecraft\.minecraft\libraries" -p "C:\app\minecraft\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;"C:\app\minecraft\.minecraft\libraries"/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar;"C:\app\minecraft\.minecraft\libraries"/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;"C:\app\minecraft\.minecraft\libraries"/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;"C:\app\minecraft\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;"C:\app\minecraft\.minecraft\libraries"/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;"C:\app\minecraft\.minecraft\libraries"/org/ow2/asm/asm/9.3/asm-9.3.jar;"C:\app\minecraft\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx6348m cpw.mods.bootstraplauncher.BootstrapLauncher --username Ping2004 --version 1.19.2-Forge_43.2.0 --gameDir "C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0" --assetsDir "C:\app\minecraft\.minecraft\assets" --assetIndex 1.19 --uuid 8c46369e87ca49c28c7629ec6e4cc7f7 --accessToken eyJraWQiOiJhYzg0YSIsIm********hTMjU2In0.eyJ4dWlkIjoiMjUzNTQ0MzA1NzcwMTYwMyIsImFnZyI6IkFkdWx0Iiwic3ViIjoiMmExMzI1MjEtMmNjOS00NTc1LWIzNmUtOTZlNGZiM2FlNmI4IiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsidHdvZmFjdG9yYXV0aCIsIm9yZGVyc18yMDIyIl0sInBsYXRmb3JtIjoiVU5LTk9XTiIsInl1aWQiOiI3MDFjNzcwZTdhZTI3MzFmNmIxN2UzMmZjNzA5ZjA0YyIsIm5iZiI6MTY4NjU1NzA5NSwiZXhwIjoxNjg2NjQzNDk1LCJpYXQiOjE2ODY1NTcwOTV9.Nmu_kzY-genkJcZBJj7wngaxjRz41iXEPoLNxnOTLEk --clientId ${clientid} --xuid ${auth_xuid} --userType Mojang --versionType PCL2 --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 43.2.0 --fml.mcVersion 1.19.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220805.130853 
+[16:14:47.116] [Loader] 加载器 获取启动参数 状态改变：Finished
+[16:14:47.116] [Loader] 加载器 解压文件 状态改变：Loading
+[16:14:47.116] [Launch] 正在解压 Natives 文件
+[16:14:47.116] [Loader] 加载器 解压文件 状态改变：Finished
+[16:14:47.131] [Loader] 加载器 预启动处理 状态改变：Loading
+[16:14:47.147] [Launch] 已更新 launcher_profiles.json
+[16:14:47.147] [Launch] 已根据设置自动修改语言为中文
+[16:14:47.147] [Loader] 加载器 预启动处理 状态改变：Finished
+[16:14:47.163] [Loader] 加载器 启动进程 状态改变：Loading
+[16:14:47.179] [Launch] 已启动游戏进程
+[16:14:47.179] [Loader] 加载器 启动进程 状态改变：Finished
+[16:14:47.199] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[16:14:47.199] [Launch] 
+[16:14:47.199] [Launch] ~ 基础参数 ~
+[16:14:47.199] [Launch] PCL2 版本：Snapshot 2.2.10 (249)
+[16:14:47.199] [Launch] 游戏版本：1.19.2, Forge 43.2.0（19）
+[16:14:47.199] [Launch] 资源版本：1.19
+[16:14:47.199] [Launch] 版本继承：无
+[16:14:47.199] [Launch] 分配的内存：6.2 GB（6349 MB）
+[16:14:47.199] [Launch] MC 文件夹：C:\app\minecraft\.minecraft\
+[16:14:47.199] [Launch] 版本文件夹：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\
+[16:14:47.199] [Launch] 版本隔离：True
+[16:14:47.199] [Launch] HMCL 格式：False
+[16:14:47.199] [Launch] Java 信息：JDK 20 (20.0.1)，64 位：C:\Program Files\Java\jdk-20\bin\
+[16:14:47.199] [Launch] 环境变量：未设置
+[16:14:47.199] [Launch] 
+[16:14:47.199] [Launch] ~ 登录参数 ~
+[16:14:47.199] [Launch] 玩家用户名：Ping2004
+[16:14:47.199] [Launch] AccessToken：eyJraWQiOiJhYzg0YSIsIm********hTMjU2In0.eyJ4dWlkIjoiMjUzNTQ0MzA1NzcwMTYwMyIsImFnZyI6IkFkdWx0Iiwic3ViIjoiMmExMzI1MjEtMmNjOS00NTc1LWIzNmUtOTZlNGZiM2FlNmI4IiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsidHdvZmFjdG9yYXV0aCIsIm9yZGVyc18yMDIyIl0sInBsYXRmb3JtIjoiVU5LTk9XTiIsInl1aWQiOiI3MDFjNzcwZTdhZTI3MzFmNmIxN2UzMmZjNzA5ZjA0YyIsIm5iZiI6MTY4NjU1NzA5NSwiZXhwIjoxNjg2NjQzNDk1LCJpYXQiOjE2ODY1NTcwOTV9.Nmu_kzY-genkJcZBJj7wngaxjRz41iXEPoLNxnOTLEk
+[16:14:47.199] [Launch] ClientToken：8c46369e87ca49c28c7629ec6e4cc7f7
+[16:14:47.199] [Launch] UUID：8c46369e87ca49c28c7629ec6e4cc7f7
+[16:14:47.199] [Launch] 登录方式：Microsoft
+[16:14:47.199] [Launch] 
+[16:14:47.210] [Launch] [6168] 开始 Minecraft 日志监控
+[16:14:47.210] [Launch] [全局] 出现运行中的 Minecraft
+[16:14:47.352] [Download] 1.19.json：文件大小 385608 B（377 K）
+[16:14:47.917] [Download] 1.19.json：已完成，剩余文件 0
+[16:14:47.917] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[16:14:47.917] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[16:14:47.917] [Launch] 后台更新资源文件索引成功：C:\Users\ping\AppData\Local\Temp\PCL\Cache\1.19.json
+[16:14:47.917] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[16:14:47.917] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[16:14:49.100] [Launch] [6168] 日志 1/5：已出现日志输出
+[16:14:52.148] [Launch] [6168] Minecraft 已退出，返回值：1
+[16:14:52.148] [Launch] [6168] Minecraft 尚未加载完成，可能已崩溃
+[16:14:52.148] [Launch] [全局] 已无运行中的 Minecraft
+[16:14:52.148] [Launch] [6168] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[16:14:52.211] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[16:14:52.258] 加载线程 等待游戏窗口出现 (609) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[16:14:52.258] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[16:14:52.258] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[16:14:52.289] 加载线程 Loader Launch (590) 发生运行时错误：等待游戏窗口出现失败
+Caused By: $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[16:14:52.289] [Loader] 加载器 Loader Launch 状态改变：Failed
+[16:14:52.384] [Launch] [6168] Minecraft 日志监控已退出
+[16:14:54.164] [Launch] [6168] 崩溃分析开始
+[16:14:54.164] [Crash] 崩溃分析暂存文件夹：C:\Users\ping\AppData\Local\Temp\PCL\CrashAnalyzer\616845765897\
+[16:14:54.179] [Crash] 步骤 1：收集日志文件
+[16:14:54.179] [Crash] 可能可用的日志文件：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log（0 分钟）
+[16:14:54.179] [Crash] 可能可用的日志文件：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\logs\debug.log（0 分钟）
+[16:14:54.186] [Crash] 以下为游戏输出的最后一段内容：
+2023-06-12 16:14:48,938 main WARN Advanced terminal features are not available in this environment
+[16:14:49] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Ping2004, --version, 1.19.2-Forge_43.2.0, --gameDir, C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\app\minecraft\.minecraft\assets, --assetIndex, 1.19, --uuid, 8c46369e87ca49c28c7629ec6e4cc7f7, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, Mojang, --versionType, PCL2, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[16:14:49] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 20.0.1 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[16:14:49] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/app/minecraft/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23132!/ Service=ModLauncher Env=CLIENT
+[16:14:49] [main/WARN] [ne.mi.fm.lo.FMLConfig/CORE]: Configuration file C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\config\fml.toml is not correct. Correcting
+[16:14:49] [main/WARN] [ne.mi.fm.lo.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[16:14:49] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\app\minecraft\.minecraft\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.0\fmlcore-1.19.2-43.2.0.jar is missing mods.toml file
+[16:14:49] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\app\minecraft\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.0\javafmllanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[16:14:49] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\app\minecraft\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.0\lowcodelanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[16:14:49] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\app\minecraft\.minecraft\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.0\mclanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[16:14:50] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[16:14:50] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'forge', Requested by: 'create', Expected range: '[43.2.3,)', Actual version: '43.2.0'
+[16:14:51] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16:14:51] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.19.2-Forge_43.2.0, --gameDir, C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\app\minecraft\.minecraft\assets, --uuid, 8c46369e87ca49c28c7629ec6e4cc7f7, --username, Ping2004, --assetIndex, 1.19, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, Mojang, --versionType, PCL2, --width, 854, --height, 480]
+[16:14:51] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/data/ChunkRenderData$Builder (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder)
+[16:14:51] [main/WARN] [mixin/]: @Mixin target me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder was not found flywheel.mixins.json:instancemanage.SodiumChunkRenderDataMixin
+[16:14:51] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[16:14:51] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[16:14:51] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[16:14:51] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[16:14:51] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[16:14:51] [main/WARN] [mixin/]: Error loading class: java/lang/System (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+Exception in thread "main" java.lang.RuntimeException: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:32)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:633)
+	at java.base/java.lang.Class.forName(Class.java:585)
+	at java.base/java.lang.Class.forName(Class.java:560)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.2.0/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	... 7 more
+Caused by: org.spongepowered.asm.mixin.throwables.ClassMetadataNotFoundException: java.lang.System
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transformMethod(MixinPreProcessorStandard.java:754)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transform(MixinPreProcessorStandard.java:739)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:310)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:280)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1288)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:292)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+	... 23 more
+[16:14:54.186] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[16:14:54.195] [Crash] 步骤 2：准备日志文本
+[16:14:54.195] [Crash] latest.log 分类为 MinecraftLog
+[16:14:54.195] [Crash] debug.log 分类为 MinecraftLog
+[16:14:54.195] [Crash] RawOutput.log 分类为 MinecraftLog
+[16:14:54.195] [Crash] 输出报告：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log，作为 Minecraft 或启动器日志
+[16:14:54.195] [Crash] 输出报告：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\logs\debug.log，作为 Minecraft 或启动器日志
+[16:14:54.195] [Crash] 输出报告：C:\Users\ping\AppData\Local\Temp\PCL\CrashAnalyzer\616845765897\RawOutput.log，作为 Minecraft 或启动器日志
+[16:14:54.195] [Crash] 导入分析：C:\Users\ping\AppData\Local\Temp\PCL\CrashAnalyzer\616845765897\RawOutput.log，作为启动器日志
+[16:14:54.195] [Crash] 导入分析：C:\app\minecraft\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log，作为 Minecraft 日志
+[16:14:54.195] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[16:14:54.195] [Crash] 步骤 3：分析崩溃原因
+[16:14:54.195] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[16:14:54.195] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[16:14:54.195] [System] 窗口已置顶，位置：(448.666666666667, 206), 810 x 500
+[16:14:54.211] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[16:15:00.770] [Control] 按下按钮：导出错误报告
+[16:15:00.770] [Control] 普通弹框返回：2
+[16:15:03.503] [UI] 选择文件返回：D:\mod\错误报告-2023-6-12_16.15.00.zip
+[16:15:03.591] [System] 诊断信息：
+操作系统：Microsoft Windows 11 家庭中文版
+剩余内存：10051 M / 16010 M
+DPI：144（150%）
+文件位置：C:\app\minecraft\

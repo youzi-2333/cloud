@@ -1,0 +1,1339 @@
+[086月2023 12:56:16.512] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, xiaolizi_, --version, 1.19.2, --gameDir, E:\Minecraft\versions\1.19.2, --assetsDir, E:\Minecraft\assets, --assetIndex, 1.19, --uuid, 7c63c8efd2604578938bf1f77387729c, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.14, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[086月2023 12:56:16.518] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 18.0.2.1 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[086月2023 12:56:17.899] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/E:/Minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23146!/ Service=ModLauncher Env=CLIENT
+[086月2023 12:56:20.513] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file E:\Minecraft\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.14\fmlcore-1.19.2-43.2.14.jar is missing mods.toml file
+[086月2023 12:56:20.515] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file E:\Minecraft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.14\javafmllanguage-1.19.2-43.2.14.jar is missing mods.toml file
+[086月2023 12:56:20.517] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file E:\Minecraft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.14\lowcodelanguage-1.19.2-43.2.14.jar is missing mods.toml file
+[086月2023 12:56:20.520] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file E:\Minecraft\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.14\mclanguage-1.19.2-43.2.14.jar is missing mods.toml file
+[086月2023 12:56:20.687] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: flywheel. Using Mod File: E:\Minecraft\versions\1.19.2\mods\flywheel-forge-1.19.2-0.6.8.a.jar
+[086月2023 12:56:20.687] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[086月2023 12:56:24.071] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[086月2023 12:56:24.107] [main/ERROR] [mixin/]: Mixin config rei-jei-internals-workaround.mixins.json does not specify "minVersion" property
+[086月2023 12:56:24.171] [main/ERROR] [mixin/]: Mixin config rei.mixins.json does not specify "minVersion" property
+[086月2023 12:56:24.195] [main/ERROR] [mixin/]: Mixin config mixins.oculus.compat.sodium.json does not specify "minVersion" property
+[086月2023 12:56:24.264] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.19.2, --gameDir, E:\Minecraft\versions\1.19.2, --assetsDir, E:\Minecraft\assets, --uuid, 7c63c8efd2604578938bf1f77387729c, --username, xiaolizi_, --assetIndex, 1.19, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480]
+[086月2023 12:56:24.524] [main/WARN] [mixin/]: Reference map 'alloyed.refmap.json' for alloyed.mixins.json could not be read. If this is a development environment you can ignore this message
+[086月2023 12:56:24.632] [main/WARN] [mixin/]: Reference map 'dummmmmmy-forge-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[086月2023 12:56:24.652] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[086月2023 12:56:24.826] [main/WARN] [mixin/]: Reference map 'extendedgears-forge-refmap.json' for examplemod.mixins.json could not be read. If this is a development environment you can ignore this message
+[086月2023 12:56:24.881] [main/WARN] [mixin/]: Reference map 'create_crystal_clear.refmap.json' for create_crystal_clear.mixins.json could not be read. If this is a development environment you can ignore this message
+[086月2023 12:56:24.884] [main/WARN] [mixin/]: Reference map 'createindustry.refmap.json' for createindustry.mixins.json could not be read. If this is a development environment you can ignore this message
+[086月2023 12:56:24.887] [main/WARN] [mixin/]: Reference map 'steampowered.refmap.json' for extendedflywheels.mixins.json could not be read. If this is a development environment you can ignore this message
+[086月2023 12:56:24.900] [main/WARN] [mixin/]: Reference map 'polylib-forge-refmap.json' for polylib-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[086月2023 12:56:24.943] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/bearing/MechanicalBearingTileEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.components.structureMovement.bearing.MechanicalBearingTileEntity)
+[086月2023 12:56:24.944] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.bearing.MechanicalBearingTileEntity was not found createbigcannons.mixins.json:BearingCannonDrillFinderMixin
+[086月2023 12:56:24.947] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/relays/belt/transport/BeltMovementHandler (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.relays.belt.transport.BeltMovementHandler)
+[086月2023 12:56:24.947] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.relays.belt.transport.BeltMovementHandler was not found createbigcannons.mixins.json:BeltTileEntityMixin
+[086月2023 12:56:26.063] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/item/ItemProperties$static$1 (java.lang.ClassNotFoundException: net.minecraft.client.renderer.item.ItemProperties$static$1)
+[086月2023 12:56:26.063] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.item.ItemProperties$static$1 was not found infernal-expansion.mixins.json:client.MixinItemProperties
+[086月2023 12:56:26.466] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[086月2023 12:56:26.476] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[086月2023 12:56:26.571] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/Carriage (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.Carriage)
+[086月2023 12:56:26.572] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.Carriage was not found railways-common.mixins.json:AccessorCarriage
+[086月2023 12:56:26.573] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/CarriageBogey (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.CarriageBogey)
+[086月2023 12:56:26.574] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.CarriageBogey was not found railways-common.mixins.json:AccessorCarriageBogey
+[086月2023 12:56:26.581] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/CarriageContraptionEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.CarriageContraptionEntity)
+[086月2023 12:56:26.583] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.CarriageContraptionEntity was not found railways-common.mixins.json:AccessorCarriageContraptionEntity
+[086月2023 12:56:26.585] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/Navigation (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.Navigation)
+[086月2023 12:56:26.586] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.Navigation was not found railways-common.mixins.json:AccessorNavigation
+[086月2023 12:56:26.599] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/schedule/ScheduleRuntime (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.schedule.ScheduleRuntime)
+[086月2023 12:56:26.599] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.schedule.ScheduleRuntime was not found railways-common.mixins.json:AccessorScheduleRuntime
+[086月2023 12:56:26.600] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/curiosities/toolbox/ToolboxInventory (java.lang.ClassNotFoundException: com.simibubi.create.content.curiosities.toolbox.ToolboxInventory)
+[086月2023 12:56:26.601] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.curiosities.toolbox.ToolboxInventory was not found railways-common.mixins.json:AccessorToolboxInventory
+[086月2023 12:56:26.610] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/curiosities/toolbox/ToolboxTileEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.curiosities.toolbox.ToolboxTileEntity)
+[086月2023 12:56:26.610] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.curiosities.toolbox.ToolboxTileEntity was not found railways-common.mixins.json:AccessorToolboxTileEntity
+[086月2023 12:56:26.612] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackPlacement$PlacementInfo (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackPlacement$PlacementInfo)
+[086月2023 12:56:26.613] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackPlacement$PlacementInfo was not found railways-common.mixins.json:AccessorTrackPlacement_PlacementInfo
+[086月2023 12:56:26.614] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/TrackTargetingBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.TrackTargetingBehaviour)
+[086月2023 12:56:26.614] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.TrackTargetingBehaviour was not found railways-common.mixins.json:AccessorTrackTargetingBehavior
+[086月2023 12:56:26.620] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/Train (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.Train)
+[086月2023 12:56:26.620] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.Train was not found railways-common.mixins.json:AccessorTrain
+[086月2023 12:56:26.626] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/BezierConnection (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.BezierConnection)
+[086月2023 12:56:26.630] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.BezierConnection was not found railways-common.mixins.json:MixinBezierConnection
+[086月2023 12:56:26.632] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/processing/burner/BlazeBurnerInteractionBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.processing.burner.BlazeBurnerInteractionBehaviour)
+[086月2023 12:56:26.632] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.processing.burner.BlazeBurnerInteractionBehaviour was not found railways-common.mixins.json:MixinBlazeBurnerInteractionBehaviour
+[086月2023 12:56:26.636] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/Carriage (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.Carriage)
+[086月2023 12:56:26.636] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.Carriage was not found railways-common.mixins.json:MixinCarriage
+[086月2023 12:56:26.638] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/CarriageBogey (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.CarriageBogey)
+[086月2023 12:56:26.638] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.CarriageBogey was not found railways-common.mixins.json:MixinCarriageBogey
+[086月2023 12:56:26.640] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/actors/DrillMovementBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.components.actors.DrillMovementBehaviour)
+[086月2023 12:56:26.640] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.actors.DrillMovementBehaviour was not found railways-common.mixins.json:MixinDrillMovementBehavior
+[086月2023 12:56:26.644] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/curiosities/girder/GirderBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.curiosities.girder.GirderBlock)
+[086月2023 12:56:26.644] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.curiosities.girder.GirderBlock was not found railways-common.mixins.json:MixinGirderBlock
+[086月2023 12:56:26.646] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/station/GlobalStation (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.station.GlobalStation)
+[086月2023 12:56:26.646] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.station.GlobalStation was not found railways-common.mixins.json:MixinGlobalStation
+[086月2023 12:56:26.648] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/press/MechanicalPressTileEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.components.press.MechanicalPressTileEntity)
+[086月2023 12:56:26.648] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.press.MechanicalPressTileEntity was not found railways-common.mixins.json:MixinMechanicalPressTileEntity
+[086月2023 12:56:26.650] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/Navigation (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.Navigation)
+[086月2023 12:56:26.650] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.Navigation was not found railways-common.mixins.json:MixinNavigation
+[086月2023 12:56:26.651] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/PlaceExtendedCurvePacket (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.PlaceExtendedCurvePacket)
+[086月2023 12:56:26.651] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.PlaceExtendedCurvePacket was not found railways-common.mixins.json:MixinPlaceExtendedCurvePacket
+[086月2023 12:56:26.661] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/schedule/ScheduleItem (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.schedule.ScheduleItem)
+[086月2023 12:56:26.662] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.schedule.ScheduleItem was not found railways-common.mixins.json:MixinScheduleItem
+[086月2023 12:56:26.663] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/schedule/ScheduleRuntime (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.schedule.ScheduleRuntime)
+[086月2023 12:56:26.664] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.schedule.ScheduleRuntime was not found railways-common.mixins.json:MixinScheduleRuntime
+[086月2023 12:56:26.665] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/signal/SignalBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.signal.SignalBlock)
+[086月2023 12:56:26.665] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.signal.SignalBlock was not found railways-common.mixins.json:MixinSignalBlock
+[086月2023 12:56:26.666] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/signal/SignalBoundary (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.signal.SignalBoundary)
+[086月2023 12:56:26.666] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.signal.SignalBoundary was not found railways-common.mixins.json:MixinSignalBoundary
+[086月2023 12:56:26.679] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/curiosities/deco/SlidingDoorMovementBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.content.curiosities.deco.SlidingDoorMovementBehaviour)
+[086月2023 12:56:26.679] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.curiosities.deco.SlidingDoorMovementBehaviour was not found railways-common.mixins.json:MixinSlidingDoorMovementBehaviour
+[086月2023 12:56:26.680] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/curiosities/deco/SlidingDoorTileEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.curiosities.deco.SlidingDoorTileEntity)
+[086月2023 12:56:26.680] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.curiosities.deco.SlidingDoorTileEntity was not found railways-common.mixins.json:MixinSlidingDoorTileEntity
+[086月2023 12:56:26.685] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/station/StationBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.station.StationBlock)
+[086月2023 12:56:26.685] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.station.StationBlock was not found railways-common.mixins.json:MixinStationBlock
+[086月2023 12:56:26.688] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/station/StationEditPacket (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.station.StationEditPacket)
+[086月2023 12:56:26.688] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.station.StationEditPacket was not found railways-common.mixins.json:MixinStationEditPacket
+[086月2023 12:56:26.691] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/station/StationTileEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.station.StationTileEntity)
+[086月2023 12:56:26.691] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.station.StationTileEntity was not found railways-common.mixins.json:MixinStationTileEntity
+[086月2023 12:56:26.692] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/curiosities/toolbox/ToolboxHandler (java.lang.ClassNotFoundException: com.simibubi.create.content.curiosities.toolbox.ToolboxHandler)
+[086月2023 12:56:26.692] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.curiosities.toolbox.ToolboxHandler was not found railways-common.mixins.json:MixinToolboxHandler
+[086月2023 12:56:26.694] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackBlock)
+[086月2023 12:56:26.694] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackBlock was not found railways-common.mixins.json:MixinTrackBlock
+[086月2023 12:56:26.702] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackBlockItem (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackBlockItem)
+[086月2023 12:56:26.703] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackBlockItem was not found railways-common.mixins.json:MixinTrackBlockItem
+[086月2023 12:56:26.704] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/signal/TrackEdgePoint (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.signal.TrackEdgePoint)
+[086月2023 12:56:26.704] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.signal.TrackEdgePoint was not found railways-common.mixins.json:MixinTrackEdgePoint
+[086月2023 12:56:26.706] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackPlacement (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackPlacement)
+[086月2023 12:56:26.706] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackPlacement was not found railways-common.mixins.json:MixinTrackPlacement
+[086月2023 12:56:26.715] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackPlacement$PlacementInfo (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackPlacement$PlacementInfo)
+[086月2023 12:56:26.715] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackPlacement$PlacementInfo was not found railways-common.mixins.json:MixinTrackPlacement_PlacementInfo
+[086月2023 12:56:26.716] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/TrackTargetingBlockItem (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.TrackTargetingBlockItem)
+[086月2023 12:56:26.717] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.TrackTargetingBlockItem was not found railways-common.mixins.json:MixinTrackTargetingBlockItem
+[086月2023 12:56:26.719] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/TrackTargetingBlockItem$OverlapResult (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.TrackTargetingBlockItem$OverlapResult)
+[086月2023 12:56:26.719] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.TrackTargetingBlockItem$OverlapResult was not found railways-common.mixins.json:MixinTrackTargetingBlockItem$MixinOverlapResult
+[086月2023 12:56:26.727] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackTileEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackTileEntity)
+[086月2023 12:56:26.728] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackTileEntity was not found railways-common.mixins.json:MixinTrackTileEntity
+[086月2023 12:56:26.729] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/Train (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.Train)
+[086月2023 12:56:26.729] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.Train was not found railways-common.mixins.json:MixinTrain
+[086月2023 12:56:26.731] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/TravellingPoint (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.TravellingPoint)
+[086月2023 12:56:26.731] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.TravellingPoint was not found railways-common.mixins.json:MixinTravellingPoint
+[086月2023 12:56:26.769] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/BogeyInstance (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.BogeyInstance)
+[086月2023 12:56:26.769] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.BogeyInstance was not found railways-common.mixins.json:client.AccessorBogeyInstance
+[086月2023 12:56:26.772] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/curiosities/toolbox/ToolboxHandlerClient (java.lang.ClassNotFoundException: com.simibubi.create.content.curiosities.toolbox.ToolboxHandlerClient)
+[086月2023 12:56:26.772] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.curiosities.toolbox.ToolboxHandlerClient was not found railways-common.mixins.json:client.AccessorToolboxHandlerClient
+[086月2023 12:56:26.774] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackBlockOutline (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackBlockOutline)
+[086月2023 12:56:26.775] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackBlockOutline was not found railways-common.mixins.json:client.AccessorTrackBlockOutline
+[086月2023 12:56:26.778] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/BezierConnection (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.BezierConnection)
+[086月2023 12:56:26.778] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.BezierConnection was not found railways-common.mixins.json:client.MixinBezierConnectionClient
+[086月2023 12:56:26.781] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/curiosities/tools/BlueprintOverlayRenderer (java.lang.ClassNotFoundException: com.simibubi.create.content.curiosities.tools.BlueprintOverlayRenderer)
+[086月2023 12:56:26.781] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.curiosities.tools.BlueprintOverlayRenderer was not found railways-common.mixins.json:client.MixinBlueprintOverlayRenderer
+[086月2023 12:56:26.783] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/BogeyInstance$Frame (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.BogeyInstance$Frame)
+[086月2023 12:56:26.783] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.BogeyInstance$Frame was not found railways-common.mixins.json:client.MixinBogeyInstance_Frame
+[086月2023 12:56:26.785] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/CarriageContraptionEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.CarriageContraptionEntity)
+[086月2023 12:56:26.785] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.CarriageContraptionEntity was not found railways-common.mixins.json:client.MixinCarriageContraptionEntity
+[086月2023 12:56:26.787] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/CarriageContraptionEntityRenderer (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.CarriageContraptionEntityRenderer)
+[086月2023 12:56:26.787] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.CarriageContraptionEntityRenderer was not found railways-common.mixins.json:client.MixinCarriageContraptionEntityRenderer
+[086月2023 12:56:26.789] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/CarriageContraptionInstance (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.CarriageContraptionInstance)
+[086月2023 12:56:26.798] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.CarriageContraptionInstance was not found railways-common.mixins.json:client.MixinCarriageContraptionInstance
+[086月2023 12:56:26.800] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/CurvedTrackInteraction (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.CurvedTrackInteraction)
+[086月2023 12:56:26.800] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.CurvedTrackInteraction was not found railways-common.mixins.json:client.MixinCurvedTrackInteraction
+[086月2023 12:56:26.846] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/GlobalRailwayManager (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.GlobalRailwayManager)
+[086月2023 12:56:26.847] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.GlobalRailwayManager was not found railways-common.mixins.json:client.MixinGlobalRailwayManager
+[086月2023 12:56:26.850] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/ponder/content/PonderIndex (java.lang.ClassNotFoundException: com.simibubi.create.foundation.ponder.content.PonderIndex)
+[086月2023 12:56:26.850] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.ponder.content.PonderIndex was not found railways-common.mixins.json:client.MixinPonderIndex
+[086月2023 12:56:26.852] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/curiosities/toolbox/RadialToolboxMenu (java.lang.ClassNotFoundException: com.simibubi.create.content.curiosities.toolbox.RadialToolboxMenu)
+[086月2023 12:56:26.853] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.curiosities.toolbox.RadialToolboxMenu was not found railways-common.mixins.json:client.MixinRadialToolboxMenu
+[086月2023 12:56:26.855] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/station/StationScreen (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.station.StationScreen)
+[086月2023 12:56:26.855] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.station.StationScreen was not found railways-common.mixins.json:client.MixinStationScreen
+[086月2023 12:56:26.857] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/glue/SuperGlueSelectionHandler (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.components.structureMovement.glue.SuperGlueSelectionHandler)
+[086月2023 12:56:26.861] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.glue.SuperGlueSelectionHandler was not found railways-common.mixins.json:client.MixinSuperGlueSelectionHandler
+[086月2023 12:56:26.863] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/curiosities/toolbox/ToolboxHandlerClient (java.lang.ClassNotFoundException: com.simibubi.create.content.curiosities.toolbox.ToolboxHandlerClient)
+[086月2023 12:56:26.863] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.curiosities.toolbox.ToolboxHandlerClient was not found railways-common.mixins.json:client.MixinToolboxHandlerClient
+[086月2023 12:56:26.865] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/curiosities/toolbox/ToolboxScreen (java.lang.ClassNotFoundException: com.simibubi.create.content.curiosities.toolbox.ToolboxScreen)
+[086月2023 12:56:26.865] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.curiosities.toolbox.ToolboxScreen was not found railways-common.mixins.json:client.MixinToolboxScreen
+[086月2023 12:56:26.867] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackBlock)
+[086月2023 12:56:26.867] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackBlock was not found railways-common.mixins.json:client.MixinTrackBlockClient
+[086月2023 12:56:26.870] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackBlockItem (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackBlockItem)
+[086月2023 12:56:26.871] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackBlockItem was not found railways-common.mixins.json:client.MixinTrackBlockItem
+[086月2023 12:56:26.874] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackBlockOutline (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackBlockOutline)
+[086月2023 12:56:26.874] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackBlockOutline was not found railways-common.mixins.json:client.MixinTrackBlockOutline
+[086月2023 12:56:26.878] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackInstance (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackInstance)
+[086月2023 12:56:26.878] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackInstance was not found railways-common.mixins.json:client.MixinTrackInstance
+[086月2023 12:56:26.879] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackInstance$BezierTrackInstance (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackInstance$BezierTrackInstance)
+[086月2023 12:56:26.880] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackInstance$BezierTrackInstance was not found railways-common.mixins.json:client.MixinTrackInstance_BezierTrackInstance
+[086月2023 12:56:26.881] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackPlacement (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackPlacement)
+[086月2023 12:56:26.885] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackPlacement was not found railways-common.mixins.json:client.MixinTrackPlacementClient
+[086月2023 12:56:26.888] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/track/TrackRenderer (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackRenderer)
+[086月2023 12:56:26.888] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.track.TrackRenderer was not found railways-common.mixins.json:client.MixinTrackRenderer
+[086月2023 12:56:26.889] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/edgePoint/TrackTargetingClient (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.edgePoint.TrackTargetingClient)
+[086月2023 12:56:26.890] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.edgePoint.TrackTargetingClient was not found railways-common.mixins.json:client.MixinTrackTargetingClient
+[086月2023 12:56:26.892] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/management/schedule/TrainHatOffsets (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.management.schedule.TrainHatOffsets)
+[086月2023 12:56:26.892] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.management.schedule.TrainHatOffsets was not found railways-common.mixins.json:client.MixinTrainHatOffsets
+[086月2023 12:56:26.906] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/TrainPacket (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.TrainPacket)
+[086月2023 12:56:26.906] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.TrainPacket was not found railways-common.mixins.json:client.MixinTrainPacket
+[086月2023 12:56:26.913] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/trains/entity/TrainRelocator (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.entity.TrainRelocator)
+[086月2023 12:56:26.913] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.trains.entity.TrainRelocator was not found railways-common.mixins.json:client.MixinTrainRelocatorClient
+[086月2023 12:56:27.174] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
+[086月2023 12:56:27.174] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.TomatoVineBlock was not found supplementaries.mixins.json:CompatFarmersDelightMixin
+[086月2023 12:56:27.554] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/data/ChunkRenderData$Builder (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder)
+[086月2023 12:56:27.554] [main/WARN] [mixin/]: @Mixin target me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder was not found flywheel.mixins.json:instancemanage.SodiumChunkRenderDataMixin
+[086月2023 12:56:27.785] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/RegionChunkRenderer (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.RegionChunkRenderer)
+[086月2023 12:56:27.785] [main/WARN] [mixin/]: @Mixin target me.jellysquid.mods.sodium.client.render.chunk.RegionChunkRenderer was not found cullleaves.mixins.json:MixinRegionChunkRenderer
+[086月2023 12:56:27.786] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.gui.SodiumGameOptionPages)
+[086月2023 12:56:27.786] [main/WARN] [mixin/]: @Mixin target me.jellysquid.mods.sodium.client.gui.SodiumGameOptionPages was not found cullleaves.mixins.json:MixinSodiumGameOptionPages
+[086月2023 12:56:27.801] [main/WARN] [mixin/]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
+[086月2023 12:56:27.825] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/relays/elementary/BracketedKineticTileEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.relays.elementary.BracketedKineticTileEntity)
+[086月2023 12:56:27.825] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.relays.elementary.BracketedKineticTileEntity was not found examplemod-common.mixins.json:MixinBracketedKineticTileEntity
+[086月2023 12:56:27.827] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/relays/elementary/CogwheelBlockItem (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.relays.elementary.CogwheelBlockItem)
+[086月2023 12:56:27.830] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.relays.elementary.CogwheelBlockItem was not found examplemod-common.mixins.json:MixinCogwheelBlockItem
+[086月2023 12:56:27.894] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/worldgen/AllOreFeatureConfigEntries (java.lang.ClassNotFoundException: com.simibubi.create.foundation.worldgen.AllOreFeatureConfigEntries)
+[086月2023 12:56:27.894] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.worldgen.AllOreFeatureConfigEntries was not found createindustry.mixins.json:AllOreFeatureConfigEntriesMixin
+[086月2023 12:56:30.487] [pool-3-thread-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[086月2023 12:56:30.488] [pool-3-thread-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[086月2023 12:56:30.659] [pool-3-thread-1/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/OrientedContraptionEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.components.structureMovement.OrientedContraptionEntity)
+[086月2023 12:56:33.477] [pool-3-thread-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[086月2023 12:56:33.477] [pool-3-thread-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[086月2023 12:56:35.640] [pool-3-thread-1/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[086月2023 12:56:37.667] [pool-3-thread-1/WARN] [mixin/]: @ModifyVariable(@At("INVOKE")) Shift.BY=4 on infernal-expansion.mixins.json:common.MixinMultiNoiseBiomeSourcePreset::localvar$zzj000$IE_addNetherBiomes exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[086月2023 12:56:38.519] [pool-3-thread-1/WARN] [mixin/]: Error loading class: vazkii/quark/content/tools/item/PathfindersQuillItem (java.lang.ClassNotFoundException: vazkii.quark.content.tools.item.PathfindersQuillItem)
+[086月2023 12:56:40.119] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/E:/Minecraft/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23303!/assets/.mcassetsroot' uses unexpected schema
+[086月2023 12:56:40.120] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/E:/Minecraft/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23303!/data/.mcassetsroot' uses unexpected schema
+[086月2023 12:56:40.158] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[086月2023 12:56:40.999] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: xiaolizi_
+[086月2023 12:56:41.453] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[086月2023 12:56:41.988] [Render thread/INFO] [Oculus/]: Debug functionality is disabled.
+[086月2023 12:56:42.001] [Render thread/INFO] [Oculus/]: Shaders are disabled because no valid shaderpack is selected
+[086月2023 12:56:42.002] [Render thread/INFO] [Oculus/]: Shaders are disabled
+[086月2023 12:56:42.433] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id architectury:sync_ids
+[086月2023 12:56:42.438] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[086月2023 12:56:42.438] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbessentials:update_tab_name
+[086月2023 12:56:42.520] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Sound Events Registered!
+[086月2023 12:56:42.535] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: createbigcannons, class rbasamoyai.createbigcannons.CreateBigCannons
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:79) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.lang.NoClassDefFoundError: com/simibubi/create/content/AllSections
+	at rbasamoyai.createbigcannons.CBCBlocks.<clinit>(CBCBlocks.java:71) ~[createbigcannons-1.19.2-beta-0.5.b.jar%23243!/:1.19.2-beta-0.5.b]
+	at rbasamoyai.createbigcannons.CreateBigCannons.<init>(CreateBigCannons.java:46) ~[createbigcannons-1.19.2-beta-0.5.b.jar%23243!/:1.19.2-beta-0.5.b]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	... 11 more
+Caused by: java.lang.ClassNotFoundException: com.simibubi.create.content.AllSections
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at rbasamoyai.createbigcannons.CBCBlocks.<clinit>(CBCBlocks.java:71) ~[createbigcannons-1.19.2-beta-0.5.b.jar%23243!/:1.19.2-beta-0.5.b]
+	at rbasamoyai.createbigcannons.CreateBigCannons.<init>(CreateBigCannons.java:46) ~[createbigcannons-1.19.2-beta-0.5.b.jar%23243!/:1.19.2-beta-0.5.b]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	... 11 more
+[086月2023 12:56:42.753] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Blocks Registered!
+[086月2023 12:56:42.754] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Items Registered!
+[086月2023 12:56:42.757] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Effects Registered!
+[086月2023 12:56:42.759] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Potions Registered!
+[086月2023 12:56:42.772] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Types Registered!
+[086月2023 12:56:42.777] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Painting Types Registered!
+[086月2023 12:56:42.819] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Tile Entity Types Registered!
+[086月2023 12:56:42.820] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Biomes Registered!
+[086月2023 12:56:42.822] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Loot Modifiers Registered!
+[086月2023 12:56:42.824] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Biome Modifiers Registered!
+[086月2023 12:56:42.837] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Classifications Registered!
+[086月2023 12:56:43.232] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent com/simibubi/create/content/logistics/trains/track/TrackBlock for class com/railwayteam/railways/content/custom_tracks/CustomTrackBlock in classloader cpw.mods.modlauncher.TransformingClassLoader@23a78c77 on thread Thread[modloading-worker-0,5,main]
+[086月2023 12:56:43.233] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackBlock
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:92) ~[eventbus-6.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-6.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.3.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.3.jar:6.0.3+6.0.3+master.039e4ea9]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at com.railwayteam.railways.track_api.TrackMaterial$TrackType.<clinit>(TrackMaterial.java:160) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterialFactory.<init>(TrackMaterialFactory.java:28) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterial.make(TrackMaterial.java:60) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterial.<clinit>(TrackMaterial.java:36) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.registry.CRTrackMaterials.<clinit>(CRTrackMaterials.java:16) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.ModSetup.register(ModSetup.java:7) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.Railways.init(Railways.java:43) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.forge.RailwaysImpl.<init>(RailwaysImpl.java:31) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[086月2023 12:56:43.242] [modloading-worker-0/FATAL] [cpw.mods.modlauncher.TransformerClassWriter/]: Failed to find class com/simibubi/create/content/logistics/trains/track/TrackBlock 
+java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackBlock
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:488) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:157) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.8.jar:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:371) ~[asm-tree-9.3.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.8.jar:?]
+	at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1202) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1299) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1197) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1611) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1547) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.3.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.3.jar:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:451) ~[asm-tree-9.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at com.railwayteam.railways.track_api.TrackMaterial$TrackType.<clinit>(TrackMaterial.java:160) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterialFactory.<init>(TrackMaterialFactory.java:28) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterial.make(TrackMaterial.java:60) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterial.<clinit>(TrackMaterial.java:36) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.registry.CRTrackMaterials.<clinit>(CRTrackMaterials.java:16) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.ModSetup.register(ModSetup.java:7) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.Railways.init(Railways.java:43) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.forge.RailwaysImpl.<init>(RailwaysImpl.java:31) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+	Suppressed: java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackBlock
+		at cpw.mods.cl.ModuleClassLoader.getMaybeTransformedClassBytes(ModuleClassLoader.java:252) ~[securejarhandler-2.1.4.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.buildTransformedClassNodeFor(TransformingClassLoader.java:58) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:149) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.8.jar:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:371) ~[asm-tree-9.3.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.8.jar:?]
+		at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1202) ~[asm-9.3.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1299) ~[asm-9.3.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1197) ~[asm-9.3.jar:?]
+		at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1611) ~[asm-9.3.jar:?]
+		at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1547) ~[asm-9.3.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.3.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.3.jar:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:451) ~[asm-tree-9.3.jar:?]
+		at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+		at com.railwayteam.railways.track_api.TrackMaterial$TrackType.<clinit>(TrackMaterial.java:160) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.track_api.TrackMaterialFactory.<init>(TrackMaterialFactory.java:28) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.track_api.TrackMaterial.make(TrackMaterial.java:60) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.track_api.TrackMaterial.<clinit>(TrackMaterial.java:36) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.registry.CRTrackMaterials.<clinit>(CRTrackMaterials.java:16) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.ModSetup.register(ModSetup.java:7) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.Railways.init(Railways.java:43) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.forge.RailwaysImpl.<init>(RailwaysImpl.java:31) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+		at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+		at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+		at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+		at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+		at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+		at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+		at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+		at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+		at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+		at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+		at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[086月2023 12:56:43.250] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: railways, class com.railwayteam.railways.forge.RailwaysImpl
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:79) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.lang.BootstrapMethodError: java.lang.RuntimeException: Cannot find class com/simibubi/create/content/logistics/trains/track/TrackBlock
+	at com.railwayteam.railways.track_api.TrackMaterial$TrackType.<clinit>(TrackMaterial.java:160) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterialFactory.<init>(TrackMaterialFactory.java:28) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterial.make(TrackMaterial.java:60) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterial.<clinit>(TrackMaterial.java:36) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.registry.CRTrackMaterials.<clinit>(CRTrackMaterials.java:16) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.ModSetup.register(ModSetup.java:7) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.Railways.init(Railways.java:43) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.forge.RailwaysImpl.<init>(RailwaysImpl.java:31) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	... 11 more
+Caused by: java.lang.RuntimeException: Cannot find class com/simibubi/create/content/logistics/trains/track/TrackBlock
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:161) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.8.jar:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:371) ~[asm-tree-9.3.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.8.jar:?]
+	at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1202) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1299) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1197) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1611) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1547) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.3.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.3.jar:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:451) ~[asm-tree-9.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at com.railwayteam.railways.track_api.TrackMaterial$TrackType.<clinit>(TrackMaterial.java:160) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterialFactory.<init>(TrackMaterialFactory.java:28) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterial.make(TrackMaterial.java:60) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterial.<clinit>(TrackMaterial.java:36) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.registry.CRTrackMaterials.<clinit>(CRTrackMaterials.java:16) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.ModSetup.register(ModSetup.java:7) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.Railways.init(Railways.java:43) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.forge.RailwaysImpl.<init>(RailwaysImpl.java:31) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	... 11 more
+Caused by: java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackBlock
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:488) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:157) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.8.jar:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:371) ~[asm-tree-9.3.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.8.jar:?]
+	at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1202) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1299) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.Frame.merge(Frame.java:1197) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1611) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1547) ~[asm-9.3.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.3.jar:?]
+	at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.3.jar:?]
+	at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:451) ~[asm-tree-9.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at com.railwayteam.railways.track_api.TrackMaterial$TrackType.<clinit>(TrackMaterial.java:160) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterialFactory.<init>(TrackMaterialFactory.java:28) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterial.make(TrackMaterial.java:60) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.track_api.TrackMaterial.<clinit>(TrackMaterial.java:36) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.registry.CRTrackMaterials.<clinit>(CRTrackMaterials.java:16) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.ModSetup.register(ModSetup.java:7) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.Railways.init(Railways.java:43) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at com.railwayteam.railways.forge.RailwaysImpl.<init>(RailwaysImpl.java:31) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	... 11 more
+	Suppressed: java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.trains.track.TrackBlock
+		at cpw.mods.cl.ModuleClassLoader.getMaybeTransformedClassBytes(ModuleClassLoader.java:252) ~[securejarhandler-2.1.4.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.buildTransformedClassNodeFor(TransformingClassLoader.java:58) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchyFromFile(TransformerClassWriter.java:149) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:112) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter$SuperCollectingVisitor.visit(TransformerClassWriter.java:177) ~[modlauncher-10.0.8.jar:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:371) ~[asm-tree-9.3.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.computeHierarchy(TransformerClassWriter.java:99) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.modlauncher.TransformerClassWriter.getCommonSuperClass(TransformerClassWriter.java:59) ~[modlauncher-10.0.8.jar:?]
+		at org.objectweb.asm.SymbolTable.addMergedType(SymbolTable.java:1202) ~[asm-9.3.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1299) ~[asm-9.3.jar:?]
+		at org.objectweb.asm.Frame.merge(Frame.java:1197) ~[asm-9.3.jar:?]
+		at org.objectweb.asm.MethodWriter.computeAllFrames(MethodWriter.java:1611) ~[asm-9.3.jar:?]
+		at org.objectweb.asm.MethodWriter.visitMaxs(MethodWriter.java:1547) ~[asm-9.3.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:767) ~[asm-tree-9.3.jar:?]
+		at org.objectweb.asm.tree.MethodNode.accept(MethodNode.java:647) ~[asm-tree-9.3.jar:?]
+		at org.objectweb.asm.tree.ClassNode.accept(ClassNode.java:451) ~[asm-tree-9.3.jar:?]
+		at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:133) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+		at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+		at com.railwayteam.railways.track_api.TrackMaterial$TrackType.<clinit>(TrackMaterial.java:160) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.track_api.TrackMaterialFactory.<init>(TrackMaterialFactory.java:28) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.track_api.TrackMaterial.make(TrackMaterial.java:60) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.track_api.TrackMaterial.<clinit>(TrackMaterial.java:36) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.registry.CRTrackMaterials.<clinit>(CRTrackMaterials.java:16) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.ModSetup.register(ModSetup.java:7) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.Railways.init(Railways.java:43) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at com.railwayteam.railways.forge.RailwaysImpl.<init>(RailwaysImpl.java:31) ~[Steam_Rails-1.2.6+forge-mc1.19.2.jar%23295!/:?]
+		at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+		at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+		at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+		at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+		at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+		at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+		at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+		at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+		at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+		at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+		at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+		at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[086月2023 12:56:43.275] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing client components for mod pickupnotifier
+[086月2023 12:56:43.414] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod pickupnotifier
+[086月2023 12:56:43.545] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.2.14, for MC 1.19.2 with MCP 20220805.130853
+[086月2023 12:56:43.545] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.2.14 Initialized
+[086月2023 12:56:44.392] [Thread-8/WARN] [supplementaries/]: Failed to fetch contributors data from url https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/credits.json, java.net.UnknownHostException: raw.githubusercontent.com
+[086月2023 12:56:44.437] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[086月2023 12:56:44.437] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[086月2023 12:56:45.594] [modloading-worker-0/ERROR] [appeng.client.guidebook.Guide/]: Specified invalid page id in system property guideDev.ae2guide.startupPage
+[086月2023 12:56:45.623] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: create_brass_coated, class com.injir.create_brass_coated.Create_Brass_Coated
+java.lang.NoSuchMethodError: 'com.tterrag.registrate.util.nullness.NonNullSupplier com.simibubi.create.foundation.data.CreateRegistrate.lazy(java.lang.String)'
+	at com.injir.create_brass_coated.Create_Brass_Coated.<clinit>(Create_Brass_Coated.java:35) ~[create_brass_coated-0.2.2.1-1.19.2.jar%23239!/:0.2.2.1-1.19.2]
+	at jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method) ~[?:?]
+	at jdk.internal.misc.Unsafe.ensureClassInitialized(Unsafe.java:1160) ~[?:?]
+	at jdk.internal.reflect.MethodHandleAccessorFactory.ensureClassInitialized(MethodHandleAccessorFactory.java:300) ~[?:?]
+	at jdk.internal.reflect.MethodHandleAccessorFactory.newConstructorAccessor(MethodHandleAccessorFactory.java:103) ~[?:?]
+	at jdk.internal.reflect.ReflectionFactory.newConstructorAccessor(ReflectionFactory.java:236) ~[?:?]
+	at java.lang.reflect.Constructor.acquireConstructorAccessor(Constructor.java:546) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:496) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[086月2023 12:56:46.827] [modloading-worker-0/INFO] [REI/]: [REI] Config loaded
+[086月2023 12:56:46.900] [modloading-worker-0/INFO] [com.jozufozu.flywheel.backend.Backend/]: Oculus detected.
+[086月2023 12:56:46.994] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider REI Plugin Compatibilities Server Handler [rei_plugin_compatibilities, jei] for REIPlugin
+[086月2023 12:56:46.995] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider AE2 [ae2] for REIPlugin
+[086月2023 12:56:46.995] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider REIForgePluginStub [ftblibrary] for REIPlugin
+[086月2023 12:56:47.013] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider REI Plugin Compatibilities Client Handler [rei_plugin_compatibilities, jei] for REIPlugin
+[086月2023 12:56:47.013] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider REICompat [supplementaries] for REIPlugin
+[086月2023 12:56:47.013] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: alloyed, class com.molybdenum.alloyed.Alloyed
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:79) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.lang.NoClassDefFoundError: com/simibubi/create/content/AllSections
+	at com.molybdenum.alloyed.common.registry.ModItems.register(ModItems.java:186) ~[alloyed-1.19.2-v1.5.jar%23230!/:1.19.2-v1.5]
+	at com.molybdenum.alloyed.Alloyed.<init>(Alloyed.java:40) ~[alloyed-1.19.2-v1.5.jar%23230!/:1.19.2-v1.5]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	... 11 more
+Caused by: java.lang.ClassNotFoundException: com.simibubi.create.content.AllSections
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at com.molybdenum.alloyed.common.registry.ModItems.register(ModItems.java:186) ~[alloyed-1.19.2-v1.5.jar%23230!/:1.19.2-v1.5]
+	at com.molybdenum.alloyed.Alloyed.<init>(Alloyed.java:40) ~[alloyed-1.19.2-v1.5.jar%23230!/:1.19.2-v1.5]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	... 11 more
+[086月2023 12:56:47.042] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider REI Plugin Compatibilities Adapter [rei_plugin_compatibilities, jei] for REIPlugin
+[086月2023 12:56:47.053] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id roughlyenoughitems:request_tags_s2c
+[086月2023 12:56:47.058] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[086月2023 12:56:47.059] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[086月2023 12:56:47.059] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[086月2023 12:56:47.061] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[086月2023 12:56:47.061] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[086月2023 12:56:47.064] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider REI Plugin Compatibilities Server Handler [rei_plugin_compatibilities, jei] for REIServerPlugin
+[086月2023 12:56:47.073] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider REI Plugin Compatibilities Adapter [rei_plugin_compatibilities, jei] for REIServerPlugin
+[086月2023 12:56:47.075] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[086月2023 12:56:47.075] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item
+[086月2023 12:56:47.090] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[086月2023 12:56:47.090] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[086月2023 12:56:47.091] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items
+[086月2023 12:56:47.122] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultClientPluginImpl [roughlyenoughitems] for REIClientPlugin
+[086月2023 12:56:47.125] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultClientPluginImpl [roughlyenoughitems] for REIPlugin
+[086月2023 12:56:47.155] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[086月2023 12:56:47.155] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[086月2023 12:56:47.159] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
+[086月2023 12:56:47.159] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIPlugin
+[086月2023 12:56:47.162] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider AE2 [ae2] for REIClientPlugin
+[086月2023 12:56:47.162] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider REIForgePluginStub [ftblibrary] for REIClientPlugin
+[086月2023 12:56:47.168] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider REI Plugin Compatibilities Client Handler [rei_plugin_compatibilities, jei] for REIClientPlugin
+[086月2023 12:56:47.168] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider REICompat [supplementaries] for REIClientPlugin
+[086月2023 12:56:47.168] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider REI Plugin Compatibilities Adapter [rei_plugin_compatibilities, jei] for REIClientPlugin
+[086月2023 12:56:47.169] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id roughlyenoughitems:ci_msg
+[086月2023 12:56:47.169] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id roughlyenoughitems:og_not_enough
+[086月2023 12:56:47.369] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[086月2023 12:56:47.454] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbultimine:send_shape
+[086月2023 12:56:47.455] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
+[086月2023 12:56:47.459] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
+[086月2023 12:56:47.460] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbultimine:sync_config_from_server
+[086月2023 12:56:47.462] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[086月2023 12:56:47.462] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbultimine:edit_config
+[086月2023 12:56:47.592] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:edit_nbt
+[086月2023 12:56:47.594] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[086月2023 12:56:47.595] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[086月2023 12:56:47.669] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: createindustry, class com.drmangotea.createindustry.CreateIndustry
+java.lang.NoSuchMethodError: 'com.tterrag.registrate.util.nullness.NonNullSupplier com.simibubi.create.foundation.data.CreateRegistrate.lazy(java.lang.String)'
+	at com.drmangotea.createindustry.CreateIndustry.<clinit>(CreateIndustry.java:24) ~[createindustry-0.4.0-1.19.2.jar%23245!/:0.4.0-1.19.2]
+	at jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method) ~[?:?]
+	at jdk.internal.misc.Unsafe.ensureClassInitialized(Unsafe.java:1160) ~[?:?]
+	at jdk.internal.reflect.MethodHandleAccessorFactory.ensureClassInitialized(MethodHandleAccessorFactory.java:300) ~[?:?]
+	at jdk.internal.reflect.MethodHandleAccessorFactory.newConstructorAccessor(MethodHandleAccessorFactory.java:103) ~[?:?]
+	at jdk.internal.reflect.ReflectionFactory.newConstructorAccessor(ReflectionFactory.java:236) ~[?:?]
+	at java.lang.reflect.Constructor.acquireConstructorAccessor(Constructor.java:546) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:496) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[086月2023 12:56:47.681] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: extendedflywheels, class com.rabbitminers.extendedflywheels.ExtendedFlywheels
+java.lang.NoSuchMethodError: 'com.tterrag.registrate.util.nullness.NonNullSupplier com.simibubi.create.foundation.data.CreateRegistrate.lazy(java.lang.String)'
+	at com.rabbitminers.extendedflywheels.ExtendedFlywheels.<clinit>(ExtendedFlywheels.java:31) ~[extendedflywheels-1.2.5-1.19.2-0.5.f.jar%23252!/:1.2.5-1.19.2-0.5.f]
+	at jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method) ~[?:?]
+	at jdk.internal.misc.Unsafe.ensureClassInitialized(Unsafe.java:1160) ~[?:?]
+	at jdk.internal.reflect.MethodHandleAccessorFactory.ensureClassInitialized(MethodHandleAccessorFactory.java:300) ~[?:?]
+	at jdk.internal.reflect.MethodHandleAccessorFactory.newConstructorAccessor(MethodHandleAccessorFactory.java:103) ~[?:?]
+	at jdk.internal.reflect.ReflectionFactory.newConstructorAccessor(ReflectionFactory.java:236) ~[?:?]
+	at java.lang.reflect.Constructor.acquireConstructorAccessor(Constructor.java:546) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:496) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[086月2023 12:56:47.706] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent com/simibubi/create/content/contraptions/relays/elementary/CogWheelBlock for class com/rabbitminers/extendedgears/cogwheels/CustomCogwheelBlock in classloader cpw.mods.modlauncher.TransformingClassLoader@23a78c77 on thread Thread[modloading-worker-0,5,main]
+[086月2023 12:56:47.706] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.relays.elementary.CogWheelBlock
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:92) ~[eventbus-6.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-6.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.3.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.3.jar:6.0.3+6.0.3+master.039e4ea9]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at com.rabbitminers.extendedgears.registry.ExtendedCogwheelsBlocks.lambda$static$10(ExtendedCogwheelsBlocks.java:75) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.base.datatypes.CogwheelMaterialList.<init>(CogwheelMaterialList.java:20) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.base.datatypes.WoodenBlockList.<init>(WoodenBlockList.java:11) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.registry.ExtendedCogwheelsBlocks.<clinit>(ExtendedCogwheelsBlocks.java:74) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.forge.ExtendedCogwheelsForge.<init>(ExtendedCogwheelsForge.java:20) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[086月2023 12:56:47.709] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: extendedgears, class com.rabbitminers.extendedgears.forge.ExtendedCogwheelsForge
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:79) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:68) ~[javafmllanguage-1.19.2-43.2.14.jar%23305!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:121) ~[fmlcore-1.19.2-43.2.14.jar%23304!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.lang.NoClassDefFoundError: com/simibubi/create/content/contraptions/relays/elementary/CogWheelBlock
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1013) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at com.rabbitminers.extendedgears.registry.ExtendedCogwheelsBlocks.lambda$static$10(ExtendedCogwheelsBlocks.java:75) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.base.datatypes.CogwheelMaterialList.<init>(CogwheelMaterialList.java:20) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.base.datatypes.WoodenBlockList.<init>(WoodenBlockList.java:11) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.registry.ExtendedCogwheelsBlocks.<clinit>(ExtendedCogwheelsBlocks.java:74) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.forge.ExtendedCogwheelsForge.<init>(ExtendedCogwheelsForge.java:20) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	... 11 more
+Caused by: java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.relays.elementary.CogWheelBlock
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1013) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at com.rabbitminers.extendedgears.registry.ExtendedCogwheelsBlocks.lambda$static$10(ExtendedCogwheelsBlocks.java:75) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.base.datatypes.CogwheelMaterialList.<init>(CogwheelMaterialList.java:20) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.base.datatypes.WoodenBlockList.<init>(WoodenBlockList.java:11) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.registry.ExtendedCogwheelsBlocks.<clinit>(ExtendedCogwheelsBlocks.java:74) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at com.rabbitminers.extendedgears.forge.ExtendedCogwheelsForge.<init>(ExtendedCogwheelsForge.java:20) ~[extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar%23253!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	... 11 more
+[086月2023 12:56:47.852] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
+[086月2023 12:56:48.095] [modloading-worker-0/INFO] [IC2Classic/]: Loading Plugin: [name=The-One-Probe-Plugin, version=1.0]
+[086月2023 12:56:48.101] [modloading-worker-0/INFO] [IC2Classic/]: Loading Plugin: [name=Mekanism-Plugin, version=1.0]
+[086月2023 12:56:48.102] [modloading-worker-0/INFO] [IC2Classic/]: Loading Plugin: [name=JEI-Plugin, version=1.0]
+[086月2023 12:56:48.104] [modloading-worker-0/INFO] [IC2Classic/]: Loading Plugin: [name=Curio-Plugin, version=1.0]
+[086月2023 12:56:49.586] [Render thread/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 7 errors found
+[086月2023 12:56:49.731] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.sound.SoundEngineLoadEvent to a broken mod state
+[086月2023 12:56:49.773] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterColorHandlersEvent$Block to a broken mod state
+[086月2023 12:56:49.774] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterColorHandlersEvent$Item to a broken mod state
+[086月2023 12:56:49.953] [Render thread/INFO] [Oculus/]: Hardware information:
+[086月2023 12:56:49.955] [Render thread/INFO] [Oculus/]: CPU: 4x Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz
+[086月2023 12:56:49.955] [Render thread/INFO] [Oculus/]: GPU: Radeon RX550/550 Series (Supports OpenGL 3.2.0 Core Profile Context 22.11.2.221130)
+[086月2023 12:56:49.955] [Render thread/INFO] [Oculus/]: OS: Windows 10 (10.0)
+[086月2023 12:56:49.997] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RenderLevelStageEvent$RegisterStageEvent to a broken mod state
+[086月2023 12:56:50.106] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterParticleProvidersEvent to a broken mod state
+[086月2023 12:56:50.215] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterClientReloadListenersEvent to a broken mod state
+[086月2023 12:56:50.216] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterLayerDefinitions to a broken mod state
+[086月2023 12:56:50.216] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterRenderers to a broken mod state
+[086月2023 12:56:50.219] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterTextureAtlasSpriteLoadersEvent to a broken mod state
+[086月2023 12:56:50.220] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterClientTooltipComponentFactoriesEvent to a broken mod state
+[086月2023 12:56:50.221] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterEntitySpectatorShadersEvent to a broken mod state
+[086月2023 12:56:50.221] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterKeyMappingsEvent to a broken mod state
+[086月2023 12:56:50.224] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterRecipeBookCategoriesEvent to a broken mod state
+[086月2023 12:56:50.229] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterGuiOverlaysEvent to a broken mod state
+[086月2023 12:56:50.235] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterDimensionSpecialEffectsEvent to a broken mod state
+[086月2023 12:56:50.236] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterNamedRenderTypesEvent to a broken mod state
+[086月2023 12:56:50.237] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterColorHandlersEvent$ColorResolvers to a broken mod state
+[086月2023 12:56:50.239] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterItemDecorationsEvent to a broken mod state
+[086月2023 12:56:50.416] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: Default, ic2loader, Minecraft-Mod-Language-Modpack-Converted-9.zip
+[086月2023 12:56:51.986] [Render thread/ERROR] [moonlight/]: Cowardly refusing generate assets for a broken mod state
+[086月2023 12:56:54.143] [Worker-Main-3/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.ModelEvent$RegisterGeometryLoaders to a broken mod state
+[086月2023 12:56:54.430] [Worker-Main-1/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:56:56.800] [Worker-Main-2/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:56:58.212] [Worker-Main-3/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.ModelEvent$RegisterAdditional to a broken mod state
+[086月2023 12:56:58.484] [Worker-Main-3/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:56:58.622] [Worker-Main-5/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:56:58.763] [Worker-Main-1/ERROR] [net.minecraft.client.renderer.texture.TextureAtlas/]: Using missing texture, file infernalexp:textures/painting/infernal_back.png not found
+[086月2023 12:56:59.477] [Worker-Main-3/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:56:59.481] [Worker-Main-3/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:56:59.505] [Worker-Main-3/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:56:59.529] [Worker-Main-3/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:56:59.534] [Worker-Main-3/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:56:59.546] [Worker-Main-3/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:56:59.611] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event com.jozufozu.flywheel.event.GatherContextEvent to a broken mod state
+[086月2023 12:57:00.277] [Render thread/INFO] [com.jozufozu.flywheel.backend.Backend/]: Loaded all shader sources.
+[086月2023 12:57:00.452] [Render thread/WARN] [net.minecraft.client.resources.language.ClientLanguage/]: Skipped language file: beachparty:lang/zh_cn.json (com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 89 column 4 path $.item.beachparty.rubber_ring_stripped)
+[086月2023 12:57:00.473] [Render thread/WARN] [net.minecraft.client.resources.language.ClientLanguage/]: Skipped language file: carpet_trapdoors:lang/zh_cn.json (java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonObject.entrySet()" because "jsonobject" is null)
+[086月2023 12:57:00.609] [Render thread/WARN] [net.minecraft.client.resources.language.ClientLanguage/]: Skipped language file: isometric-renders:lang/zh_cn.json (com.google.gson.JsonSyntaxException: Expected key.isometric-renders.area_select to be a string, was an array (["",...域"]))
+[086月2023 12:57:01.143] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[086月2023 12:57:01.143] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[086月2023 12:57:01.197] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on 扬声器 (High Definition Audio Device)
+[086月2023 12:57:01.198] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[086月2023 12:57:01.198] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.sound.SoundEngineLoadEvent to a broken mod state
+[086月2023 12:57:01.389] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[086月2023 12:57:01.398] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:01.399] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[086月2023 12:57:01.399] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:01.399] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[086月2023 12:57:01.399] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:01.399] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[086月2023 12:57:01.401] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:01.401] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[086月2023 12:57:01.403] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:01.404] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[086月2023 12:57:01.406] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:01.408] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[086月2023 12:57:01.409] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:01.894] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.ModelEvent$BakingCompleted to a broken mod state
+[086月2023 12:57:02.065] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.066] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.202] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.211] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.212] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.212] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.213] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.220] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.221] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.223] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.225] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.225] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.226] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.226] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.232] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.233] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.233] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.235] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.237] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.238] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.254] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:02.337] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Caught error loading resourcepacks, removing all selected resourcepacks
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Failed to create player model for default
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:791) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at com.mojang.blaze3d.systems.RenderSystem.m_69884_(RenderSystem.java:211) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at com.mojang.blaze3d.systems.RenderSystem.m_69495_(RenderSystem.java:198) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at com.mojang.blaze3d.platform.Window.m_85435_(Window.java:337) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1143) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:700) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:212) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.2.14.jar%23150!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.IllegalArgumentException: Failed to create player model for default
+	at net.minecraft.client.renderer.entity.EntityRenderers.m_234604_(EntityRenderers.java:171) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at com.google.common.collect.RegularImmutableMap.forEach(RegularImmutableMap.java:196) ~[guava-31.0.1-jre.jar%23102!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderers.m_174051_(EntityRenderers.java:167) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderDispatcher.m_6213_(EntityRenderDispatcher.java:345) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.ResourceManagerReloadListener.m_10759_(ResourceManagerReloadListener.java:15) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	... 131 more
+Caused by: java.lang.IllegalArgumentException: No model for layer midnight-hats:witch_hat#main
+	at net.minecraft.client.model.geom.EntityModelSet.m_171103_(EntityModelSet.java:17) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at eu.midnightdust.hats.witch.WitchHatFeatureRenderer.<init>(WitchHatFeatureRenderer.java:43) ~[midnightlib-1.0.0-forge.jar%23321!/:?]
+	at net.minecraft.client.renderer.entity.player.PlayerRenderer.handler$zdg000$addFeatures(PlayerRenderer.java:1522) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.renderer.entity.player.PlayerRenderer.<init>(PlayerRenderer.java:56) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderers.m_174097_(EntityRenderers.java:24) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderers.m_234604_(EntityRenderers.java:169) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at com.google.common.collect.RegularImmutableMap.forEach(RegularImmutableMap.java:196) ~[guava-31.0.1-jre.jar%23102!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderers.m_174051_(EntityRenderers.java:167) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderDispatcher.m_6213_(EntityRenderDispatcher.java:345) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.ResourceManagerReloadListener.m_10759_(ResourceManagerReloadListener.java:15) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	... 131 more
+[086月2023 12:57:02.349] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: Default, ic2loader
+[086月2023 12:57:02.354] [Render thread/ERROR] [moonlight/]: Cowardly refusing generate assets for a broken mod state
+[086月2023 12:57:02.372] [Worker-Main-6/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.ModelEvent$RegisterGeometryLoaders to a broken mod state
+[086月2023 12:57:02.545] [Worker-Main-3/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:57:02.549] [Worker-Main-1/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:57:02.557] [Worker-Main-5/ERROR] [net.minecraft.client.renderer.texture.TextureAtlas/]: Using missing texture, file infernalexp:textures/painting/infernal_back.png not found
+[086月2023 12:57:02.590] [Worker-Main-5/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:57:05.545] [Worker-Main-6/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.ModelEvent$RegisterAdditional to a broken mod state
+[086月2023 12:57:05.737] [Worker-Main-6/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:57:06.592] [Worker-Main-6/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:57:06.598] [Worker-Main-6/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:57:06.622] [Worker-Main-6/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:57:06.646] [Worker-Main-6/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:57:06.651] [Worker-Main-6/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:57:06.662] [Worker-Main-6/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[086月2023 12:57:06.672] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event com.jozufozu.flywheel.event.GatherContextEvent to a broken mod state
+[086月2023 12:57:06.675] [Render thread/INFO] [com.jozufozu.flywheel.backend.Backend/]: Loaded all shader sources.
+[086月2023 12:57:06.697] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[086月2023 12:57:06.697] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[086月2023 12:57:06.754] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on 扬声器 (High Definition Audio Device)
+[086月2023 12:57:06.754] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[086月2023 12:57:06.755] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.sound.SoundEngineLoadEvent to a broken mod state
+[086月2023 12:57:06.904] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[086月2023 12:57:06.908] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:06.909] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[086月2023 12:57:06.909] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:06.909] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[086月2023 12:57:06.909] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:06.909] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[086月2023 12:57:06.910] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:06.910] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[086月2023 12:57:06.910] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:06.910] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[086月2023 12:57:06.913] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:06.913] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[086月2023 12:57:06.915] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[086月2023 12:57:07.159] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.ModelEvent$BakingCompleted to a broken mod state
+[086月2023 12:57:07.190] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.191] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.194] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.195] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.195] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.195] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.195] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.195] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.197] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.197] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.198] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.198] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.198] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.199] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.199] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.199] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.199] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.200] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.200] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.200] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.201] [Render thread/ERROR] [net.minecraftforge.fml.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[086月2023 12:57:07.833] [Render thread/ERROR] [net.minecraft.client.Minecraft/FATAL]: Reported exception thrown!
+net.minecraft.ReportedException: Rendering overlay
+	at net.minecraft.client.renderer.GameRenderer.m_109093_(GameRenderer.java:892) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1115) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:700) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:212) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.2.14.jar%23150!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%23137!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.IllegalArgumentException: Failed to create player model for default
+	at net.minecraft.client.renderer.entity.EntityRenderers.m_234604_(EntityRenderers.java:171) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at com.google.common.collect.RegularImmutableMap.forEach(RegularImmutableMap.java:196) ~[guava-31.0.1-jre.jar%23102!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderers.m_174051_(EntityRenderers.java:167) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderDispatcher.m_6213_(EntityRenderDispatcher.java:345) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.ResourceManagerReloadListener.m_10759_(ResourceManagerReloadListener.java:15) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at com.mojang.blaze3d.systems.RenderSystem.m_69884_(RenderSystem.java:211) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at com.mojang.blaze3d.systems.RenderSystem.m_69495_(RenderSystem.java:198) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at com.mojang.blaze3d.platform.Window.m_85435_(Window.java:337) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1143) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	... 18 more
+Caused by: java.lang.IllegalArgumentException: No model for layer midnight-hats:witch_hat#main
+	at net.minecraft.client.model.geom.EntityModelSet.m_171103_(EntityModelSet.java:17) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at eu.midnightdust.hats.witch.WitchHatFeatureRenderer.<init>(WitchHatFeatureRenderer.java:43) ~[midnightlib-1.0.0-forge.jar%23321!/:?]
+	at net.minecraft.client.renderer.entity.player.PlayerRenderer.handler$zdg000$addFeatures(PlayerRenderer.java:1522) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.renderer.entity.player.PlayerRenderer.<init>(PlayerRenderer.java:56) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderers.m_174097_(EntityRenderers.java:24) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderers.m_234604_(EntityRenderers.java:169) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at com.google.common.collect.RegularImmutableMap.forEach(RegularImmutableMap.java:196) ~[guava-31.0.1-jre.jar%23102!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderers.m_174051_(EntityRenderers.java:167) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.renderer.entity.EntityRenderDispatcher.m_6213_(EntityRenderDispatcher.java:345) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.ResourceManagerReloadListener.m_10759_(ResourceManagerReloadListener.java:15) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:795) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:784) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at com.mojang.blaze3d.systems.RenderSystem.m_69884_(RenderSystem.java:211) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at com.mojang.blaze3d.systems.RenderSystem.m_69495_(RenderSystem.java:198) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at com.mojang.blaze3d.platform.Window.m_85435_(Window.java:337) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1143) ~[client-1.19.2-20220805.130853-srg.jar%23303!/:?]
+	... 18 more
+[086月2023 12:57:07.843] [Render thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 9d31a54e-6d69-413a-a8bf-284bad60b023
+[086月2023 12:57:07.850] [Render thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID d615806e-d544-4fc1-aeac-4e6dcb542c11
+[086月2023 12:57:07.862] [Thread-9/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutting down the config watcher executor
+[086月2023 12:57:07.863] [Thread-9/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutting down backup cleaning executor
+[086月2023 12:57:07.863] [Thread-9/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutting down backup executor
+[086月2023 12:57:07.863] [Thread-9/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: =========Checking everything is shut down============

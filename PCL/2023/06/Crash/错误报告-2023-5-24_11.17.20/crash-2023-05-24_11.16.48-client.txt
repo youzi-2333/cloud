@@ -1,0 +1,246 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 2023-05-24 11:16:48
+Description: Unexpected error
+
+java.lang.NoClassDefFoundError: fi/dy/masa/malilib/util/StringUtils
+	at ch.endte.syncmatica.communication.ExchangeTarget.<init>(ExchangeTarget.java:30)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startClient(ActorClientPlayNetworkHandler.java:45)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startEvent(ActorClientPlayNetworkHandler.java:36)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.packetEvent(ActorClientPlayNetworkHandler.java:58)
+	at net.minecraft.class_634.handler$bkd000$handlePacket(class_634.java:7477)
+	at net.minecraft.class_634.method_11152(class_634.java)
+	at net.minecraft.class_2658.method_11457(class_2658.java:60)
+	at net.minecraft.class_2658.method_11054(class_2658.java:8)
+	at net.minecraft.class_2600.method_11072(class_2600.java:22)
+	at net.minecraft.class_1255.method_18859(class_1255.java:157)
+	at net.minecraft.class_4093.method_18859(class_4093.java:23)
+	at net.minecraft.class_1255.method_16075(class_1255.java:131)
+	at net.minecraft.class_1255.method_5383(class_1255.java:116)
+	at net.minecraft.class_310.method_1523(class_310.java:1129)
+	at net.minecraft.class_310.method_1514(class_310.java:768)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.ClassNotFoundException: fi.dy.masa.malilib.util.StringUtils
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:145)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 26 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at ch.endte.syncmatica.communication.ExchangeTarget.<init>(ExchangeTarget.java:30)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startClient(ActorClientPlayNetworkHandler.java:45)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startEvent(ActorClientPlayNetworkHandler.java:36)
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.packetEvent(ActorClientPlayNetworkHandler.java:58)
+	at net.minecraft.class_634.handler$bkd000$handlePacket(class_634.java:7477)
+	at net.minecraft.class_634.method_11152(class_634.java)
+	at net.minecraft.class_2658.method_11457(class_2658.java:60)
+	at net.minecraft.class_2658.method_11054(class_2658.java:8)
+	at net.minecraft.class_2600.method_11072(class_2600.java:22)
+	at net.minecraft.class_1255.method_18859(class_1255.java:157)
+	at net.minecraft.class_4093.method_18859(class_4093.java:23)
+	at net.minecraft.class_1255.method_16075(class_1255.java:131)
+
+-- Last reload --
+Details:
+	Reload number: 1
+	Reload reason: initial
+	Finished: Yes
+	Packs: Default, Fabric Mods, Masa_模组汉化资源包_V1.2.zip, continuity/default, continuity/glass_pane_culling_fix, Genshin音乐&字体二合一包, 可爱的监守者.zip
+Stacktrace:
+	at net.minecraft.class_6360.method_36565(class_6360.java:49)
+	at net.minecraft.class_310.method_1587(class_310.java:2348)
+	at net.minecraft.class_310.method_1514(class_310.java:792)
+	at net.minecraft.client.main.Main.method_44604(Main.java:244)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.3, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 3428575376 bytes (3269 MiB) / 4034920448 bytes (3848 MiB) up to 5691670528 bytes (5428 MiB)
+	CPUs: 16
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 7 4800H with Radeon Graphics         
+	Identifier: AuthenticAMD Family 23 Model 96 Stepping 1
+	Microarchitecture: unknown
+	Frequency (GHz): 2.89
+	Number of physical packages: 1
+	Number of physical CPUs: 8
+	Number of logical CPUs: 16
+	Graphics card #0 name: NVIDIA GeForce GTX 1650
+	Graphics card #0 vendor: NVIDIA (0x10de)
+	Graphics card #0 VRAM (MB): 4095.00
+	Graphics card #0 deviceId: 0x1f99
+	Graphics card #0 versionInfo: DriverVersion=30.0.15.1123
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 18841.26
+	Virtual memory used (MB): 16395.34
+	Swap memory total (MB): 3099.95
+	Swap memory used (MB): 0.02
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx5427m
+	Fabric Mods: 
+		ambientsounds: Ambient Sounds (Fabric) 5.2.13
+		appleskin: AppleSkin 2.4.1+mc1.19
+		badpackets: Bad Packets 0.2.1
+		betterpingdisplay: Better Ping Display 1.1.1
+		bookshelf: Bookshelf 16.2.16
+		capes: Capes 1.4.5+1.19
+			omega-config: OmegaConfig 1.2.3-1.18.1
+		chat_heads: Chat Heads 0.7.1
+		cloth-config: Cloth Config v8 8.2.88
+			cloth-basic-math: cloth-basic-math 0.6.1
+		continuity: Continuity 2.0.1+1.19
+		controlling: Controlling For Fabric 10.0+7
+		creativecore: CreativeCore (Fabric) 2.9.3
+		durabilityviewer: Giselbaers Durability Viewer 1.19.1-fabric0.58.5-1.10.3
+			crowdin-translate: CrowdinTranslate 1.4+1.19
+			gbfabrictools: GBfabrictools 1.3.4+1.19
+		elytraslot: Elytra Slot 6.1.0+1.19.2
+		fabric-api: Fabric API 0.69.0+1.19.2
+			fabric-api-base: Fabric API Base 0.4.13+0d0f210290
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.12+93d8cb8290
+			fabric-biome-api-v1: Fabric Biome API (v1) 9.0.20+0d0f210290
+			fabric-block-api-v1: Fabric Block API (v1) 1.0.1+12bfe4ea90
+			fabric-blockrenderlayer-v1: Fabric BlockRenderLayer Registration (v1) 1.1.22+c6af733c90
+			fabric-client-tags-api-v1: Fabric Client Tags 1.0.3+b35fea8390
+			fabric-command-api-v1: Fabric Command API (v1) 1.2.13+f71b366f90
+			fabric-command-api-v2: Fabric Command API (v2) 2.1.9+93d8cb8290
+			fabric-commands-v0: Fabric Commands (v0) 0.2.30+df3654b390
+			fabric-containers-v0: Fabric Containers (v0) 0.1.38+df3654b390
+			fabric-content-registries-v0: Fabric Content Registries (v0) 3.4.4+6064db2a90
+			fabric-convention-tags-v1: Fabric Convention Tags 1.2.0+27265b3490
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.2.7+aeb40ebe90
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 5.3.3+ad31814d90
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 2.1.33+0d0f210290
+			fabric-entity-events-v1: Fabric Entity Events (v1) 1.5.2+9244241690
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.4.31+6eb9a2a190
+			fabric-events-lifecycle-v0: Fabric Events Lifecycle (v0) 0.2.31+df3654b390
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.23+c6af733c90
+			fabric-item-api-v1: Fabric Item API (v1) 1.6.1+fa140d5990
+			fabric-item-groups-v0: Fabric Item Groups (v0) 0.3.36+9244241690
+			fabric-key-binding-api-v1: Fabric Key Binding API (v1) 1.0.23+aaaf9d3390
+			fabric-keybindings-v0: Fabric Key Bindings (v0) 0.2.21+df3654b390
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.2.2+9244241690
+			fabric-loot-api-v2: Fabric Loot API (v2) 1.1.10+83a8659290
+			fabric-loot-tables-v1: Fabric Loot Tables (v1) 1.1.13+9e7660c690
+			fabric-message-api-v1: Fabric Message API (v1) 5.0.5+93d8cb8290
+			fabric-mining-level-api-v1: Fabric Mining Level API (v1) 2.1.21+33fbc73890
+			fabric-models-v0: Fabric Models (v0) 0.3.19+c6af733c90
+			fabric-networking-api-v1: Fabric Networking API (v1) 1.2.8+3b1d070f90
+			fabric-networking-v0: Fabric Networking (v0) 0.3.25+df3654b390
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 4.1.3+06e0e25190
+			fabric-particles-v1: Fabric Particles (v1) 1.0.12+79adfe0a90
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 0.9.29+9244241690
+			fabric-renderer-api-v1: Fabric Renderer API (v1) 1.1.0+e7aeff4590
+			fabric-renderer-indigo: Fabric Renderer - Indigo 0.6.17+aeb40ebe90
+			fabric-renderer-registries-v1: Fabric Renderer Registries (v1) 3.2.22+df3654b390
+			fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.3.17+0d0f210290
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.0.9+c6af733c90
+			fabric-rendering-v0: Fabric Rendering (v0) 1.1.25+df3654b390
+			fabric-rendering-v1: Fabric Rendering (v1) 1.11.1+73145abb90
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 2.1.1+aae9039d90
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 0.8.2+574a764890
+			fabric-screen-api-v1: Fabric Screen API (v1) 1.0.30+b0bc9a6790
+			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.4+1cc24b1b90
+			fabric-sound-api-v1: Fabric Sound API (v1) 1.0.1+c4f28df590
+			fabric-textures-v0: Fabric Textures (v0) 1.0.22+aeb40ebe90
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 2.1.3+9d081d6490
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 1.3.2+42d99c3290
+		fabric-language-kotlin: Fabric Language Kotlin 1.9.1+kotlin.1.8.10
+			org_jetbrains_kotlin_kotlin-reflect: kotlin-reflect 1.8.10
+			org_jetbrains_kotlin_kotlin-stdlib: kotlin-stdlib 1.8.10
+			org_jetbrains_kotlin_kotlin-stdlib-jdk7: kotlin-stdlib-jdk7 1.8.10
+			org_jetbrains_kotlin_kotlin-stdlib-jdk8: kotlin-stdlib-jdk8 1.8.10
+			org_jetbrains_kotlinx_atomicfu-jvm: atomicfu-jvm 0.19.0
+			org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: kotlinx-coroutines-core-jvm 1.6.4
+			org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: kotlinx-coroutines-jdk8 1.6.4
+			org_jetbrains_kotlinx_kotlinx-datetime-jvm: kotlinx-datetime-jvm 0.4.0
+			org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm: kotlinx-serialization-cbor-jvm 1.4.1
+			org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: kotlinx-serialization-core-jvm 1.4.1
+			org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: kotlinx-serialization-json-jvm 1.4.1
+		fabricloader: Fabric Loader 0.14.11
+		imblocker: IMBlockerFabric 1.0.20
+		indium: Indium 1.0.9+mc1.19.2
+		inventoryprofilesnext: Inventory Profiles Next 1.9.0
+		iris: Iris 1.4.5
+			io_github_douira_glsl-transformer: glsl-transformer 1.0.1
+			org_anarres_jcpp: jcpp 1.4.14
+			org_antlr_antlr4-runtime: antlr4-runtime 4.10.1
+		itemphysiclite: ItemPhysic Lite (Fabric) 1.5.1
+		java: OpenJDK 64-Bit Server VM 17
+		jei: Just Enough Items 11.4.0.290
+		lambdynlights: LambDynamicLights 2.1.2+1.19
+			pride: Pride Lib 1.1.2+1.19
+			spruceui: SpruceUI 4.0.0+1.19
+		leaf-decay: Leaf Decay 1.5.0-1.19.2
+		libipn: libIPN 2.0.0
+		minecraft: Minecraft 1.19.2
+		modmenu: Mod Menu 4.1.2
+		mousetweaks: Mouse Tweaks 2.22
+		reeses-sodium-options: Reese's Sodium Options 1.4.9+mc1.19.2-build.67
+		sit: Sit 1.19-20
+		sodium: Sodium 0.4.4+build.18
+			org_joml_joml: joml 1.10.4
+		sodium-extra: Sodium Extra 0.4.15+mc1.19.2-build.85
+			caffeineconfig: CaffeineConfig 1.0.0+1.17
+		syncmatica: Syncmatica 1.18.2-0.3.8
+		trinkets: Trinkets 3.4.2
+			cardinal-components-base: Cardinal Components API (base) 5.0.0-beta.1
+			cardinal-components-entity: Cardinal Components API (entities) 5.0.0-beta.1
+		wi_zoom: WI Zoom 1.4-MC1.19.2
+		worldedit: WorldEdit 7.2.12+6240-87f4ae1
+		wthit: wthit 5.13.4
+		xaerominimap: Xaero's Minimap 22.17.0
+		xaeroworldmap: Xaero's World Map 1.28.7
+	Loaded Shaderpack: ComplementaryShaders_v4.3.zip
+		Profile: HIGH (+0 options changed by user)
+	NEC status: No NEC detected
+	Launched Version: 1.19.2-Fabric
+	Backend library: LWJGL version 3.3.1 SNAPSHOT
+	Backend API: NVIDIA GeForce GTX 1650/PCIe/SSE2 GL version 3.2.0 NVIDIA 511.23, NVIDIA Corporation
+	Window size: 1920x1057
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fabric'
+	Type: Client (map_client.txt)
+	Graphics mode: fancy
+	Resource Packs: vanilla, Fabric Mods, file/Masa_模组汉化资源包_V1.2.zip (incompatible), continuity/default, continuity/glass_pane_culling_fix, file/Genshin音乐&字体二合一包, file/可爱的监守者.zip
+	Current Language: 简体中文 (中国大陆)
+	CPU: 16x AMD Ryzen 7 4800H with Radeon Graphics 

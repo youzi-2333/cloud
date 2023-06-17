@@ -1,0 +1,37 @@
+2023-04-18 19:58:10,428 main WARN Advanced terminal features are not available in this environment
+[19:58:10] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, 000, --version, 1.18.2-Forge_40.2.1, --gameDir, C:\Users\Administrator\Desktop\6, --assetsDir, C:\Users\Administrator\Desktop\6\assets, --assetIndex, 1.18, --uuid, 0000000000003003998F501BCC55E4BD, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, Legacy, --versionType, PCL2, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.1, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[19:58:10] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[19:58:10] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Administrator/Desktop/6/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2348!/ Service=ModLauncher Env=CLIENT
+[19:58:11] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\Administrator\Desktop\6\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.1\fmlcore-1.18.2-40.2.1.jar is missing mods.toml file
+[19:58:11] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\Administrator\Desktop\6\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.1\javafmllanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[19:58:11] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\Administrator\Desktop\6\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.1\lowcodelanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[19:58:11] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\Administrator\Desktop\6\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.1\mclanguage-1.18.2-40.2.1.jar is missing mods.toml file
+[19:58:12] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[19:58:12] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'malilib', Requested by: 'litematica', Expected range: '[0.12.0,)', Actual version: 'version'
+	Mod ID: 'minecraft', Requested by: 'litematica', Expected range: '[${minecraft_version},${minecraft_version}]', Actual version: '1.18.2'
+	Mod ID: 'minecraft', Requested by: 'malilib', Expected range: '[${minecraft_version},${minecraft_version}]', Actual version: '1.18.2'
+Exception in thread "main" java.lang.IllegalArgumentException: version: Version string does not start with a number
+	at java.base/java.lang.module.ModuleDescriptor$Version.<init>(ModuleDescriptor.java:1005)
+	at java.base/java.lang.module.ModuleDescriptor$Version.parse(ModuleDescriptor.java:1090)
+	at java.base/java.lang.module.ModuleDescriptor$Builder.version(ModuleDescriptor.java:2062)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.1/net.minecraftforge.fml.loading.moddiscovery.ModJarMetadata.descriptor(ModJarMetadata.java:72)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.jarhandling.impl.Jar.computeDescriptor(Jar.java:47)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.JarModuleFinder$JarModuleReference.<init>(JarModuleFinder.java:50)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.JarModuleFinder.lambda$new$0(JarModuleFinder.java:28)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.JarModuleFinder.<init>(JarModuleFinder.java:29)
+	at cpw.mods.securejarhandler@1.0.3/cpw.mods.cl.JarModuleFinder.of(JarModuleFinder.java:43)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.ModuleLayerHandler.buildLayer(ModuleLayerHandler.java:70)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.buildTransformingClassLoader(TransformationServicesHandler.java:60)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:104)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)

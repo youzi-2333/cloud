@@ -1,0 +1,399 @@
+[11:15:19] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.14.11
+[11:15:19] [main/INFO]: Loading 113 mods:
+	- ambientsounds 5.2.13
+	- appleskin 2.4.1+mc1.19
+	- badpackets 0.2.1
+	- betterpingdisplay 1.1.1
+	- bookshelf 16.2.16
+	- caffeineconfig 1.0.0+1.17 via sodium-extra
+	- capes 1.4.5+1.19
+	- cardinal-components-base 5.0.0-beta.1 via trinkets
+	- cardinal-components-entity 5.0.0-beta.1 via trinkets
+	- chat_heads 0.7.1
+	- cloth-basic-math 0.6.1 via cloth-config
+	- cloth-config 8.2.88
+	- continuity 2.0.1+1.19
+	- controlling 10.0+7
+	- creativecore 2.9.3
+	- crowdin-translate 1.4+1.19 via durabilityviewer
+	- durabilityviewer 1.19.1-fabric0.58.5-1.10.3
+	- elytraslot 6.1.0+1.19.2
+	- fabric-api 0.69.0+1.19.2
+	- fabric-api-base 0.4.13+0d0f210290 via fabric-api
+	- fabric-api-lookup-api-v1 1.6.12+93d8cb8290 via fabric-api
+	- fabric-biome-api-v1 9.0.20+0d0f210290 via fabric-api
+	- fabric-block-api-v1 1.0.1+12bfe4ea90 via fabric-api
+	- fabric-blockrenderlayer-v1 1.1.22+c6af733c90 via fabric-api
+	- fabric-client-tags-api-v1 1.0.3+b35fea8390 via fabric-api
+	- fabric-command-api-v1 1.2.13+f71b366f90 via fabric-api
+	- fabric-command-api-v2 2.1.9+93d8cb8290 via fabric-api
+	- fabric-commands-v0 0.2.30+df3654b390 via fabric-api
+	- fabric-containers-v0 0.1.38+df3654b390 via fabric-api
+	- fabric-content-registries-v0 3.4.4+6064db2a90 via fabric-api
+	- fabric-convention-tags-v1 1.2.0+27265b3490 via fabric-api
+	- fabric-crash-report-info-v1 0.2.7+aeb40ebe90 via fabric-api
+	- fabric-data-generation-api-v1 5.3.3+ad31814d90 via fabric-api
+	- fabric-dimensions-v1 2.1.33+0d0f210290 via fabric-api
+	- fabric-entity-events-v1 1.5.2+9244241690 via fabric-api
+	- fabric-events-interaction-v0 0.4.31+6eb9a2a190 via fabric-api
+	- fabric-events-lifecycle-v0 0.2.31+df3654b390 via fabric-api
+	- fabric-game-rule-api-v1 1.0.23+c6af733c90 via fabric-api
+	- fabric-item-api-v1 1.6.1+fa140d5990 via fabric-api
+	- fabric-item-groups-v0 0.3.36+9244241690 via fabric-api
+	- fabric-key-binding-api-v1 1.0.23+aaaf9d3390 via fabric-api
+	- fabric-keybindings-v0 0.2.21+df3654b390 via fabric-api
+	- fabric-language-kotlin 1.9.1+kotlin.1.8.10
+	- fabric-lifecycle-events-v1 2.2.2+9244241690 via fabric-api
+	- fabric-loot-api-v2 1.1.10+83a8659290 via fabric-api
+	- fabric-loot-tables-v1 1.1.13+9e7660c690 via fabric-api
+	- fabric-message-api-v1 5.0.5+93d8cb8290 via fabric-api
+	- fabric-mining-level-api-v1 2.1.21+33fbc73890 via fabric-api
+	- fabric-models-v0 0.3.19+c6af733c90 via fabric-api
+	- fabric-networking-api-v1 1.2.8+3b1d070f90 via fabric-api
+	- fabric-networking-v0 0.3.25+df3654b390 via fabric-api
+	- fabric-object-builder-api-v1 4.1.3+06e0e25190 via fabric-api
+	- fabric-particles-v1 1.0.12+79adfe0a90 via fabric-api
+	- fabric-registry-sync-v0 0.9.29+9244241690 via fabric-api
+	- fabric-renderer-api-v1 1.1.0+e7aeff4590 via fabric-api
+	- fabric-renderer-indigo 0.6.17+aeb40ebe90 via fabric-api
+	- fabric-renderer-registries-v1 3.2.22+df3654b390 via fabric-api
+	- fabric-rendering-data-attachment-v1 0.3.17+0d0f210290 via fabric-api
+	- fabric-rendering-fluids-v1 3.0.9+c6af733c90 via fabric-api
+	- fabric-rendering-v0 1.1.25+df3654b390 via fabric-api
+	- fabric-rendering-v1 1.11.1+73145abb90 via fabric-api
+	- fabric-resource-conditions-api-v1 2.1.1+aae9039d90 via fabric-api
+	- fabric-resource-loader-v0 0.8.2+574a764890 via fabric-api
+	- fabric-screen-api-v1 1.0.30+b0bc9a6790 via fabric-api
+	- fabric-screen-handler-api-v1 1.3.4+1cc24b1b90 via fabric-api
+	- fabric-sound-api-v1 1.0.1+c4f28df590 via fabric-api
+	- fabric-textures-v0 1.0.22+aeb40ebe90 via fabric-api
+	- fabric-transfer-api-v1 2.1.3+9d081d6490 via fabric-api
+	- fabric-transitive-access-wideners-v1 1.3.2+42d99c3290 via fabric-api
+	- fabricloader 0.14.11
+	- gbfabrictools 1.3.4+1.19 via durabilityviewer
+	- imblocker 1.0.20
+	- indium 1.0.9+mc1.19.2
+	- inventoryprofilesnext 1.9.0
+	- io_github_douira_glsl-transformer 1.0.1 via iris
+	- iris 1.4.5
+	- itemphysiclite 1.5.1
+	- java 17
+	- jei 11.4.0.290
+	- lambdynlights 2.1.2+1.19
+	- leaf-decay 1.5.0-1.19.2
+	- libipn 2.0.0
+	- minecraft 1.19.2
+	- modmenu 4.1.2
+	- mousetweaks 2.22
+	- omega-config 1.2.3-1.18.1 via capes
+	- org_anarres_jcpp 1.4.14 via iris
+	- org_antlr_antlr4-runtime 4.10.1 via iris
+	- org_jetbrains_kotlin_kotlin-reflect 1.8.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib 1.8.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.8.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.8.10 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_atomicfu-jvm 0.19.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.4.1 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.4.1 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.4.1 via fabric-language-kotlin
+	- org_joml_joml 1.10.4 via sodium
+	- pride 1.1.2+1.19 via lambdynlights
+	- reeses-sodium-options 1.4.9+mc1.19.2-build.67
+	- sit 1.19-20
+	- sodium 0.4.4+build.18
+	- sodium-extra 0.4.15+mc1.19.2-build.85
+	- spruceui 4.0.0+1.19 via lambdynlights
+	- syncmatica 1.18.2-0.3.8
+	- trinkets 3.4.2
+	- wi_zoom 1.4-MC1.19.2
+	- worldedit 7.2.12+6240-87f4ae1
+	- wthit 5.13.4
+	- xaerominimap 22.17.0
+	- xaeroworldmap 1.28.7
+[11:15:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/E:/PCL2/.minecraft2/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[11:15:20] [main/INFO]: Compatibility level set to JAVA_16
+[11:15:20] [main/INFO]: Compatibility level set to JAVA_17
+[11:15:20] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 1 override(s) found
+[11:15:21] [main/INFO]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[11:15:21] [main/WARN]: Error loading class: net/minecraft/class_7743 (java.lang.ClassNotFoundException: net/minecraft/class_7743)
+[11:15:21] [main/WARN]: @Mixin target net.minecraft.class_7743 was not found imblocker.mixins.json:MixinAbstractSignEditScreen from mod imblocker
+[11:15:21] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[11:15:21] [main/WARN]: Error loading class: fi/dy/masa/litematica/gui/GuiMainMenu (java.lang.ClassNotFoundException: fi/dy/masa/litematica/gui/GuiMainMenu)
+[11:15:21] [main/WARN]: @Mixin target fi.dy.masa.litematica.gui.GuiMainMenu was not found syncmatica.litematica_mixin.json:MixinGuiMainMenu from mod syncmatica
+[11:15:21] [main/WARN]: Error loading class: fi/dy/masa/litematica/gui/widgets/WidgetListSchematicPlacements (java.lang.ClassNotFoundException: fi/dy/masa/litematica/gui/widgets/WidgetListSchematicPlacements)
+[11:15:21] [main/WARN]: @Mixin target fi.dy.masa.litematica.gui.widgets.WidgetListSchematicPlacements was not found syncmatica.litematica_mixin.json:MixinWidgetListSchematicPlacement from mod syncmatica
+[11:15:21] [main/WARN]: Error loading class: fi/dy/masa/litematica/schematic/placement/SchematicPlacement (java.lang.ClassNotFoundException: fi/dy/masa/litematica/schematic/placement/SchematicPlacement)
+[11:15:21] [main/WARN]: @Mixin target fi.dy.masa.litematica.schematic.placement.SchematicPlacement was not found syncmatica.litematica_mixin.json:MixinSchematicPlacement from mod syncmatica
+[11:15:21] [main/WARN]: Error loading class: fi/dy/masa/litematica/gui/widgets/WidgetSchematicPlacement (java.lang.ClassNotFoundException: fi/dy/masa/litematica/gui/widgets/WidgetSchematicPlacement)
+[11:15:21] [main/WARN]: @Mixin target fi.dy.masa.litematica.gui.widgets.WidgetSchematicPlacement was not found syncmatica.litematica_mixin.json:MixinWidgetSchematicPlacement from mod syncmatica
+[11:15:21] [main/WARN]: Error loading class: fi/dy/masa/malilib/gui/GuiBase (java.lang.ClassNotFoundException: fi/dy/masa/malilib/gui/GuiBase)
+[11:15:21] [main/WARN]: @Mixin target fi.dy.masa.malilib.gui.GuiBase was not found syncmatica.litematica_mixin.json:MixinGuiBase from mod syncmatica
+[11:15:21] [main/WARN]: Error loading class: fi/dy/masa/litematica/data/SchematicHolder (java.lang.ClassNotFoundException: fi/dy/masa/litematica/data/SchematicHolder)
+[11:15:21] [main/WARN]: @Mixin target fi.dy.masa.litematica.data.SchematicHolder was not found syncmatica.litematica_mixin.json:MixinSchematicHolder from mod syncmatica
+[11:15:21] [main/WARN]: Error loading class: fi/dy/masa/malilib/gui/button/ButtonBase (java.lang.ClassNotFoundException: fi/dy/masa/malilib/gui/button/ButtonBase)
+[11:15:21] [main/WARN]: @Mixin target fi.dy.masa.malilib.gui.button.ButtonBase was not found syncmatica.litematica_mixin.json:MixinButtonBase from mod syncmatica
+[11:15:21] [main/WARN]: Error loading class: fi/dy/masa/litematica/gui/GuiPlacementConfiguration (java.lang.ClassNotFoundException: fi/dy/masa/litematica/gui/GuiPlacementConfiguration)
+[11:15:21] [main/WARN]: @Mixin target fi.dy.masa.litematica.gui.GuiPlacementConfiguration was not found syncmatica.litematica_mixin.json:MixinGuiPlacementConfiguration from mod syncmatica
+[11:15:21] [main/WARN]: Error loading class: fi/dy/masa/litematica/schematic/placement/SubRegionPlacement (java.lang.ClassNotFoundException: fi/dy/masa/litematica/schematic/placement/SubRegionPlacement)
+[11:15:21] [main/WARN]: @Mixin target fi.dy.masa.litematica.schematic.placement.SubRegionPlacement was not found syncmatica.litematica_mixin.json:MixinSubregionPlacement from mod syncmatica
+[11:15:21] [main/WARN]: Error loading class: fi/dy/masa/litematica/schematic/placement/SchematicPlacementManager (java.lang.ClassNotFoundException: fi/dy/masa/litematica/schematic/placement/SchematicPlacementManager)
+[11:15:21] [main/WARN]: @Mixin target fi.dy.masa.litematica.schematic.placement.SchematicPlacementManager was not found syncmatica.litematica_mixin.json:MixinSchematicPlacementManager from mod syncmatica
+[11:15:23] [main/WARN]: Configuration conflict: there is more than one oshi.properties file on the classpath
+[11:15:24] [main/WARN]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath
+[11:15:24] [main/WARN]: @Final field field_22786:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[11:15:24] [main/WARN]: @Final field field_33815:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[11:15:30] [main/INFO]: Building optimized datafixer
+[11:15:37] [Render thread/WARN]: Method overwrite conflict for method_22920 in sodium.mixins.json:features.buffer_builder.intrinsics.MixinBufferBuilder from mod sodium, previously written by net.coderbot.iris.mixin.vertices.block_rendering.MixinBufferBuilder_SeparateAo. Skipping method.
+[11:15:38] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:15:40] [Render thread/INFO]: Setting user: biancqy
+[11:15:40] [Render thread/INFO]: BetterPingDisplay mod loaded
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[11:15:40] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[11:15:42] [Render thread/INFO]: [STDOUT]: Starting WI Zoom v1.4-MC1.19.2
+[11:15:44] [Render thread/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@24632a82]
+[11:15:44] [Render thread/INFO]: WorldEdit for Fabric (version 7.2.12+6240-87f4ae1) is loaded
+[11:15:44] [Render thread/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[11:15:45] [Render thread/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[11:15:45] [Render thread/INFO]: [WTHIT] Using mcp.mobius.waila.plugin.core.pick.ObjectPicker as the object picker
+[11:15:45] [Render thread/INFO]: [WTHIT] Plugin config reloaded
+[11:15:48] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[11:15:48] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_23182 in sodium.mixins.json:features.item.MixinItemRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[11:15:49] [Render thread/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[11:15:49] [Render thread/INFO]: [LambDynLights] Configuration loaded.
+[11:15:49] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Main.initialize()
+[11:15:49] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Initialized.
+[11:15:49] [Render thread/INFO]: Loading Xaero's Minimap - Stage 1/2
+[11:15:50] [Render thread/INFO]: Loading Xaero's World Map - Stage 1/2
+[11:15:52] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[11:15:53] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[11:15:53] [Render thread/INFO]: Debug functionality is disabled.
+[11:15:53] [Render thread/INFO]: Profile: HIGH (+0 options changed by user)
+[11:15:54] [Worker-Bootstrap-6/INFO]: 4283 Datafixer optimizations took 24589 milliseconds
+[11:15:55] [Render thread/INFO]: Using shaderpack: ComplementaryShaders_v4.3.zip
+[11:15:55] [Render thread/INFO]: Hardware information:
+[11:15:55] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 4800H with Radeon Graphics 
+[11:15:55] [Render thread/INFO]: GPU: NVIDIA GeForce GTX 1650/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 511.23)
+[11:15:55] [Render thread/INFO]: OS: Windows 10 (10.0)
+[11:15:56] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[11:15:56] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Ambient Sounds (Fabric), AppleSkin, Better Ping Display, Bookshelf, CaffeineConfig, Capes, Cardinal Components API (base), Cardinal Components API (entities), Chat Heads, Cloth Config v8, Continuity, Controlling For Fabric, CreativeCore (Fabric), Giselbaers Durability Viewer, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Client Tags, Fabric Command API (v1), Fabric Command API (v2), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Language Kotlin, Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Message API (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Sound API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, GBfabrictools, IMBlockerFabric, Indium, Inventory Profiles Next, Iris, Just Enough Items, LambDynamicLights, Leaf Decay, libIPN, Mod Menu, OmegaConfig, Pride Lib, Reese's Sodium Options, Sit, Sodium, Sodium Extra, SpruceUI, Syncmatica, Trinkets, WI Zoom, WorldEdit, wthit, Xaero's Minimap, Xaero's World Map), Masa_模组汉化资源包_V1.2.zip, continuity/default, continuity/glass_pane_culling_fix, Genshin音乐&字体二合一包, 可爱的监守者.zip
+[11:15:56] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[11:15:58] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:58] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function ScreenToView and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function AutoExposure and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: [Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]...
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function GetLuminance and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function SampleFilteredShadow and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function WavingWater and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function Bayer256 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function SampleFilteredShadow and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function stylisedGGX and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function GetMetalCol and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function SampleFilteredShadow and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:15:59] [Render thread/WARN]: Removing unused function GetLuminance and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function SampleFilteredShadow and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function DecodeNormal and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function stylisedGGX and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function GetMetalCol and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function calcLilypadMove and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function max2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt4 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt3 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function min2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function Bayer256 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt2 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function sqrt1inv and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function WavingWater and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/WARN]: Removing unused function Bayer256 and omitting further such messages outside of debug mode. See debugging.md for more information.
+[11:16:00] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[11:16:01] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[11:16:01] [Render thread/INFO]: No Optifine!
+[11:16:01] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[11:16:02] [Render thread/INFO]: Loaded AmbientEngine 'basic' v2.1.5. 11 dimension(s), 8 features, 9 groups, 31 regions, 57 sounds, 4 solids and 2 biome types
+[11:16:02] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[11:16:02] [Render thread/INFO]: New world map region cache hash code: 456397883
+[11:16:02] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[11:16:02] [Render thread/INFO]: No Optifine!
+[11:16:02] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[11:16:02] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[11:16:02] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[11:16:02] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 耳机 (Realtek(R) Audio)
+[11:16:02] [Render thread/INFO]: Sound engine started
+[11:16:02] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[11:16:02] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[11:16:04] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[11:16:04] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[11:16:04] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[11:16:04] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[11:16:04] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[11:16:04] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[11:16:04] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[11:16:14] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] Failed to get update info!
+java.net.ConnectException: Connection timed out: connect
+	at sun.nio.ch.Net.connect0(Native Method) ~[?:?]
+	at sun.nio.ch.Net.connect(Net.java:579) ~[?:?]
+	at sun.nio.ch.Net.connect(Net.java:568) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.net.Socket.connect(Socket.java:633) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304) ~[?:?]
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174) ~[?:?]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:183) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:498) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:603) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2887) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2796) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1927) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at java.net.URL.openStream(URL.java:1161) ~[?:?]
+	at org.apache.commons.io.IOUtils.toString(IOUtils.java:2953) ~[commons-io-2.11.0.jar:?]
+	at net.coderbot.iris.UpdateChecker.lambda$checkForUpdates$0(UpdateChecker.java:92) ~[iris-mc1.19.2-1.4.5.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[11:16:44] [Render thread/INFO]: Connecting to frp-all.top, 53004
+[11:16:47] [Render thread/WARN]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath
+[11:16:47] [Render thread/ERROR]: Unreported exception thrown!
+java.lang.NoClassDefFoundError: fi/dy/masa/malilib/util/StringUtils
+	at ch.endte.syncmatica.communication.ExchangeTarget.<init>(ExchangeTarget.java:30) ~[%5B共享原理图%5D%20syncmatica-1.18.2-0.3.8.jar:?]
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startClient(ActorClientPlayNetworkHandler.java:45) ~[%5B共享原理图%5D%20syncmatica-1.18.2-0.3.8.jar:?]
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.startEvent(ActorClientPlayNetworkHandler.java:36) ~[%5B共享原理图%5D%20syncmatica-1.18.2-0.3.8.jar:?]
+	at ch.endte.syncmatica.mixin_actor.ActorClientPlayNetworkHandler.packetEvent(ActorClientPlayNetworkHandler.java:58) ~[%5B共享原理图%5D%20syncmatica-1.18.2-0.3.8.jar:?]
+	at net.minecraft.class_634.handler$bkd000$handlePacket(class_634.java:7477) ~[client-intermediary.jar:?]
+	at net.minecraft.class_634.method_11152(class_634.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2658.method_11457(class_2658.java:60) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2658.method_11054(class_2658.java:8) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:22) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:157) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:131) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:116) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1129) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:768) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:244) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.11.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.ClassNotFoundException: fi.dy.masa.malilib.util.StringUtils
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226) ~[fabric-loader-0.14.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:145) ~[fabric-loader-0.14.11.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	... 26 more

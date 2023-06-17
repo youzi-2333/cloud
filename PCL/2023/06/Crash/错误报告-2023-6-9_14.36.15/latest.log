@@ -1,0 +1,218 @@
+[096月2023 14:35:10.147] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, lll, --version, 1.20-Forge_46.0.1, --gameDir, D:\.minecraft\versions\1.20-Forge_46.0.1, --assetsDir, D:\.minecraft\assets, --assetIndex, 5, --uuid, 00000XXXXXXXXXXXXXXXXXXXXXX19F66, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --quickPlayPath, ${quickPlayPath}, --launchTarget, forgeclient, --fml.forgeVersion, 46.0.1, --fml.mcVersion, 1.20, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230608.053357]
+[096月2023 14:35:10.158] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.6 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[096月2023 14:35:10.498] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23149!/ Service=ModLauncher Env=CLIENT
+[096月2023 14:35:10.982] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\.minecraft\libraries\net\minecraftforge\fmlcore\1.20-46.0.1\fmlcore-1.20-46.0.1.jar is missing mods.toml file
+[096月2023 14:35:10.986] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.20-46.0.1\javafmllanguage-1.20-46.0.1.jar is missing mods.toml file
+[096月2023 14:35:10.992] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20-46.0.1\lowcodelanguage-1.20-46.0.1.jar is missing mods.toml file
+[096月2023 14:35:10.997] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\.minecraft\libraries\net\minecraftforge\mclanguage\1.20-46.0.1\mclanguage-1.20-46.0.1.jar is missing mods.toml file
+[096月2023 14:35:11.107] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[096月2023 14:35:13.037] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[096月2023 14:35:13.039] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.20-Forge_46.0.1, --gameDir, D:\.minecraft\versions\1.20-Forge_46.0.1, --assetsDir, D:\.minecraft\assets, --uuid, 00000XXXXXXXXXXXXXXXXXXXXXX19F66, --username, lll, --assetIndex, 5, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --quickPlayPath, ${quickPlayPath}]
+[096月2023 14:35:20.205] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 188 Datafixer optimizations took 236 milliseconds
+[096月2023 14:35:23.448] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/.minecraft/libraries/net/minecraft/client/1.20-20230608.053357/client-1.20-20230608.053357-srg.jar%23158!/assets/.mcassetsroot' uses unexpected schema
+[096月2023 14:35:23.449] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/.minecraft/libraries/net/minecraft/client/1.20-20230608.053357/client-1.20-20230608.053357-srg.jar%23158!/data/.mcassetsroot' uses unexpected schema
+[096月2023 14:35:23.480] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[096月2023 14:35:24.583] [Render thread/ERROR] [net.minecraft.client.Minecraft/]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-4.0.43.jar%2389!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:156) ~[authlib-4.0.43.jar%2389!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55) ~[authlib-4.0.43.jar%2389!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[authlib-4.0.43.jar%2389!/:?]
+	at net.minecraft.client.Minecraft.m_193585_(Minecraft.java:649) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:413) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:182) ~[1.20-Forge_46.0.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:28) ~[fmlloader-1.20-46.0.1.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[?:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[?:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-4.0.43.jar%2389!/:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.jar%2389!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[authlib-4.0.43.jar%2389!/:?]
+	... 24 more
+[096月2023 14:35:24.585] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: lll
+[096月2023 14:35:24.769] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[096月2023 14:35:25.519] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 46.0.1, for MC 1.20 with MCP 20230608.053357
+[096月2023 14:35:25.520] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v46.0.1 Initialized
+[096月2023 14:35:25.809] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[096月2023 14:35:25.814] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 3.734 ms
+[096月2023 14:35:27.284] [Render thread/INFO] [journeymap/]: Registering Keybinds
+[096月2023 14:35:27.415] [Worker-Main-1/ERROR] [net.minecraft.client.multiplayer.AccountProfileKeyPairManager/]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at net.minecraft.client.multiplayer.AccountProfileKeyPairManager.m_253252_(AccountProfileKeyPairManager.java:129) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	at net.minecraft.client.multiplayer.AccountProfileKeyPairManager.m_252828_(AccountProfileKeyPairManager.java:74) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[096月2023 14:35:27.464] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[096月2023 14:35:27.505] [Worker-Main-1/INFO] [journeymap/]: No plugins for JourneyMap API discovered.
+[096月2023 14:35:27.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[096月2023 14:35:27.679] [Worker-Main-11/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
+[096月2023 14:35:27.889] [Render thread/INFO] [journeymap/]: Initializing Packet Registries
+[096月2023 14:35:28.061] [Render thread/INFO] [journeymap/]: Journeymap Initializing
+[096月2023 14:35:28.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 46.0.1 Target: 46.0.2
+[096月2023 14:35:28.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[096月2023 14:35:30.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.7 Target: null
+[096月2023 14:35:31.280] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[096月2023 14:35:31.282] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[096月2023 14:35:31.339] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on 耳机 (N35)
+[096月2023 14:35:31.340] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[096月2023 14:35:31.489] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[096月2023 14:35:31.622] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[096月2023 14:35:31.624] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[096月2023 14:35:31.628] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[096月2023 14:35:31.631] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[096月2023 14:35:31.657] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[096月2023 14:35:31.659] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[096月2023 14:35:31.660] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[096月2023 14:35:31.662] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[096月2023 14:35:32.149] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[096月2023 14:35:32.259] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[096月2023 14:35:32.266] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[096月2023 14:35:32.267] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[096月2023 14:35:32.272] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[096月2023 14:35:33.417] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[096月2023 14:35:38.737] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[096月2023 14:35:38.923] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[096月2023 14:35:39.477] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.20
+[096月2023 14:35:39.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[096月2023 14:35:41.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[096月2023 14:35:44.676] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[096月2023 14:35:44.676] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[096月2023 14:35:44.677] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[096月2023 14:35:44.677] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[096月2023 14:35:44.677] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[096月2023 14:35:44.678] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[096月2023 14:35:44.678] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[096月2023 14:35:44.678] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[096月2023 14:35:45.044] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：4%
+[096月2023 14:35:45.543] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：47%
+[096月2023 14:35:45.993] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[096月2023 14:35:46.008] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4976 ms
+[096月2023 14:35:46.194] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[096月2023 14:35:46.199] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[096月2023 14:35:46.335] [Render thread/WARN] [io.netty.util.internal.SystemPropertyUtil/]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[096月2023 14:35:47.183] [Netty Local Client IO #0/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a modded server.
+[096月2023 14:35:47.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lll[local:E:0724c94c] logged in with entity id 78 at (-802.1272431194523, 63.0, -1096.300000011921)
+[096月2023 14:35:47.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lll加入了游戏
+[096月2023 14:35:47.597] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[096月2023 14:35:47.598] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[096月2023 14:35:47.799] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[096月2023 14:35:47.826] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[096月2023 14:35:47.826] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[096月2023 14:35:47.829] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[096月2023 14:35:47.852] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[096月2023 14:35:47.861] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 7.847 ms
+[096月2023 14:35:47.863] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[096月2023 14:35:47.870] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 6.153 ms
+[096月2023 14:35:47.876] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[096月2023 14:35:48.076] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 199.4 milliseconds
+[096月2023 14:35:48.077] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 200.7 ms
+[096月2023 14:35:48.096] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[096月2023 14:35:48.126] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: jei:minecraft took 28.55 milliseconds
+[096月2023 14:35:48.129] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 32.49 ms
+[096月2023 14:35:48.131] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[096月2023 14:35:48.136] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 4.257 ms
+[096月2023 14:35:48.140] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[096月2023 14:35:48.143] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 3.043 ms
+[096月2023 14:35:48.145] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[096月2023 14:35:48.146] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 606.3 μs
+[096月2023 14:35:48.146] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[096月2023 14:35:48.166] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 19.24 ms
+[096月2023 14:35:48.170] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[096月2023 14:35:48.551] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 379.6 milliseconds
+[096月2023 14:35:48.551] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 380.8 ms
+[096月2023 14:35:48.559] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[096月2023 14:35:48.565] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 5.986 ms
+[096月2023 14:35:48.574] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[096月2023 14:35:48.587] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[096月2023 14:35:48.608] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering gui handlers: jei:minecraft took 20.10 milliseconds
+[096月2023 14:35:48.619] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 31.15 ms
+[096月2023 14:35:48.627] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[096月2023 14:35:48.632] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[096月2023 14:35:48.633] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[096月2023 14:35:48.640] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 6.397 ms
+[096月2023 14:35:48.640] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[096月2023 14:35:48.694] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 1440 ingredients
+[096月2023 14:35:48.997] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 1440 ingredients
+[096月2023 14:35:49.001] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 360.6 ms
+[096月2023 14:35:49.130] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:forge_gui took 501.6 milliseconds
+[096月2023 14:35:49.131] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 503.6 ms
+[096月2023 14:35:49.132] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 557.4 ms
+[096月2023 14:35:49.133] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[096月2023 14:35:49.134] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 819.9 μs
+[096月2023 14:35:49.135] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 1.305 s
+[096月2023 14:35:49.170] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 316 advancements
+[096月2023 14:35:51.265] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] JourneyMap (旅行地图) : 按下 [M]
+[096月2023 14:35:53.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[096月2023 14:36:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[096月2023 14:36:01.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[096月2023 14:36:01.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[096月2023 14:36:03.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[096月2023 14:36:03.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[096月2023 14:36:03.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[096月2023 14:36:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[096月2023 14:36:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[096月2023 14:36:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[096月2023 14:36:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[096月2023 14:36:09.116] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[096月2023 14:36:09.117] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[096月2023 14:36:09.117] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[096月2023 14:36:09.117] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[096月2023 14:36:09.118] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[096月2023 14:36:09.122] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 3.876 ms
+[096月2023 14:36:09.634] [Render thread/ERROR] [net.minecraft.client.Minecraft/FATAL]: Reported exception thrown!
+net.minecraft.ReportedException: Rendering screen
+	at net.minecraft.client.renderer.GameRenderer.m_109093_(GameRenderer.java:978) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1146) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[1.20-Forge_46.0.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:28) ~[fmlloader-1.20-46.0.1.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[?:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 185 out of bounds for length 3
+	at net.minecraft.client.gui.screens.inventory.EnchantmentScreen.m_7286_(EnchantmentScreen.java:91) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	at net.minecraft.client.gui.screens.inventory.AbstractContainerScreen.m_88315_(AbstractContainerScreen.java:92) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	at net.minecraft.client.gui.screens.inventory.EnchantmentScreen.m_88315_(EnchantmentScreen.java:143) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	at net.minecraft.client.gui.screens.Screen.m_280264_(Screen.java:109) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	at net.minecraftforge.client.ForgeHooksClient.drawScreenInternal(ForgeHooksClient.java:422) ~[forge-1.20-46.0.1-universal.jar%23163!/:?]
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:415) ~[forge-1.20-46.0.1-universal.jar%23163!/:?]
+	at net.minecraft.client.renderer.GameRenderer.m_109093_(GameRenderer.java:965) ~[client-1.20-20230608.053357-srg.jar%23158!/:?]
+	... 22 more
+[096月2023 14:36:09.644] [Render thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 2dd76299-acca-4eb1-bca2-38fc7d3bcdba
+[096月2023 14:36:09.649] [Render thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID bdabc3f8-8a93-40dd-b4f5-33616ddb1060

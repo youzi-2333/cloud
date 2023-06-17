@@ -1,0 +1,266 @@
+[08:27:04.629] [Start] 程序版本：Snapshot 2.6.2（294）
+[08:27:04.631] [Start] 识别码：833E-1996-C8A6-26FF
+[08:27:04.631] [Start] 程序路径：C:\Users\Pinetum\OneDrive\Plain Craft Launcher 2.exe
+[08:27:04.634] [Start] 第一阶段加载用时：46 ms
+[08:27:04.704] [UI] 刷新主题：0
+[08:27:04.733] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[08:27:04.733] [Start] 第二阶段加载用时：94 ms
+[08:27:04.744] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[08:27:04.987] [System] 窗口已置顶，位置：(529.333333333333, 249.333333333333), 1501.33333333333 x 941.333333333333
+[08:27:04.989] [Start] 第三阶段加载用时：63 ms
+[08:27:04.989] [Animation] 动画线程开始
+[08:27:04.990] [Start] 加载 DLL：Json
+[08:27:04.990] [System] 获取资源：Json
+[08:27:04.997] [Launch] Minecraft 文件夹：C:\Users\Pinetum\AppData\Roaming\.minecraft\
+[08:27:05.029] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[08:27:05.035] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[08:27:05.055] [Java] 缓存中有 7 个可用的 Java
+[08:27:05.067] [Skin] 载入头像成功：Loader Skin Ms
+[08:27:05.103] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\
+[08:27:05.107] [Loader] 加载器 登录 状态改变：Loading
+[08:27:05.111] [Launch] 登录加载已开始
+[08:27:05.112] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[08:27:05.116] [Launch] 登录方式：正版（Pinetum_KFZ）
+[08:27:05.117] [Launch] 开始微软登录步骤 2（刷新登录）
+[08:27:05.119] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[08:27:05.269] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[08:27:05.270] [UI] 解锁隐藏主题：6
+[08:27:05.270] [Loader] 加载器 PCL 服务 状态改变：Loading
+[08:27:05.270] [Server] 正在连接到 PCL 服务器
+[08:27:05.274] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[08:27:05.282] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1685924825-42382ae0-0-2fda883e0f0331b8a535c92040c22211，最大超时 10000
+[08:27:05.340] [Server] 服务器公告：108|294|293|5，无需更新
+[08:27:05.345] [Loader] 加载器 PCL 服务 状态改变：Finished
+[08:27:05.698] [System] DPI：144，系统版本：10.0.22624.0，PCL 位置：C:\Users\Pinetum\OneDrive\Plain Craft Launcher 2.exe
+[08:27:06.693] [Launch] 开始微软登录步骤 3
+[08:27:06.694] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[08:27:06.891] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[08:27:06.952] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[08:27:07.343] [Control] 按下按钮：启动游戏
+[08:27:07.344] [Loader] 加载器 Loader Launch 状态改变：Loading
+[08:27:07.350] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Pinetum\OneDrive\PCL\hints.txt
+[08:27:07.358] [Launch] 预检测已通过
+[08:27:07.360] [Download] 开始后台更新资源文件索引
+[08:27:07.361] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[08:27:07.362] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[08:27:07.365] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[08:27:07.365] [Loader] 加载器 获取 Java 状态改变：Loading
+[08:27:07.366] [Download] 版本 1.18.2 对应的资源文件索引为 1.18
+[08:27:07.367] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[08:27:07.368] [Launch] Java 版本需求：最低 1.17.0.0，最高 1.18.999.999
+[08:27:07.369] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[08:27:07.373] [Java] 开始完全遍历查找：C:\Users\Pinetum\AppData\Roaming\
+[08:27:07.460] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[08:27:07.512] [Java] 开始完全遍历查找：C:\Users\Pinetum\AppData\Roaming\.minecraft\
+[08:27:07.517] [Download] 1.18.json 142#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/92aa15a18127b6f9e3f0e5a7d018be7ebb389703/1.18.json
+[08:27:07.534] [Java] 开始完全遍历查找：C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\
+[08:27:07.555] [System] 执行外部命令并等待返回结果：E:\MCLDownload\ext\jre-v64-220420\jdk17\bin\java.exe -version
+[08:27:07.667] [Java] 选定的 Java：JDK 17 (17.0.2)，64 位：E:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[08:27:07.667] [Launch] 选择的 Java：JDK 17 (17.0.2)，64 位：E:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[08:27:07.667] [Loader] 加载器 获取 Java 状态改变：Finished
+[08:27:08.214] [Launch] 开始微软登录步骤 4
+[08:27:08.214] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[08:27:08.477] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[08:27:08.737] [Download] 1.18.json：文件大小 348726 B（341 K）
+[08:27:08.987] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[08:27:09.745] [Launch] 开始微软登录步骤 5
+[08:27:09.745] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[08:27:10.007] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[08:27:10.209] [Download] 1.18.json：已完成，剩余文件 0
+[08:27:10.209] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[08:27:10.209] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[08:27:10.210] [Launch] 后台更新资源文件索引成功：C:\Users\Pinetum\AppData\Local\Temp\PCL\Cache\1.18.json
+[08:27:10.210] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[08:27:10.210] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[08:27:11.418] [Launch] 开始微软登录步骤 6
+[08:27:11.418] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[08:27:11.683] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[08:27:12.266] [Launch] 微软登录完成
+[08:27:12.266] [UI] 解锁隐藏主题：10
+[08:27:12.266] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[08:27:12.278] [Launch] 登录加载已结束
+[08:27:12.278] [Loader] 加载器 登录 状态改变：Finished
+[08:27:12.278] [Loader] 加载器 登录 状态改变：Loading
+[08:27:12.279] [Loader] 加载器 补全文件 状态改变：Loading
+[08:27:12.279] [Launch] 登录加载已开始
+[08:27:12.279] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[08:27:12.279] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[08:27:12.279] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[08:27:12.279] [Launch] 登录方式：正版（Pinetum_KFZ）
+[08:27:12.279] [Launch] 微软登录完成
+[08:27:12.279] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[08:27:12.279] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[08:27:12.279] [UI] 解锁隐藏主题：10
+[08:27:12.279] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[08:27:12.279] [Download] 版本 1.18.2 对应的资源文件索引为 1.18
+[08:27:12.286] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[08:27:12.286] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[08:27:12.286] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[08:27:12.286] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[08:27:12.294] [Launch] 登录加载已结束
+[08:27:12.294] [Loader] 加载器 登录 状态改变：Finished
+[08:27:12.320] [Minecraft] 获取支持库列表：1.18.2
+[08:27:12.472] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[08:27:12.472] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[08:27:12.472] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[08:27:12.472] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[08:27:12.630] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[08:27:12.630] [Loader] 加载器 下载资源文件 状态改变：Loading
+[08:27:12.630] [Loader] 加载器 下载资源文件 状态改变：Finished
+[08:27:12.631] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[08:27:12.631] [Loader] 加载器 补全文件 状态改变：Finished
+[08:27:12.631] [Loader] 加载器 获取启动参数 状态改变：Loading
+[08:27:12.632] [Launch] 开始获取 Minecraft 启动参数
+[08:27:12.632] [Launch] 获取新版 JVM 参数
+[08:27:12.638] [Launch] 当前剩余内存：22.1G
+[08:27:12.641] [System] 获取资源：JavaWrapper
+[08:27:12.642] [Java] 已释放 Java Wrapper：C:\Users\Pinetum\AppData\Roaming\PCL\JavaWrapper.jar
+[08:27:12.643] [Launch] 新版 JVM 参数获取成功：
+[08:27:12.643] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Pinetum\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx13926m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Pinetum\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[08:27:12.643] [Launch] 获取新版 Game 参数
+[08:27:12.645] [Launch] 发现正确的 OptiFineForge TweakClass，目前参数：--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${autXXXXXXXXXXoken} --clientId ${clientid} --xuid ${auth_xuid} --userType ${user_type} --versionType ${version_type} --width ${resolution_width} --height ${resolution_height} --tweakClass optifine.OptiFineForgeTweaker --launchTarget forgeclient --fml.forgeVersion 40.2.0 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914
+[08:27:12.645] [Launch] 新版 Game 参数获取成功
+[08:27:12.652] [Minecraft] 获取支持库列表：1.18.2
+[08:27:12.659] [Launch] Minecraft 启动参数：
+[08:27:12.660] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Pinetum\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\1.18.2-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=294 -cp "C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\optifine\launchwrapper-of\2.3\launchwrapper-of-2.3.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\cpw\mods\securejarhandler\1.0.3\securejarhandler-1.0.3.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\9.2\asm-9.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\9.2\asm-commons-9.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\9.2\asm-tree-9.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-util\9.2\asm-util-9.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-analysis\9.2\asm-analysis-9.2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\minecraftforge\eventbus\5.0.3\eventbus-5.0.3.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forgespi\4.0.15-4.x\forgespi-4.0.15-4.x.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\cpw\mods\modlauncher\9.1.3\modlauncher-9.1.3.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJar\0.3.0\JarJar-0.3.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\cpw\mods\bootstraplauncher\1.0.0\bootstraplauncher-1.0.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.18.2_HD_U_H9_pre2\OptiFine-1.18.2_HD_U_H9_pre2.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlloader\1.18.2-40.2.0\fmlloader-1.18.2-40.2.0.jar;C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\1.18.2.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,1.18.2.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory="C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries" -p "C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar;"C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries"/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar;"C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar;"C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar;"C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar;"C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;"C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx13926m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Pinetum\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username Pinetum_KFZ --version 1.18.2 --gameDir "C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2" --assetsDir "C:\Users\Pinetum\AppData\Roaming\.minecraft\assets" --assetIndex 1.18 --uuid c4ebe5086f69444b82a830754e119070 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXG90E4 --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType Pinetum --width 2198 --height 1320 --launchTarget forgeclient --fml.forgeVersion 40.2.0 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914 --tweakClass optifine.OptiFineForgeTweaker 
+[08:27:12.660] [Loader] 加载器 获取启动参数 状态改变：Finished
+[08:27:12.666] [Loader] 加载器 解压文件 状态改变：Loading
+[08:27:12.674] [Launch] 正在解压 Natives 文件
+[08:27:12.684] [Loader] 加载器 解压文件 状态改变：Finished
+[08:27:12.696] [Loader] 加载器 预启动处理 状态改变：Loading
+[08:27:12.709] [Launch] 已更新 launcher_profiles.json
+[08:27:12.709] [Launch] 当前语言为 zh_cn，无需修改
+[08:27:12.710] [Loader] 加载器 预启动处理 状态改变：Finished
+[08:27:12.741] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[08:27:12.744] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[08:27:12.758] [Loader] 加载器 启动进程 状态改变：Loading
+[08:27:12.775] [Launch] 已启动游戏进程：E:\MCLDownload\ext\jre-v64-220420\jdk17\bin\javaw.exe
+[08:27:12.775] [Loader] 加载器 启动进程 状态改变：Finished
+[08:27:12.790] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[08:27:12.792] [Launch] 
+[08:27:12.792] [Launch] ~ 基础参数 ~
+[08:27:12.792] [Launch] PCL 版本：Snapshot 2.6.2 (294)
+[08:27:12.792] [Launch] 游戏版本：1.18.2, Forge 40.2.0, OptiFine H9_pre2（18.2）
+[08:27:12.792] [Launch] 资源版本：1.18
+[08:27:12.792] [Launch] 版本继承：无
+[08:27:12.792] [Launch] 分配的内存：13.6 GB（13926 MB）
+[08:27:12.792] [Launch] MC 文件夹：C:\Users\Pinetum\AppData\Roaming\.minecraft\
+[08:27:12.792] [Launch] 版本文件夹：C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\
+[08:27:12.792] [Launch] 版本隔离：True
+[08:27:12.792] [Launch] HMCL 格式：False
+[08:27:12.792] [Launch] Java 信息：JDK 17 (17.0.2)，64 位：E:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[08:27:12.793] [Launch] 环境变量：未设置
+[08:27:12.793] [Launch] 
+[08:27:12.793] [Launch] ~ 登录参数 ~
+[08:27:12.793] [Launch] 玩家用户名：Pinetum_KFZ
+[08:27:12.793] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXG90E4
+[08:27:12.793] [Launch] ClientToken：c4ebe5086f69444b82a830754e119070
+[08:27:12.793] [Launch] UUID：c4ebe5086f69444b82a830754e119070
+[08:27:12.793] [Launch] 登录方式：Microsoft
+[08:27:12.793] [Launch] 
+[08:27:12.794] [Launch] [30528] 开始 Minecraft 日志监控
+[08:27:12.794] [Launch] [全局] 出现运行中的 Minecraft
+[08:27:13.026] [Launch] [30528] 日志 1/5：已出现日志输出
+[08:27:16.770] [Launch] [30528] Minecraft 已退出，返回值：1
+[08:27:16.770] [Launch] [30528] Minecraft 尚未加载完成，可能已崩溃
+[08:27:16.770] [Launch] [全局] 已无运行中的 Minecraft
+[08:27:16.770] [Launch] [30528] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[08:27:16.817] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[08:27:16.850] 加载线程 等待游戏窗口出现 (37) 发生运行时错误：$$
+   於 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   於 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[08:27:16.850] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[08:27:16.850] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[08:27:17.003] [Launch] [30528] Minecraft 日志监控已退出
+[08:27:17.049] 加载线程 Loader Launch (12) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   於 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   於 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   於 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   於 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[08:27:17.049] [Loader] 加载器 Loader Launch 状态改变：Failed
+[08:27:18.780] [Launch] [30528] 崩溃分析开始
+[08:27:18.787] [Crash] 崩溃分析暂存文件夹：C:\Users\Pinetum\AppData\Local\Temp\PCL\CrashAnalyzer\3052896765122\
+[08:27:18.788] [Crash] 步骤 1：收集日志文件
+[08:27:18.788] [Crash] 可能可用的日志文件：C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\logs\latest.log（0 分钟）
+[08:27:18.788] [Crash] 可能可用的日志文件：C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\logs\debug.log（0 分钟）
+[08:27:18.789] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Pinetum\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-06-05 08:27:15,069 main WARN Advanced terminal features are not available in this environment
+[08:27:15] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Pinetum_KFZ, --version, 1.18.2, --gameDir, C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2, --assetsDir, C:\Users\Pinetum\AppData\Roaming\.minecraft\assets, --assetIndex, 1.18, --uuid, c4ebe5086f69444b82a830754e119070, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, Pinetum, --width, 2198, --height, 1320, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, --tweakClass, optifine.OptiFineForgeTweaker]
+[08:27:15] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.2 by Eclipse Adoptium
+[08:27:15] [main/INFO] [op.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[08:27:15] [main/INFO] [op.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/C:/Users/Pinetum/AppData/Roaming/.minecraft/libraries/optifine/OptiFine/1.18.2_HD_U_H9_pre2/OptiFine-1.18.2_HD_U_H9_pre2.jar%2352!/
+[08:27:15] [main/INFO] [op.OptiFineTransformationService/]: OptiFine ZIP file: C:\Users\Pinetum\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.18.2_HD_U_H9_pre2\OptiFine-1.18.2_HD_U_H9_pre2.jar
+[08:27:15] [main/INFO] [op.OptiFineTransformer/]: Target.PRE_CLASS is available
+[08:27:16] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Pinetum/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2349!/ Service=ModLauncher Env=CLIENT
+[08:27:16] [main/INFO] [op.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.RuntimeException: Failed to load FML config from C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\config\fml.toml
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:49)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.load(FMLConfig.java:62)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLServiceProvider.initialize(FMLServiceProvider.java:65)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServiceDecorator.onInitialize(TransformationServiceDecorator.java:68)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseTransformationServices$7(TransformationServicesHandler.java:92)
+	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1065)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.initialiseTransformationServices(TransformationServicesHandler.java:92)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:51)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:87)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)
+	... 6 more
+Caused by: com.electronwill.nightconfig.core.io.ParsingException: Not enough data available
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ParsingException.notEnoughData(ParsingException.java:22)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ReaderInput.directReadChar(ReaderInput.java:36)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.AbstractInput.readChar(AbstractInput.java:49)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.AbstractInput.readCharsUntil(AbstractInput.java:123)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseKey(TableParser.java:166)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseDottedKey(TableParser.java:145)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:55)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:44)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.AutoreloadFileConfig.load(AutoreloadFileConfig.java:41)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:45)
+	... 18 more
+[08:27:18.789] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[08:27:18.793] [Crash] 步骤 2：准备日志文本
+[08:27:18.794] [Crash] latest.log 分类为 MinecraftLog
+[08:27:18.794] [Crash] debug.log 分类为 MinecraftLog
+[08:27:18.794] [Crash] RawOutput.log 分类为 ExtraLog
+[08:27:18.794] [Crash] 输出报告：C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\logs\latest.log，作为 Minecraft 或启动器日志
+[08:27:18.794] [Crash] 输出报告：C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\logs\debug.log，作为 Minecraft 或启动器日志
+[08:27:18.794] [Crash] 导入分析：C:\Users\Pinetum\AppData\Roaming\.minecraft\versions\1.18.2\logs\latest.log，作为 Minecraft 日志
+[08:27:18.794] [Crash] 输出报告：C:\Users\Pinetum\AppData\Local\Temp\PCL\CrashAnalyzer\3052896765122\RawOutput.log，作为额外日志
+[08:27:18.794] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[08:27:18.795] [Crash] 步骤 3：分析崩溃原因
+[08:27:18.799] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[08:27:18.799] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[08:27:18.803] [System] 窗口已置顶，位置：(529.333333333333, 249.333333333333), 1501.33333333333 x 941.333333333333
+[08:27:18.821] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[08:27:21.127] [Control] 按下按钮：导出错误报告
+[08:27:21.129] [Control] 普通弹框返回：3
+[08:27:21.432] [Animation] 两个动画帧间隔 219 ms
+[08:27:23.461] [UI] 选择文件返回：C:\Users\Pinetum\Desktop\错误报告-2023-6-5_上午_08.27.21.zip
+[08:27:23.599] [System] 诊断信息：
+操作系统：Microsoft Windows 11 专业版
+剩余内存：22657 M / 32544 M
+DPI：144（150%）
+MC 文件夹：C:\Users\Pinetum\AppData\Roaming\.minecraft\
+文件位置：C:\Users\Pinetum\OneDrive\

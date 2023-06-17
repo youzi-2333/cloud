@@ -1,0 +1,731 @@
+---- Minecraft Crash Report ----
+// Daisy, daisy...
+
+Time: 2023-06-03 17:18:43
+Description: Initializing game
+
+java.lang.VerifyError: Bad local variable type
+Exception Details:
+  Location:
+    net/minecraft/client/renderer/LevelRenderer.m_109599_(Lcom/mojang/blaze3d/vertex/PoseStack;FJZLnet/minecraft/client/Camera;Lnet/minecraft/client/renderer/GameRenderer;Lnet/minecraft/client/renderer/LightTexture;Lcom/mojang/math/Matrix4f;)V @2718: aload
+  Reason:
+    Type integer (current frame, locals[25]) is not assignable to reference type
+  Current Frame:
+    bci: @2718
+    flags: { }
+    locals: { 'net/minecraft/client/renderer/LevelRenderer', 'com/mojang/blaze3d/vertex/PoseStack', float, long, long_2nd, integer, 'net/minecraft/client/Camera', 'net/minecraft/client/renderer/GameRenderer', 'net/minecraft/client/renderer/LightTexture', 'com/mojang/math/Matrix4f', 'net/minecraft/util/profiling/ProfilerFiller', integer, 'net/minecraft/world/phys/Vec3', double, double_2nd, double, double_2nd, double, double_2nd, 'com/mojang/math/Matrix4f', integer, 'net/minecraft/client/renderer/culling/Frustum', integer, float, integer, integer, integer, 'net/minecraft/client/renderer/MultiBufferSource$BufferSource', integer, integer, 'java/util/Collection', integer, 'net/minecraft/client/renderer/culling/Frustum', 'java/util/Set', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0000000: 2a2b b609 2a4c 2a24 b609 2d45 2ab4 0240
+    0000010: b609 3024 b809 342a b402 0c2a b402 4019
+    0000020: 062a b402 08b4 0938 b609 3c2a b402 0a2a
+    0000030: b402 4019 062a b402 08b4 093f b609 432a
+    0000040: b402 40b6 06a9 3a0a 190a 1309 45b9 06c7
+    0000050: 0200 2ab4 0240 b609 4819 0a13 094a b906
+    0000060: c702 002a b402 40b6 094d 360b 2ab4 0240
+    0000070: b609 51b6 0957 1309 5815 0b04 b609 5e57
+    0000080: 1906 b603 853a 0c19 0cb6 090f 390d 190c
+    0000090: b609 1239 0f19 0cb6 0915 3911 2bb6 0909
+    00000a0: b609 0c3a 1319 0a13 06cc b906 c702 002a
+    00000b0: b408 dec6 0007 04a7 0004 0336 1415 1499
+    00000c0: 0026 2ab4 08de 3a15 1915 2ab4 01a5 b408
+    00000d0: ee2a b401 a5b4 08f1 2ab4 01a5 b408 f4b6
+    00000e0: 091d a700 092a b409 1a3a 152a b402 08b6
+    00000f0: 06ca 1309 60b9 06c7 0200 2ab4 0962 9900
+    0000100: 732a 1913 1909 190c b406 d219 0cb4 06da
+    0000110: 190c b406 dd15 1499 0011 bb07 4359 1913
+    0000120: 1909 b709 18a7 0005 1915 b609 642a 03b5
+    0000130: 0962 2ab4 08de 3a15 1915 b802 9299 000d
+    0000140: b809 209a 0007 04a7 0004 03b5 0923 1915
+    0000150: 190c b406 d219 0cb4 06da 190c b406 ddb6
+    0000160: 091d 2a19 1503 02b6 0779 2a19 1502 b607
+    0000170: 5f2a b409 6699 004d 2a19 1319 0919 0cb4
+    0000180: 06d2 190c b406 da19 0cb4 06dd 1906 24b8
+    0000190: 096a b609 642a 03b5 0966 2ab4 08de 3a15
+    00001a0: 1915 190c b406 d219 0cb4 06da 190c b406
+    00001b0: ddb6 091d 04b3 0752 04b3 0762 2a19 15b8
+    00001c0: 096e 190a 1309 6fb9 06c7 0200 b802 9299
+    00001d0: 001f 0303 2ab4 0208 b604 68b6 046d 2ab4
+    00001e0: 0208 b604 68b6 0470 b809 73a7 001c 0303
+    00001f0: 2ab4 0208 b604 68b6 046d 2ab4 0208 b604
+    0000200: 68b6 0470 b809 7619 0624 2ab4 0208 b402
+    0000210: 5d2a b402 08b4 038d b606 2a19 0724 b609
+    0000220: 79b8 097d b809 8011 4100 b209 83b8 0987
+    0000230: b802 9236 1615 1699 0010 b809 8a2b 1906
+    0000240: 24b8 098e b809 9119 07b6 0994 3817 2ab4
+    0000250: 0208 b402 5db6 0244 180d b802 6e18 0fb8
+    0000260: 026e b609 989a 0013 2ab4 0208 b409 9cb6
+    0000270: 09a2 b609 a799 0007 04a7 0004 0336 182a
+    0000280: b402 08b4 025d b602 4418 0db8 026e 180f
+    0000290: b802 6eb6 0998 3619 b809 aa9a 000f b809
+    00002a0: ad9a 0009 b809 b099 0046 b209 b39a 0040
+    00002b0: 190a 1309 b5b9 06c7 0200 1516 9900 06b8
+    00002c0: 09b8 ba05 7d00 00b8 02b3 2a2b 1909 2419
+    00002d0: 0615 1919 0617 1715 1824 ba09 c000 00b6
+    00002e0: 09c4 1516 9900 0cb8 09c7 a700 06b8 09ca
+    00002f0: b209 cdb6 023e 9900 37b2 09cd 1007 bd00
+    0000300: 0559 03b2 09d1 5359 042a 5359 052b 5359
+    0000310: 0619 0953 5907 2ab4 0246 b802 4c53 5908
+    0000320: 1906 5359 1006 1915 53b6 09d5 5719 0a13
+    0000330: 09d7 b906 c702 0019 06b2 09db 1717 1303
+    0000340: 01b8 09de 1518 24b8 09e2 190a 1309 e4b9
+    0000350: 06c7 0200 2a19 0619 152a b402 08b4 055b
+    0000360: b609 e7b6 09eb 2a59 b409 ed04 60b5 09ed
+    0000370: 2a19 0619 1515 142a b402 08b4 055b b609
+    0000380: e7b6 09ef 190a 1309 f1b9 06c7 0200 2a19
+    0000390: 06b6 09f4 190a 1309 f6b9 06c7 0200 b209
+    00003a0: f9b6 06f8 2ab4 0208 b403 8db4 09fc 9900
+    00003b0: 242a b402 08b6 06ca 1309 feb9 06c7 0200
+    00003c0: b80a 032a b402 08b6 06ca 1309 f6b9 06c7
+    00003d0: 0200 b80a 0699 000d b20a 0999 0007 03b8
+    00003e0: 0a0c 2ab8 0a12 2b18 0d18 0f18 1119 09b6
+    00003f0: 0a16 2ab4 0208 b60a 1ab2 0a1f b60a 2503
+    0000400: 2ab4 0208 b403 8db6 0a28 b603 98c0 0248
+    0000410: b60a 2b9e 0007 04a7 0004 03b6 0a2f 2ab8
+    0000420: 0a32 2b18 0d18 0f18 1119 09b6 0a16 2ab4
+    0000430: 0208 b60a 1ab2 0a1f b60a 25b6 0a35 2ab8
+    0000440: 0a38 2b18 0d18 0f18 1119 09b6 0a16 1516
+    0000450: 9900 06b8 0a3b 2ab4 0240 b602 44b6 0a3e
+    0000460: 9900 102b b609 09b6 090c b80a 43a7 000d
+    0000470: 2bb6 0909 b609 0cb8 0a46 1516 9900 06b8
+    0000480: 0a49 b80a 4e19 0a13 0a50 b906 c702 00b2
+    0000490: 0a52 0460 b30a 522a 03b5 068e 2a03 b506
+    00004a0: 932a 03b5 0a54 2ab4 04a2 c600 262a b404
+    00004b0: a2b2 0983 b60a 572a b404 a22a b402 08b6
+    00004c0: 0461 b60a 5b2a b402 08b6 0461 03b6 0a5e
+    00004d0: 2ab4 04a6 c600 0d2a b404 a6b2 0983 b60a
+    00004e0: 572a b605 3799 0018 2ab4 047c b209 83b6
+    00004f0: 0a57 2ab4 0208 b604 6103 b60a 5e03 361a
+    0000500: 2ab4 020e b60a 623a 1bb8 0a65 9900 06b8
+    0000510: 0a6a 2ab4 0240 b607 df36 1c2a b402 40b6
+    0000520: 07e2 361d b80a 6d9a 0009 b80a 7099 0009
+    0000530: b805 7bb6 0a75 2ab4 0240 b60a 79b9 0a7c
+    0000540: 0100 3a1e 191e b907 ac01 0099 0123 191e
+    0000550: b907 af01 00c0 0648 3a1f 191f b60a 7f3a
+    0000560: 202a b401 c719 20b8 0a83 b60a 879a 001a
+    0000570: 1920 b603 b115 1ca4 0010 1920 b603 b115
+    0000580: 1da2 0006 a7ff c019 1f2a b402 08b4 055b
+    0000590: a600 142a b402 08b4 055b b609 e79a 0007
+    00005a0: 04a7 0004 0336 212a b402 0a19 1f19 1518
+    00005b0: 0d18 0f18 11b6 0a8b 9a00 1219 1f2a b402
+    00005c0: 08b4 055b b60a 8f99 00a4 191f b60a 7f3a
+    00005d0: 222a b402 4019 22b6 03b1 b60a 929a 000c
+    00005e0: 2a19 22b6 0a95 9900 8519 1f19 06b6 0a98
+    00005f0: a600 2419 06b6 0a9b 9a00 1c19 06b6 0a98
+    0000600: c10a 9d99 0068 1906 b60a 98c0 0a9d b60a
+    0000610: a099 005a 191f c106 b299 0012 1906 b60a
+    0000620: 9819 1fa5 0008 1521 9900 4319 1fb6 0aa4
+    0000630: b60a a73a 232a b402 0119 23b9 0aa9 0200
+    0000640: c007 c83a 2419 24c7 001a bb01 c959 b70a
+    0000650: aa3a 242a b402 0119 2319 24b9 0aae 0300
+    0000660: 5719 2419 1fb9 07ca 0200 57a7 fed9 2ab4
+    0000670: 0201 b90a b101 003a 1e19 1eb9 0ab2 0100
+    0000680: 3a1f 191f b907 ac01 0099 0113 191f b907
+    0000690: af01 00c0 07c8 3a20 1920 b90a b301 003a
+    00006a0: 2119 21b9 07ac 0100 9900 ea19 21b9 07af
+    00006b0: 0100 c006 483a 222a 59b4 068e 0460 b506
+    00006c0: 8e19 22b4 0ab6 9a00 2119 2219 22b6 064b
+    00006d0: b50a b919 2219 22b6 0aba b50a bd19 2219
+    00006e0: 22b6 064e b50a c02a b605 3799 005a 2ab4
+    00006f0: 0208 1922 b60a c399 004e 0436 1a2a b402
+    0000700: 0eb6 0ac7 3a24 1924 3a23 1922 b60a ca36
+    0000710: 2511 00ff 3626 1525 1010 7a11 00ff 7e36
+    0000720: 2715 2510 087a 1100 ff7e 3628 1525 1100
+    0000730: ff7e 3629 1924 1527 1528 1529 1100 ffb6
+    0000740: 0acf a700 33b2 0ad2 b602 3e99 0026 2ab6
+    0000750: 0537 9900 1f19 22b2 0ad2 04bd 0005 5903
+    0000760: 2ab4 0208 b405 5b53 b802 5a99 0006 0436
+    0000770: 1a19 1b3a 2315 1699 0008 1922 b80a d62a
+    0000780: 1922 180d 180f 1811 242b 1923 b60a daa7
+    0000790: ff12 1920 b90a db01 00a7 fee9 191b b60a
+    00007a0: de2a 2bb6 0ae2 191b b20a 1fb8 0ae6 b60a
+    00007b0: ea19 1bb2 0a1f b80a edb6 0aea 191b b20a
+    00007c0: 1fb8 0af0 b60a ea19 1bb2 0a1f b80a f3b6
+    00007d0: 0aea b80a 6599 0006 b80a f615 1699 0009
+    00007e0: b80a f9b8 0afc 190a 130a feb9 06c7 0200
+    00007f0: b80b 03b2 0b06 b602 3e36 1f19 153a 202a
+    0000800: b401 ccb9 0ab3 0100 3a21 1921 b907 ac01
+    0000810: 0099 0163 1921 b907 af01 00c0 0018 3a22
+    0000820: 1922 b407 2bb6 07bf b607 c63a 2319 23b9
+    0000830: 07c9 0100 9a01 3d19 23b9 0ab3 0100 3a24
+    0000840: 1924 b907 ac01 0099 012a 1924 b907 af01
+    0000850: 00c0 0b08 3a25 151f 9900 2619 25b2 0b06
+    0000860: 03bd 0005 b80b 0bc0 0b0d 3a26 1926 c600
+    0000870: 1019 2019 26b6 07b7 9a00 06a7 ffc5 1516
+    0000880: 9900 0819 25b8 0b11 1925 b60b 143a 2619
+    0000890: 1b3a 272b b60b 172b 1926 b604 0387 180d
+    00008a0: 6719 26b6 03b1 8718 0f67 1926 b604 0687
+    00008b0: 1811 67b6 0b1a 2ab4 016a 1926 b60b 1db9
+    00008c0: 0b20 0300 c00b 223a 2819 28c6 005c 1928
+    00008d0: b90b 2301 009a 0052 1928 b90b 2601 00c0
+    00008e0: 0b28 b60b 2b36 2915 299b 003e 2bb6 0909
+    00008f0: 3a2a bb0b 2d59 2ab4 020e b60b 30b2 0b35
+    0000900: 1529 b90b 3802 00c0 0a0e b60b 3c19 2ab6
+    0000910: 090c 192a b60b 40b7 0b43 3a2b 191b 192b
+    0000920: ba0b 4c00 003a 27b2 0b4f b602 3e99 0026
+    0000930: 2ab6 0537 9900 1f19 25b2 0b4f 04bd 0005
+    0000940: 5903 2ab4 0208 b405 5b53 b802 5a99 0006
+    0000950: 0436 1a2a b402 0c19 2524 2b19 27b6 0b53
+    0000960: 2bb6 0b56 2a59 b40a 5404 60b5 0a54 a7fe
+    0000970: d2a7 fe99 2ab4 0159 593a 21c2 2ab4 0159
+    0000980: b907 a701 003a 2219 22b9 07ac 0100 9900
+    0000990: b519 22b9 07af 0100 c00b 083a 2315 1f99
+    00009a0: 0026 1923 b20b 0603 bd00 05b8 0b0b c00b
+    00009b0: 0d3a 2419 24c6 0010 1920 1924 b607 b79a
+    00009c0: 0006 a7ff c515 1699 0008 1923 b80b 1119
+    00009d0: 23b6 0b14 3a24 2bb6 0b17 2b19 24b6 0403
+    00009e0: 8718 0d67 1924 b603 b187 180f 6719 24b6
+    00009f0: 0406 8718 1167 b60b 1ab2 0b4f b602 3e99
+    0000a00: 0026 2ab6 0537 9900 1f19 23b2 0b4f 04bd
+    0000a10: 0005 5903 2ab4 0208 b405 5b53 b802 5a99
+    0000a20: 0006 0436 1a2a b402 0c19 2324 2b19 1bb6
+    0000a30: 0b53 2bb6 0b56 2a59 b40a 5404 60b5 0a54
+    0000a40: a7ff 4719 21c3 a700 0b3a 2c19 21c3 192c
+    0000a50: bf2a 2bb6 0ae2 191b b80a 12b6 0aea 191b
+    0000a60: b80b 59b6 0aea 191b b80b 5cb6 0aea 191b
+    0000a70: b80b 61b6 0aea 191b b80b 64b6 0aea 191b
+    0000a80: b80b 67b6 0aea 191b b80b 6ab6 0aea 191b
+    0000a90: b80b 6db6 0aea 191b b80b 70b6 0aea 1919
+    0000aa0: 03b8 0b76 191b b80b 79b6 0aea 2ab4 020e
+    0000ab0: b60a c7b6 0b7c b80a 6599 0006 b80b 7fb2
+    0000ac0: 09f9 b607 6515 1a99 0016 2ab4 043a 24b6
+    0000ad0: 0b83 2ab4 0208 b604 6103 b60a 5e15 1699
+    0000ae0: 0006 b80b 862a 04b5 01f6 190a 130b 88b9
+    0000af0: 06c7 0200 2ab4 016a b90b 8c01 00b9 0b91
+    0000b00: 0100 3a21 1921 b907 ac01 0099 010e 1921
+    0000b10: b907 af01 00c0 0065 3a22 1922 b90b 9401
+    0000b20: 00b8 0b98 3a23 1923 b604 0387 180d 6739
+    0000b30: 2419 23b6 03b1 8718 0f67 3926 1923 b604
+    0000b40: 0687 1811 6739 2818 2418 246b 1826 1826
+    0000b50: 6b63 1828 1828 6b63 140b 9997 9d00 ba19
+    0000b60: 22b9 0b9d 0100 c00b 223a 2a19 2ac6 00a9
+    0000b70: 192a b90b 2301 009a 009f 192a b90b 2601
+    0000b80: 00c0 0b28 b60b 2b36 2b2b b60b 172b 1923
+    0000b90: b604 0387 180d 6719 23b6 03b1 8718 0f67
+    0000ba0: 1923 b604 0687 1811 67b6 0b1a 2bb6 0909
+    0000bb0: 3a2c bb0b 2d59 2ab4 020e b60b 30b2 0b35
+    0000bc0: 152b b90b 3802 00c0 0a0e b60b 3c19 2cb6
+    0000bd0: 090c 192c b60b 40b7 0b43 3a2d 2ab4 0240
+    0000be0: b60b a119 23b6 0ba7 3a2e 192e c700 08b2
+    0000bf0: 0bad 3a2e 2ab4 0208 b60b b12a b402 4019
+    0000c00: 23b6 06ed 1923 2ab4 0240 2b19 2d19 2eb6
+    0000c10: 0bb7 2bb6 0b56 a7fe ee2a 03b5 01f6 b80b
+    0000c20: bcb2 0a52 0464 b30a 522a 2b2a 2b24 2115
+    0000c30: 0519 0619 0719 0819 09bb 0654 5913 0bbd
+    0000c40: 03b7 0658 b70b c1b6 0ae2 2ab4 0208 b409
+    0000c50: 383a 2115 0599 00b0 1921 c600 ab19 21b6
+    0000c60: 0bc5 b20b c9a6 00a0 190a 130b cbb9 06c7
+    0000c70: 0200 1921 c00b cdb6 0bd0 3a22 2ab4 0240
+    0000c80: 1922 b606 ed3a 2315 1699 0006 b80b d3b2
+    0000c90: 0bd6 1006 bd00 0559 032a 5359 0419 0653
+    0000ca0: 5905 1921 5359 0624 b802 5153 5907 2b53
+    0000cb0: 5908 191b 53b8 0bd9 9a00 3a19 23b6 0bdc
+    0000cc0: 9a00 322a b402 40b6 0be0 1922 b60b e599
+    0000cd0: 0023 191b b80b e8b6 0b3c 3a24 2a2b 1924
+    0000ce0: 1906 b60a 9818 0d18 0f18 1119 2219 23b6
+    0000cf0: 0bec 1516 9900 0e19 1bb8 0be8 b60a eab8
+    0000d00: 0bef a700 3d19 21c6 0038 1921 b60b c5b2
+    0000d10: 0bf2 a600 2db2 0bd6 1006 bd00 0559 032a
+    0000d20: 5359 0419 0653 5905 1921 5359 0624 b802
+    0000d30: 5153 5907 2b53 5908 191b 53b6 09d5 57b8
+    0000d40: 0bf6 3a22 1922 2abb 0654 5913 0bbd 03b7
+    0000d50: 0658 b60b f9b6 0b17 1922 2bb6 0909 b609
+    0000d60: 0cb6 0bfc b80b ff15 1699 0009 b80c 02b8
+    0000d70: 0c05 2ab4 0208 b40c 092b 191b 180d 180f
+    0000d80: 1811 b60c 0f19 22b6 0b56 b80b ff2a 2b24
+    0000d90: 2115 0519 0619 0719 0819 09bb 0654 5913
+    0000da0: 0bbd 03b7 0658 b70c 1219 1bb8 0c15 b60a
+    0000db0: ea19 1bb8 0b79 b60a ea19 1bb8 0c18 b60a
+    0000dc0: ea19 1bb8 0c1b b60a ea19 1bb8 0c1e b60a
+    0000dd0: ea19 1bb8 0c21 b60a ea19 1bb8 0c24 b60a
+    0000de0: ea19 1bb8 0c27 b60a ea19 1bb8 0c2a b60a
+    0000df0: ea19 1bb8 0c2d b60a ea19 1bb8 0c30 b60a
+    0000e00: ea19 1904 b80b 762a b402 0eb6 0b30 b60c
+    0000e10: 3315 1699 0027 191b b60c 33b8 0c36 b80c
+    0000e20: 39b8 0c3c b608 e43a 2319 072b 1906 24b8
+    0000e30: 0c40 1923 b80c 43b8 0c46 2ab4 0440 c600
+    0000e40: de19 1bb8 0be8 b60a ea19 1bb6 0c33 2ab4
+    0000e50: 04a0 b209 83b6 0a57 2ab4 04a0 2ab4 0208
+    0000e60: b604 61b6 0a5b 190a 1304 96b9 06c7 0200
+    0000e70: 2ab8 0c49 2b18 0d18 0f18 1119 09b6 0a16
+    0000e80: 190a 130c 4bb9 06c7 0200 2ab8 0c4e 2b18
+    0000e90: 0d18 0f18 1119 09b6 0a16 2ab4 04a4 b209
+    0000ea0: 83b6 0a57 2ab4 04a4 2ab4 0208 b604 61b6
+    0000eb0: 0a5b b20c 52b6 0c55 190a 1304 9ab9 06c7
+    0000ec0: 0200 2ab4 0208 b40c 592b 191b 1908 1906
+    0000ed0: 2419 15b6 0c5f b209 cdb6 023e 9900 37b2
+    0000ee0: 09cd 1007 bd00 0559 03b2 0c62 5359 042a
+    0000ef0: 5359 052b 5359 0619 0953 5907 2ab4 0246
+    0000f00: b802 4c53 5908 1906 5359 1006 1915 53b6
+    0000f10: 09d5 57b2 0c52 b60c 65a7 013f 190a 1304
+    0000f20: 96b9 06c7 0200 b209 f9b6 06f8 b80c 6899
+    0000f30: 005a b80c 6b2a b402 08b4 0c59 2b19 1b19
+    0000f40: 0819 0624 1915 b60c 5fb8 0c6e b209 cdb6
+    0000f50: 023e 9900 37b2 09cd 1007 bd00 0559 03b2
+    0000f60: 0c62 5359 042a 5359 052b 5359 0619 0953
+    0000f70: 5907 2ab4 0246 b802 4c53 5908 1906 5359
+    0000f80: 1006 1915 53b6 09d5 5715 1699 0006 b80c
+    0000f90: 712a b404 a0c6 000d 2ab4 04a0 b209 83b6
+    0000fa0: 0a57 2ab8 0c49 2b18 0d18 0f18 1119 09b6
+    0000fb0: 0a16 1516 9900 06b8 0c74 b209 f9b6 0765
+    0000fc0: 191b b80b e8b6 0aea 191b b60c 3319 0a13
+    0000fd0: 0c4b b906 c702 002a b80c 4e2b 180d 180f
+    0000fe0: 1811 1909 b60a 1619 0a13 049a b906 c702
+    0000ff0: 00b8 0c68 9a00 6415 1699 0006 b80c 6b2a
+    0001000: b402 08b4 0c59 2b19 1b19 0819 0624 1915
+    0001010: b60c 5f15 1699 0006 b80c 6eb2 09cd b602
+    0001020: 3e99 0037 b209 cd10 07bd 0005 5903 b20c
+    0001030: 6253 5904 2a53 5905 2b53 5906 1909 5359
+    0001040: 072a b402 46b8 024c 5359 0819 0653 5910
+    0001050: 0619 1553 b609 d557 04b8 0a0c 1922 b60b
+    0001060: 1719 222b b609 09b6 090c b60b fcb8 0bff
+    0001070: 2ab4 0208 b403 8db6 0c78 b20c 7da5 005b
+    0001080: 2ab4 0440 c600 342a b404 a8b2 0983 b60a
+    0001090: 57b2 0c80 b60c 5519 0a13 049e b906 c702
+    00010a0: 002a 2b19 0924 180d 180f 1811 b60c 84b2
+    00010b0: 0c80 b60c 65a7 0023 190a 1304 9eb9 06c7
+    00010c0: 0200 ba0c 8900 00b8 02b3 2a2b 1909 2418
+    00010d0: 0d18 0f18 11b6 0c84 2ab4 0440 c600 b7b2
+    00010e0: 0c8c b60c 5519 0a13 049c b906 c702 002a
+    00010f0: 1908 2418 0d18 0f18 11b6 0c8e b209 cdb6
+    0001100: 023e 9900 37b2 09cd 1007 bd00 0559 03b2
+    0001110: 0c91 5359 042a 5359 052b 5359 0619 0953
+    0001120: 5907 2ab4 0246 b802 4c53 5908 1906 5359
+    0001130: 1006 1915 53b6 09d5 572a 1906 b60c 94b2
+    0001140: 0c8c b60c 652a b404 4024 2a2b 2421 1505
+    0001150: 1906 1907 1908 1909 bb06 5459 130b bd03
+    0001160: b706 58b7 0c97 2a2b 2421 1505 1906 1907
+    0001170: 1908 1909 bb06 5459 130b bd03 b706 58b7
+    0001180: 0c9a b60b 832a b402 08b6 0461 03b6 0a5e
+    0001190: a700 7503 b802 8f19 0a13 049c b906 c702
+    00011a0: 0015 1699 0006 b80c 9d2a 1908 2418 0d18
+    00011b0: 0f18 11b6 0c8e 1516 9900 06b8 0ca0 b209
+    00011c0: cdb6 023e 9900 37b2 09cd 1007 bd00 0559
+    00011d0: 03b2 0c91 5359 042a 5359 052b 5359 0619
+    00011e0: 0953 5907 2ab4 0246 b802 4c53 5908 1906
+    00011f0: 5359 1006 1915 53b6 09d5 572a 1906 b60c
+    0001200: 9404 b802 8f2a 1906 b60c a304 b802 8fb8
+    0001210: 0340 1922 b60b 56b8 0bff b80c a62a 2b24
+    0001220: 2115 0519 0619 0719 0819 09bb 0654 5913
+    0001230: 0bbd 03b7 0658 b60c a9b1               
+  Exception Handler Table:
+    bci [2428, 2630] => handler: 2633
+    bci [2633, 2638] => handler: 2633
+  Stackmap Table:
+    full_frame(@186,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272]},{})
+    same_locals_1_stack_item_frame(@187,Integer)
+    append_frame(@229,Integer)
+    append_frame(@235,Object[#1859])
+    full_frame(@296,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859]},{Object[#2],Object[#2272],Object[#2272],Double,Double,Double})
+    full_frame(@298,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859]},{Object[#2],Object[#2272],Object[#2272],Double,Double,Double,Object[#1859]})
+    same_locals_1_stack_item_frame(@330,Object[#1859])
+    full_frame(@331,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859]},{Object[#1859],Integer})
+    same_frame(@369)
+    same_frame_extended(@450)
+    same_frame(@494)
+    same_frame(@519)
+    append_frame(@583,Integer)
+    append_frame(@632,Float)
+    same_frame(@636)
+    same_locals_1_stack_item_frame(@637,Integer)
+    append_frame(@682,Integer,Integer)
+    same_frame(@706)
+    same_frame(@749)
+    same_frame(@752)
+    same_frame(@813)
+    same_frame_extended(@978)
+    same_frame(@994)
+    full_frame(@1050,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer},{Object[#2588],Integer})
+    full_frame(@1051,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer},{Object[#2588],Integer,Integer})
+    same_frame(@1110)
+    same_frame(@1136)
+    same_frame(@1146)
+    same_frame(@1154)
+    same_frame_extended(@1232)
+    same_frame(@1249)
+    same_frame(@1277)
+    append_frame(@1298,Integer,Object[#96])
+    append_frame(@1328,Integer,Integer)
+    same_frame(@1334)
+    append_frame(@1348,Object[#1961])
+    append_frame(@1415,Object[#1608],Object[#28])
+    same_frame(@1444)
+    same_locals_1_stack_item_frame(@1445,Integer)
+    append_frame(@1482,Integer)
+    append_frame(@1513,Object[#28])
+    same_frame(@1556)
+    same_frame(@1579)
+    append_frame(@1633,Object[#1326],Object[#1992])
+    chop_frame(@1643,3)
+    chop_frame(@1646,3)
+    full_frame(@1666,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Object[#1961]},{})
+    append_frame(@1697,Object[#1992],Object[#1961])
+    append_frame(@1767,Object[#1608])
+    same_frame_extended(@1861)
+    same_frame(@1905)
+    append_frame(@1909,Object[#5])
+    same_frame(@1919)
+    chop_frame(@1938,2)
+    chop_frame(@1948,2)
+    same_frame(@2011)
+    same_frame(@2022)
+    full_frame(@2058,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Integer,Object[#1859],Object[#1961]},{})
+    append_frame(@2112,Object[#24],Object[#1992],Object[#1961])
+    append_frame(@2174,Object[#2824])
+    same_frame(@2184)
+    append_frame(@2343,Object[#28],Object[#98],Object[#2850])
+    same_frame(@2387)
+    full_frame(@2417,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Integer,Object[#1859],Object[#1961],Object[#24],Object[#1992]},{})
+    chop_frame(@2420,2)
+    full_frame(@2439,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Integer,Object[#1859],Object[#1515],Object[#1961]},{})
+    append_frame(@2501,Object[#2824])
+    same_frame(@2511)
+    append_frame(@2597,Object[#28])
+    chop_frame(@2627,2)
+    full_frame(@2633,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Integer,Object[#1859],Object[#1515]},{Object[#1633]})
+    append_frame(@2641,Object[#1961])
+    same_frame_extended(@2751)
+    same_frame(@2781)
+    same_frame(@2789)
+    full_frame(@2820,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Integer,Object[#1859],Object[#3297],Object[#5]},{})
+    full_frame(@3060,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Integer,Object[#1859],Object[#3297],Object[#101],Object[#28],Double,Double,Double,Object[#2850],Integer,Object[#81],Object[#2861],Object[#2985]},{})
+    full_frame(@3094,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Integer,Object[#1859],Object[#3297],Object[#101],Object[#28],Double,Double,Double},{})
+    full_frame(@3097,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Integer,Object[#1859],Object[#3297],Object[#5]},{})
+    full_frame(@3215,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Integer,Object[#1859],Object[#108],Object[#28],Object[#968]},{})
+    same_frame_extended(@3314)
+    same_frame(@3330)
+    full_frame(@3333,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Integer,Object[#1859],Object[#108],Object[#5]},{})
+    same_frame(@3391)
+    full_frame(@3442,{Object[#2],Object[#83],Float,Long,Integer,Object[#897],Object[#670],Object[#615],Object[#2272],Object[#1709],Integer,Object[#403],Double,Double,Double,Object[#2272],Integer,Object[#1859],Integer,Float,Integer,Integer,Integer,Object[#96],Integer,Integer,Object[#1223],Integer,Object[#1859],Object[#108],Object[#83]},{})
+    same_frame_extended(@3642)
+    same_frame_extended(@3859)
+    same_frame(@3868)
+    same_frame_extended(@3977)
+    same_frame(@3985)
+    same_frame(@4002)
+    same_frame(@4026)
+    same_frame_extended(@4095)
+    same_frame(@4123)
+    same_frame(@4184)
+    same_frame_extended(@4280)
+    same_frame(@4312)
+    same_frame_extended(@4409)
+    same_frame_extended(@4499)
+    same_frame(@4521)
+    same_frame(@4542)
+    same_frame(@4603)
+    same_frame(@4613)
+
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:512) ~[client-1.19.2-20220805.130853-srg.jar%23237!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:ae2.mixins.json:PickColorMixin,pl:mixin:APP:botania_xplat.mixins.json:client.MinecraftAccessor,pl:mixin:APP:mixins.hammerlib.json:client.MinecraftMixin,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:create.mixins.json:client.WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.m_239872_(Main.java:176) ~[client-1.19.2-20220805.130853-srg.jar%23237!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23237!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.2.13.jar%23154!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?] {}
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:512) ~[client-1.19.2-20220805.130853-srg.jar%23237!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:ae2.mixins.json:PickColorMixin,pl:mixin:APP:botania_xplat.mixins.json:client.MinecraftAccessor,pl:mixin:APP:mixins.hammerlib.json:client.MinecraftMixin,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:create.mixins.json:client.WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+-- Initialization --
+Details:
+	Modules: 
+		ADVAPI32.dll:高级 Windows 32 基本 API:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		COMCTL32.dll:用户体验控件库:6.10 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPT32.dll:加密 API32:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTBASE.dll:Base cryptographic API DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTSP.dll:Cryptographic Service Provider API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		CoreMessaging.dll:Microsoft CoreMessaging Dll:10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		DBGHELP.DLL:Windows Image Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		DEVOBJ.dll:Device Information Set DLL:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		DNSAPI.dll:DNS 客户端 API DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		GDI32.dll:GDI Client DLL:10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		GLU32.dll:OpenGL 实用工具库 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		IMM32.DLL:Multi-User Windows IMM32 API Client DLL:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		IPHLPAPI.DLL:IP 帮助程序 API:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		KERNEL32.DLL:Windows NT 基本 API 客户端 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		KERNELBASE.dll:Windows NT 基本 API 客户端 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		MMDevApi.dll:MMDevice API:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		MSCTF.dll:MSCTF 服务器 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		MessageBus.dll:NVIDIA Message Bus::NVIDIA Corporation
+		NSI.dll:NSI User-mode interface DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		NTASN1.dll:Microsoft ASN.1 API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		OLEAUT32.dll:OLEAUT32.DLL:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		Ole32.dll:用于 Windows 的 Microsoft OLE:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		OpenAL.dll:Main implementation library:1.21.1:
+		PSAPI.DLL:Process Status Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		Pdh.dll:Windows 性能数据助手 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		RPCRT4.dll:远程过程调用运行时:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		SETUPAPI.dll:Windows 安装程序 API:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		SHCORE.dll:SHCORE:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		SHELL32.dll:Windows Shell 公用 DLL:10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		UMPDC.dll:User Mode Power Dependency Coordinator:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		USER32.dll:多用户 Windows 用户 API 客户端 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		USERENV.dll:Userenv:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		VCRUNTIME140.dll:Microsoft® C Runtime Library:14.31.31103.0:Microsoft Corporation
+		VERSION.dll:Version Checking and File Installation Libraries:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		WINHTTP.dll:Windows HTTP 服务:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		WINMM.dll:MCI API DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		WINSTA.dll:Winstation Library:10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		WINTRUST.dll:Microsoft Trust Verification APIs:10.0.22621.1485 (WinBuild.160101.0800):Microsoft Corporation
+		WS2_32.dll:Windows Socket 2.0 32 位 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		WSOCK32.dll:Windows Socket 32-Bit DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		WTSAPI32.dll:Windows Remote Desktop Session Host Server SDK APIs:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		amdihk64.dll:Radeon Settings: Host Service:2,00,00,1788:Advanced Micro Devices, Inc.
+		amsi.dll:Anti-Malware Scan Interface:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		apphelp.dll:应用程序兼容性客户端库:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		aticfx64.dll:aticfx64.dll:8.17.10.1698:Advanced Micro Devices, Inc. 
+		atidxx64.dll:atidxx64.dll:8.17.10.01089:Advanced Micro Devices, Inc. 
+		atiuxp64.dll:atiuxpag.dll:8.14.01.6564:Advanced Micro Devices, Inc. 
+		bcrypt.dll:Windows 加密基元库:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		bcryptPrimitives.dll:Windows Cryptographic Primitives Library:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		cfgmgr32.dll:Configuration Manager DLL:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		clbcatq.dll:COM+ Configuration Catalog:2001.12.10941.16384 (WinBuild.160101.0800):Microsoft Corporation
+		combase.dll:用于 Windows 的 Microsoft COM:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		cryptnet.dll:Crypto Network Related API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		d3d11.dll:Direct3D 11 Runtime:10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		dbgcore.DLL:Windows Core Debugging Helpers:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		dcomp.dll:Microsoft DirectComposition Library:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc.DLL:DHCP 客户端服务:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc6.DLL:DHCPv6 客户端:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		dinput8.dll:Microsoft DirectInput:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		directxdatabasehelper.dll:DirectXDatabaseHelper:10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		drvstore.dll:Driver Store API:10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		dwmapi.dll:Microsoft 桌面窗口管理器 API:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		dxcore.dll:DXCore:10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		dxgi.dll:DirectX Graphics Infrastructure:10.0.22621.1485 (WinBuild.160101.0800):Microsoft Corporation
+		fwpuclnt.dll:FWP/IPsec 用户模式 API:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		gdi32full.dll:GDI Client DLL:10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		glfw.dll:GLFW 3.4.0 DLL:3.4.0:GLFW
+		icm32.dll:Microsoft Color Management Module (CMM):10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		imagehlp.dll:Windows NT Image Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		inputhost.dll:InputHost:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		java.dll:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+		javaw.exe:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+		jemalloc.dll
+		jimage.dll:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+		jli.dll:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+		jna4829243068754708295.dll:JNA native library:6.1.2:Java(TM) Native Access (JNA)
+		jsvml.dll:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+		jvm.dll:Java HotSpot(TM) 64-Bit server VM:17.0.7.0:Oracle Corporation
+		kernel.appcore.dll:AppModel API Host:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		libjlw-1.3.2.dll
+		lwjgl.dll
+		lwjgl_opengl.dll
+		lwjgl_stb.dll
+		management.dll:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+		management_ext.dll:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+		msasn1.dll:ASN.1 Runtime APIs:10.0.22621.819 (WinBuild.160101.0800):Microsoft Corporation
+		mscms.dll:Microsoft 颜色匹配系统 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		msvcp140.dll:Microsoft® C Runtime Library:14.31.31103.0:Microsoft Corporation
+		msvcp_win.dll:Microsoft® C Runtime Library:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		msvcrt.dll:Windows NT CRT DLL:7.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		mswsock.dll:Microsoft Windows Sockets 2.0 服务提供程序:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		napinsp.dll:电子邮件命名填充提供程序:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		ncrypt.dll:Windows NCrypt 路由器:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		net.dll:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+		nio.dll:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+		nlansp_c.dll:NLA Namespace Service Provider DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		ntdll.dll:NT 层 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		ntmarta.dll:Windows NT MARTA 提供程序:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		nvapi64.dll:NVIDIA NVAPI Library, Version 531.61 :31.0.15.3161:NVIDIA Corporation
+		nvldumdx.dll:NVIDIA Driver Loader, Version 531.61 :31.0.15.3161:NVIDIA Corporation
+		nvoglv64.dll:NVIDIA Compatible OpenGL ICD:31.0.15.3161:NVIDIA Corporation
+		nvspcap64.dll:NVIDIA Game Proxy:3.27.0.112:NVIDIA Corporation
+		nvwgf2umx.dll:NVIDIA D3D10 Driver, Version 531.61 :31.0.15.3161:NVIDIA Corporation
+		opengl32.dll:OpenGL Client DLL:10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		perfos.dll:Windows 系统性能对象 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		pfclient.dll:SysMain Client:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		pnrpnsp.dll:PNRP 命名空间提供程序:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		powrprof.dll:电源配置文件帮助程序 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		profapi.dll:User Profile Basic API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		rasadhlp.dll:Remote Access AutoDial Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		rsaenh.dll:Microsoft Enhanced Cryptographic Provider:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		sechost.dll:Host for SCM/SDDL/LSA Lookup APIs:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		shlwapi.dll:外壳简易实用工具库:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		sunmscapi.dll:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+		textinputframework.dll:"TextInputFramework.DYNLINK":10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		ucrtbase.dll:Microsoft® C Runtime Library:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		uxtheme.dll:Microsoft UxTheme 库:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		vcruntime140_1.dll:Microsoft® C Runtime Library:14.31.31103.0:Microsoft Corporation
+		verify.dll:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+		win32u.dll:Win32u:10.0.22621.1631 (WinBuild.160101.0800):Microsoft Corporation
+		windows.storage.dll:Microsoft WinRT Storage API:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		winrnr.dll:LDAP RnR Provider DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		wintypes.dll:Windows 基本类型 DLL:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		wldp.dll:Windows 锁定策略:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		wshbth.dll:Windows Sockets Helper DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		xinput1_4.dll:Microsoft 公共控制器 API:10.0.22621.1554 (WinBuild.160101.0800):Microsoft Corporation
+		zip.dll:Java(TM) Platform SE binary:17.0.7.0:Oracle Corporation
+Stacktrace:
+	at net.minecraft.client.main.Main.m_239872_(Main.java:176) ~[client-1.19.2-20220805.130853-srg.jar%23237!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23237!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.2.13.jar%23154!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%23140!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?] {}
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.7, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 165882544 bytes (158 MiB) / 721420288 bytes (688 MiB) up to 7088373760 bytes (6760 MiB)
+	CPUs: 16
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 7 4800H with Radeon Graphics         
+	Identifier: AuthenticAMD Family 23 Model 96 Stepping 1
+	Microarchitecture: unknown
+	Frequency (GHz): 2.89
+	Number of physical packages: 1
+	Number of physical CPUs: 8
+	Number of logical CPUs: 16
+	Graphics card #0 name: NVIDIA GeForce GTX 1650 Ti
+	Graphics card #0 vendor: NVIDIA (0x10de)
+	Graphics card #0 VRAM (MB): 4095.00
+	Graphics card #0 deviceId: 0x1f95
+	Graphics card #0 versionInfo: DriverVersion=31.0.15.3161
+	Graphics card #1 name: AMD Radeon(TM) Graphics
+	Graphics card #1 vendor: Advanced Micro Devices, Inc. (0x1002)
+	Graphics card #1 VRAM (MB): 512.00
+	Graphics card #1 deviceId: 0x1636
+	Graphics card #1 versionInfo: DriverVersion=31.0.14051.5006
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 25515.52
+	Virtual memory used (MB): 10248.30
+	Swap memory total (MB): 9728.00
+	Swap memory used (MB): 106.70
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx6758m
+	Launched Version: 1.19.2-Forge_43.2.13-OptiFine_I1
+	Backend library: LWJGL version 3.3.1 build 7
+	Backend API: NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2 GL version 3.2.0 NVIDIA 531.61, NVIDIA Corporation
+	Window size: <not initialized>
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'forge'
+	Type: Client (map_client.txt)
+	CPU: 16x AMD Ryzen 7 4800H with Radeon Graphics 
+	OptiFine Version: OptiFine_1.19.2_HD_U_I1
+	OptiFine Build: 20221213-150857
+	Render Distance Chunks: 8
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 3.2.0 NVIDIA 531.61
+	OpenGlRenderer: NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 16
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeclient
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.2.13.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.2.13.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.2.13.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.2.13.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.2.13.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar OptiFine TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		client-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |COMMON_SET|Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		[工业先锋] industrial-foregoing-1.19.2-3.3.2.3-5.jar  |Industrial Foregoing          |industrialforegoing           |3.3.2.3             |COMMON_SET|Manifest: NOSIGNATURE
+		（永恒能力前置，只装客户端）CyclopsCore-1.19.2-1.18.4.jar       |Cyclops Core                  |cyclopscore                   |1.18.4              |COMMON_SET|Manifest: NOSIGNATURE
+		（垃圾桶支持2）supermartijn642configlib-1.1.6b-forge-mc1.|SuperMartijn642's Config Libra|supermartijn642configlib      |1.1.6b              |COMMON_SET|Manifest: NOSIGNATURE
+		[钛（工业先锋前置）] titanium-1.19.2-3.7.3-27.jar          |Titanium                      |titanium                      |3.7.3               |COMMON_SET|Manifest: NOSIGNATURE
+		[JEI物品管理器] jei-1.19.2-forge-11.6.0.1015.jar       |Just Enough Items             |jei                           |11.6.0.1015         |COMMON_SET|Manifest: NOSIGNATURE
+		[应用能源2] appliedenergistics2-forge-12.9.5.jar      |Applied Energistics 2         |ae2                           |12.9.5              |COMMON_SET|Manifest: NOSIGNATURE
+		（垃圾桶支持1）supermartijn642corelib-1.1.9a-forge-mc1.19|SuperMartijn642's Core Lib    |supermartijn642corelib        |1.1.9a              |COMMON_SET|Manifest: NOSIGNATURE
+		[预制建筑] prefab-1.9.2.5.jar                         |Prefab                        |prefab                        |1.9.2.5             |COMMON_SET|Manifest: NOSIGNATURE
+		[永恒能力] EverlastingAbilities-1.19.2-2.1.0.jar      |EverlastingAbilities          |everlastingabilities          |2.1.0               |COMMON_SET|Manifest: NOSIGNATURE
+		[植物魔法] Botania-1.19.2-440-FORGE.jar               |Botania                       |botania                       |1.19.2-440-FORGE    |COMMON_SET|Manifest: NOSIGNATURE
+		[拔刀剑] SlashBlade-1.19.2-0.0.8.jar                 |Slash Blade                   |slashblade                    |0.0.8               |COMMON_SET|Manifest: NOSIGNATURE
+		[锤子核心（技能进阶前置）] HammerLib-1.19.2-19.3.57.jar       |HammerLib                     |hammerlib                     |19.3.57             |COMMON_SET|Manifest: 97:e8:52:e9:b3:f0:1b:83:57:4e:83:15:f7:e7:76:51:c6:60:5f:2b:45:59:19:a7:31:9e:98:69:56:4f:01:3c
+		[技能进阶] ImprovableSkills-1.19.2-19.2.8.jar         |Improvable Skills             |improvableskills              |19.2.8              |COMMON_SET|Manifest: 97:e8:52:e9:b3:f0:1b:83:57:4e:83:15:f7:e7:76:51:c6:60:5f:2b:45:59:19:a7:31:9e:98:69:56:4f:01:3c
+		[精妙核心（精妙背包前置）] sophisticatedcore-1.19.2-0.5.57.275|Sophisticated Core            |sophisticatedcore             |1.19.2-0.5.57.275   |COMMON_SET|Manifest: NOSIGNATURE
+		（植物魔法前置）curios-forge-1.19.2-5.1.4.1.jar           |Curios API                    |curios                        |1.19.2-5.1.4.1      |COMMON_SET|Manifest: NOSIGNATURE
+		[通用机械] Mekanism-1.19.2-10.3.8.477.jar             |Mekanism                      |mekanism                      |10.3.8              |COMMON_SET|Manifest: NOSIGNATURE
+		flywheel-forge-1.19.2-0.6.8.a-14.jar              |Flywheel                      |flywheel                      |0.6.8.a-14          |COMMON_SET|Manifest: NOSIGNATURE
+		[机械动力] create-1.19.2-0.5.1.b.jar                  |Create                        |create                        |0.5.1.b             |COMMON_SET|Manifest: NOSIGNATURE
+		[帕秋莉手册（工业先锋和植物魔法前置）] Patchouli-1.19.2-77.jar      |Patchouli                     |patchouli                     |1.19.2-77           |COMMON_SET|Manifest: NOSIGNATURE
+		[工业时代2经典版] IC2Classic-1.19.2-2.0.6.2.jar          |IC2 Classic                   |ic2                           |1.19.2-2.0.6.2      |COMMON_SET|Manifest: NOSIGNATURE
+		[配方性能优化] FastSuite-1.19.2-4.1.0.jar               |Fast Suite                    |fastsuite                     |4.1.0               |COMMON_SET|Manifest: NOSIGNATURE
+		[经验机制改革] Clumps-forge-1.19.2-9.0.0+14.jar         |Clumps                        |clumps                        |9.0.0+14            |COMMON_SET|Manifest: NOSIGNATURE
+		[键位冲突显示] Controlling-forge-1.19.2-10.0+7.jar      |Controlling                   |controlling                   |10.0+7              |COMMON_SET|Manifest: NOSIGNATURE
+		[旅行地图] journeymap-1.19.2-5.9.7-forge.jar          |Journeymap                    |journeymap                    |5.9.7               |COMMON_SET|Manifest: NOSIGNATURE
+		（配方性能优化前置）Placebo-1.19.2-7.2.0.jar                |Placebo                       |placebo                       |7.2.0               |COMMON_SET|Manifest: NOSIGNATURE
+		[储物抽屉] StorageDrawers-1.19-11.1.2.jar             |Storage Drawers               |storagedrawers                |11.1.2              |COMMON_SET|Manifest: NOSIGNATURE
+		[配置界面] configured-2.1.1-1.19.2.jar                |Configured                    |configured                    |2.1.1               |COMMON_SET|Manifest: NOSIGNATURE
+		[精妙背包] sophisticatedbackpacks-1.19.2-3.18.47.836.j|Sophisticated Backpacks       |sophisticatedbackpacks        |1.19.2-3.18.47.836  |COMMON_SET|Manifest: NOSIGNATURE
+		[建筑手杖] constructionwand-1.19.2-2.10.jar           |Construction Wand             |constructionwand              |1.19.2-2.10         |COMMON_SET|Manifest: NOSIGNATURE
+		[铁氧体磁芯] ferritecore-5.0.3-forge.jar               |Ferrite Core                  |ferritecore                   |5.0.3               |COMMON_SET|Manifest: 41:ce:50:66:d1:a0:05:ce:a1:0e:02:85:9b:46:64:e0:bf:2e:cf:60:30:9a:fe:0c:27:e0:63:66:9a:84:ce:8a
+		[AI改进] AI-Improvements-1.19.2-0.5.2.jar           |AI-Improvements               |aiimprovements                |0.5.2               |COMMON_SET|Manifest: NOSIGNATURE
+		[垃圾桶] trashcans-1.0.17a-forge-mc1.19.jar          |Trash Cans                    |trashcans                     |1.0.17a             |COMMON_SET|Manifest: NOSIGNATURE
+		forge-1.19.2-43.2.13-universal.jar                |Forge                         |forge                         |43.2.13             |COMMON_SET|Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		[高级太阳能经典版（依赖于工业2经典版）] advancedsolars-2.0.1.jar    |Advanced Solars Classic       |advanced_solars               |2.0.1               |COMMON_SET|Manifest: NOSIGNATURE
+		[CoFH核心(热力基本前置）] cofh_core-1.19.2-10.2.1.40.jar   |CoFH Core                     |cofh_core                     |10.2.1              |COMMON_SET|Manifest: 75:0b:cc:9b:64:2e:9b:c4:41:d1:95:00:71:ee:87:1a:b3:5e:4b:da:8e:e8:39:00:fd:5d:e5:9c:40:42:33:09
+		thermal_core-1.19.2-10.2.0.5.jar                  |Thermal Series                |thermal                       |10.2.0.5            |COMMON_SET|Manifest: 75:0b:cc:9b:64:2e:9b:c4:41:d1:95:00:71:ee:87:1a:b3:5e:4b:da:8e:e8:39:00:fd:5d:e5:9c:40:42:33:09
+		[热力膨胀] thermal_expansion-1.19.2-10.2.0.21.jar     |Thermal Expansion             |thermal_expansion             |10.2.0.21           |COMMON_SET|Manifest: 75:0b:cc:9b:64:2e:9b:c4:41:d1:95:00:71:ee:87:1a:b3:5e:4b:da:8e:e8:39:00:fd:5d:e5:9c:40:42:33:09
+		[热力基本（热力膨胀前置）] thermal_foundation-1.19.2-10.2.0.47|Thermal Foundation            |thermal_foundation            |10.2.0.47           |COMMON_SET|Manifest: NOSIGNATURE
+		[应用能源：通用机械附属] Applied-Mekanistics-1.3.4.jar       |Applied Mekanistics           |appmek                        |1.3.4               |COMMON_SET|Manifest: NOSIGNATURE
+		（AE2接触频道和控制器限制）ae2ao-8.1.1-1.19.jar               |AE2AO                         |ae2ao                         |8.1.1               |COMMON_SET|Manifest: NOSIGNATURE
+		[刷怪塔实用设备] mob_grinding_utils-1.19.2-0.4.49.jar    |Mob Grinding Utils            |mob_grinding_utils            |1.19.2-0.4.49       |COMMON_SET|Manifest: NOSIGNATURE
+		[精致存储] refinedstorage-1.11.6.jar                  |Refined Storage               |refinedstorage                |1.11.6              |COMMON_SET|Manifest: NOSIGNATURE
+		[稀有精英怪] infernalmobs-1.19.2.4.jar                 |Infernal Mobs                 |infernalmobs                  |1.19.2.4            |COMMON_SET|Manifest: NOSIGNATURE
+	Flywheel Backend: Uninitialized
+	Crash Report UUID: 00cb09a9-f70d-42db-b08c-4f95765f8652
+	FML: 43.2
+	Forge: net.minecraftforge:43.2.13

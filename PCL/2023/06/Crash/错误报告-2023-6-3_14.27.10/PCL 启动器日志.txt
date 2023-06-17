@@ -1,0 +1,933 @@
+[14:25:02.709] [Start] 程序版本：Snapshot 2.6.2（294）
+[14:25:02.711] [Start] 识别码：39B5-2FCD-640A-A812
+[14:25:02.711] [Start] 程序路径：D:\PCL我的世界\Snapshot 2.2.10\Plain Craft Launcher 2.exe
+[14:25:02.715] [Start] 第一阶段加载用时：47 ms
+[14:25:02.837] [UI] 刷新主题：6
+[14:25:02.874] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[14:25:02.874] [Start] 第二阶段加载用时：157 ms
+[14:25:02.884] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[14:25:03.117] [UI] 加载背景图片：D:\PCL我的世界\Snapshot 2.2.10\PCL\Pictures\2022-07-14_21.46.56.png
+[14:25:03.183] [System] 窗口已置顶，位置：(362.4, 182.4), 810.4 x 498.4
+[14:25:03.187] [Start] 第三阶段加载用时：78 ms
+[14:25:03.187] [Animation] 动画线程开始
+[14:25:03.189] [Start] 加载 DLL：Json
+[14:25:03.189] [System] 获取资源：Json
+[14:25:03.197] [Launch] Minecraft 文件夹：D:\HMCL\.minecraft\
+[14:25:03.242] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[14:25:03.249] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[14:25:03.261] [Java] 缓存中有 5 个可用的 Java
+[14:25:03.271] [Skin] 载入头像成功：Loader Skin Ms
+[14:25:03.297] [Setup] 已自动开启单版本隔离：ivtechsky
+[14:25:03.299] [Minecraft] 启动按钮：Minecraft 版本：D:\HMCL\.minecraft\versions\ivtechsky\
+[14:25:03.303] [Loader] 加载器 登录 状态改变：Loading
+[14:25:03.308] [Launch] 登录加载已开始
+[14:25:03.309] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[14:25:03.311] [Launch] 登录方式：正版（Su_YuanB）
+[14:25:03.312] [Launch] 开始微软登录步骤 2（刷新登录）
+[14:25:03.317] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[14:25:03.464] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[14:25:03.466] [UI] 解锁隐藏主题：6
+[14:25:03.466] [Loader] 加载器 PCL 服务 状态改变：Loading
+[14:25:03.467] [Server] 正在连接到 PCL 服务器
+[14:25:03.469] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[14:25:03.482] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1685773503-79bb7896-0-45e6c0f3e41f7bf694ac9f383fa53592，最大超时 10000
+[14:25:03.700] [Server] 服务器公告：108|294|293|5，无需更新
+[14:25:03.704] [Loader] 加载器 PCL 服务 状态改变：Finished
+[14:25:03.904] [System] DPI：120，系统版本：10.0.19045.0，PCL 位置：D:\PCL我的世界\Snapshot 2.2.10\Plain Craft Launcher 2.exe
+[14:25:03.996] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[14:25:04.385] [Launch] 开始微软登录步骤 3
+[14:25:04.385] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[14:25:04.651] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[14:25:05.162] [Launch] 开始微软登录步骤 4
+[14:25:05.163] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[14:25:05.428] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[14:25:05.930] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[14:25:06.680] [Launch] 开始微软登录步骤 5
+[14:25:06.681] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[14:25:06.943] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[14:25:07.444] [Launch] 开始微软登录步骤 6
+[14:25:07.445] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[14:25:07.707] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[14:25:08.212] [Launch] 微软登录完成
+[14:25:08.212] [UI] 解锁隐藏主题：10
+[14:25:08.213] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[14:25:08.224] [Launch] 登录加载已结束
+[14:25:08.224] [Loader] 加载器 登录 状态改变：Finished
+[14:25:15.645] [Control] 按下单选按钮：下载
+[14:25:15.707] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[14:25:15.713] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[14:25:15.713] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[14:25:15.715] [Control] 切换主要页面：Download, -1
+[14:25:15.809] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[14:25:15.811] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[14:25:15.812] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[14:25:15.813] [Loader] 加载器 DlOptiFineList Official 状态改变：Loading
+[14:25:15.814] [Loader] 加载器 DlLiteLoaderList Official 状态改变：Loading
+[14:25:15.816] [Loader] 加载器 DlFabricList Official 状态改变：Loading
+[14:25:15.816] [Net] 获取网络结果：http://dl.liteloader.com/versions/versions.json，最大超时 10000
+[14:25:15.817] [Net] 获取网络结果：https://meta.fabricmc.net/v2/versions，最大超时 10000
+[14:25:15.818] [Net] 获取客户端网络结果：https://optifine.net/downloads，最大超时 10000
+[14:25:15.821] [Download] 刷新 Forge 推荐版本缓存开始
+[14:25:15.824] [Loader] 加载器 源码获取 185# 状态改变：Loading
+[14:25:15.972] [Download] -1798645995_184 201#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[14:25:16.287] [Download] -1798645995_184：文件大小 45318 B（44.3 K）
+[14:25:16.294] [Download] -1798645995_184：已完成，剩余文件 0
+[14:25:16.295] [Loader] 加载器 源码获取 185# 状态改变：Finished
+[14:25:16.301] [Download] 刷新 Forge 推荐版本缓存成功
+[14:25:16.311] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[14:25:16.424] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[14:25:17.229] [Control] 按下单选列表项：整合包
+[14:25:17.248] [Loader] 加载器 CompProject ModPack 状态改变：Loading
+[14:25:17.263] [Comp] 工程列表搜索原始文本：
+[14:25:17.263] [Comp] 工程列表搜索最终文本：
+[14:25:17.266] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=4471&categoryId=0
+[14:25:17.266] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=4471&categoryId=0，最大超时 10000
+[14:25:17.268] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:modpack"]]
+[14:25:17.268] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:modpack"]]，最大超时 10000
+[14:25:17.307] [Loader] 加载器 DlOptiFineList Official 状态改变：Finished
+[14:25:17.309] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[14:25:18.159] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 59272 个）
+[14:25:18.243] [Loader] 加载器 DlLiteLoaderList Official 状态改变：Finished
+[14:25:18.244] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[14:25:18.309] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 763 个）
+[14:25:18.315] [Comp] 将 Fabulously Optimized (fabulously-optimized) 与 Fabulously Optimized (fabulously-optimized) 认定为相似工程
+[14:25:18.319] [Comp] 去重后累计新增结果 79 个
+[14:25:18.332] [Comp] 开始可视化整合包列表，已储藏 79 个结果，当前在第 1 页
+[14:25:18.486] [Net] 直接下载文件：https://cdn.modrinth.com/data/7zBMp9RO/1c6a97296c851f38c00a4697c8cfbdd511ef25e7.png
+[14:25:18.509] [Loader] 加载器 CompProject ModPack 状态改变：Finished
+[14:25:21.469] [System] 接受文件拖拽：D:\BaiduNetdiskDownload\末世工匠\客户端最新版\末世工匠V1.1.1.zip
+[14:25:21.472] [System] 文件为压缩包，尝试作为整合包安装
+[14:25:21.477] [ModPack] 整合包安装请求：D:\BaiduNetdiskDownload\末世工匠\客户端最新版\末世工匠V1.1.1.zip
+[14:25:21.505] [ModPack] 整合包种类：MCBBS
+[14:25:21.562] [Control] 输入弹窗：输入版本名称
+[14:25:21.563] [Loader] 加载器 DlFabricList Official 状态改变：Finished
+[14:25:21.566] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[14:25:22.206] [Control] 按下按钮：确定
+[14:25:22.207] [Control] 输入弹框返回：末世工匠
+[14:25:22.216] [Download] 已清理合并安装缓存
+[14:25:22.216] [Download] Forge 缓存：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\Install\1604535242\versions\1.16.5-forge-36.2.39
+[14:25:22.216] [Download] 对应的原版版本：1.16.5
+[14:25:22.220] [Download] 检测为新版 Forge：36.2.39
+[14:25:22.221] [Loader] 加载器 MCBBS 整合包安装：末世工匠  状态改变：Loading
+[14:25:22.223] [Loader] 加载器 游戏安装 状态改变：Loading
+[14:25:22.223] [Loader] 加载器 添加忽略标识 状态改变：Loading
+[14:25:22.224] [Loader] 加载器 下载原版 1.16.5 状态改变：Loading
+[14:25:22.224] [Loader] 加载器 获取原版 json 文件下载地址 状态改变：Loading
+[14:25:22.224] [Loader] 加载器 下载 Forge 36.2.39 状态改变：Loading
+[14:25:22.224] [Loader] 加载器 获取 Mod 加载器详细信息 状态改变：Loading
+[14:25:22.224] [Loader] 加载器 整合包安装 状态改变：Loading
+[14:25:22.224] [Loader] 加载器 解压整合包文件 状态改变：Loading
+[14:25:22.224] [Loader] 加载器 添加忽略标识 状态改变：Finished
+[14:25:22.225] [Loader] 加载器 McDownloadForgeLoader 1.16.5 状态改变：Loading
+[14:25:22.225] [Loader] 加载器 获取原版 json 文件下载地址 状态改变：Finished
+[14:25:22.225] [Loader] 加载器 下载原版 json 文件 状态改变：Loading
+[14:25:22.227] [ModPack] 开始清理整合包安装缓存
+[14:25:22.229] [Loader] 加载器 DlForgeVersion Official 状态改变：Loading
+[14:25:22.231] [Loader] 加载器 源码获取 478# 状态改变：Loading
+[14:25:22.323] [Download] 末世工匠.json 484#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/95af6e50cd04f06f65c76e4a62237504387e5480/1.16.5.json
+[14:25:22.450] [Download] -1309130211_477 488#：开始，起始点 0，http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.16.5.html
+[14:25:22.545] [ModPack] 已清理整合包安装缓存
+[14:25:22.823] [Download] 末世工匠.json：文件大小 39678 B（38.7 K）
+[14:25:22.927] [Download] 末世工匠.json：已完成，剩余文件 1
+[14:25:22.927] [Loader] 加载器 下载原版 json 文件 状态改变：Finished
+[14:25:22.927] [Loader] 加载器 下载原版支持库文件 状态改变：Loading
+[14:25:22.927] [Loader] 加载器 分析原版支持库文件（副加载器） 状态改变：Loading
+[14:25:22.927] [Loader] 加载器 下载原版资源文件 状态改变：Loading
+[14:25:22.928] [Loader] 加载器 分析资源文件索引地址（副加载器） 状态改变：Loading
+[14:25:22.928] [Download] 开始分析原版支持库文件：D:\HMCL\.minecraft\versions\末世工匠\
+[14:25:22.930] [Download] 版本 末世工匠 对应的资源文件索引为 1.16
+[14:25:22.932] [Loader] 加载器 分析资源文件索引地址（副加载器） 状态改变：Finished
+[14:25:22.932] [Loader] 加载器 下载资源文件索引（副加载器） 状态改变：Loading
+[14:25:22.935] [Minecraft] 无法完全确认 MC 版本号的版本：末世工匠
+[14:25:22.942] [Minecraft] 获取支持库列表：末世工匠
+[14:25:22.942] [Setup] 版本隔离使用全局设置：末世工匠
+[14:25:22.957] [Download] 1.16.json 496#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[14:25:23.036] [Download] 1.16.json：文件大小 295229 B（288 K）
+[14:25:23.074] [Download] 1.16.json：已完成，剩余文件 1
+[14:25:23.074] [Loader] 加载器 下载资源文件索引（副加载器） 状态改变：Finished
+[14:25:23.074] [Loader] 加载器 分析所需资源文件（副加载器） 状态改变：Loading
+[14:25:23.075] [Loader] 加载器 分析原版支持库文件（副加载器） 状态改变：Finished
+[14:25:23.075] [Loader] 加载器 下载原版支持库文件（副加载器） 状态改变：Loading
+[14:25:23.080] [Download] 末世工匠.jar 497#：开始，起始点 0，https://download.mcbbs.net/v1/objects/37fd3c903861eeff3bc24b71eed48f828b5269c8/client.jar
+[14:25:23.092] [Download] 末世工匠.jar：文件大小 17547153 B（16.7 M）
+[14:25:23.554] [Download] 速度下限已提升到 6.21 M
+[14:25:24.072] [Download] 速度下限已提升到 9.48 M
+[14:25:24.613] [Loader] 加载器 分析所需资源文件（副加载器） 状态改变：Finished
+[14:25:24.614] [Loader] 加载器 下载资源文件（副加载器） 状态改变：Loading
+[14:25:24.614] [Loader] 加载器 下载资源文件（副加载器） 状态改变：Finished
+[14:25:24.614] [Loader] 加载器 下载原版资源文件 状态改变：Finished
+[14:25:24.618] [Download] -1309130211_477：文件大小 671296 B（656 K）
+[14:25:24.990] [Download] 末世工匠.jar：已完成，剩余文件 1
+[14:25:24.990] [Loader] 加载器 下载原版支持库文件（副加载器） 状态改变：Finished
+[14:25:24.991] [Loader] 加载器 下载原版支持库文件 状态改变：Finished
+[14:25:24.991] [Loader] 加载器 下载原版 1.16.5 状态改变：Finished
+[14:25:27.949] [Download] -1309130211_477：已完成，剩余文件 0
+[14:25:27.949] [Loader] 加载器 源码获取 478# 状态改变：Finished
+[14:25:28.019] [Loader] 加载器 DlForgeVersion Official 状态改变：Finished
+[14:25:28.022] [Loader] 加载器 McDownloadForgeLoader 1.16.5 状态改变：Finished
+[14:25:28.038] [Loader] 加载器 获取 Mod 加载器详细信息 状态改变：Finished
+[14:25:28.038] [Loader] 加载器 准备 Mod 加载器下载 状态改变：Loading
+[14:25:28.041] [Loader] 加载器 准备 Mod 加载器下载 状态改变：Finished
+[14:25:28.041] [Loader] 加载器 下载 Mod 加载器主文件 状态改变：Loading
+[14:25:28.100] [Download] ForgeInstall-36.2.39_27254 503#：开始，起始点 0，https://bmclapi2.bangbang93.com/maven/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-installer.jar
+[14:25:28.403] [Download] ForgeInstall-36.2.39_27254：文件大小 7410854 B（7.07 M）
+[14:25:29.168] [Loader] 加载器 解压整合包文件 状态改变：Finished
+[14:25:29.168] [Loader] 加载器 整合包安装 状态改变：Finished
+[14:25:31.642] [Download] ForgeInstall-36.2.39_27254：已完成，剩余文件 0
+[14:25:31.642] [Loader] 加载器 下载 Mod 加载器主文件 状态改变：Finished
+[14:25:31.642] [Loader] 加载器 分析 Mod 加载器支持库文件 状态改变：Loading
+[14:25:31.731] [Loader] 加载器 分析 Mod 加载器支持库文件 状态改变：Finished
+[14:25:31.731] [Loader] 加载器 下载 Mod 加载器支持库文件 状态改变：Loading
+[14:25:31.731] [Loader] 加载器 下载 Mod 加载器支持库文件 状态改变：Finished
+[14:25:31.733] [Loader] 加载器 获取 Mod 下载器支持库文件 状态改变：Loading
+[14:25:31.838] [Loader] 加载器 获取 Mod 下载器支持库文件 状态改变：Finished
+[14:25:31.840] [Loader] 加载器 安装 Mod 加载器（方式 A） 状态改变：Loading
+[14:25:31.843] [Download] 开始进行新版方式 Forge 安装：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\Cache\Code\ForgeInstall-36.2.39_27254
+[14:25:31.845] [Minecraft] 已创建 launcher_profiles.json：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\Install\1604535242\
+[14:25:31.845] [System] 获取资源：ForgeInstaller
+[14:25:31.854] [Java] 开始完全遍历查找：D:\HMCL\
+[14:25:31.858] [Java] 开始完全遍历查找：D:\HMCL\.minecraft\
+[14:25:31.867] [System] 执行外部命令并等待返回结果：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\java.exe -version
+[14:25:31.958] [Java] 选定的 Java：JRE 8 (8.0.51)，64 位：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[14:25:31.959] [System] 获取资源：JavaWrapper
+[14:25:31.959] [Java] 已释放 Java Wrapper：C:\Users\Su-Yuan\AppData\Roaming\PCL\JavaWrapper.jar
+[14:25:31.959] [Download] 开始安装 Forge：-Doolloo.jlw.tmpdir="C:\Users\Su-Yuan\AppData\Roaming\PCL" -cp "C:\Users\Su-Yuan\AppData\Local\Temp\PCL\Cache\forge_installer.jar;C:\Users\Su-Yuan\AppData\Local\Temp\PCL\Cache\Code\ForgeInstall-36.2.39_27254" -jar "C:\Users\Su-Yuan\AppData\Roaming\PCL\JavaWrapper.jar"  com.bangbang93.ForgeInstaller "C:\Users\Su-Yuan\AppData\Local\Temp\PCL\Install\1604535242\
+[14:25:32.189] [Installer] Extracting json
+[14:25:32.189] [Installer] Extracting json
+[14:25:32.199] [Installer] Downloading libraries
+[14:25:32.199] [Installer] Downloading libraries
+[14:25:32.210] [Installer]   File exists: Checksum validated.
+[14:25:32.211] [Installer]   File exists: Checksum validated.
+[14:25:32.213] [Installer]   File exists: Checksum validated.
+[14:25:32.215] [Installer]   File exists: Checksum validated.
+[14:25:32.217] [Installer]   File exists: Checksum validated.
+[14:25:32.219] [Installer]   File exists: Checksum validated.
+[14:25:32.220] [Installer]   File exists: Checksum validated.
+[14:25:32.221] [Installer]   File exists: Checksum validated.
+[14:25:32.225] [Installer]   File exists: Checksum validated.
+[14:25:32.226] [Installer]   File exists: Checksum validated.
+[14:25:32.228] [Installer]   File exists: Checksum validated.
+[14:25:32.230] [Installer]   File exists: Checksum validated.
+[14:25:32.231] [Installer]   File exists: Checksum validated.
+[14:25:32.233] [Installer]   File exists: Checksum validated.
+[14:25:32.235] [Installer]   File exists: Checksum validated.
+[14:25:32.240] [Installer]   File exists: Checksum validated.
+[14:25:32.241] [Installer]   File exists: Checksum validated.
+[14:25:32.242] [Installer]   File exists: Checksum validated.
+[14:25:32.244] [Installer]   File exists: Checksum validated.
+[14:25:32.251] [Installer]   File exists: Checksum validated.
+[14:25:32.252] [Installer]   File exists: Checksum validated.
+[14:25:32.253] [Installer]   File exists: Checksum validated.
+[14:25:32.255] [Installer]   File exists: Checksum validated.
+[14:25:32.260] [Installer]   File exists: Checksum validated.
+[14:25:32.269] [Installer]   File exists: Checksum validated.
+[14:25:32.270] [Installer]   File exists: Checksum validated.
+[14:25:32.272] [Installer]   File exists: Checksum validated.
+[14:25:32.274] [Installer]   File exists: Checksum validated.
+[14:25:32.275] [Installer]   File exists: Checksum validated.
+[14:25:32.284] [Installer]   File exists: Checksum validated.
+[14:25:32.296] [Installer]   File exists: Checksum validated.
+[14:25:32.297] [Installer]   File exists: Checksum validated.
+[14:25:32.298] [Installer]   File exists: Checksum validated.
+[14:25:32.300] [Installer]   File exists: Checksum validated.
+[14:25:32.303] [Installer]   File exists: Checksum validated.
+[14:25:32.306] [Installer]   File exists: Checksum validated.
+[14:25:32.308] [Installer]   File exists: Checksum validated.
+[14:25:32.309] [Installer]   File exists: Checksum validated.
+[14:25:32.312] [Installer]   File exists: Checksum validated.
+[14:25:32.313] [Installer]   File exists: Checksum validated.
+[14:25:32.314] [Installer]   File exists: Checksum validated.
+[14:25:32.316] [Installer]   File exists: Checksum validated.
+[14:25:32.317] [Installer]   File exists: Checksum validated.
+[14:25:32.327] [Installer]   File exists: Checksum validated.
+[14:25:32.328] [Installer]   File exists: Checksum validated.
+[14:25:32.329] [Installer]   File exists: Checksum validated.
+[14:25:32.331] [Installer]   File exists: Checksum validated.
+[14:25:32.332] [Installer]   File exists: Checksum validated.
+[14:25:32.334] [Installer]   File exists: Checksum validated.
+[14:25:32.335] [Installer]   File exists: Checksum validated.
+[14:25:32.339] [Installer]   File exists: Checksum validated.
+[14:25:32.341] [Installer]   File exists: Checksum validated.
+[14:25:32.342] [Installer]   File exists: Checksum validated.
+[14:25:32.345] [Installer]   File exists: Checksum validated.
+[14:25:32.346] [Installer]   File exists: Checksum validated.
+[14:25:32.347] [Installer]   File exists: Checksum validated.
+[14:25:32.348] [Installer]   File exists: Checksum validated.
+[14:25:32.349] [Installer]   File exists: Checksum validated.
+[14:25:32.350] [Installer]   File exists: Checksum validated.
+[14:25:32.352] [Installer]   File exists: Checksum validated.
+[14:25:32.353] [Installer]   File exists: Checksum validated.
+[14:25:32.355] [Installer]   File exists: Checksum validated.
+[14:25:32.358] [Installer]   File exists: Checksum validated.
+[14:25:32.360] [Installer]   File exists: Checksum validated.
+[14:25:32.729] [Installer] Building Processors
+[14:25:33.012] [Installer] Splitting: 
+[14:25:36.719] [Installer] Remapping final jar
+[14:25:38.554] [Installer] Remapping jar... 50%
+[14:25:40.107] [Installer] Remapping jar... 100%
+[14:25:44.460] [Installer] Injecting profile
+[14:25:44.799] [Setup] 版本隔离使用全局设置：1.16.5-forge-36.2.39
+[14:25:44.800] [Loader] 加载器 安装 Mod 加载器（方式 A） 状态改变：Finished
+[14:25:44.800] [Loader] 加载器 下载 Forge 36.2.39 状态改变：Finished
+[14:25:44.800] [Loader] 加载器 安装游戏 状态改变：Loading
+[14:25:44.805] [Download] 开始进行版本合并，输出：D:\HMCL\.minecraft\versions\末世工匠\，Minecraft：D:\HMCL\.minecraft\versions\末世工匠\，Forge：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\Install\1604535242\versions\1.16.5-forge-36.2.39
+[14:25:44.808] [Download] 版本合并 末世工匠 完成
+[14:25:44.867] [Loader] 加载器 安装游戏 状态改变：Finished
+[14:25:44.867] [Loader] 加载器 删除忽略标识 状态改变：Loading
+[14:25:44.868] [Loader] 加载器 删除忽略标识 状态改变：Finished
+[14:25:44.868] [Loader] 加载器 游戏安装 状态改变：Finished
+[14:25:44.868] [Loader] 加载器 下载游戏支持库文件 状态改变：Loading
+[14:25:44.868] [Loader] 加载器 分析游戏支持库文件（副加载器） 状态改变：Loading
+[14:25:44.910] [Minecraft] 获取支持库列表：末世工匠
+[14:25:45.026] [Loader] 加载器 分析游戏支持库文件（副加载器） 状态改变：Finished
+[14:25:45.026] [Loader] 加载器 下载游戏支持库文件（副加载器） 状态改变：Loading
+[14:25:45.026] [Loader] 加载器 下载游戏支持库文件（副加载器） 状态改变：Finished
+[14:25:45.026] [Loader] 加载器 下载游戏支持库文件 状态改变：Finished
+[14:25:45.026] [Loader] 加载器 MCBBS 整合包安装：末世工匠  状态改变：Finished
+[14:25:46.045] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[14:25:46.046] [UI] 弹出提示：MCBBS 整合包安装：末世工匠 成功！
+[14:25:46.048] [Minecraft] 文件夹列表变更，重载所有版本
+[14:25:46.058] [Animation] 两个动画帧间隔 1031 ms
+[14:25:46.061] 版本 json 可用性检查失败（D:\HMCL\.minecraft\versions\1.16.5\）：未找到版本 json 文件：D:\HMCL\.minecraft\versions\1.16.5\1.16.5.json
+   在 PCL.ModMinecraft.McVersion.ChangeConfiguration()
+   在 PCL.ModMinecraft.McVersion.VisitConfiguration()
+   在 PCL.ModMinecraft.McVersion.Check()
+[14:25:46.129] [Minecraft] 合并 HMCL 分支项：resolved.1.16.5
+[14:25:46.129] [Minecraft] 合并 HMCL 分支项：resolved.英灵神殿 v2.0
+[14:25:46.175] [Setup] 当前选择的 Minecraft 版本：ivtechsky
+[14:25:46.175] [Minecraft] 选择该文件夹储存的 Minecraft 版本：D:\HMCL\.minecraft\versions\ivtechsky\
+[14:25:46.175] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[14:25:49.301] [Report] FPS 0, 动画 7, 下载中 0（0 B/s）
+[14:25:51.076] [Control] 按下单选按钮：启动
+[14:25:51.077] [Control] 切换主要页面：Launch, -1
+[14:25:51.257] [Report] FPS 0, 动画 23, 下载中 0（0 B/s）
+[14:25:51.978] [Control] 按下按钮：版本选择
+[14:25:51.997] [Control] 切换主要页面：VersionSelect, 0
+[14:25:52.144] [Minecraft] 有效的 Minecraft 文件夹：官方启动器文件夹 > C:\Users\Su-Yuan\AppData\Roaming\.minecraft\
+[14:25:52.146] [Minecraft] 有效的 Minecraft 文件夹：Release 2.1.3(1) > D:\PCL我的世界\Release 2.1.3(1)\.minecraft\
+[14:25:52.148] [Minecraft] 有效的 Minecraft 文件夹：HMCL > D:\HMCL\.minecraft\
+[14:25:54.941] [Setup] 当前选择的 Minecraft 版本：末世工匠
+[14:25:54.942] [Control] 切换主要页面：Launch, -1
+[14:25:54.942] [Control] 按下单击列表项：末世工匠
+[14:25:55.081] [Minecraft] 启动按钮：Minecraft 版本：D:\HMCL\.minecraft\versions\末世工匠\
+[14:25:55.475] [Control] 按下按钮：启动游戏
+[14:25:55.476] [Loader] 加载器 Loader Launch 状态改变：Loading
+[14:25:55.482] [System] 欲读取的文件不存在，已返回空字符串：D:\PCL我的世界\Snapshot 2.2.10\PCL\hints.txt
+[14:25:55.486] [Launch] 预检测已通过
+[14:25:55.489] [Download] 开始后台更新资源文件索引
+[14:25:55.489] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[14:25:55.489] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[14:25:55.490] [Loader] 加载器 登录 状态改变：Waiting
+[14:25:55.490] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[14:25:55.490] [Loader] 加载器 获取 Java 状态改变：Loading
+[14:25:55.490] [Download] 版本 末世工匠 对应的资源文件索引为 1.16
+[14:25:55.490] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[14:25:55.491] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[14:25:55.491] [Loader] 加载器 登录 状态改变：Loading
+[14:25:55.491] [Loader] 加载器 补全文件 状态改变：Loading
+[14:25:55.491] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[14:25:55.491] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[14:25:55.491] [Launch] 登录加载已开始
+[14:25:55.491] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[14:25:55.491] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[14:25:55.491] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[14:25:55.491] [Launch] 登录方式：正版（Su_YuanB）
+[14:25:55.491] [Launch] 微软登录完成
+[14:25:55.491] [UI] 解锁隐藏主题：10
+[14:25:55.491] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[14:25:55.492] [Download] 版本 末世工匠 对应的资源文件索引为 1.16
+[14:25:55.493] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[14:25:55.493] [Java] 开始完全遍历查找：D:\HMCL\
+[14:25:55.494] [Java] 开始完全遍历查找：D:\HMCL\.minecraft\
+[14:25:55.499] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[14:25:55.499] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[14:25:55.500] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[14:25:55.500] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[14:25:55.503] [Java] 开始完全遍历查找：D:\HMCL\.minecraft\versions\末世工匠\
+[14:25:55.506] [Java] 选定的 Java：JRE 8 (8.0.51)，64 位：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[14:25:55.506] [Launch] 选择的 Java：JRE 8 (8.0.51)，64 位：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[14:25:55.506] [Loader] 加载器 获取 Java 状态改变：Finished
+[14:25:55.513] [Launch] 登录加载已结束
+[14:25:55.513] [Loader] 加载器 登录 状态改变：Finished
+[14:25:55.535] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[14:25:55.535] [Loader] 加载器 下载资源文件 状态改变：Loading
+[14:25:55.535] [Loader] 加载器 下载资源文件 状态改变：Finished
+[14:25:55.535] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[14:25:55.537] [Minecraft] 获取支持库列表：末世工匠
+[14:25:55.559] [Download] 1.16.json 882#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[14:25:55.572] [Download] 1.16.json：文件大小 295229 B（288 K）
+[14:25:55.616] [Download] 1.16.json：已完成，剩余文件 0
+[14:25:55.616] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[14:25:55.616] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[14:25:55.617] [Launch] 后台更新资源文件索引成功：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\Cache\1.16.json
+[14:25:55.617] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[14:25:55.618] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[14:25:55.664] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[14:25:55.664] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[14:25:55.664] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[14:25:55.664] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[14:25:55.664] [Loader] 加载器 补全文件 状态改变：Finished
+[14:25:55.665] [Loader] 加载器 获取启动参数 状态改变：Loading
+[14:25:55.667] [Launch] 开始获取 Minecraft 启动参数
+[14:25:55.667] [Launch] 获取新版 JVM 参数
+[14:25:55.674] [Launch] 当前剩余内存：10.2G
+[14:25:55.678] [System] 获取资源：JavaWrapper
+[14:25:55.678] [Java] 已释放 Java Wrapper：C:\Users\Su-Yuan\AppData\Roaming\PCL\JavaWrapper.jar
+[14:25:55.678] [Launch] 新版 JVM 参数获取成功：
+[14:25:55.678] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Su-Yuan\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx8294m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\Su-Yuan\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher
+[14:25:55.678] [Launch] 获取新版 Game 参数
+[14:25:55.681] [Launch] 新版 Game 参数获取成功
+[14:25:55.684] [Minecraft] 获取支持库列表：末世工匠
+[14:25:55.689] [Launch] Minecraft 启动参数：
+[14:25:55.690] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Su-Yuan\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=294 -cp "D:\HMCL\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;D:\HMCL\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;D:\HMCL\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;D:\HMCL\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;D:\HMCL\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;D:\HMCL\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;D:\HMCL\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\HMCL\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;D:\HMCL\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;D:\HMCL\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;D:\HMCL\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;D:\HMCL\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;D:\HMCL\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;D:\HMCL\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;D:\HMCL\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;D:\HMCL\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;D:\HMCL\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;D:\HMCL\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;D:\HMCL\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;D:\HMCL\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;D:\HMCL\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;D:\HMCL\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;D:\HMCL\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;D:\HMCL\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;D:\HMCL\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;D:\HMCL\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.39\forge-1.16.5-36.2.39.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;D:\HMCL\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;D:\HMCL\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;D:\HMCL\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\HMCL\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;D:\HMCL\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;D:\HMCL\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;D:\HMCL\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;D:\HMCL\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\HMCL\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;D:\HMCL\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\HMCL\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;D:\HMCL\.minecraft\versions\末世工匠\末世工匠.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx8294m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\Su-Yuan\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher --username Su_YuanB --version 末世工匠 --gameDir "D:\HMCL\.minecraft\versions\末世工匠" --assetsDir "D:\HMCL\.minecraft\assets" --assetIndex 1.16 --uuid 327a377f114b42c289bf678c55fcdde2 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXJhrzw --userType msa --versionType PCL --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.39 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[14:25:55.690] [Loader] 加载器 获取启动参数 状态改变：Finished
+[14:25:55.694] [Loader] 加载器 解压文件 状态改变：Loading
+[14:25:55.699] [Launch] 正在解压 Natives 文件
+[14:25:55.702] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\lwjgl.dll
+[14:25:55.705] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\lwjgl32.dll
+[14:25:55.708] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\jemalloc.dll
+[14:25:55.710] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\jemalloc32.dll
+[14:25:55.721] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\OpenAL.dll
+[14:25:55.733] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\OpenAL32.dll
+[14:25:55.736] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\lwjgl_opengl.dll
+[14:25:55.738] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\lwjgl_opengl32.dll
+[14:25:55.741] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\glfw.dll
+[14:25:55.744] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\glfw32.dll
+[14:25:55.747] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\lwjgl_tinyfd.dll
+[14:25:55.749] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\lwjgl_tinyfd32.dll
+[14:25:55.755] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\lwjgl_stb.dll
+[14:25:55.760] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\lwjgl_stb32.dll
+[14:25:55.761] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\SAPIWrapper_x86.dll
+[14:25:55.763] [Launch] 已解压：D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives\SAPIWrapper_x64.dll
+[14:25:55.763] [Loader] 加载器 解压文件 状态改变：Finished
+[14:25:55.780] [Loader] 加载器 预启动处理 状态改变：Loading
+[14:25:55.788] [Launch] 已更新 launcher_profiles.json
+[14:25:55.788] [Launch] 当前语言为 zh_cn，无需修改
+[14:25:55.788] [Launch] 已开启 forceUnicodeFont
+[14:25:55.788] [Loader] 加载器 预启动处理 状态改变：Finished
+[14:25:55.806] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[14:25:55.810] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[14:25:55.837] [Loader] 加载器 启动进程 状态改变：Loading
+[14:25:55.843] [Launch] 已启动游戏进程：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\javaw.exe
+[14:25:55.844] [Loader] 加载器 启动进程 状态改变：Finished
+[14:25:55.874] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[14:25:55.877] [Launch] 
+[14:25:55.877] [Launch] ~ 基础参数 ~
+[14:25:55.877] [Launch] PCL 版本：Snapshot 2.6.2 (294)
+[14:25:55.877] [Launch] 游戏版本：1.16.5, Forge 36.2.39（16.5）
+[14:25:55.877] [Launch] 资源版本：1.16
+[14:25:55.877] [Launch] 版本继承：无
+[14:25:55.878] [Launch] 分配的内存：8.1 GB（8294 MB）
+[14:25:55.878] [Launch] MC 文件夹：D:\HMCL\.minecraft\
+[14:25:55.878] [Launch] 版本文件夹：D:\HMCL\.minecraft\versions\末世工匠\
+[14:25:55.878] [Launch] 版本隔离：True
+[14:25:55.878] [Launch] HMCL 格式：False
+[14:25:55.878] [Launch] Java 信息：JRE 8 (8.0.51)，64 位：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[14:25:55.878] [Launch] 环境变量：未设置
+[14:25:55.878] [Launch] 
+[14:25:55.878] [Launch] ~ 登录参数 ~
+[14:25:55.878] [Launch] 玩家用户名：Su_YuanB
+[14:25:55.878] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXJhrzw
+[14:25:55.878] [Launch] ClientToken：327a377f114b42c289bf678c55fcdde2
+[14:25:55.878] [Launch] UUID：327a377f114b42c289bf678c55fcdde2
+[14:25:55.878] [Launch] 登录方式：Microsoft
+[14:25:55.878] [Launch] 
+[14:25:55.880] [Launch] [24988] 开始 Minecraft 日志监控
+[14:25:55.881] [Launch] [全局] 出现运行中的 Minecraft
+[14:25:56.122] [Launch] [24988] 日志 1/5：已出现日志输出
+[14:25:57.299] [Launch] [24988] FML 窗口已加载：FML early loading progress（329390）
+[14:26:00.147] [Launch] [24988] Minecraft 加载已完成
+[14:26:00.248] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[14:26:00.248] [Loader] 加载器 结束处理 状态改变：Loading
+[14:26:00.250] [Launch] 开始启动结束处理
+[14:26:00.250] [Launch] 启动器可见性：5
+[14:26:00.251] [Loader] 加载器 结束处理 状态改变：Finished
+[14:26:00.289] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[14:26:00.499] [Loader] 加载器 Loader Launch 状态改变：Finished
+[14:26:00.530] [UI] 弹出提示：末世工匠 启动成功！
+[14:26:02.481] [Launch] [24988] Minecraft 已退出，返回值：1
+[14:26:02.481] [Launch] [24988] Minecraft 返回值异常，可能已崩溃
+[14:26:02.482] [Launch] [全局] 已无运行中的 Minecraft
+[14:26:02.482] [Launch] [24988] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[14:26:02.550] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[14:26:02.718] [Launch] [24988] Minecraft 日志监控已退出
+[14:26:04.488] [Launch] [24988] 崩溃分析开始
+[14:26:04.502] [Crash] 崩溃分析暂存文件夹：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\CrashAnalyzer\2498865761685\
+[14:26:04.505] [Crash] 步骤 1：收集日志文件
+[14:26:04.506] [Crash] 可能可用的日志文件：D:\HMCL\.minecraft\versions\末世工匠\logs\latest.log（0 分钟）
+[14:26:04.506] [Crash] 可能可用的日志文件：D:\HMCL\.minecraft\versions\末世工匠\logs\debug.log（0 分钟）
+[14:26:04.509] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Su-Yuan\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-06-03 14:25:56,318 main WARN Advanced terminal features are not available in this environment
+[14:25:56] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Su_YuanB, --version, 末世工匠, --gameDir, D:\HMCL\.minecraft\versions\末世工匠, --assetsDir, D:\HMCL\.minecraft\assets, --assetIndex, 1.16, --uuid, 327a377f114b42c289bf678c55fcdde2, --accessToken, ????????, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.39, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[14:25:56] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_51 by Oracle Corporation
+[14:25:56] [main/WARN] [cp.mo.mo.SecureJarHandler/]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
+[14:25:56] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[14:25:56] [main/INFO] [MixinBootstrap Launch/]: MixinBootstrap v1.1.0
+[14:25:56] [main/INFO] [MixinBootstrap Launch/]: Mixin v0.8.4
+[14:25:56] [main/INFO] [MixinBootstrap Launch/]: ModLauncher v8.1.3+8.1.3+main-8.1.x.c94d18ec (7.0)
+[14:25:56] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/D:/HMCL/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[14:26:00] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[14:26:00] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+Init ItemPhysic coremods ...
+Init CreativeCore coremods ...
+[14:26:01] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[14:26:01] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.reflect.InvocationTargetException
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.lang.UnsupportedClassVersionError: icyllis/modernui/forge/MixinConnector has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.defineClass1(Native Method)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.defineClass(ClassLoader.java:760)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:138)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.Class.forName0(Native Method)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.Class.forName(Class.java:348)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.service.modlauncher.ModLauncherClassProvider.findClass(ModLauncherClassProvider.java:67)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.loadConnectors(MixinConnectorManager.java:70)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.inject(MixinConnectorManager.java:59)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.platform.MixinPlatformManager.inject(MixinPlatformManager.java:196)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.MixinBootstrap.inject(MixinBootstrap.java:202)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:201)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:195)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchPluginHandler.lambda$announceLaunch$9(LaunchPluginHandler.java:97)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchPluginHandler$$Lambda$477/1250149969.accept(Unknown Source)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.util.HashMap.forEach(HashMap.java:1280)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchPluginHandler.announceLaunch(LaunchPluginHandler.java:97)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:52)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[14:26:01] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 6 more
+Exception in thread "main" 
+[14:26:04.509] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[14:26:04.517] [Crash] 步骤 2：准备日志文本
+[14:26:04.518] [Crash] latest.log 分类为 MinecraftLog
+[14:26:04.518] [Crash] debug.log 分类为 MinecraftLog
+[14:26:04.518] [Crash] RawOutput.log 分类为 ExtraLog
+[14:26:04.518] [Crash] 输出报告：D:\HMCL\.minecraft\versions\末世工匠\logs\latest.log，作为 Minecraft 或启动器日志
+[14:26:04.518] [Crash] 输出报告：D:\HMCL\.minecraft\versions\末世工匠\logs\debug.log，作为 Minecraft 或启动器日志
+[14:26:04.519] [Crash] 导入分析：D:\HMCL\.minecraft\versions\末世工匠\logs\latest.log，作为 Minecraft 日志
+[14:26:04.519] [Crash] 输出报告：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\CrashAnalyzer\2498865761685\RawOutput.log，作为额外日志
+[14:26:04.519] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[14:26:04.520] [Crash] 步骤 3：分析崩溃原因
+[14:26:04.525] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[14:26:04.526] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[14:26:04.529] [System] 窗口已置顶，位置：(429.6, 0), 810.4 x 498.4
+[14:26:04.592] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[14:26:32.946] [Control] 按下按钮：确定
+[14:26:32.947] [Control] 普通弹框返回：1
+[14:26:34.356] [Control] 按下按钮：启动游戏
+[14:26:34.356] [Loader] 加载器 Loader Launch 状态改变：Loading
+[14:26:34.356] [System] 欲读取的文件不存在，已返回空字符串：D:\PCL我的世界\Snapshot 2.2.10\PCL\hints.txt
+[14:26:34.359] [Launch] 预检测已通过
+[14:26:34.359] [Download] 开始后台更新资源文件索引
+[14:26:34.359] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[14:26:34.359] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[14:26:34.359] [Loader] 加载器 登录 状态改变：Waiting
+[14:26:34.359] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[14:26:34.359] [Download] 版本 末世工匠 对应的资源文件索引为 1.16
+[14:26:34.359] [Loader] 加载器 获取 Java 状态改变：Loading
+[14:26:34.360] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[14:26:34.360] [Java] 开始完全遍历查找：D:\HMCL\
+[14:26:34.360] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[14:26:34.360] [Loader] 加载器 登录 状态改变：Loading
+[14:26:34.360] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[14:26:34.360] [Loader] 加载器 补全文件 状态改变：Loading
+[14:26:34.360] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[14:26:34.360] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[14:26:34.360] [Launch] 登录加载已开始
+[14:26:34.360] [Launch] 登录加载已结束
+[14:26:34.360] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[14:26:34.360] [Loader] 加载器 登录 状态改变：Finished
+[14:26:34.360] [Download] 版本 末世工匠 对应的资源文件索引为 1.16
+[14:26:34.362] [Java] 开始完全遍历查找：D:\HMCL\.minecraft\
+[14:26:34.366] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[14:26:34.366] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[14:26:34.366] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[14:26:34.367] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[14:26:34.374] [Java] 开始完全遍历查找：D:\HMCL\.minecraft\versions\末世工匠\
+[14:26:34.377] [Java] 选定的 Java：JRE 8 (8.0.51)，64 位：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[14:26:34.377] [Launch] 选择的 Java：JRE 8 (8.0.51)，64 位：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[14:26:34.377] [Loader] 加载器 获取 Java 状态改变：Finished
+[14:26:34.401] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[14:26:34.401] [Loader] 加载器 下载资源文件 状态改变：Loading
+[14:26:34.401] [Loader] 加载器 下载资源文件 状态改变：Finished
+[14:26:34.401] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[14:26:34.407] [Minecraft] 获取支持库列表：末世工匠
+[14:26:34.470] [Download] 1.16.json 991#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[14:26:34.483] [Download] 1.16.json：文件大小 295229 B（288 K）
+[14:26:34.539] [Download] 1.16.json：已完成，剩余文件 0
+[14:26:34.539] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[14:26:34.539] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[14:26:34.539] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[14:26:34.539] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[14:26:34.539] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[14:26:34.539] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[14:26:34.539] [Loader] 加载器 补全文件 状态改变：Finished
+[14:26:34.540] [Loader] 加载器 获取启动参数 状态改变：Loading
+[14:26:34.540] [Launch] 后台更新资源文件索引成功：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\Cache\1.16.json
+[14:26:34.540] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[14:26:34.540] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[14:26:34.540] [Launch] 开始获取 Minecraft 启动参数
+[14:26:34.540] [Launch] 获取新版 JVM 参数
+[14:26:34.542] [Launch] 当前剩余内存：10.2G
+[14:26:34.542] [System] 获取资源：JavaWrapper
+[14:26:34.542] [Java] 已释放 Java Wrapper：C:\Users\Su-Yuan\AppData\Roaming\PCL\JavaWrapper.jar
+[14:26:34.543] [Launch] 新版 JVM 参数获取成功：
+[14:26:34.543] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Su-Yuan\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx8294m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\Su-Yuan\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher
+[14:26:34.543] [Launch] 获取新版 Game 参数
+[14:26:34.543] [Launch] 新版 Game 参数获取成功
+[14:26:34.543] [Minecraft] 获取支持库列表：末世工匠
+[14:26:34.547] [Launch] Minecraft 启动参数：
+[14:26:34.548] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Su-Yuan\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=294 -cp "D:\HMCL\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;D:\HMCL\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;D:\HMCL\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;D:\HMCL\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;D:\HMCL\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;D:\HMCL\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;D:\HMCL\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\HMCL\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;D:\HMCL\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;D:\HMCL\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;D:\HMCL\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;D:\HMCL\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;D:\HMCL\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;D:\HMCL\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;D:\HMCL\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;D:\HMCL\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;D:\HMCL\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;D:\HMCL\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;D:\HMCL\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;D:\HMCL\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;D:\HMCL\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;D:\HMCL\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;D:\HMCL\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;D:\HMCL\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;D:\HMCL\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;D:\HMCL\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.39\forge-1.16.5-36.2.39.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;D:\HMCL\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;D:\HMCL\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;D:\HMCL\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\HMCL\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;D:\HMCL\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;D:\HMCL\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;D:\HMCL\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;D:\HMCL\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\HMCL\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;D:\HMCL\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\HMCL\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;D:\HMCL\.minecraft\versions\末世工匠\末世工匠.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx8294m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\Su-Yuan\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher --username Su_YuanB --version 末世工匠 --gameDir "D:\HMCL\.minecraft\versions\末世工匠" --assetsDir "D:\HMCL\.minecraft\assets" --assetIndex 1.16 --uuid 327a377f114b42c289bf678c55fcdde2 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXJhrzw --userType msa --versionType PCL --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.39 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[14:26:34.548] [Loader] 加载器 获取启动参数 状态改变：Finished
+[14:26:34.550] [Loader] 加载器 解压文件 状态改变：Loading
+[14:26:34.550] [Launch] 正在解压 Natives 文件
+[14:26:34.551] [Loader] 加载器 解压文件 状态改变：Finished
+[14:26:34.571] [Loader] 加载器 预启动处理 状态改变：Loading
+[14:26:34.572] [Launch] 已更新 launcher_profiles.json
+[14:26:34.572] [Launch] 当前语言为 zh_cn，无需修改
+[14:26:34.572] [Launch] 已开启 forceUnicodeFont
+[14:26:34.572] [Loader] 加载器 预启动处理 状态改变：Finished
+[14:26:34.589] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[14:26:34.590] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[14:26:34.612] [Loader] 加载器 启动进程 状态改变：Loading
+[14:26:34.616] [Launch] 已启动游戏进程：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\javaw.exe
+[14:26:34.616] [Loader] 加载器 启动进程 状态改变：Finished
+[14:26:34.635] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[14:26:34.635] [Launch] 
+[14:26:34.635] [Launch] ~ 基础参数 ~
+[14:26:34.635] [Launch] PCL 版本：Snapshot 2.6.2 (294)
+[14:26:34.635] [Launch] 游戏版本：1.16.5, Forge 36.2.39（16.5）
+[14:26:34.635] [Launch] 资源版本：1.16
+[14:26:34.635] [Launch] 版本继承：无
+[14:26:34.636] [Launch] 分配的内存：8.1 GB（8294 MB）
+[14:26:34.636] [Launch] MC 文件夹：D:\HMCL\.minecraft\
+[14:26:34.636] [Launch] 版本文件夹：D:\HMCL\.minecraft\versions\末世工匠\
+[14:26:34.636] [Launch] 版本隔离：True
+[14:26:34.636] [Launch] HMCL 格式：False
+[14:26:34.636] [Launch] Java 信息：JRE 8 (8.0.51)，64 位：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[14:26:34.636] [Launch] 环境变量：未设置
+[14:26:34.636] [Launch] 
+[14:26:34.636] [Launch] ~ 登录参数 ~
+[14:26:34.636] [Launch] 玩家用户名：Su_YuanB
+[14:26:34.636] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXJhrzw
+[14:26:34.636] [Launch] ClientToken：327a377f114b42c289bf678c55fcdde2
+[14:26:34.636] [Launch] UUID：327a377f114b42c289bf678c55fcdde2
+[14:26:34.636] [Launch] 登录方式：Microsoft
+[14:26:34.636] [Launch] 
+[14:26:34.636] [Launch] [12076] 开始 Minecraft 日志监控
+[14:26:34.636] [Launch] [全局] 出现运行中的 Minecraft
+[14:26:34.877] [Launch] [12076] 日志 1/5：已出现日志输出
+[14:26:36.047] [Launch] [12076] FML 窗口已加载：FML early loading progress（591768）
+[14:26:38.643] [Launch] [12076] Minecraft 加载已完成
+[14:26:38.669] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[14:26:38.700] [Loader] 加载器 结束处理 状态改变：Loading
+[14:26:38.702] [Launch] 开始启动结束处理
+[14:26:38.702] [Launch] 启动器可见性：5
+[14:26:38.704] [Loader] 加载器 结束处理 状态改变：Finished
+[14:26:38.747] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[14:26:38.903] [Loader] 加载器 Loader Launch 状态改变：Finished
+[14:26:38.934] [UI] 弹出提示：末世工匠 启动成功！
+[14:26:41.001] [Launch] [12076] Minecraft 已退出，返回值：1
+[14:26:41.001] [Launch] [12076] Minecraft 返回值异常，可能已崩溃
+[14:26:41.001] [Launch] [全局] 已无运行中的 Minecraft
+[14:26:41.001] [Launch] [12076] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[14:26:41.048] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[14:26:41.238] [Launch] [12076] Minecraft 日志监控已退出
+[14:26:43.012] [Launch] [12076] 崩溃分析开始
+[14:26:43.013] [Crash] 崩溃分析暂存文件夹：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\CrashAnalyzer\1207678985098\
+[14:26:43.013] [Crash] 步骤 1：收集日志文件
+[14:26:43.013] [Crash] 可能可用的日志文件：D:\HMCL\.minecraft\versions\末世工匠\logs\latest.log（0 分钟）
+[14:26:43.013] [Crash] 可能可用的日志文件：D:\HMCL\.minecraft\versions\末世工匠\logs\debug.log（0 分钟）
+[14:26:43.019] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Su-Yuan\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-06-03 14:26:35,081 main WARN Advanced terminal features are not available in this environment
+[14:26:35] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Su_YuanB, --version, 末世工匠, --gameDir, D:\HMCL\.minecraft\versions\末世工匠, --assetsDir, D:\HMCL\.minecraft\assets, --assetIndex, 1.16, --uuid, 327a377f114b42c289bf678c55fcdde2, --accessToken, ????????, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.39, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[14:26:35] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_51 by Oracle Corporation
+[14:26:35] [main/WARN] [cp.mo.mo.SecureJarHandler/]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
+[14:26:35] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[14:26:35] [main/INFO] [MixinBootstrap Launch/]: MixinBootstrap v1.1.0
+[14:26:35] [main/INFO] [MixinBootstrap Launch/]: Mixin v0.8.4
+[14:26:35] [main/INFO] [MixinBootstrap Launch/]: ModLauncher v8.1.3+8.1.3+main-8.1.x.c94d18ec (7.0)
+[14:26:35] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/D:/HMCL/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[14:26:38] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[14:26:38] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+Init ItemPhysic coremods ...
+Init CreativeCore coremods ...
+[14:26:40] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[14:26:40] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.reflect.InvocationTargetException
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.lang.UnsupportedClassVersionError: icyllis/modernui/forge/MixinConnector has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.defineClass1(Native Method)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.defineClass(ClassLoader.java:760)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:138)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.Class.forName0(Native Method)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.Class.forName(Class.java:348)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.service.modlauncher.ModLauncherClassProvider.findClass(ModLauncherClassProvider.java:67)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.loadConnectors(MixinConnectorManager.java:70)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.inject(MixinConnectorManager.java:59)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.platform.MixinPlatformManager.inject(MixinPlatformManager.java:196)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.MixinBootstrap.inject(MixinBootstrap.java:202)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:201)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:195)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchPluginHandler.lambda$announceLaunch$9(LaunchPluginHandler.java:97)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchPluginHandler$$Lambda$476/2122607818.accept(Unknown Source)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.util.HashMap.forEach(HashMap.java:1280)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchPluginHandler.announceLaunch(LaunchPluginHandler.java:97)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:52)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[14:26:40] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 6 more
+Exception in thread "main" 
+[14:26:43.019] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[14:26:43.019] [Crash] 步骤 2：准备日志文本
+[14:26:43.019] [Crash] latest.log 分类为 MinecraftLog
+[14:26:43.019] [Crash] debug.log 分类为 MinecraftLog
+[14:26:43.019] [Crash] RawOutput.log 分类为 ExtraLog
+[14:26:43.019] [Crash] 输出报告：D:\HMCL\.minecraft\versions\末世工匠\logs\latest.log，作为 Minecraft 或启动器日志
+[14:26:43.019] [Crash] 输出报告：D:\HMCL\.minecraft\versions\末世工匠\logs\debug.log，作为 Minecraft 或启动器日志
+[14:26:43.019] [Crash] 导入分析：D:\HMCL\.minecraft\versions\末世工匠\logs\latest.log，作为 Minecraft 日志
+[14:26:43.019] [Crash] 输出报告：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\CrashAnalyzer\1207678985098\RawOutput.log，作为额外日志
+[14:26:43.019] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[14:26:43.019] [Crash] 步骤 3：分析崩溃原因
+[14:26:43.020] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[14:26:43.020] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[14:26:43.042] [System] 窗口已置顶，位置：(429.6, 0), 810.4 x 498.4
+[14:26:43.048] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[14:26:45.813] [Control] 按下按钮：查看日志
+[14:26:45.813] [System] 执行外部命令：D:\HMCL\.minecraft\versions\末世工匠\logs\latest.log 
+[14:26:57.873] [Control] 按下按钮：确定
+[14:26:57.873] [Control] 普通弹框返回：1
+[14:26:58.633] [Control] 按下单选按钮：离线
+[14:26:58.745] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[14:26:58.747] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[14:26:58.748] [Skin] 载入头像成功：Loader Skin Legacy
+[14:26:59.206] [Control] 按下按钮：启动游戏
+[14:26:59.206] [Loader] 加载器 Loader Launch 状态改变：Loading
+[14:26:59.206] [System] 欲读取的文件不存在，已返回空字符串：D:\PCL我的世界\Snapshot 2.2.10\PCL\hints.txt
+[14:26:59.211] [Launch] 预检测已通过
+[14:26:59.211] [Download] 开始后台更新资源文件索引
+[14:26:59.211] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[14:26:59.211] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[14:26:59.211] [Loader] 加载器 登录 状态改变：Waiting
+[14:26:59.211] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[14:26:59.211] [Download] 版本 末世工匠 对应的资源文件索引为 1.16
+[14:26:59.211] [Loader] 加载器 获取 Java 状态改变：Loading
+[14:26:59.211] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[14:26:59.212] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[14:26:59.212] [Java] 开始完全遍历查找：D:\HMCL\
+[14:26:59.212] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[14:26:59.213] [Loader] 加载器 登录 状态改变：Loading
+[14:26:59.213] [Loader] 加载器 补全文件 状态改变：Loading
+[14:26:59.213] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[14:26:59.213] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[14:26:59.213] [Launch] 登录加载已开始
+[14:26:59.213] [Java] 开始完全遍历查找：D:\HMCL\.minecraft\
+[14:26:59.213] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[14:26:59.213] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[14:26:59.213] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[14:26:59.213] [Download] 版本 末世工匠 对应的资源文件索引为 1.16
+[14:26:59.214] [Launch] 登录方式：离线（Su_YuanB）
+[14:26:59.216] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[14:26:59.219] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[14:26:59.220] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[14:26:59.220] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[14:26:59.220] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[14:26:59.220] [Java] 开始完全遍历查找：D:\HMCL\.minecraft\versions\末世工匠\
+[14:26:59.225] [Launch] 登录加载已结束
+[14:26:59.225] [Loader] 加载器 登录 状态改变：Finished
+[14:26:59.227] [Java] 选定的 Java：JRE 8 (8.0.51)，64 位：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[14:26:59.227] [Launch] 选择的 Java：JRE 8 (8.0.51)，64 位：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[14:26:59.227] [Loader] 加载器 获取 Java 状态改变：Finished
+[14:26:59.253] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[14:26:59.253] [Loader] 加载器 下载资源文件 状态改变：Loading
+[14:26:59.254] [Loader] 加载器 下载资源文件 状态改变：Finished
+[14:26:59.254] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[14:26:59.257] [Minecraft] 获取支持库列表：末世工匠
+[14:26:59.289] [Download] 1.16.json 1138#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[14:26:59.300] [Download] 1.16.json：文件大小 295229 B（288 K）
+[14:26:59.344] [Download] 1.16.json：已完成，剩余文件 0
+[14:26:59.344] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[14:26:59.345] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[14:26:59.346] [Launch] 后台更新资源文件索引成功：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\Cache\1.16.json
+[14:26:59.346] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[14:26:59.346] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[14:26:59.385] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[14:26:59.385] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[14:26:59.386] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[14:26:59.386] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[14:26:59.386] [Loader] 加载器 补全文件 状态改变：Finished
+[14:26:59.387] [Loader] 加载器 获取启动参数 状态改变：Loading
+[14:26:59.387] [Launch] 开始获取 Minecraft 启动参数
+[14:26:59.387] [Launch] 获取新版 JVM 参数
+[14:26:59.388] [Launch] 当前剩余内存：10.1G
+[14:26:59.389] [System] 获取资源：JavaWrapper
+[14:26:59.389] [Java] 已释放 Java Wrapper：C:\Users\Su-Yuan\AppData\Roaming\PCL\JavaWrapper.jar
+[14:26:59.389] [Launch] 新版 JVM 参数获取成功：
+[14:26:59.389] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Su-Yuan\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx8294m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\Su-Yuan\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher
+[14:26:59.389] [Launch] 获取新版 Game 参数
+[14:26:59.389] [Launch] 新版 Game 参数获取成功
+[14:26:59.389] [Minecraft] 获取支持库列表：末世工匠
+[14:26:59.394] [Launch] Minecraft 启动参数：
+[14:26:59.394] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Su-Yuan\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\HMCL\.minecraft\versions\末世工匠\末世工匠-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=294 -cp "D:\HMCL\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;D:\HMCL\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;D:\HMCL\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;D:\HMCL\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;D:\HMCL\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;D:\HMCL\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;D:\HMCL\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\HMCL\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;D:\HMCL\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;D:\HMCL\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;D:\HMCL\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;D:\HMCL\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;D:\HMCL\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;D:\HMCL\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;D:\HMCL\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;D:\HMCL\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;D:\HMCL\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;D:\HMCL\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;D:\HMCL\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;D:\HMCL\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;D:\HMCL\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;D:\HMCL\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;D:\HMCL\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;D:\HMCL\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;D:\HMCL\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;D:\HMCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;D:\HMCL\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.39\forge-1.16.5-36.2.39.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;D:\HMCL\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;D:\HMCL\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;D:\HMCL\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;D:\HMCL\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\HMCL\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;D:\HMCL\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;D:\HMCL\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;D:\HMCL\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;D:\HMCL\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\HMCL\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;D:\HMCL\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\HMCL\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;D:\HMCL\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;D:\HMCL\.minecraft\versions\末世工匠\末世工匠.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx8294m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\Su-Yuan\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher --username Su_YuanB --version 末世工匠 --gameDir "D:\HMCL\.minecraft\versions\末世工匠" --assetsDir "D:\HMCL\.minecraft\assets" --assetIndex 1.16 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX7DCD2 --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX7DCD2 --userType msa --versionType PCL --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.39 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[14:26:59.394] [Loader] 加载器 获取启动参数 状态改变：Finished
+[14:26:59.396] [Loader] 加载器 解压文件 状态改变：Loading
+[14:26:59.396] [Launch] 正在解压 Natives 文件
+[14:26:59.397] [Loader] 加载器 解压文件 状态改变：Finished
+[14:26:59.414] [Loader] 加载器 预启动处理 状态改变：Loading
+[14:26:59.415] [Launch] 当前语言为 zh_cn，无需修改
+[14:26:59.415] [Launch] 已开启 forceUnicodeFont
+[14:26:59.415] [Launch] 正在构建自定义皮肤资源包，格式为：6
+[14:26:59.433] [Loader] 加载器 预启动处理 状态改变：Finished
+[14:26:59.434] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[14:26:59.435] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[14:26:59.457] [Loader] 加载器 启动进程 状态改变：Loading
+[14:26:59.463] [Launch] 已启动游戏进程：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\javaw.exe
+[14:26:59.463] [Loader] 加载器 启动进程 状态改变：Finished
+[14:26:59.482] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[14:26:59.483] [Launch] 
+[14:26:59.483] [Launch] ~ 基础参数 ~
+[14:26:59.483] [Launch] PCL 版本：Snapshot 2.6.2 (294)
+[14:26:59.483] [Launch] 游戏版本：1.16.5, Forge 36.2.39（16.5）
+[14:26:59.483] [Launch] 资源版本：1.16
+[14:26:59.483] [Launch] 版本继承：无
+[14:26:59.483] [Launch] 分配的内存：8.1 GB（8294 MB）
+[14:26:59.483] [Launch] MC 文件夹：D:\HMCL\.minecraft\
+[14:26:59.483] [Launch] 版本文件夹：D:\HMCL\.minecraft\versions\末世工匠\
+[14:26:59.483] [Launch] 版本隔离：True
+[14:26:59.483] [Launch] HMCL 格式：False
+[14:26:59.483] [Launch] Java 信息：JRE 8 (8.0.51)，64 位：C:\Users\Su-Yuan\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[14:26:59.483] [Launch] 环境变量：未设置
+[14:26:59.483] [Launch] 
+[14:26:59.483] [Launch] ~ 登录参数 ~
+[14:26:59.483] [Launch] 玩家用户名：Su_YuanB
+[14:26:59.483] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX7DCD2
+[14:26:59.483] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX7DCD2
+[14:26:59.483] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX7DCD2
+[14:26:59.483] [Launch] 登录方式：Legacy
+[14:26:59.483] [Launch] 
+[14:26:59.483] [Launch] [3572] 开始 Minecraft 日志监控
+[14:26:59.483] [Launch] [全局] 出现运行中的 Minecraft
+[14:26:59.712] [Launch] [3572] 日志 1/5：已出现日志输出
+[14:27:00.886] [Launch] [3572] FML 窗口已加载：FML early loading progress（526246）
+[14:27:00.886] [Launch] [3572] Minecraft 加载已完成
+[14:27:00.896] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[14:27:00.911] [Loader] 加载器 结束处理 状态改变：Loading
+[14:27:00.912] [Launch] 开始启动结束处理
+[14:27:00.912] [Launch] 启动器可见性：5
+[14:27:00.912] [Loader] 加载器 结束处理 状态改变：Finished
+[14:27:00.937] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[14:27:01.053] [Loader] 加载器 Loader Launch 状态改变：Finished
+[14:27:01.099] [UI] 弹出提示：末世工匠 启动成功！
+[14:27:05.833] [Launch] [3572] Minecraft 已退出，返回值：1
+[14:27:05.833] [Launch] [3572] Minecraft 返回值异常，可能已崩溃
+[14:27:05.833] [Launch] [全局] 已无运行中的 Minecraft
+[14:27:05.833] [Launch] [3572] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[14:27:05.861] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[14:27:06.068] [Launch] [3572] Minecraft 日志监控已退出
+[14:27:07.844] [Launch] [3572] 崩溃分析开始
+[14:27:07.846] [Crash] 崩溃分析暂存文件夹：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\CrashAnalyzer\357282682542\
+[14:27:07.846] [Crash] 步骤 1：收集日志文件
+[14:27:07.846] [Crash] 可能可用的日志文件：D:\HMCL\.minecraft\versions\末世工匠\logs\latest.log（0 分钟）
+[14:27:07.846] [Crash] 可能可用的日志文件：D:\HMCL\.minecraft\versions\末世工匠\logs\debug.log（0 分钟）
+[14:27:07.850] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Su-Yuan\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-06-03 14:26:59,937 main WARN Advanced terminal features are not available in this environment
+[14:27:00] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Su_YuanB, --version, 末世工匠, --gameDir, D:\HMCL\.minecraft\versions\末世工匠, --assetsDir, D:\HMCL\.minecraft\assets, --assetIndex, 1.16, --uuid, 00000XXXXXXXXXXXXXXXXXXXXXX7DCD2, --accessToken, ????????, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.39, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[14:27:00] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_51 by Oracle Corporation
+[14:27:00] [main/WARN] [cp.mo.mo.SecureJarHandler/]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
+[14:27:00] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[14:27:00] [main/INFO] [MixinBootstrap Launch/]: MixinBootstrap v1.1.0
+[14:27:00] [main/INFO] [MixinBootstrap Launch/]: Mixin v0.8.4
+[14:27:00] [main/INFO] [MixinBootstrap Launch/]: ModLauncher v8.1.3+8.1.3+main-8.1.x.c94d18ec (7.0)
+[14:27:00] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/D:/HMCL/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[14:27:03] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[14:27:03] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+Init ItemPhysic coremods ...
+Init CreativeCore coremods ...
+[14:27:04] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[14:27:05] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.reflect.InvocationTargetException
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.lang.UnsupportedClassVersionError: icyllis/modernui/forge/MixinConnector has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.defineClass1(Native Method)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.defineClass(ClassLoader.java:760)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:138)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.Class.forName0(Native Method)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.Class.forName(Class.java:348)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.service.modlauncher.ModLauncherClassProvider.findClass(ModLauncherClassProvider.java:67)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.loadConnectors(MixinConnectorManager.java:70)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.inject(MixinConnectorManager.java:59)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.platform.MixinPlatformManager.inject(MixinPlatformManager.java:196)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.MixinBootstrap.inject(MixinBootstrap.java:202)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:201)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:195)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchPluginHandler.lambda$announceLaunch$9(LaunchPluginHandler.java:97)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchPluginHandler$$Lambda$477/2122607818.accept(Unknown Source)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.util.HashMap.forEach(HashMap.java:1280)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchPluginHandler.announceLaunch(LaunchPluginHandler.java:97)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:52)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[14:27:05] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 6 more
+Exception in thread "main" 
+[14:27:07.852] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[14:27:07.852] [Crash] 步骤 2：准备日志文本
+[14:27:07.852] [Crash] latest.log 分类为 MinecraftLog
+[14:27:07.852] [Crash] debug.log 分类为 MinecraftLog
+[14:27:07.852] [Crash] RawOutput.log 分类为 ExtraLog
+[14:27:07.852] [Crash] 输出报告：D:\HMCL\.minecraft\versions\末世工匠\logs\latest.log，作为 Minecraft 或启动器日志
+[14:27:07.852] [Crash] 输出报告：D:\HMCL\.minecraft\versions\末世工匠\logs\debug.log，作为 Minecraft 或启动器日志
+[14:27:07.852] [Crash] 导入分析：D:\HMCL\.minecraft\versions\末世工匠\logs\latest.log，作为 Minecraft 日志
+[14:27:07.852] [Crash] 输出报告：C:\Users\Su-Yuan\AppData\Local\Temp\PCL\CrashAnalyzer\357282682542\RawOutput.log，作为额外日志
+[14:27:07.852] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[14:27:07.852] [Crash] 步骤 3：分析崩溃原因
+[14:27:07.852] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[14:27:07.852] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[14:27:07.874] [System] 窗口已置顶，位置：(429.6, 0), 810.4 x 498.4
+[14:27:07.875] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[14:27:10.448] [Control] 按下按钮：导出错误报告
+[14:27:10.448] [Control] 普通弹框返回：3
+[14:27:15.718] [UI] 选择文件返回：C:\Users\Su-Yuan\Desktop\错误报告-2023-6-3_14.27.10.zip
+[14:27:15.818] [System] 诊断信息：
+操作系统：Microsoft Windows 10 家庭中文版
+剩余内存：10346 M / 16147 M
+DPI：120（125%）
+MC 文件夹：D:\HMCL\.minecraft\
+文件位置：D:\PCL我的世界\Snapshot 2.2.10\

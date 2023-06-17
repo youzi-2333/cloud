@@ -1,0 +1,948 @@
+[10:05:05.950] [Start] 程序版本：Snapshot 2.5.4（289）
+[10:05:05.952] [Start] 识别码：75D3-D2B3-8653-8E7E
+[10:05:05.952] [Start] 程序路径：C:\Users\Administrator\Desktop\Plain Craft Launcher 2.exe
+[10:05:05.957] [Start] 第一阶段加载用时：63 ms
+[10:05:06.161] [UI] 刷新主题：0
+[10:05:06.219] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[10:05:06.220] [Start] 第二阶段加载用时：234 ms
+[10:05:06.242] 没有对文件夹 C:\Users\Administrator\Desktop\关闭自动更新工具\ 的权限，请尝试以管理员权限运行 PCL：对路径“C:\Users\Administrator\Desktop\关闭自动更新工具\CheckPermission42”的访问被拒绝。
+PCL 的权限不足。请尝试右键 PCL，选择以管理员身份运行。
+————————————
+详细错误信息：
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   在 PCL.ModBase.CheckPermission(String Path)
+错误类型：System.UnauthorizedAccessException
+[10:05:06.253] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[10:05:06.548] [System] 窗口已置顶，位置：(362.4, 176.8), 810.4 x 470.4
+[10:05:06.552] [Start] 第三阶段加载用时：62 ms
+[10:05:06.553] [Animation] 动画线程开始
+[10:05:06.557] [Start] 加载 DLL：Json
+[10:05:06.557] [System] 获取资源：Json
+[10:05:06.566] [Launch] Minecraft 文件夹：C:\Users\Administrator\Desktop\.minecraft\
+[10:05:06.625] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[10:05:06.660] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[10:05:06.677] [Skin] 载入头像成功：Loader Skin Ms
+[10:05:06.743] [Java] 缓存中有 2 个可用的 Java
+[10:05:06.804] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\Administrator\Desktop\.minecraft\versions\1.19.3-Forge_44.1.23-OptiFine_I2_pre4哈哈\
+[10:05:06.809] [Loader] 加载器 登录 状态改变：Loading
+[10:05:06.816] [Launch] 登录加载已开始
+[10:05:06.816] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[10:05:06.819] [Launch] 登录方式：正版（sedam）
+[10:05:06.820] [Launch] 开始微软登录步骤 2（刷新登录）
+[10:05:06.827] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[10:05:06.960] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[10:05:06.961] [Loader] 加载器 PCL 服务 状态改变：Loading
+[10:05:06.962] [Server] 正在连接到 PCL 服务器
+[10:05:06.965] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[10:05:06.974] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1683252307-1e49c4f1-0-4bf2622dd30ab2178095c7281112743b，最大超时 10000
+[10:05:07.051] [Server] 服务器公告：102|289|286|5，无需更新
+[10:05:07.067] [Loader] 加载器 PCL 服务 状态改变：Finished
+[10:05:07.279] [System] DPI：120，系统版本：10.0.19042.0，PCL 位置：C:\Users\Administrator\Desktop\Plain Craft Launcher 2.exe
+[10:05:07.724] [Launch] 开始微软登录步骤 3
+[10:05:07.725] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[10:05:07.980] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[10:05:08.491] [Launch] 开始微软登录步骤 4
+[10:05:08.491] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[10:05:08.744] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[10:05:09.070] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[10:05:09.251] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[10:05:10.015] [Launch] 开始微软登录步骤 5
+[10:05:10.015] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[10:05:10.266] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[10:05:11.567] [Launch] 开始微软登录步骤 6
+[10:05:11.567] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[10:05:11.832] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[10:05:12.714] [Launch] 微软登录完成
+[10:05:12.715] [UI] 解锁隐藏主题：10
+[10:05:12.715] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[10:05:12.729] [Launch] 登录加载已结束
+[10:05:12.729] [Loader] 加载器 登录 状态改变：Finished
+[10:05:28.121] [Control] 按下按钮：版本设置
+[10:05:28.193] [Control] 切换主要页面：VersionSetup, 0
+[10:05:30.969] [Control] 按下图标按钮：BtnTitleInner
+[10:05:30.971] [Control] 切换主要页面：Launch, -1
+[10:05:31.980] [Control] 按下按钮：版本选择
+[10:05:31.988] [Control] 切换主要页面：VersionSelect, 0
+[10:05:32.121] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[10:05:32.121] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[10:05:32.146] [Setup] 当前选择的 Minecraft 版本：1.19.3-Forge_44.1.23-OptiFine_I2_pre4哈哈
+[10:05:32.146] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\Administrator\Desktop\.minecraft\versions\1.19.3-Forge_44.1.23-OptiFine_I2_pre4哈哈\
+[10:05:32.159] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > C:\Users\Administrator\Desktop\.minecraft\
+[10:05:32.161] [Minecraft] 有效的 Minecraft 文件夹：pcl > D:\pcl\
+[10:05:32.210] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[10:05:34.303] [Setup] 当前选择的 Minecraft 版本：Chroma Sky 2
+[10:05:34.305] [Control] 切换主要页面：Launch, -1
+[10:05:34.305] [Control] 按下单击列表项：Chroma Sky 2
+[10:05:34.439] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\
+[10:05:35.202] [Control] 按下按钮：启动游戏
+[10:05:35.205] [Loader] 加载器 Loader Launch 状态改变：Loading
+[10:05:35.213] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\PCL\hints.txt
+[10:05:35.228] [Launch] 预检测已通过
+[10:05:35.230] [Download] 开始后台更新资源文件索引
+[10:05:35.231] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[10:05:35.233] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[10:05:35.233] [Loader] 加载器 登录 状态改变：Waiting
+[10:05:35.233] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[10:05:35.233] [Loader] 加载器 获取 Java 状态改变：Loading
+[10:05:35.234] [Loader] 加载器 登录 状态改变：Loading
+[10:05:35.234] [Loader] 加载器 补全文件 状态改变：Loading
+[10:05:35.234] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[10:05:35.234] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[10:05:35.234] [Launch] 登录加载已开始
+[10:05:35.234] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[10:05:35.235] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[10:05:35.235] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[10:05:35.235] [Launch] 登录方式：正版（sedam）
+[10:05:35.235] [Launch] 微软登录完成
+[10:05:35.235] [UI] 解锁隐藏主题：10
+[10:05:35.235] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[10:05:35.235] [Download] 版本 Chroma Sky 2 对应的资源文件索引为 1.16
+[10:05:35.235] [Download] 版本 Chroma Sky 2 对应的资源文件索引为 1.16
+[10:05:35.239] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[10:05:35.240] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[10:05:35.241] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[10:05:35.248] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\
+[10:05:35.252] [Launch] 登录加载已结束
+[10:05:35.252] [Loader] 加载器 登录 状态改变：Finished
+[10:05:35.255] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\
+[10:05:35.260] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[10:05:35.261] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[10:05:35.261] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[10:05:35.262] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[10:05:35.273] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\
+[10:05:35.277] [Download] 1.16.json 407#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[10:05:35.294] [Minecraft] 获取支持库列表：Chroma Sky 2
+[10:05:35.296] [System] 执行外部命令并等待返回结果：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\java.exe -version
+[10:05:35.365] [Download] 1.16.json：文件大小 295229 B（288 K）
+[10:05:35.422] [Download] 1.16.json：已完成，剩余文件 0
+[10:05:35.422] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[10:05:35.422] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[10:05:35.424] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.16.json
+[10:05:35.424] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[10:05:35.424] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[10:05:35.594] [Java] 选定的 Java：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:05:35.594] [Launch] 选择的 Java：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:05:35.594] [Loader] 加载器 获取 Java 状态改变：Finished
+[10:05:35.609] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[10:05:35.609] [Loader] 加载器 下载资源文件 状态改变：Loading
+[10:05:35.610] [Loader] 加载器 下载资源文件 状态改变：Finished
+[10:05:35.610] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[10:05:36.873] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[10:05:36.873] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[10:05:36.874] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[10:05:36.874] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[10:05:36.874] [Loader] 加载器 补全文件 状态改变：Finished
+[10:05:36.874] [Loader] 加载器 获取启动参数 状态改变：Loading
+[10:05:36.877] [Launch] 开始获取 Minecraft 启动参数
+[10:05:36.877] [Launch] 获取新版 JVM 参数
+[10:05:36.887] [Launch] 当前剩余内存：13G
+[10:05:36.892] [System] 获取资源：JavaWrapper
+[10:05:36.892] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[10:05:36.893] [Launch] 新版 JVM 参数获取成功：
+[10:05:36.893] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx10240m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher
+[10:05:36.893] [Launch] 获取新版 Game 参数
+[10:05:36.895] [Launch] 新版 Game 参数获取成功
+[10:05:36.897] [Minecraft] 获取支持库列表：Chroma Sky 2
+[10:05:36.905] [Launch] Minecraft 启动参数：
+[10:05:36.907] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\Chroma Sky 2-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.34\forge-1.16.5-36.2.34.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\Chroma Sky 2.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx10240m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher --username sedam --version "Chroma Sky 2" --gameDir "C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2" --assetsDir "C:\Users\Administrator\Desktop\.minecraft\assets" --assetIndex 1.16 --uuid f5f4770761bb4b7783b8a79b959e1327 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXjowIU --userType msa --versionType PCL --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.34 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[10:05:36.907] [Loader] 加载器 获取启动参数 状态改变：Finished
+[10:05:36.930] [Loader] 加载器 解压文件 状态改变：Loading
+[10:05:36.934] [Launch] 正在解压 Natives 文件
+[10:05:36.949] [Loader] 加载器 解压文件 状态改变：Finished
+[10:05:36.960] [Loader] 加载器 预启动处理 状态改变：Loading
+[10:05:36.975] [Launch] 已更新 launcher_profiles.json
+[10:05:36.976] [Launch] 并非首次启动，不修改语言
+[10:05:36.981] [Loader] 加载器 预启动处理 状态改变：Finished
+[10:05:36.997] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[10:05:37.002] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[10:05:37.023] [Loader] 加载器 启动进程 状态改变：Loading
+[10:05:37.035] [Launch] 已启动游戏进程：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\javaw.exe
+[10:05:37.035] [Loader] 加载器 启动进程 状态改变：Finished
+[10:05:37.063] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[10:05:37.065] [Launch] 
+[10:05:37.065] [Launch] ~ 基础参数 ~
+[10:05:37.065] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[10:05:37.065] [Launch] 游戏版本：1.16.5, Forge 36.2.34（16.5）
+[10:05:37.065] [Launch] 资源版本：1.16
+[10:05:37.065] [Launch] 版本继承：无
+[10:05:37.067] [Launch] 分配的内存：10 GB（10240 MB）
+[10:05:37.068] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\.minecraft\
+[10:05:37.068] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\
+[10:05:37.068] [Launch] 版本隔离：True
+[10:05:37.068] [Launch] HMCL 格式：False
+[10:05:37.068] [Launch] Java 信息：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:05:37.068] [Launch] 环境变量：未设置
+[10:05:37.068] [Launch] 
+[10:05:37.068] [Launch] ~ 登录参数 ~
+[10:05:37.068] [Launch] 玩家用户名：sedam
+[10:05:37.068] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXjowIU
+[10:05:37.068] [Launch] ClientToken：f5f4770761bb4b7783b8a79b959e1327
+[10:05:37.068] [Launch] UUID：f5f4770761bb4b7783b8a79b959e1327
+[10:05:37.068] [Launch] 登录方式：Microsoft
+[10:05:37.068] [Launch] 
+[10:05:37.070] [Launch] [7308] 开始 Minecraft 日志监控
+[10:05:37.071] [Launch] [全局] 出现运行中的 Minecraft
+[10:05:37.311] [Launch] [7308] 日志 1/5：已出现日志输出
+[10:05:46.789] [Launch] [7308] FML 窗口已加载：FML early loading progress（132354）
+[10:05:47.262] [Launch] [7308] Minecraft 加载已完成
+[10:05:47.354] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[10:05:47.355] [Loader] 加载器 结束处理 状态改变：Loading
+[10:05:47.357] [Launch] 开始启动结束处理
+[10:05:47.357] [Launch] 启动器可见性：5
+[10:05:47.358] [Loader] 加载器 结束处理 状态改变：Finished
+[10:05:47.393] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[10:05:47.498] [Loader] 加载器 Loader Launch 状态改变：Finished
+[10:05:47.512] [UI] 弹出提示：Chroma Sky 2 启动成功！
+[10:05:49.900] [Control] 按下图标按钮：BtnTitleMin
+[10:05:51.530] [Launch] [7308] Minecraft 已退出，返回值：1
+[10:05:51.530] [Launch] [7308] Minecraft 返回值异常，可能已崩溃
+[10:05:51.532] [Launch] [全局] 已无运行中的 Minecraft
+[10:05:51.532] [Launch] [7308] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[10:05:51.563] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[10:05:51.767] [Launch] [7308] Minecraft 日志监控已退出
+[10:05:53.547] [Launch] [7308] 崩溃分析开始
+[10:05:53.555] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\730814975096\
+[10:05:53.559] [Crash] 步骤 1：收集日志文件
+[10:05:53.559] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log（0 分钟）
+[10:05:53.559] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\debug.log（0 分钟）
+[10:05:53.581] [Crash] 以下为游戏输出的最后一段内容：
+WARNING: Unknown module: cpw.mods.bootstraplauncher specified to --add-exports
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-05 10:05:37,899 main WARN Advanced terminal features are not available in this environment
+[10:05:38] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, sedam, --version, Chroma Sky 2, --gameDir, C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2, --assetsDir, C:\Users\Administrator\Desktop\.minecraft\assets, --assetIndex, 1.16, --uuid, f5f4770761bb4b7783b8a79b959e1327, --accessToken, ????????, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.34, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[10:05:38] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 17.0.3 by Microsoft
+[10:05:46] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[10:05:46] [main/INFO] [MixinBootstrap Launch/]: MixinBootstrap v1.1.0
+[10:05:46] [main/INFO] [MixinBootstrap Launch/]: Mixin v0.8.4
+[10:05:46] [main/INFO] [MixinBootstrap Launch/]: ModLauncher v8.1.3+8.1.3+main-8.1.x.c94d18ec (7.0)
+[10:05:46] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Administrator/Desktop/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[2023-05-05 10:05:47] [INFO]: I18nUpdate Mod 3.4.2 is loaded in 1.16.5 with Forge
+[10:05:49] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[10:05:49] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: java.lang.reflect.InvocationTargetException
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: Caused by: java.lang.ExceptionInInitializerError
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compile(Context.java:1509)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:1449)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:759)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:528)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:517)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.evalImpl(NashornScriptEngine.java:395)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.eval(NashornScriptEngine.java:146)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.scripting/javax.script.AbstractScriptEngine.eval(AbstractScriptEngine.java:247)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreMod.initialize(CoreMod.java:40)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModEngine.initialize(CoreModEngine.java:75)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModEngine.initializeCoreMods(CoreModEngine.java:69)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModProvider.getCoreModTransformers(CoreModProvider.java:17)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.transformers(FMLServiceProvider.java:156)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.gatherTransformers(TransformationServiceDecorator.java:74)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseServiceTransformers$6(TransformationServicesHandler.java:101)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1065)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initialiseServiceTransformers(TransformationServicesHandler.java:101)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:64)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	... 6 more
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: Caused by: java.lang.RuntimeException: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:335)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:318)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.getDefineAnonymousClass(Context.java:327)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.<clinit>(Context.java:317)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	... 27 more
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: Caused by: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MemberName.makeAccessException(MemberName.java:976)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1117)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3649)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.findVirtual(MethodHandles.java:2680)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:329)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	... 30 more
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: Caused by: java.lang.NoSuchMethodError: 'java.lang.Class sun.misc.Unsafe.defineAnonymousClass(java.lang.Class, byte[], java.lang.Object[])'
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MethodHandleNatives.resolve(Native Method)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MemberName$Factory.resolve(MemberName.java:1085)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1114)
+[10:05:50] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	... 33 more
+Exception in thread "main" 
+[10:05:53.582] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[10:05:53.589] [Crash] 步骤 2：准备日志文本
+[10:05:53.590] [Crash] latest.log 分类为 MinecraftLog
+[10:05:53.590] [Crash] debug.log 分类为 MinecraftLog
+[10:05:53.590] [Crash] RawOutput.log 分类为 MinecraftLog
+[10:05:53.590] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log，作为 Minecraft 或启动器日志
+[10:05:53.590] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\debug.log，作为 Minecraft 或启动器日志
+[10:05:53.590] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\730814975096\RawOutput.log，作为 Minecraft 或启动器日志
+[10:05:53.591] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\730814975096\RawOutput.log，作为启动器日志
+[10:05:53.591] [Crash] 导入分析：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log，作为 Minecraft 日志
+[10:05:53.591] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[10:05:53.592] [Crash] 步骤 3：分析崩溃原因
+[10:05:53.600] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[10:05:53.600] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[10:05:53.622] [System] 窗口已置顶，位置：(675.2, 32), 810.4 x 470.4
+[10:05:53.654] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[10:06:04.580] [Control] 按下按钮：查看日志
+[10:06:04.581] [System] 执行外部命令：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log 
+[10:06:14.108] [Control] 按下按钮：确定
+[10:06:14.109] [Control] 普通弹框返回：1
+[10:06:15.859] [Control] 按下按钮：版本设置
+[10:06:15.862] [Control] 切换主要页面：VersionSetup, 0
+[10:06:16.842] [Control] 按下单选列表项：Mod 管理
+[10:06:16.998] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[10:06:16.998] [System] 已刷新 Mod 列表
+[10:06:19.511] Mod Class 信息不可用（C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\mods\_MixinBootstrap-1.1.0.jar）：未找到 Mod 入口点
+   在 PCL.ModMinecraft.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[10:06:20.137] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[10:06:20.664] [Animation] 两个动画帧间隔 406 ms
+[10:06:44.727] [Control] 按下图标按钮：BtnTitleInner
+[10:06:44.729] [Control] 切换主要页面：Launch, -1
+[10:06:45.725] [Control] 按下按钮：启动游戏
+[10:06:45.725] [Loader] 加载器 Loader Launch 状态改变：Loading
+[10:06:45.726] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\PCL\hints.txt
+[10:06:45.729] [Launch] 预检测已通过
+[10:06:45.729] [Download] 开始后台更新资源文件索引
+[10:06:45.730] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[10:06:45.730] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[10:06:45.730] [Loader] 加载器 登录 状态改变：Waiting
+[10:06:45.730] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[10:06:45.730] [Download] 版本 Chroma Sky 2 对应的资源文件索引为 1.16
+[10:06:45.730] [Loader] 加载器 获取 Java 状态改变：Loading
+[10:06:45.730] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[10:06:45.730] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[10:06:45.730] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\
+[10:06:45.730] [Loader] 加载器 登录 状态改变：Loading
+[10:06:45.730] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[10:06:45.731] [Loader] 加载器 补全文件 状态改变：Loading
+[10:06:45.731] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[10:06:45.731] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[10:06:45.731] [Launch] 登录加载已开始
+[10:06:45.731] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[10:06:45.731] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[10:06:45.731] [Launch] 登录加载已结束
+[10:06:45.731] [Loader] 加载器 登录 状态改变：Finished
+[10:06:45.731] [Download] 版本 Chroma Sky 2 对应的资源文件索引为 1.16
+[10:06:45.732] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\
+[10:06:45.745] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\
+[10:06:45.753] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[10:06:45.753] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[10:06:45.754] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[10:06:45.754] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[10:06:45.755] [Java] 选定的 Java：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:06:45.755] [Launch] 选择的 Java：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:06:45.755] [Loader] 加载器 获取 Java 状态改变：Finished
+[10:06:45.801] [Minecraft] 获取支持库列表：Chroma Sky 2
+[10:06:45.850] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[10:06:45.851] [Loader] 加载器 下载资源文件 状态改变：Loading
+[10:06:45.851] [Loader] 加载器 下载资源文件 状态改变：Finished
+[10:06:45.851] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[10:06:45.852] [Download] 1.16.json 2376#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[10:06:45.921] [Download] 1.16.json：文件大小 295229 B（288 K）
+[10:06:45.940] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[10:06:45.941] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[10:06:45.941] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[10:06:45.941] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[10:06:45.941] [Loader] 加载器 补全文件 状态改变：Finished
+[10:06:45.942] [Loader] 加载器 获取启动参数 状态改变：Loading
+[10:06:45.942] [Launch] 开始获取 Minecraft 启动参数
+[10:06:45.942] [Launch] 获取新版 JVM 参数
+[10:06:45.944] [Launch] 当前剩余内存：13G
+[10:06:45.945] [System] 获取资源：JavaWrapper
+[10:06:45.945] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[10:06:45.945] [Launch] 新版 JVM 参数获取成功：
+[10:06:45.945] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx10240m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher
+[10:06:45.945] [Launch] 获取新版 Game 参数
+[10:06:45.945] [Launch] 新版 Game 参数获取成功
+[10:06:45.945] [Minecraft] 获取支持库列表：Chroma Sky 2
+[10:06:45.953] [Launch] Minecraft 启动参数：
+[10:06:45.954] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\Chroma Sky 2-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.34\forge-1.16.5-36.2.34.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\Chroma Sky 2.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx10240m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher --username sedam --version "Chroma Sky 2" --gameDir "C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2" --assetsDir "C:\Users\Administrator\Desktop\.minecraft\assets" --assetIndex 1.16 --uuid f5f4770761bb4b7783b8a79b959e1327 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXjowIU --userType msa --versionType PCL --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.34 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[10:06:45.954] [Loader] 加载器 获取启动参数 状态改变：Finished
+[10:06:45.955] [Loader] 加载器 解压文件 状态改变：Loading
+[10:06:45.956] [Launch] 正在解压 Natives 文件
+[10:06:45.957] [Loader] 加载器 解压文件 状态改变：Finished
+[10:06:45.981] [Loader] 加载器 预启动处理 状态改变：Loading
+[10:06:45.982] [Launch] 已更新 launcher_profiles.json
+[10:06:45.982] [Launch] 并非首次启动，不修改语言
+[10:06:45.982] [Loader] 加载器 预启动处理 状态改变：Finished
+[10:06:45.990] [Download] 1.16.json：已完成，剩余文件 0
+[10:06:45.990] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[10:06:45.991] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[10:06:45.991] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.16.json
+[10:06:45.991] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[10:06:45.992] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[10:06:46.008] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[10:06:46.011] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[10:06:46.041] [Loader] 加载器 启动进程 状态改变：Loading
+[10:06:46.046] [Launch] 已启动游戏进程：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\javaw.exe
+[10:06:46.046] [Loader] 加载器 启动进程 状态改变：Finished
+[10:06:46.070] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[10:06:46.070] [Launch] 
+[10:06:46.070] [Launch] ~ 基础参数 ~
+[10:06:46.070] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[10:06:46.070] [Launch] 游戏版本：1.16.5, Forge 36.2.34（16.5）
+[10:06:46.070] [Launch] 资源版本：1.16
+[10:06:46.070] [Launch] 版本继承：无
+[10:06:46.071] [Launch] 分配的内存：10 GB（10240 MB）
+[10:06:46.071] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\.minecraft\
+[10:06:46.071] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\
+[10:06:46.071] [Launch] 版本隔离：True
+[10:06:46.071] [Launch] HMCL 格式：False
+[10:06:46.071] [Launch] Java 信息：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:06:46.071] [Launch] 环境变量：未设置
+[10:06:46.071] [Launch] 
+[10:06:46.071] [Launch] ~ 登录参数 ~
+[10:06:46.071] [Launch] 玩家用户名：sedam
+[10:06:46.071] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXjowIU
+[10:06:46.071] [Launch] ClientToken：f5f4770761bb4b7783b8a79b959e1327
+[10:06:46.071] [Launch] UUID：f5f4770761bb4b7783b8a79b959e1327
+[10:06:46.071] [Launch] 登录方式：Microsoft
+[10:06:46.071] [Launch] 
+[10:06:46.071] [Launch] [5688] 开始 Minecraft 日志监控
+[10:06:46.071] [Launch] [全局] 出现运行中的 Minecraft
+[10:06:46.297] [Launch] [5688] 日志 1/5：已出现日志输出
+[10:06:47.722] [Launch] [5688] FML 窗口已加载：FML early loading progress（1049542）
+[10:06:48.196] [Launch] [5688] Minecraft 加载已完成
+[10:06:48.289] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[10:06:48.289] [Loader] 加载器 结束处理 状态改变：Loading
+[10:06:48.290] [Launch] 开始启动结束处理
+[10:06:48.290] [Launch] 启动器可见性：5
+[10:06:48.290] [Loader] 加载器 结束处理 状态改变：Finished
+[10:06:48.322] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[10:06:48.447] [Loader] 加载器 Loader Launch 状态改变：Finished
+[10:06:48.448] [UI] 弹出提示：Chroma Sky 2 启动成功！
+[10:06:52.223] [Launch] [5688] Minecraft 已退出，返回值：1
+[10:06:52.223] [Launch] [5688] Minecraft 返回值异常，可能已崩溃
+[10:06:52.223] [Launch] [全局] 已无运行中的 Minecraft
+[10:06:52.223] [Launch] [5688] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[10:06:52.254] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[10:06:52.458] [Launch] [5688] Minecraft 日志监控已退出
+[10:06:54.231] [Launch] [5688] 崩溃分析开始
+[10:06:54.231] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\56889538898\
+[10:06:54.232] [Crash] 步骤 1：收集日志文件
+[10:06:54.232] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log（0 分钟）
+[10:06:54.232] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\debug.log（0 分钟）
+[10:06:54.246] [Crash] 以下为游戏输出的最后一段内容：
+WARNING: Unknown module: cpw.mods.bootstraplauncher specified to --add-exports
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-05 10:06:46,782 main WARN Advanced terminal features are not available in this environment
+[10:06:46] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, sedam, --version, Chroma Sky 2, --gameDir, C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2, --assetsDir, C:\Users\Administrator\Desktop\.minecraft\assets, --assetIndex, 1.16, --uuid, f5f4770761bb4b7783b8a79b959e1327, --accessToken, ????????, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.34, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[10:06:46] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 17.0.3 by Microsoft
+[10:06:47] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[10:06:47] [main/INFO] [MixinBootstrap Launch/]: MixinBootstrap v1.1.0
+[10:06:47] [main/INFO] [MixinBootstrap Launch/]: Mixin v0.8.4
+[10:06:47] [main/INFO] [MixinBootstrap Launch/]: ModLauncher v8.1.3+8.1.3+main-8.1.x.c94d18ec (7.0)
+[10:06:47] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Administrator/Desktop/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[2023-05-05 10:06:48] [INFO]: I18nUpdate Mod 3.4.2 is loaded in 1.16.5 with Forge
+[10:06:50] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[10:06:50] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: java.lang.reflect.InvocationTargetException
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: Caused by: java.lang.ExceptionInInitializerError
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compile(Context.java:1509)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:1449)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:759)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:528)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:517)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.evalImpl(NashornScriptEngine.java:395)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.eval(NashornScriptEngine.java:146)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.scripting/javax.script.AbstractScriptEngine.eval(AbstractScriptEngine.java:247)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreMod.initialize(CoreMod.java:40)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModEngine.initialize(CoreModEngine.java:75)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModEngine.initializeCoreMods(CoreModEngine.java:69)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModProvider.getCoreModTransformers(CoreModProvider.java:17)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.transformers(FMLServiceProvider.java:156)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.gatherTransformers(TransformationServiceDecorator.java:74)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseServiceTransformers$6(TransformationServicesHandler.java:101)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1065)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initialiseServiceTransformers(TransformationServicesHandler.java:101)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:64)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	... 6 more
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: Caused by: java.lang.RuntimeException: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:335)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:318)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.getDefineAnonymousClass(Context.java:327)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.<clinit>(Context.java:317)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	... 27 more
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: Caused by: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MemberName.makeAccessException(MemberName.java:976)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1117)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3649)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.findVirtual(MethodHandles.java:2680)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:329)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	... 30 more
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: Caused by: java.lang.NoSuchMethodError: 'java.lang.Class sun.misc.Unsafe.defineAnonymousClass(java.lang.Class, byte[], java.lang.Object[])'
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MethodHandleNatives.resolve(Native Method)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MemberName$Factory.resolve(MemberName.java:1085)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1114)
+[10:06:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	... 33 more
+Exception in thread "main" 
+[10:06:54.247] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[10:06:54.247] [Crash] 步骤 2：准备日志文本
+[10:06:54.247] [Crash] latest.log 分类为 MinecraftLog
+[10:06:54.247] [Crash] debug.log 分类为 MinecraftLog
+[10:06:54.247] [Crash] RawOutput.log 分类为 MinecraftLog
+[10:06:54.247] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log，作为 Minecraft 或启动器日志
+[10:06:54.247] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\debug.log，作为 Minecraft 或启动器日志
+[10:06:54.247] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\56889538898\RawOutput.log，作为 Minecraft 或启动器日志
+[10:06:54.247] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\56889538898\RawOutput.log，作为启动器日志
+[10:06:54.247] [Crash] 导入分析：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log，作为 Minecraft 日志
+[10:06:54.247] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[10:06:54.247] [Crash] 步骤 3：分析崩溃原因
+[10:06:54.247] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[10:06:54.247] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[10:06:54.268] [System] 窗口已置顶，位置：(378.4, 84.8), 810.4 x 470.4
+[10:06:54.271] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[10:06:56.002] [Control] 按下按钮：查看日志
+[10:06:56.002] [System] 执行外部命令：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log 
+[10:06:58.206] [Control] 按下按钮：导出错误报告
+[10:06:58.206] [Control] 普通弹框返回：3
+[10:06:58.523] [Animation] 两个动画帧间隔 203 ms
+[10:07:00.624] [UI] 选择文件返回：
+[10:07:05.506] [Control] 按下按钮：启动游戏
+[10:07:05.506] [Loader] 加载器 Loader Launch 状态改变：Loading
+[10:07:05.507] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\PCL\hints.txt
+[10:07:05.511] [Launch] 预检测已通过
+[10:07:05.511] [Download] 开始后台更新资源文件索引
+[10:07:05.511] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[10:07:05.511] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[10:07:05.511] [Loader] 加载器 登录 状态改变：Waiting
+[10:07:05.511] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[10:07:05.511] [Loader] 加载器 获取 Java 状态改变：Loading
+[10:07:05.511] [Download] 版本 Chroma Sky 2 对应的资源文件索引为 1.16
+[10:07:05.512] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[10:07:05.512] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[10:07:05.512] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[10:07:05.512] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\
+[10:07:05.512] [Loader] 加载器 登录 状态改变：Loading
+[10:07:05.512] [Loader] 加载器 补全文件 状态改变：Loading
+[10:07:05.512] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[10:07:05.512] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[10:07:05.512] [Launch] 登录加载已开始
+[10:07:05.512] [Launch] 登录加载已结束
+[10:07:05.512] [Loader] 加载器 登录 状态改变：Finished
+[10:07:05.513] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[10:07:05.513] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[10:07:05.513] [Download] 版本 Chroma Sky 2 对应的资源文件索引为 1.16
+[10:07:05.514] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\
+[10:07:05.519] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\
+[10:07:05.524] [Java] 选定的 Java：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:07:05.524] [Launch] 选择的 Java：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:07:05.524] [Loader] 加载器 获取 Java 状态改变：Finished
+[10:07:05.531] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[10:07:05.532] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[10:07:05.532] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[10:07:05.532] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[10:07:05.562] [Minecraft] 获取支持库列表：Chroma Sky 2
+[10:07:05.595] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[10:07:05.595] [Loader] 加载器 下载资源文件 状态改变：Loading
+[10:07:05.595] [Loader] 加载器 下载资源文件 状态改变：Finished
+[10:07:05.595] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[10:07:05.629] [Download] 1.16.json 2504#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[10:07:05.649] [Download] 1.16.json：文件大小 295229 B（288 K）
+[10:07:05.691] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[10:07:05.691] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[10:07:05.691] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[10:07:05.691] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[10:07:05.691] [Loader] 加载器 补全文件 状态改变：Finished
+[10:07:05.691] [Loader] 加载器 获取启动参数 状态改变：Loading
+[10:07:05.692] [Launch] 开始获取 Minecraft 启动参数
+[10:07:05.692] [Launch] 获取新版 JVM 参数
+[10:07:05.693] [Launch] 当前剩余内存：12.9G
+[10:07:05.694] [System] 获取资源：JavaWrapper
+[10:07:05.694] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[10:07:05.694] [Launch] 新版 JVM 参数获取成功：
+[10:07:05.694] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx10137m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher
+[10:07:05.694] [Launch] 获取新版 Game 参数
+[10:07:05.694] [Launch] 新版 Game 参数获取成功
+[10:07:05.694] [Minecraft] 获取支持库列表：Chroma Sky 2
+[10:07:05.710] [Launch] Minecraft 启动参数：
+[10:07:05.713] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\Chroma Sky 2-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.34\forge-1.16.5-36.2.34.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\Chroma Sky 2.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx10137m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher --username sedam --version "Chroma Sky 2" --gameDir "C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2" --assetsDir "C:\Users\Administrator\Desktop\.minecraft\assets" --assetIndex 1.16 --uuid f5f4770761bb4b7783b8a79b959e1327 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXjowIU --userType msa --versionType PCL --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.34 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[10:07:05.713] [Loader] 加载器 获取启动参数 状态改变：Finished
+[10:07:05.715] [Loader] 加载器 解压文件 状态改变：Loading
+[10:07:05.716] [Launch] 正在解压 Natives 文件
+[10:07:05.718] [Loader] 加载器 解压文件 状态改变：Finished
+[10:07:05.732] [Download] 1.16.json：已完成，剩余文件 0
+[10:07:05.732] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[10:07:05.732] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[10:07:05.733] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.16.json
+[10:07:05.733] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[10:07:05.733] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[10:07:05.765] [Loader] 加载器 预启动处理 状态改变：Loading
+[10:07:05.766] [Launch] 已更新 launcher_profiles.json
+[10:07:05.766] [Launch] 并非首次启动，不修改语言
+[10:07:05.766] [Loader] 加载器 预启动处理 状态改变：Finished
+[10:07:05.794] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[10:07:05.797] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[10:07:05.797] [Loader] 加载器 启动进程 状态改变：Loading
+[10:07:05.802] [Launch] 已启动游戏进程：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\javaw.exe
+[10:07:05.803] [Loader] 加载器 启动进程 状态改变：Finished
+[10:07:05.803] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[10:07:05.806] [Launch] 
+[10:07:05.806] [Launch] ~ 基础参数 ~
+[10:07:05.806] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[10:07:05.806] [Launch] 游戏版本：1.16.5, Forge 36.2.34（16.5）
+[10:07:05.806] [Launch] 资源版本：1.16
+[10:07:05.806] [Launch] 版本继承：无
+[10:07:05.807] [Launch] 分配的内存：9.9 GB（10138 MB）
+[10:07:05.807] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\.minecraft\
+[10:07:05.807] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\
+[10:07:05.807] [Launch] 版本隔离：True
+[10:07:05.807] [Launch] HMCL 格式：False
+[10:07:05.807] [Launch] Java 信息：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:07:05.807] [Launch] 环境变量：未设置
+[10:07:05.807] [Launch] 
+[10:07:05.807] [Launch] ~ 登录参数 ~
+[10:07:05.807] [Launch] 玩家用户名：sedam
+[10:07:05.807] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXjowIU
+[10:07:05.807] [Launch] ClientToken：f5f4770761bb4b7783b8a79b959e1327
+[10:07:05.807] [Launch] UUID：f5f4770761bb4b7783b8a79b959e1327
+[10:07:05.807] [Launch] 登录方式：Microsoft
+[10:07:05.807] [Launch] 
+[10:07:05.807] [Launch] [6480] 开始 Minecraft 日志监控
+[10:07:05.807] [Launch] [全局] 出现运行中的 Minecraft
+[10:07:06.035] [Launch] [6480] 日志 1/5：已出现日志输出
+[10:07:07.461] [Launch] [6480] FML 窗口已加载：FML early loading progress（132404）
+[10:07:07.930] [Launch] [6480] Minecraft 加载已完成
+[10:07:08.006] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[10:07:08.006] [Loader] 加载器 结束处理 状态改变：Loading
+[10:07:08.007] [Launch] 开始启动结束处理
+[10:07:08.007] [Launch] 启动器可见性：5
+[10:07:08.007] [Loader] 加载器 结束处理 状态改变：Finished
+[10:07:08.042] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[10:07:08.258] [Loader] 加载器 Loader Launch 状态改变：Finished
+[10:07:08.304] [UI] 弹出提示：Chroma Sky 2 启动成功！
+[10:07:11.933] [Launch] [6480] Minecraft 已退出，返回值：1
+[10:07:11.933] [Launch] [6480] Minecraft 返回值异常，可能已崩溃
+[10:07:11.933] [Launch] [全局] 已无运行中的 Minecraft
+[10:07:11.933] [Launch] [6480] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[10:07:11.965] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[10:07:12.168] [Launch] [6480] Minecraft 日志监控已退出
+[10:07:13.948] [Launch] [6480] 崩溃分析开始
+[10:07:13.949] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\648052699103\
+[10:07:13.949] [Crash] 步骤 1：收集日志文件
+[10:07:13.949] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log（0 分钟）
+[10:07:13.949] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\debug.log（0 分钟）
+[10:07:13.962] [Crash] 以下为游戏输出的最后一段内容：
+WARNING: Unknown module: cpw.mods.bootstraplauncher specified to --add-exports
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-05 10:07:06,523 main WARN Advanced terminal features are not available in this environment
+[10:07:06] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, sedam, --version, Chroma Sky 2, --gameDir, C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2, --assetsDir, C:\Users\Administrator\Desktop\.minecraft\assets, --assetIndex, 1.16, --uuid, f5f4770761bb4b7783b8a79b959e1327, --accessToken, ????????, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.34, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[10:07:06] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 17.0.3 by Microsoft
+[10:07:07] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[10:07:07] [main/INFO] [MixinBootstrap Launch/]: MixinBootstrap v1.1.0
+[10:07:07] [main/INFO] [MixinBootstrap Launch/]: Mixin v0.8.4
+[10:07:07] [main/INFO] [MixinBootstrap Launch/]: ModLauncher v8.1.3+8.1.3+main-8.1.x.c94d18ec (7.0)
+[10:07:07] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Administrator/Desktop/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[2023-05-05 10:07:07] [INFO]: I18nUpdate Mod 3.4.2 is loaded in 1.16.5 with Forge
+[10:07:10] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[10:07:10] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: java.lang.reflect.InvocationTargetException
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: Caused by: java.lang.ExceptionInInitializerError
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compile(Context.java:1509)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:1449)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:759)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:528)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:517)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.evalImpl(NashornScriptEngine.java:395)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.eval(NashornScriptEngine.java:146)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.scripting/javax.script.AbstractScriptEngine.eval(AbstractScriptEngine.java:247)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreMod.initialize(CoreMod.java:40)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModEngine.initialize(CoreModEngine.java:75)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModEngine.initializeCoreMods(CoreModEngine.java:69)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModProvider.getCoreModTransformers(CoreModProvider.java:17)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.transformers(FMLServiceProvider.java:156)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.gatherTransformers(TransformationServiceDecorator.java:74)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseServiceTransformers$6(TransformationServicesHandler.java:101)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1065)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initialiseServiceTransformers(TransformationServicesHandler.java:101)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:64)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	... 6 more
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: Caused by: java.lang.RuntimeException: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:335)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:318)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.getDefineAnonymousClass(Context.java:327)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.<clinit>(Context.java:317)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	... 27 more
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: Caused by: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MemberName.makeAccessException(MemberName.java:976)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1117)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3649)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.findVirtual(MethodHandles.java:2680)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:329)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	... 30 more
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: Caused by: java.lang.NoSuchMethodError: 'java.lang.Class sun.misc.Unsafe.defineAnonymousClass(java.lang.Class, byte[], java.lang.Object[])'
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MethodHandleNatives.resolve(Native Method)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MemberName$Factory.resolve(MemberName.java:1085)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1114)
+[10:07:11] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	... 33 more
+Exception in thread "main" 
+[10:07:13.963] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[10:07:13.963] [Crash] 步骤 2：准备日志文本
+[10:07:13.963] [Crash] latest.log 分类为 MinecraftLog
+[10:07:13.963] [Crash] debug.log 分类为 MinecraftLog
+[10:07:13.963] [Crash] RawOutput.log 分类为 MinecraftLog
+[10:07:13.963] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log，作为 Minecraft 或启动器日志
+[10:07:13.963] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\debug.log，作为 Minecraft 或启动器日志
+[10:07:13.963] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\648052699103\RawOutput.log，作为 Minecraft 或启动器日志
+[10:07:13.963] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\648052699103\RawOutput.log，作为启动器日志
+[10:07:13.963] [Crash] 导入分析：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log，作为 Minecraft 日志
+[10:07:13.963] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[10:07:13.963] [Crash] 步骤 3：分析崩溃原因
+[10:07:13.965] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[10:07:13.965] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[10:07:13.989] [System] 窗口已置顶，位置：(713.6, 0), 810.4 x 470.4
+[10:07:13.992] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[10:07:20.422] [Control] 按下按钮：导出错误报告
+[10:07:20.423] [Control] 普通弹框返回：3
+[10:08:06.503] [UI] 选择文件返回：
+[10:08:07.770] [Control] 按下按钮：启动游戏
+[10:08:07.770] [Loader] 加载器 Loader Launch 状态改变：Loading
+[10:08:07.771] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\PCL\hints.txt
+[10:08:07.775] [Launch] 预检测已通过
+[10:08:07.775] [Download] 开始后台更新资源文件索引
+[10:08:07.775] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[10:08:07.775] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[10:08:07.775] [Loader] 加载器 登录 状态改变：Waiting
+[10:08:07.775] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[10:08:07.775] [Loader] 加载器 获取 Java 状态改变：Loading
+[10:08:07.775] [Download] 版本 Chroma Sky 2 对应的资源文件索引为 1.16
+[10:08:07.776] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[10:08:07.776] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[10:08:07.776] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\
+[10:08:07.776] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[10:08:07.776] [Loader] 加载器 登录 状态改变：Loading
+[10:08:07.776] [Loader] 加载器 补全文件 状态改变：Loading
+[10:08:07.776] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[10:08:07.776] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[10:08:07.776] [Launch] 登录加载已开始
+[10:08:07.776] [Launch] 登录加载已结束
+[10:08:07.776] [Loader] 加载器 登录 状态改变：Finished
+[10:08:07.776] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[10:08:07.776] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[10:08:07.776] [Download] 版本 Chroma Sky 2 对应的资源文件索引为 1.16
+[10:08:07.777] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\
+[10:08:07.782] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\
+[10:08:07.787] [Java] 选定的 Java：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:08:07.787] [Launch] 选择的 Java：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:08:07.787] [Loader] 加载器 获取 Java 状态改变：Finished
+[10:08:07.793] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[10:08:07.795] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[10:08:07.796] [Download] 1.16.json 2603#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[10:08:07.796] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[10:08:07.796] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[10:08:07.826] [Minecraft] 获取支持库列表：Chroma Sky 2
+[10:08:07.854] [Download] 1.16.json：文件大小 295229 B（288 K）
+[10:08:07.858] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[10:08:07.859] [Loader] 加载器 下载资源文件 状态改变：Loading
+[10:08:07.859] [Loader] 加载器 下载资源文件 状态改变：Finished
+[10:08:07.859] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[10:08:07.934] [Download] 1.16.json：已完成，剩余文件 0
+[10:08:07.935] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[10:08:07.935] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[10:08:07.936] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.16.json
+[10:08:07.936] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[10:08:07.936] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[10:08:07.969] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[10:08:07.969] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[10:08:07.969] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[10:08:07.969] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[10:08:07.969] [Loader] 加载器 补全文件 状态改变：Finished
+[10:08:07.970] [Loader] 加载器 获取启动参数 状态改变：Loading
+[10:08:07.970] [Launch] 开始获取 Minecraft 启动参数
+[10:08:07.970] [Launch] 获取新版 JVM 参数
+[10:08:07.971] [Launch] 当前剩余内存：12.9G
+[10:08:07.971] [System] 获取资源：JavaWrapper
+[10:08:07.972] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[10:08:07.972] [Launch] 新版 JVM 参数获取成功：
+[10:08:07.972] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx10137m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher
+[10:08:07.972] [Launch] 获取新版 Game 参数
+[10:08:07.972] [Launch] 新版 Game 参数获取成功
+[10:08:07.972] [Minecraft] 获取支持库列表：Chroma Sky 2
+[10:08:07.980] [Launch] Minecraft 启动参数：
+[10:08:07.982] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\Chroma Sky 2-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.34\forge-1.16.5-36.2.34.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\Chroma Sky 2.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx10137m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher --username sedam --version "Chroma Sky 2" --gameDir "C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2" --assetsDir "C:\Users\Administrator\Desktop\.minecraft\assets" --assetIndex 1.16 --uuid f5f4770761bb4b7783b8a79b959e1327 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXjowIU --userType msa --versionType PCL --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.34 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[10:08:07.982] [Loader] 加载器 获取启动参数 状态改变：Finished
+[10:08:07.984] [Loader] 加载器 解压文件 状态改变：Loading
+[10:08:07.984] [Launch] 正在解压 Natives 文件
+[10:08:07.986] [Loader] 加载器 解压文件 状态改变：Finished
+[10:08:08.021] [Loader] 加载器 预启动处理 状态改变：Loading
+[10:08:08.022] [Launch] 已更新 launcher_profiles.json
+[10:08:08.022] [Launch] 并非首次启动，不修改语言
+[10:08:08.022] [Loader] 加载器 预启动处理 状态改变：Finished
+[10:08:08.044] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[10:08:08.047] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[10:08:08.068] [Loader] 加载器 启动进程 状态改变：Loading
+[10:08:08.074] [Launch] 已启动游戏进程：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\javaw.exe
+[10:08:08.074] [Loader] 加载器 启动进程 状态改变：Finished
+[10:08:08.098] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[10:08:08.098] [Launch] 
+[10:08:08.098] [Launch] ~ 基础参数 ~
+[10:08:08.098] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[10:08:08.098] [Launch] 游戏版本：1.16.5, Forge 36.2.34（16.5）
+[10:08:08.098] [Launch] 资源版本：1.16
+[10:08:08.098] [Launch] 版本继承：无
+[10:08:08.099] [Launch] 分配的内存：9.9 GB（10138 MB）
+[10:08:08.099] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\.minecraft\
+[10:08:08.099] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\
+[10:08:08.099] [Launch] 版本隔离：True
+[10:08:08.099] [Launch] HMCL 格式：False
+[10:08:08.099] [Launch] Java 信息：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\bin\
+[10:08:08.099] [Launch] 环境变量：未设置
+[10:08:08.099] [Launch] 
+[10:08:08.099] [Launch] ~ 登录参数 ~
+[10:08:08.099] [Launch] 玩家用户名：sedam
+[10:08:08.099] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXjowIU
+[10:08:08.099] [Launch] ClientToken：f5f4770761bb4b7783b8a79b959e1327
+[10:08:08.099] [Launch] UUID：f5f4770761bb4b7783b8a79b959e1327
+[10:08:08.099] [Launch] 登录方式：Microsoft
+[10:08:08.099] [Launch] 
+[10:08:08.099] [Launch] [5740] 开始 Minecraft 日志监控
+[10:08:08.099] [Launch] [全局] 出现运行中的 Minecraft
+[10:08:08.335] [Launch] [5740] 日志 1/5：已出现日志输出
+[10:08:09.763] [Launch] [5740] FML 窗口已加载：FML early loading progress（852746）
+[10:08:10.002] [Launch] [5740] Minecraft 加载已完成
+[10:08:10.093] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[10:08:10.094] [Loader] 加载器 结束处理 状态改变：Loading
+[10:08:10.094] [Launch] 开始启动结束处理
+[10:08:10.094] [Launch] 启动器可见性：5
+[10:08:10.095] [Loader] 加载器 结束处理 状态改变：Finished
+[10:08:10.126] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[10:08:10.285] [Loader] 加载器 Loader Launch 状态改变：Finished
+[10:08:10.348] [UI] 弹出提示：Chroma Sky 2 启动成功！
+[10:08:10.364] [Report] FPS 0, 动画 11, 下载中 0（0 B/s）
+[10:08:14.270] [Launch] [5740] Minecraft 已退出，返回值：1
+[10:08:14.270] [Launch] [5740] Minecraft 返回值异常，可能已崩溃
+[10:08:14.270] [Launch] [全局] 已无运行中的 Minecraft
+[10:08:14.270] [Launch] [5740] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[10:08:14.333] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[10:08:14.504] [Launch] [5740] Minecraft 日志监控已退出
+[10:08:16.286] [Launch] [5740] 崩溃分析开始
+[10:08:16.286] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\574057535389\
+[10:08:16.287] [Crash] 步骤 1：收集日志文件
+[10:08:16.287] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log（0 分钟）
+[10:08:16.287] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\debug.log（0 分钟）
+[10:08:16.299] [Crash] 以下为游戏输出的最后一段内容：
+WARNING: Unknown module: cpw.mods.bootstraplauncher specified to --add-exports
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-05 10:08:08,776 main WARN Advanced terminal features are not available in this environment
+[10:08:08] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, sedam, --version, Chroma Sky 2, --gameDir, C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2, --assetsDir, C:\Users\Administrator\Desktop\.minecraft\assets, --assetIndex, 1.16, --uuid, f5f4770761bb4b7783b8a79b959e1327, --accessToken, ????????, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.34, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[10:08:08] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 17.0.3 by Microsoft
+[10:08:09] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[10:08:09] [main/INFO] [MixinBootstrap Launch/]: MixinBootstrap v1.1.0
+[10:08:09] [main/INFO] [MixinBootstrap Launch/]: Mixin v0.8.4
+[10:08:09] [main/INFO] [MixinBootstrap Launch/]: ModLauncher v8.1.3+8.1.3+main-8.1.x.c94d18ec (7.0)
+[10:08:09] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Administrator/Desktop/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[2023-05-05 10:08:09] [INFO]: I18nUpdate Mod 3.4.2 is loaded in 1.16.5 with Forge
+[10:08:12] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[10:08:12] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: java.lang.reflect.InvocationTargetException
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: Caused by: java.lang.ExceptionInInitializerError
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compile(Context.java:1509)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:1449)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:759)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:528)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:517)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.evalImpl(NashornScriptEngine.java:395)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.eval(NashornScriptEngine.java:146)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.scripting/javax.script.AbstractScriptEngine.eval(AbstractScriptEngine.java:247)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreMod.initialize(CoreMod.java:40)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModEngine.initialize(CoreModEngine.java:75)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModEngine.initializeCoreMods(CoreModEngine.java:69)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModProvider.getCoreModTransformers(CoreModProvider.java:17)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.transformers(FMLServiceProvider.java:156)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.gatherTransformers(TransformationServiceDecorator.java:74)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseServiceTransformers$6(TransformationServicesHandler.java:101)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1065)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initialiseServiceTransformers(TransformationServicesHandler.java:101)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:64)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	... 6 more
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: Caused by: java.lang.RuntimeException: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:335)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:318)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.getDefineAnonymousClass(Context.java:327)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.<clinit>(Context.java:317)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	... 27 more
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: Caused by: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MemberName.makeAccessException(MemberName.java:976)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1117)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3649)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.findVirtual(MethodHandles.java:2680)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:329)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	... 30 more
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: Caused by: java.lang.NoSuchMethodError: 'java.lang.Class sun.misc.Unsafe.defineAnonymousClass(java.lang.Class, byte[], java.lang.Object[])'
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MethodHandleNatives.resolve(Native Method)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MemberName$Factory.resolve(MemberName.java:1085)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1114)
+[10:08:13] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	... 33 more
+Exception in thread "main" 
+[10:08:16.300] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[10:08:16.300] [Crash] 步骤 2：准备日志文本
+[10:08:16.300] [Crash] latest.log 分类为 MinecraftLog
+[10:08:16.300] [Crash] debug.log 分类为 MinecraftLog
+[10:08:16.300] [Crash] RawOutput.log 分类为 MinecraftLog
+[10:08:16.300] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log，作为 Minecraft 或启动器日志
+[10:08:16.300] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\debug.log，作为 Minecraft 或启动器日志
+[10:08:16.300] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\574057535389\RawOutput.log，作为 Minecraft 或启动器日志
+[10:08:16.300] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\574057535389\RawOutput.log，作为启动器日志
+[10:08:16.300] [Crash] 导入分析：C:\Users\Administrator\Desktop\.minecraft\versions\Chroma Sky 2\logs\latest.log，作为 Minecraft 日志
+[10:08:16.300] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[10:08:16.300] [Crash] 步骤 3：分析崩溃原因
+[10:08:16.301] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[10:08:16.301] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[10:08:16.323] [System] 窗口已置顶，位置：(414.4, 22.4), 810.4 x 470.4
+[10:08:16.326] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[10:08:17.421] [Control] 按下按钮：导出错误报告
+[10:08:17.421] [Control] 普通弹框返回：3
+[10:08:18.667] [UI] 选择文件返回：C:\Users\Administrator\Desktop\.minecraft\versions\1.19.3-Forge_44.1.23-OptiFine_I2_pre4哈哈\mods\错误报告-2023-5-5-周五_10.08.17.zip
+[10:08:18.713] [System] 诊断信息：
+操作系统：Microsoft Windows 10 家庭中文版
+剩余内存：13268 M / 16253 M
+DPI：120（125%）
+MC 文件夹：C:\Users\Administrator\Desktop\.minecraft\
+文件位置：C:\Users\Administrator\Desktop\

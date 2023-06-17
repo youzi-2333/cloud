@@ -1,0 +1,500 @@
+Same: notch/net/optifine/reflect/ReflectorMethod.class
+Same: notch/net/optifine/reflect/ReflectorRaw.class
+Same: notch/net/optifine/reflect/ReflectorResolver.class
+Same: notch/net/optifine/render/AabbFrame.class
+Same: notch/net/optifine/render/Blender.class
+Same: notch/net/optifine/render/BoxVertexPositions.class
+Same: notch/net/optifine/render/ChunkLayerMap.class
+Same: notch/net/optifine/render/ChunkLayerSet.class
+Same: notch/net/optifine/render/ChunkVisibility.class
+Same: notch/net/optifine/render/GLConst.class
+Same: notch/net/optifine/render/GlAlphaState.class
+Same: notch/net/optifine/render/GlBlendState.class
+Same: notch/net/optifine/render/GlCullState.class
+Same: notch/net/optifine/render/ICamera.class
+Same: notch/net/optifine/render/LightCacheOF.class
+Same: notch/net/optifine/render/MultiTextureBuilder.class
+Same: notch/net/optifine/render/MultiTextureData.class
+Same: notch/net/optifine/render/MultiTextureRenderer.class
+Same: notch/net/optifine/render/QuadVertexPositions.class
+Same: notch/net/optifine/render/RenderEnv.class
+Same: notch/net/optifine/render/RenderStateManager.class
+Same: notch/net/optifine/render/RenderTypes.class
+Same: notch/net/optifine/render/RenderUtils.class
+Same: notch/net/optifine/render/SpriteRenderData.class
+Same: notch/net/optifine/render/TestMath.class
+Same: notch/net/optifine/render/VboRange.class
+Same: notch/net/optifine/render/VboRegion.class
+Same: notch/net/optifine/render/VertexBuilderDummy.class
+Same: notch/net/optifine/render/VertexBuilderWrapper.class
+Same: notch/net/optifine/render/VertexPosition.class
+Same: notch/net/optifine/shaders/BlockAlias.class
+Same: notch/net/optifine/shaders/BlockAliases.class
+Same: notch/net/optifine/shaders/ClippingHelperDummy.class
+Same: notch/net/optifine/shaders/ClippingHelperShadow.class
+Same: notch/net/optifine/shaders/ComputeProgram.class
+Same: notch/net/optifine/shaders/CustomTexture.class
+Same: notch/net/optifine/shaders/CustomTextureLocation.class
+Same: notch/net/optifine/shaders/CustomTextureRaw$1.class
+Same: notch/net/optifine/shaders/CustomTextureRaw.class
+Same: notch/net/optifine/shaders/DefaultShaders.class
+Same: notch/net/optifine/shaders/DrawBuffers.class
+Same: notch/net/optifine/shaders/EntityAliases.class
+Same: notch/net/optifine/shaders/FixedFramebuffer.class
+Same: notch/net/optifine/shaders/FlipTextures.class
+Same: notch/net/optifine/shaders/GlState.class
+Same: notch/net/optifine/shaders/HFNoiseTexture.class
+Same: notch/net/optifine/shaders/ICustomTexture.class
+Same: notch/net/optifine/shaders/IShaderPack.class
+Same: notch/net/optifine/shaders/ITextureFormat.class
+Same: notch/net/optifine/shaders/ItemAliases.class
+Same: notch/net/optifine/shaders/Iterator3d.class
+Same: notch/net/optifine/shaders/IteratorAxis.class
+Same: notch/net/optifine/shaders/IteratorRenderChunks.class
+Same: notch/net/optifine/shaders/MultiTexID.class
+Same: notch/net/optifine/shaders/Program.class
+Same: notch/net/optifine/shaders/ProgramStack.class
+Same: notch/net/optifine/shaders/ProgramStage.class
+Same: notch/net/optifine/shaders/ProgramUtils.class
+Same: notch/net/optifine/shaders/Programs.class
+Same: notch/net/optifine/shaders/RenderStage.class
+Same: notch/net/optifine/shaders/SMCLog.class
+Same: notch/net/optifine/shaders/SMath.class
+Same: notch/net/optifine/shaders/SVertexAttrib.class
+Same: notch/net/optifine/shaders/SVertexBuilder.class
+Same: notch/net/optifine/shaders/SVertexFormat.class
+Same: notch/net/optifine/shaders/ShaderPackDefault.class
+Same: notch/net/optifine/shaders/ShaderPackFolder.class
+Same: notch/net/optifine/shaders/ShaderPackNone.class
+Same: notch/net/optifine/shaders/ShaderPackZip.class
+Same: notch/net/optifine/shaders/ShaderProgramData.class
+Same: notch/net/optifine/shaders/ShaderUtils.class
+Same: notch/net/optifine/shaders/Shaders$1.class
+Same: notch/net/optifine/shaders/Shaders.class
+Same: notch/net/optifine/shaders/ShadersCompatibility$1.class
+Same: notch/net/optifine/shaders/ShadersCompatibility.class
+Same: notch/net/optifine/shaders/ShadersFramebuffer.class
+Same: notch/net/optifine/shaders/ShadersRender.class
+Same: notch/net/optifine/shaders/ShadersTex.class
+Same: notch/net/optifine/shaders/ShadersTextureType.class
+Same: notch/net/optifine/shaders/ShadowFrustum.class
+Same: notch/net/optifine/shaders/ShadowUtils.class
+Same: notch/net/optifine/shaders/SimpleShaderTexture.class
+Same: notch/net/optifine/shaders/TextureFormatLabPbr.class
+Same: notch/net/optifine/shaders/config/EnumShaderOption.class
+Same: notch/net/optifine/shaders/config/ExpressionShaderOptionSwitch.class
+Same: notch/net/optifine/shaders/config/HeaderLine.class
+Same: notch/net/optifine/shaders/config/HeaderLineFunction.class
+Same: notch/net/optifine/shaders/config/HeaderLineText.class
+Same: notch/net/optifine/shaders/config/HeaderLineUniform.class
+Same: notch/net/optifine/shaders/config/HeaderLineVariable.class
+Same: notch/net/optifine/shaders/config/MacroExpressionResolver.class
+Same: notch/net/optifine/shaders/config/MacroProcessor.class
+Same: notch/net/optifine/shaders/config/MacroState.class
+Same: notch/net/optifine/shaders/config/Property.class
+Same: notch/net/optifine/shaders/config/PropertyDefaultFastFancyOff.class
+Same: notch/net/optifine/shaders/config/PropertyDefaultTrueFalse.class
+Same: notch/net/optifine/shaders/config/RenderScale.class
+Same: notch/net/optifine/shaders/config/ScreenShaderOptions.class
+Same: notch/net/optifine/shaders/config/ShaderLine$Type.class
+Same: notch/net/optifine/shaders/config/ShaderLine.class
+Same: notch/net/optifine/shaders/config/ShaderMacro.class
+Same: notch/net/optifine/shaders/config/ShaderMacros$1.class
+Same: notch/net/optifine/shaders/config/ShaderMacros.class
+Same: notch/net/optifine/shaders/config/ShaderOption.class
+Same: notch/net/optifine/shaders/config/ShaderOptionProfile.class
+Same: notch/net/optifine/shaders/config/ShaderOptionResolver.class
+Same: notch/net/optifine/shaders/config/ShaderOptionRest.class
+Same: notch/net/optifine/shaders/config/ShaderOptionScreen.class
+Same: notch/net/optifine/shaders/config/ShaderOptionSwitch.class
+Same: notch/net/optifine/shaders/config/ShaderOptionSwitchConst.class
+Same: notch/net/optifine/shaders/config/ShaderOptionVariable.class
+Same: notch/net/optifine/shaders/config/ShaderOptionVariableConst.class
+Same: notch/net/optifine/shaders/config/ShaderPackParser$1.class
+Same: notch/net/optifine/shaders/config/ShaderPackParser.class
+Same: notch/net/optifine/shaders/config/ShaderParser.class
+Same: notch/net/optifine/shaders/config/ShaderProfile.class
+Same: notch/net/optifine/shaders/config/ShaderType.class
+Same: notch/net/optifine/shaders/gui/GuiButtonDownloadShaders.class
+Same: notch/net/optifine/shaders/gui/GuiButtonEnumShaderOption$1.class
+Same: notch/net/optifine/shaders/gui/GuiButtonEnumShaderOption.class
+Same: notch/net/optifine/shaders/gui/GuiButtonShaderOption.class
+Same: notch/net/optifine/shaders/gui/GuiShaderOptions.class
+Same: notch/net/optifine/shaders/gui/GuiShaders$1.class
+Same: notch/net/optifine/shaders/gui/GuiShaders.class
+Same: notch/net/optifine/shaders/gui/GuiSliderShaderOption.class
+Same: notch/net/optifine/shaders/gui/GuiSlotShaders.class
+Same: notch/net/optifine/shaders/uniform/CustomUniform.class
+Same: notch/net/optifine/shaders/uniform/CustomUniforms.class
+Same: notch/net/optifine/shaders/uniform/ShaderExpressionResolver.class
+Same: notch/net/optifine/shaders/uniform/ShaderParameterBool$1.class
+Same: notch/net/optifine/shaders/uniform/ShaderParameterBool.class
+Same: notch/net/optifine/shaders/uniform/ShaderParameterFloat$1.class
+Same: notch/net/optifine/shaders/uniform/ShaderParameterFloat.class
+Same: notch/net/optifine/shaders/uniform/ShaderParameterIndexed.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform1f.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform1i.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform2f.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform2i.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform3f.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform4f.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniform4i.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniformBase.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniformM3.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniformM4.class
+Same: notch/net/optifine/shaders/uniform/ShaderUniforms.class
+Same: notch/net/optifine/shaders/uniform/Smoother.class
+Same: notch/net/optifine/shaders/uniform/UniformType$1.class
+Same: notch/net/optifine/shaders/uniform/UniformType.class
+Same: notch/net/optifine/texture/BlenderLinear.class
+Same: notch/net/optifine/texture/BlenderSplit.class
+Same: notch/net/optifine/texture/ColorBlenderAlpha.class
+Same: notch/net/optifine/texture/ColorBlenderKeepAlpha.class
+Same: notch/net/optifine/texture/ColorBlenderLabPbrSpecular.class
+Same: notch/net/optifine/texture/ColorBlenderLinear.class
+Same: notch/net/optifine/texture/ColorBlenderSeparate.class
+Same: notch/net/optifine/texture/IBlender.class
+Same: notch/net/optifine/texture/IColorBlender.class
+Same: notch/net/optifine/texture/InternalFormat.class
+Same: notch/net/optifine/texture/PixelFormat.class
+Same: notch/net/optifine/texture/PixelType.class
+Same: notch/net/optifine/texture/SpriteSourceCollector.class
+Same: notch/net/optifine/texture/TextureType.class
+Same: notch/net/optifine/util/ArrayCache.class
+Same: notch/net/optifine/util/ArrayCaches.class
+Same: notch/net/optifine/util/ArrayUtils.class
+Same: notch/net/optifine/util/BiomeCategory.class
+Same: notch/net/optifine/util/BiomeUtils.class
+Same: notch/net/optifine/util/BlockUtils$1.class
+Same: notch/net/optifine/util/BlockUtils$RenderSideCacheKey.class
+Same: notch/net/optifine/util/BlockUtils.class
+Same: notch/net/optifine/util/BufferUtil$1.class
+Same: notch/net/optifine/util/BufferUtil.class
+Same: notch/net/optifine/util/CacheLocal.class
+Same: notch/net/optifine/util/CacheLocalByte.class
+Same: notch/net/optifine/util/CacheObjectArray.class
+Same: notch/net/optifine/util/ChunkUtils.class
+Same: notch/net/optifine/util/CollectionUtils.class
+Same: notch/net/optifine/util/ColorSamplerM.class
+Same: notch/net/optifine/util/CompactArrayList.class
+Same: notch/net/optifine/util/CompareUtils.class
+Same: notch/net/optifine/util/CompoundIntKey.class
+Same: notch/net/optifine/util/CompoundKey.class
+Same: notch/net/optifine/util/CounterInt.class
+Same: notch/net/optifine/util/DebugUtils.class
+Same: notch/net/optifine/util/DisplayModeComparator.class
+Same: notch/net/optifine/util/DynamicDimension.class
+Same: notch/net/optifine/util/Either.class
+Same: notch/net/optifine/util/EnchantmentUtils.class
+Same: notch/net/optifine/util/EntityTypeUtils.class
+Same: notch/net/optifine/util/EntityUtils.class
+Same: notch/net/optifine/util/ExecutorProxy.class
+Same: notch/net/optifine/util/FastArrayList.class
+Same: notch/net/optifine/util/FileUtils.class
+Same: notch/net/optifine/util/FlagEvent.class
+Same: notch/net/optifine/util/FontUtils$1.class
+Same: notch/net/optifine/util/FontUtils.class
+Same: notch/net/optifine/util/FrameEvent.class
+Same: notch/net/optifine/util/GuiPoint.class
+Same: notch/net/optifine/util/GuiRect.class
+Same: notch/net/optifine/util/GuiUtils.class
+Same: notch/net/optifine/util/IntArray.class
+Same: notch/net/optifine/util/IntExpiringCache$Wrapper.class
+Same: notch/net/optifine/util/IntExpiringCache.class
+Same: notch/net/optifine/util/IntegratedServerUtils.class
+Same: notch/net/optifine/util/ItemUtils.class
+Same: notch/net/optifine/util/IteratorCache$IteratorReadOnly.class
+Same: notch/net/optifine/util/IteratorCache$IteratorReusable.class
+Same: notch/net/optifine/util/IteratorCache.class
+Same: notch/net/optifine/util/Json.class
+Same: notch/net/optifine/util/KeyUtils.class
+Same: notch/net/optifine/util/LineBuffer$Itr.class
+Same: notch/net/optifine/util/LineBuffer.class
+Same: notch/net/optifine/util/LinkedList$1.class
+Same: notch/net/optifine/util/LinkedList$Node.class
+Same: notch/net/optifine/util/LinkedList.class
+Same: notch/net/optifine/util/LinkedListTest.class
+Same: notch/net/optifine/util/LockCounter.class
+Same: notch/net/optifine/util/MathUtils.class
+Same: notch/net/optifine/util/MathUtilsTest$1.class
+Same: notch/net/optifine/util/MathUtilsTest$OPER.class
+Same: notch/net/optifine/util/MathUtilsTest.class
+Same: notch/net/optifine/util/MemoryMonitor.class
+Same: notch/net/optifine/util/NativeMemory$1.class
+Same: notch/net/optifine/util/NativeMemory$2.class
+Same: notch/net/optifine/util/NativeMemory$3.class
+Same: notch/net/optifine/util/NativeMemory.class
+Same: notch/net/optifine/util/NumUtils.class
+Same: notch/net/optifine/util/PacketRunnable.class
+Same: notch/net/optifine/util/PairInt.class
+Same: notch/net/optifine/util/PotionUtils.class
+Same: notch/net/optifine/util/PropertiesOrdered.class
+Same: notch/net/optifine/util/RandomUtils.class
+Same: notch/net/optifine/util/RenderChunkUtils.class
+Same: notch/net/optifine/util/ResUtils.class
+Same: notch/net/optifine/util/SingleIterable.class
+Same: notch/net/optifine/util/SmoothFloat.class
+Same: notch/net/optifine/util/StaticMap.class
+Same: notch/net/optifine/util/StrUtils.class
+Same: notch/net/optifine/util/TextureUtils$1.class
+Same: notch/net/optifine/util/TextureUtils$2.class
+Same: notch/net/optifine/util/TextureUtils$3.class
+Same: notch/net/optifine/util/TextureUtils.class
+Same: notch/net/optifine/util/TickableTexture.class
+Same: notch/net/optifine/util/TileEntityUtils.class
+Same: notch/net/optifine/util/TimedEvent.class
+Same: notch/net/optifine/util/UnsafeUtils.class
+Same: notch/net/optifine/util/VideoModeComparator.class
+Same: notch/net/optifine/util/WorldUtils.class
+Mod: notch/o.class
+Mod: notch/vd.class
+Same: optifine/AccessFixer.class
+Same: optifine/Differ.class
+Same: optifine/HashUtils.class
+Same: optifine/IOptiFineResourceLocator.class
+Same: optifine/IResourceProvider.class
+Same: optifine/Installer.class
+Same: optifine/InstallerFrame$IvjEventHandler.class
+Same: optifine/InstallerFrame.class
+Same: optifine/LaunchUtils.class
+Same: optifine/OptiFineClassTransformer.class
+Same: optifine/OptiFineForgeTweaker.class
+Same: optifine/OptiFineJar.class
+Same: optifine/OptiFineResourceLocator.class
+Same: optifine/OptiFineTransformationService.class
+Same: optifine/OptiFineTransformer.class
+Same: optifine/OptiFineTweaker.class
+Same: optifine/Patcher.class
+Same: optifine/ProfileIcon.class
+Same: optifine/Utils$OS.class
+Same: optifine/Utils.class
+Same: optifine/ZipResourceProvider.class
+Same: optifine/json/ContainerFactory.class
+Same: optifine/json/ContentHandler.class
+Same: optifine/json/ItemList.class
+Same: optifine/json/JSONArray.class
+Same: optifine/json/JSONAware.class
+Same: optifine/json/JSONObject.class
+Same: optifine/json/JSONParser.class
+Same: optifine/json/JSONStreamAware.class
+Same: optifine/json/JSONValue.class
+Same: optifine/json/JSONWriter.class
+Same: optifine/json/ParseException.class
+Same: optifine/json/Yylex.class
+Same: optifine/json/Yytoken.class
+Same: optifine/xdelta/BitArray.class
+Same: optifine/xdelta/ByteArraySeekableSource.class
+Same: optifine/xdelta/Checksum.class
+Same: optifine/xdelta/DebugDiffWriter.class
+Same: optifine/xdelta/Delta.class
+Same: optifine/xdelta/DeltaException.class
+Same: optifine/xdelta/DiffWriter.class
+Same: optifine/xdelta/EratosthenesPrimes.class
+Same: optifine/xdelta/GDiffPatcher.class
+Same: optifine/xdelta/GDiffWriter.class
+Same: optifine/xdelta/PatchException.class
+Same: optifine/xdelta/RandomAccessFileSeekableSource.class
+Same: optifine/xdelta/SeekableSource.class
+Same: optifine/xdelta/SeekableSourceInputStream.class
+Same: optifine/xdelta/SimplePrime.class
+Same: optifine/xdelta/licence.txt
+Same: patch.cfg
+De-Volderfiying jar
+Fuzzing aic#lambda$chunkGenerate$27(Ldds;Ljava/util/concurrent/Executor;Laib;Lclp;Lcom/mojang/datafixers/util/Either;)Ljava/util/concurrent/CompletionStage; as a(Lclp;Laib;Ldds;Ljava/util/concurrent/Executor;Lcom/mojang/datafixers/util/Either;)Ljava/util/concurrent/CompletionStage;
+Fuzzing aic#lambda$chunkGenerate$25(Ldds;Ljava/util/concurrent/Executor;Laib;Lclp;Ljava/util/List;)Ljava/util/concurrent/CompletableFuture; as a(Lclp;Laib;Ldds;Ljava/util/concurrent/Executor;Ljava/util/List;)Ljava/util/concurrent/CompletableFuture;
+Fuzzing ems#lambda$saveScreenshotRaw$2(Legf;Ljava/io/File;Ljava/lang/Object;Ljava/util/function/Consumer;)V as a(Legf;Ljava/io/File;Ljava/util/function/Consumer;)V
+Fuzzing fkc#lambda$renderItem$1(Lcze;Lfkd;Lehe;Lfig;II)V as a(Lfkd;Lcze;Lehe;Lfig;II)V
+Fuzzing frk#lambda$renderParrot$1(Lbym;ZLre;Lehe;Lfig;IFFFFLbfl;)V as a(Lehe;ZLbym;Lre;Lfig;IFFFFLbfl;)V
+Fuzzing fsx#lambda$loadAndStitch$5(Lalh;Ladd;I)Ljava/util/List; as a(Lalh;Ladd;)Ljava/util/List;
+Fuzzing fsx#lambda$getStitchedSprites$8(IILjava/util/Map;Lfsw;II)V as a(Ljava/util/Map;IILfsw;II)V
+Fuzzing vd#lambda$checkThreadAndEnqueue$0(Lvb;Lsx;)V as a(Lsx;Lvb;)V
+Remapping optifine from official to intermediary
+Found 410 patched classes
+[09:21:56] [main/ERROR]: Injection error: LVT in net/minecraft/class_757::method_3192(FJZ)V has incompatible changes at opcode 599 in callback fabric-screen-api-v1.mixins.json:GameRendererMixin from mod fabric-screen-api-v1->@Inject::onBeforeRenderScreen(FJZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;IILnet/minecraft/class_4587;Lnet/minecraft/class_4587;)V.
+ Expected: [I, I, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;]
+    Found: [I, I, Lnet/minecraft/class_1041;, F]
+Available: [I, I, Lnet/minecraft/class_1041;, F, Lorg/joml/Matrix4f;, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;, Ljava/lang/Throwable;, Lnet/minecraft/class_128;, Lnet/minecraft/class_129;]
+[09:21:56] [main/ERROR]: Injection error: LVT in net/minecraft/class_757::method_3192(FJZ)V has incompatible changes at opcode 610 in callback fabric-screen-api-v1.mixins.json:GameRendererMixin from mod fabric-screen-api-v1->@Inject::onAfterRenderScreen(FJZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;IILnet/minecraft/class_4587;Lnet/minecraft/class_4587;)V.
+ Expected: [I, I, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;]
+    Found: [I, I, Lnet/minecraft/class_1041;, F]
+Available: [I, I, Lnet/minecraft/class_1041;, F, Lorg/joml/Matrix4f;, Lnet/minecraft/class_4587;, Lnet/minecraft/class_4587;, Ljava/lang/Throwable;, Lnet/minecraft/class_128;, Lnet/minecraft/class_129;]
+[09:21:56] [main/ERROR]: Mixin apply for mod optifabric failed optifabric.compat.fabric-screen-api.newerer-mixins.json:GameRendererNewererMixin from mod optifabric -> net.minecraft.class_757: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException Unexpecteded IllegalStateException whilst transforming the mixin class: [PostApply Phase -> optifabric.compat.fabric-screen-api.newerer-mixins.json:GameRendererNewererMixin from mod optifabric -> Plugin Post-Application]
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Unexpecteded IllegalStateException whilst transforming the mixin class: [PostApply Phase -> optifabric.compat.fabric-screen-api.newerer-mixins.json:GameRendererNewererMixin from mod optifabric -> Plugin Post-Application]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.postApply(MixinTargetContext.java:1286) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:346) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.21.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[?:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[?:?]
+Caused by: java.lang.IllegalStateException: Cannot find shim method onBeforeRenderScreen(FJZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;IILnet/minecraft/class_4587;)V in net/fabricmc/fabric/mixin/screen/GameRendererMixin
+	at me.modmuss50.optifabric.compat.InterceptingMixinPlugin.lambda$postApply$2(InterceptingMixinPlugin.java:135) ~[optifabric-1.13.24.jar:?]
+	at java.util.stream.Collectors.lambda$uniqKeysMapAccumulator$1(Collectors.java:180) ~[?:?]
+	at java.util.stream.ReduceOps$3ReducingSink.accept(ReduceOps.java:169) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at me.modmuss50.optifabric.compat.InterceptingMixinPlugin.postApply(InterceptingMixinPlugin.java:131) ~[optifabric-1.13.24.jar:?]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.postApply(PluginHandle.java:189) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.postApply(MixinInfo.java:1372) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.postApply(MixinTargetContext.java:1275) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	... 28 more
+[09:21:56] [main/ERROR]: Minecraft has crashed!
+net.fabricmc.loader.impl.FormattedException: java.lang.ExceptionInInitializerError
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:63) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.21.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[?:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more
+Caused by: java.lang.RuntimeException: Mixin transformation of net.minecraft.class_757 failed
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:427) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more
+Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [optifabric.compat.fabric-screen-api.newerer-mixins.json:GameRendererNewererMixin from mod optifabric] from phase [DEFAULT] in config [optifabric.compat.fabric-screen-api.newerer-mixins.json] FAILED during APPLY
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:638) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:589) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:379) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Unexpecteded IllegalStateException whilst transforming the mixin class: [PostApply Phase -> optifabric.compat.fabric-screen-api.newerer-mixins.json:GameRendererNewererMixin from mod optifabric -> Plugin Post-Application]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.postApply(MixinTargetContext.java:1286) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:346) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more
+Caused by: java.lang.IllegalStateException: Cannot find shim method onBeforeRenderScreen(FJZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;IILnet/minecraft/class_4587;)V in net/fabricmc/fabric/mixin/screen/GameRendererMixin
+	at me.modmuss50.optifabric.compat.InterceptingMixinPlugin.lambda$postApply$2(InterceptingMixinPlugin.java:135) ~[optifabric-1.13.24.jar:?]
+	at java.util.stream.Collectors.lambda$uniqKeysMapAccumulator$1(Collectors.java:180) ~[?:?]
+	at java.util.stream.ReduceOps$3ReducingSink.accept(ReduceOps.java:169) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at me.modmuss50.optifabric.compat.InterceptingMixinPlugin.postApply(InterceptingMixinPlugin.java:131) ~[optifabric-1.13.24.jar:?]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.postApply(PluginHandle.java:189) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.postApply(MixinInfo.java:1372) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.postApply(MixinTargetContext.java:1275) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:346) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3297) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2371) ~[?:?]
+	at net.optifine.reflect.FieldLocatorTypes.<init>(FieldLocatorTypes.java:25) ~[Optifine-mapped.jar:?]
+	at net.optifine.reflect.Reflector.<clinit>(Reflector.java:503) ~[Optifine-mapped.jar:?]
+	at net.minecraft.class_128.method_568(class_128.java:175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_128.method_24305(class_128.java:345) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[1.19.4-Fabric%200.14.21-OptiFine_I4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 8 more

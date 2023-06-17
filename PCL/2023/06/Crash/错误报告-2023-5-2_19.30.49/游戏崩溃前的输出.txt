@@ -1,0 +1,244 @@
+WARNING: Unknown module: cpw.mods.bootstraplauncher specified to --add-exports
+jlw: native file exists: 'C:\ProgramData\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+[19:30:35] [main/WARN]: Failed retrieving info for group processor
+java.lang.UnsatisfiedLinkError: C:\Users\锟斤拷锟斤拷\AppData\Local\Temp\jna-893280\jna371254655416468708.dll: Can't find dependent libraries
+	at jdk.internal.loader.NativeLibraries.load(Native Method) ~[?:?]
+	at jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:388) ~[?:?]
+	at jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:232) ~[?:?]
+	at jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:174) ~[?:?]
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:2389) ~[?:?]
+	at java.lang.Runtime.load0(Runtime.java:755) ~[?:?]
+	at java.lang.System.load(System.java:1953) ~[?:?]
+	at com.sun.jna.Native.loadNativeDispatchLibraryFromClasspath(Native.java:1045) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Native.loadNativeDispatchLibrary(Native.java:1015) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Native.<clinit>(Native.java:221) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.setAlignType(Structure.java:291) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:208) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:204) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:191) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:183) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.WinNT$OSVERSIONINFOEX.<init>(WinNT.java:1980) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindowsVersionOrGreater(VersionHelpers.java:59) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindows8OrGreater(VersionHelpers.java:170) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at oshi.hardware.platform.windows.WindowsCentralProcessor.<clinit>(WindowsCentralProcessor.java:88) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createProcessor(WindowsHardwareAbstractionLayer.java:61) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.util.Memoizer$1.get(Memoizer.java:87) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:68) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.c(SourceFile:75) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:75) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.h(SourceFile:274) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:152) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+[19:30:35] [main/WARN]: Failed retrieving info for group graphics
+java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+	at com.sun.jna.Structure.setAlignType(Structure.java:291) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:208) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:204) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:191) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:183) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.WinNT$OSVERSIONINFOEX.<init>(WinNT.java:1980) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindowsVersionOrGreater(VersionHelpers.java:59) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindowsVistaOrGreater(VersionHelpers.java:127) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at oshi.hardware.platform.windows.WindowsGraphicsCard.<clinit>(WindowsGraphicsCard.java:49) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.getGraphicsCards(WindowsHardwareAbstractionLayer.java:106) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.b(SourceFile:76) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:76) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.h(SourceFile:274) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:152) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+[19:30:35] [main/WARN]: Failed retrieving info for group memory
+java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+	at com.sun.jna.Structure.setAlignType(Structure.java:291) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:208) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:204) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:191) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.Structure.<init>(Structure.java:183) ~[jna-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.WinNT$OSVERSIONINFOEX.<init>(WinNT.java:1980) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindowsVersionOrGreater(VersionHelpers.java:59) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at com.sun.jna.platform.win32.VersionHelpers.IsWindows10OrGreater(VersionHelpers.java:194) ~[jna-platform-5.12.1.jar:5.12.1 (b0)]
+	at oshi.hardware.platform.windows.WindowsGlobalMemory.<clinit>(WindowsGlobalMemory.java:60) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createMemory(WindowsHardwareAbstractionLayer.java:56) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.util.Memoizer$1.get(Memoizer.java:87) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getMemory(AbstractHardwareAbstractionLayer.java:80) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.a(SourceFile:77) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:77) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.h(SourceFile:274) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:152) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+[19:30:37] [Datafixer Bootstrap/INFO]: 180 Datafixer optimizations took 80 milliseconds
+[19:30:37] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:30:38] [Render thread/INFO]: Setting user: twjopq
+[19:30:38] [Render thread/WARN]: Skipping bad option: 
+[19:30:38] [Render thread/WARN]: Skipping bad option: 
+[19:30:38] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[19:30:39] [Render thread/WARN]: Failed retrieving info for group processor
+java.lang.NoClassDefFoundError: Could not initialize class oshi.hardware.platform.windows.WindowsCentralProcessor
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createProcessor(WindowsHardwareAbstractionLayer.java:61) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.util.Memoizer$1.get(Memoizer.java:87) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:68) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.c(SourceFile:75) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:75) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.a(SourceFile:266) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+[19:30:39] [Render thread/WARN]: Failed retrieving info for group graphics
+java.lang.NoClassDefFoundError: Could not initialize class oshi.hardware.platform.windows.WindowsGraphicsCard
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.getGraphicsCards(WindowsHardwareAbstractionLayer.java:106) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.b(SourceFile:76) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:76) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.a(SourceFile:266) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+[19:30:39] [Render thread/WARN]: Failed retrieving info for group memory
+java.lang.NoClassDefFoundError: Could not initialize class oshi.hardware.platform.windows.WindowsGlobalMemory
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createMemory(WindowsHardwareAbstractionLayer.java:56) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.util.Memoizer$1.get(Memoizer.java:87) ~[oshi-core-6.2.2.jar:6.2.2]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getMemory(AbstractHardwareAbstractionLayer.java:80) ~[oshi-core-6.2.2.jar:6.2.2]
+	at ab.a(SourceFile:77) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:77) ~[1.19.4.jar:?]
+	at ab.c(SourceFile:52) ~[1.19.4.jar:?]
+	at ab.a(SourceFile:82) ~[1.19.4.jar:?]
+	at ab.<init>(SourceFile:52) ~[1.19.4.jar:?]
+	at o.<init>(SourceFile:34) ~[1.19.4.jar:?]
+	at o.a(SourceFile:266) ~[1.19.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:204) ~[1.19.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[JavaWrapper.jar:?]
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 2023-05-02 19:30:39
+Description: Initializing game
+
+java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+	at com.sun.jna.Structure.setAlignType(Structure.java:291)
+	at com.sun.jna.Structure.<init>(Structure.java:208)
+	at com.sun.jna.Structure.<init>(Structure.java:204)
+	at com.sun.jna.Structure.<init>(Structure.java:191)
+	at com.sun.jna.Structure.<init>(Structure.java:183)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:126)
+	at com.sun.jna.platform.win32.Guid$GUID.fromString(Guid.java:257)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:150)
+	at com.sun.jna.platform.win32.Guid$CLSID.<init>(Guid.java:460)
+	at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:16)
+	at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:42)
+	at elz.<init>(SourceFile:17)
+	at emh.<init>(SourceFile:647)
+	at net.minecraft.client.main.Main.main(SourceFile:198)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at com.sun.jna.Structure.setAlignType(Structure.java:291)
+	at com.sun.jna.Structure.<init>(Structure.java:208)
+	at com.sun.jna.Structure.<init>(Structure.java:204)
+	at com.sun.jna.Structure.<init>(Structure.java:191)
+	at com.sun.jna.Structure.<init>(Structure.java:183)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:126)
+	at com.sun.jna.platform.win32.Guid$GUID.fromString(Guid.java:257)
+	at com.sun.jna.platform.win32.Guid$GUID.<init>(Guid.java:150)
+	at com.sun.jna.platform.win32.Guid$CLSID.<init>(Guid.java:460)
+	at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:16)
+	at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:42)
+	at elz.<init>(SourceFile:17)
+	at emh.<init>(SourceFile:647)
+
+-- Initialization --
+Details:
+	Modules: ~~ERROR~~ NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+Stacktrace:
+	at net.minecraft.client.main.Main.main(SourceFile:198)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.4
+	Minecraft Version ID: 1.19.4
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.2, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 238911296 bytes (227 MiB) / 381681664 bytes (364 MiB) up to 5582618624 bytes (5324 MiB)
+	CPUs: 16
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx5324m
+	Launched Version: 1.19.4
+	Backend library: LWJGL version 3.3.1 build 7
+	Backend API: NVIDIA GeForce RTX 3050 Ti Laptop GPU/PCIe/SSE2 GL version 3.2.0 NVIDIA 531.41, NVIDIA Corporation
+	Window size: <not initialized>
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Probably not. Client jar signature and brand is untouched
+	Type: Client (map_client.txt)
+	CPU: <unknown>
+#@!@# Game crashed! Crash report saved to: #@!@# C:\Users\锟斤拷锟斤拷\AppData\Roaming\.minecraft\crash-reports\crash-2023-05-02_19.30.39-client.txt

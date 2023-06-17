@@ -1,0 +1,409 @@
+[19:36:42.028] [Start] 程序版本：Snapshot 2.5.4（289）
+[19:36:42.030] [Start] 识别码：0392-D553-3C25-B0BD
+[19:36:42.030] [Start] 程序路径：E:\game\[自己的整合2]\Plain Craft Launcher 2.exe
+[19:36:42.033] [Start] 第一阶段加载用时：47 ms
+[19:36:42.123] [UI] 刷新主题：0
+[19:36:42.160] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[19:36:42.161] [Start] 第二阶段加载用时：110 ms
+[19:36:42.170] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[19:36:42.367] [System] 窗口已置顶，位置：(875, 450), 810 x 500
+[19:36:42.371] [Start] 第三阶段加载用时：47 ms
+[19:36:42.371] [Animation] 动画线程开始
+[19:36:42.372] [Start] 加载 DLL：Json
+[19:36:42.373] [System] 获取资源：Json
+[19:36:42.379] [Launch] Minecraft 文件夹：E:\game\[自己的整合2]\.minecraft\
+[19:36:42.429] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[19:36:42.433] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[19:36:42.437] [Java] 缓存中有 9 个可用的 Java
+[19:36:42.496] [Skin] 载入头像成功：Loader Skin Legacy
+[19:36:42.500] [Minecraft] 启动按钮：Minecraft 版本：E:\game\[自己的整合2]\.minecraft\versions\MC  Eternal\
+[19:36:42.504] [Loader] 加载器 登录 状态改变：Loading
+[19:36:42.509] [Launch] 登录加载已开始
+[19:36:42.510] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[19:36:42.510] [Launch] 登录方式：离线（yumiaonian）
+[19:36:42.512] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[19:36:42.521] [Launch] 登录加载已结束
+[19:36:42.521] [Loader] 加载器 登录 状态改变：Finished
+[19:36:42.639] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[19:36:42.641] [UI] 解锁隐藏主题：6
+[19:36:42.641] [Loader] 加载器 PCL 服务 状态改变：Loading
+[19:36:42.641] [Server] 正在连接到 PCL 服务器
+[19:36:42.643] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[19:36:42.650] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1683200203-1a8c4843-0-0f47e03d1e877d8d032468ac8ecf3d23，最大超时 10000
+[19:36:42.838] [Server] 服务器公告：102|289|286|5，无需更新
+[19:36:42.843] [Loader] 加载器 PCL 服务 状态改变：Finished
+[19:36:43.089] [System] DPI：96，系统版本：10.0.19044.0，PCL 位置：E:\game\[自己的整合2]\Plain Craft Launcher 2.exe
+[19:36:43.558] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 30000
+[19:36:43.838] [Control] 按下按钮：版本选择
+[19:36:43.851] [Control] 切换主要页面：VersionSelect, 0
+[19:36:43.953] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[19:36:43.986] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > E:\game\[自己的整合2]\.minecraft\
+[19:36:43.992] [Minecraft] 有效的 Minecraft 文件夹：官方启动器文件夹 > C:\Users\first of all\AppData\Roaming\.minecraft\
+[19:36:44.005] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[19:36:44.017] [Setup] 当前选择的 Minecraft 版本：MC  Eternal
+[19:36:44.017] [Minecraft] 选择该文件夹储存的 Minecraft 版本：E:\game\[自己的整合2]\.minecraft\versions\MC  Eternal\
+[19:36:44.057] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[19:36:45.695] [Setup] 当前选择的 Minecraft 版本：1.18.2自己整合2
+[19:36:45.696] [Control] 切换主要页面：Launch, -1
+[19:36:45.696] [Control] 按下单击列表项：1.18.2自己整合2
+[19:36:45.825] [Minecraft] 启动按钮：Minecraft 版本：E:\game\[自己的整合2]\.minecraft\versions\1.18.2自己整合2\
+[19:36:46.340] [Control] 按下按钮：启动游戏
+[19:36:46.342] [Loader] 加载器 Loader Launch 状态改变：Loading
+[19:36:46.348] [System] 欲读取的文件不存在，已返回空字符串：E:\game\[自己的整合2]\PCL\hints.txt
+[19:36:46.378] [Launch] 预检测已通过
+[19:36:46.380] [Download] 开始后台更新资源文件索引
+[19:36:46.380] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[19:36:46.382] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[19:36:46.383] [Loader] 加载器 登录 状态改变：Waiting
+[19:36:46.383] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[19:36:46.383] [Loader] 加载器 获取 Java 状态改变：Loading
+[19:36:46.383] [Loader] 加载器 登录 状态改变：Loading
+[19:36:46.383] [Loader] 加载器 补全文件 状态改变：Loading
+[19:36:46.383] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[19:36:46.383] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[19:36:46.383] [Launch] 登录加载已开始
+[19:36:46.383] [Launch] 登录加载已结束
+[19:36:46.383] [Loader] 加载器 登录 状态改变：Finished
+[19:36:46.383] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[19:36:46.383] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[19:36:46.384] [Download] 版本 1.18.2自己整合2 对应的资源文件索引为 1.18
+[19:36:46.384] [Download] 版本 1.18.2自己整合2 对应的资源文件索引为 1.18
+[19:36:46.385] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[19:36:46.387] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[19:36:46.387] [Launch] Java 版本需求：最低 1.17.0.0，最高 1.18.999.999
+[19:36:46.394] [Java] 开始完全遍历查找：E:\game\[自己的整合2]\
+[19:36:46.398] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[19:36:46.398] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[19:36:46.398] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[19:36:46.398] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[19:36:46.400] [Java] 开始完全遍历查找：E:\game\[自己的整合2]\.minecraft\
+[19:36:46.412] [Download] 1.18.json 245#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/92aa15a18127b6f9e3f0e5a7d018be7ebb389703/1.18.json
+[19:36:46.412] [Java] 开始完全遍历查找：E:\game\[自己的整合2]\.minecraft\versions\1.18.2自己整合2\
+[19:36:46.417] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-17.0.3.1\bin\java.exe -version
+[19:36:46.440] [Minecraft] 获取支持库列表：1.18.2自己整合2
+[19:36:46.537] [Java] 疑似 X.0.X.X 格式版本号：17.0.3.1
+[19:36:46.538] [Java] 选定的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[19:36:46.538] [Launch] 选择的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[19:36:46.538] [Loader] 加载器 获取 Java 状态改变：Finished
+[19:36:46.627] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[19:36:46.627] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[19:36:46.627] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[19:36:46.627] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[19:36:46.689] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[19:36:46.689] [Loader] 加载器 下载资源文件 状态改变：Loading
+[19:36:46.690] [Loader] 加载器 下载资源文件 状态改变：Finished
+[19:36:46.690] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[19:36:46.690] [Loader] 加载器 补全文件 状态改变：Finished
+[19:36:46.690] [Loader] 加载器 获取启动参数 状态改变：Loading
+[19:36:46.692] [Launch] 开始获取 Minecraft 启动参数
+[19:36:46.692] [Launch] 获取新版 JVM 参数
+[19:36:46.698] [Launch] 当前剩余内存：24.6G
+[19:36:46.703] [System] 获取资源：JavaWrapper
+[19:36:46.703] [Java] 已释放 Java Wrapper：C:\Users\first of all\AppData\Roaming\PCL\JavaWrapper.jar
+[19:36:46.703] [Launch] 新版 JVM 参数获取成功：
+[19:36:46.703] [Launch] -Doolloo.jlw.tmpdir="C:\Users\first of all\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx12697m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\first of all\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[19:36:46.703] [Launch] 获取新版 Game 参数
+[19:36:46.705] [Launch] 发现正确的 OptiFineForge TweakClass，目前参数：--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${autXXXXXXXXXXoken} --clientId ${clientid} --xuid ${auth_xuid} --userType ${user_type} --versionType ${version_type} --width ${resolution_width} --height ${resolution_height} --tweakClass optifine.OptiFineForgeTweaker --launchTarget forgeclient --fml.forgeVersion 40.2.0 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914
+[19:36:46.706] [Launch] 新版 Game 参数获取成功
+[19:36:46.708] [Minecraft] 获取支持库列表：1.18.2自己整合2
+[19:36:46.726] [Launch] Minecraft 启动参数：
+[19:36:46.727] [Launch] -Doolloo.jlw.tmpdir="C:\Users\first of all\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="E:\game\[自己的整合2]\.minecraft\versions\1.18.2自己整合2\1.18.2自己整合2-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;E:\game\[自己的整合2]\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;E:\game\[自己的整合2]\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;E:\game\[自己的整合2]\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;E:\game\[自己的整合2]\.minecraft\libraries\optifine\launchwrapper-of\2.3\launchwrapper-of-2.3.jar;E:\game\[自己的整合2]\.minecraft\libraries\cpw\mods\securejarhandler\1.0.3\securejarhandler-1.0.3.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\ow2\asm\asm\9.2\asm-9.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\ow2\asm\asm-commons\9.2\asm-commons-9.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\ow2\asm\asm-tree\9.2\asm-tree-9.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\ow2\asm\asm-util\9.2\asm-util-9.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\ow2\asm\asm-analysis\9.2\asm-analysis-9.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\minecraftforge\eventbus\5.0.3\eventbus-5.0.3.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\minecraftforge\forgespi\4.0.15-4.x\forgespi-4.0.15-4.x.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;E:\game\[自己的整合2]\.minecraft\libraries\cpw\mods\modlauncher\9.1.3\modlauncher-9.1.3.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\minecraftforge\JarJar\0.3.0\JarJar-0.3.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\cpw\mods\bootstraplauncher\1.0.0\bootstraplauncher-1.0.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\optifine\OptiFine\1.18.2_HD_U_H7\OptiFine-1.18.2_HD_U_H7.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\minecraftforge\fmlloader\1.18.2-40.2.0\fmlloader-1.18.2-40.2.0.jar;E:\game\[自己的整合2]\.minecraft\versions\1.18.2自己整合2\1.18.2自己整合2.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,1.18.2自己整合2.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory="E:\game\[自己的整合2]\.minecraft\libraries" -p "E:\game\[自己的整合2]\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar;"E:\game\[自己的整合2]\.minecraft\libraries"/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar;"E:\game\[自己的整合2]\.minecraft\libraries"/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar;"E:\game\[自己的整合2]\.minecraft\libraries"/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar;"E:\game\[自己的整合2]\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar;"E:\game\[自己的整合2]\.minecraft\libraries"/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;"E:\game\[自己的整合2]\.minecraft\libraries"/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx12697m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\first of all\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username yumiaonian --version 1.18.2自己整合2 --gameDir "E:\game\[自己的整合2]\.minecraft" --assetsDir "E:\game\[自己的整合2]\.minecraft\assets" --assetIndex 1.18 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX18164 --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX18164 --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 40.2.0 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914 --tweakClass optifine.OptiFineForgeTweaker 
+[19:36:46.727] [Loader] 加载器 获取启动参数 状态改变：Finished
+[19:36:46.734] [Loader] 加载器 解压文件 状态改变：Loading
+[19:36:46.737] [Launch] 正在解压 Natives 文件
+[19:36:46.749] [Loader] 加载器 解压文件 状态改变：Finished
+[19:36:46.788] [Loader] 加载器 预启动处理 状态改变：Loading
+[19:36:46.797] [Launch] 并非首次启动，不修改语言
+[19:36:46.797] [Loader] 加载器 预启动处理 状态改变：Finished
+[19:36:46.833] [Download] 1.18.json：文件大小 348726 B（341 K）
+[19:36:46.845] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[19:36:46.849] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[19:36:46.900] [Loader] 加载器 启动进程 状态改变：Loading
+[19:36:46.909] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-17.0.3.1\bin\javaw.exe
+[19:36:46.909] [Loader] 加载器 启动进程 状态改变：Finished
+[19:36:46.963] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[19:36:46.964] [Launch] 
+[19:36:46.964] [Launch] ~ 基础参数 ~
+[19:36:46.964] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[19:36:46.964] [Launch] 游戏版本：1.18.2, Forge 40.2.0, OptiFine H7（18.2）
+[19:36:46.964] [Launch] 资源版本：1.18
+[19:36:46.964] [Launch] 版本继承：无
+[19:36:46.965] [Launch] 分配的内存：12.4 GB（12698 MB）
+[19:36:46.965] [Launch] MC 文件夹：E:\game\[自己的整合2]\.minecraft\
+[19:36:46.965] [Launch] 版本文件夹：E:\game\[自己的整合2]\.minecraft\versions\1.18.2自己整合2\
+[19:36:46.965] [Launch] 版本隔离：False
+[19:36:46.965] [Launch] HMCL 格式：False
+[19:36:46.965] [Launch] Java 信息：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[19:36:46.965] [Launch] 环境变量：未设置
+[19:36:46.965] [Launch] 
+[19:36:46.965] [Launch] ~ 登录参数 ~
+[19:36:46.965] [Launch] 玩家用户名：yumiaonian
+[19:36:46.965] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX18164
+[19:36:46.965] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX18164
+[19:36:46.965] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX18164
+[19:36:46.965] [Launch] 登录方式：Legacy
+[19:36:46.965] [Launch] 
+[19:36:46.967] [Launch] [14056] 开始 Minecraft 日志监控
+[19:36:46.967] [Launch] [全局] 出现运行中的 Minecraft
+[19:36:47.170] [Launch] [14056] 日志 1/5：已出现日志输出
+[19:36:47.433] [Download] 1.18.json：已完成，剩余文件 0
+[19:36:47.433] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[19:36:47.433] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[19:36:47.435] [Launch] 后台更新资源文件索引成功：C:\Users\first of all\AppData\Local\Temp\PCL\Cache\1.18.json
+[19:36:47.435] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[19:36:47.435] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[19:36:48.340] [Launch] [14056] Minecraft 已退出，返回值：1
+[19:36:48.340] [Launch] [14056] Minecraft 尚未加载完成，可能已崩溃
+[19:36:48.341] [Launch] [全局] 已无运行中的 Minecraft
+[19:36:48.341] [Launch] [14056] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[19:36:48.380] 加载线程 等待游戏窗口出现 (40) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[19:36:48.380] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[19:36:48.380] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[19:36:48.398] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[19:36:48.533] 加载线程 Loader Launch (13) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[19:36:48.533] [Loader] 加载器 Loader Launch 状态改变：Failed
+[19:36:48.536] [Launch] [14056] Minecraft 日志监控已退出
+[19:36:50.343] [Launch] [14056] 崩溃分析开始
+[19:36:50.349] [Crash] 崩溃分析暂存文件夹：C:\Users\first of all\AppData\Local\Temp\PCL\CrashAnalyzer\1405619318785\
+[19:36:50.351] [Crash] 步骤 1：收集日志文件
+[19:36:50.352] [Crash] 未发现可能可用的日志文件
+[19:36:50.352] [Crash] 以下为游戏输出的最后一段内容：
+WARNING: Unknown module: cpw.mods.bootstraplauncher specified to --add-exports
+WARNING: Unknown module: cpw.mods.securejarhandler specified to --add-exports
+WARNING: Unknown module: cpw.mods.securejarhandler specified to --add-opens
+jlw: native file exists: 'C:\Users\first of all\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.module.FindException: Module org.objectweb.asm.commons not found, required by org.openjdk.nashorn
+	at java.base/java.lang.module.Resolver.findFail(Resolver.java:893)
+	at java.base/java.lang.module.Resolver.resolve(Resolver.java:192)
+	at java.base/java.lang.module.Resolver.resolve(Resolver.java:141)
+	at java.base/java.lang.module.Configuration.resolveAndBind(Configuration.java:492)
+	at java.base/java.lang.module.Configuration.resolveAndBind(Configuration.java:298)
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:137)
+	... 6 more
+[19:36:50.352] [Crash] 步骤 1：收集日志文件完成，收集到 1 个文件
+[19:36:50.360] [Crash] 步骤 2：准备日志文本
+[19:36:50.360] [Crash] RawOutput.log 分类为 MinecraftLog
+[19:36:50.361] [Crash] 输出报告：C:\Users\first of all\AppData\Local\Temp\PCL\CrashAnalyzer\1405619318785\RawOutput.log，作为 Minecraft 或启动器日志
+[19:36:50.361] [Crash] 导入分析：C:\Users\first of all\AppData\Local\Temp\PCL\CrashAnalyzer\1405619318785\RawOutput.log，作为启动器日志
+[19:36:50.361] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[19:36:50.363] [Crash] 步骤 3：分析崩溃原因
+[19:36:50.367] [Crash] 可能并未安装 Mod，不进行堆栈分析
+[19:36:50.368] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[19:36:50.411] [System] 窗口已置顶，位置：(875, 450), 810 x 500
+[19:36:50.414] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[19:36:53.308] [Control] 按下按钮：确定
+[19:36:53.309] [Control] 普通弹框返回：1
+[19:36:54.191] [Control] 按下按钮：版本选择
+[19:36:54.191] [Control] 切换主要页面：VersionSelect, 0
+[19:36:56.313] [Setup] 当前选择的 Minecraft 版本：1.18.2
+[19:36:56.313] [Control] 切换主要页面：Launch, -1
+[19:36:56.313] [Control] 按下单击列表项：1.18.2
+[19:36:56.453] [Minecraft] 启动按钮：Minecraft 版本：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\
+[19:36:56.975] [Control] 按下按钮：启动游戏
+[19:36:56.975] [Loader] 加载器 Loader Launch 状态改变：Loading
+[19:36:56.975] [System] 欲读取的文件不存在，已返回空字符串：E:\game\[自己的整合2]\PCL\hints.txt
+[19:36:56.978] [Setup] 版本隔离使用全局设置：1.18.2
+[19:36:56.979] [Launch] 预检测已通过
+[19:36:56.979] [Download] 开始后台更新资源文件索引
+[19:36:56.979] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[19:36:56.979] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[19:36:56.980] [Download] 版本 1.18.2 对应的资源文件索引为 1.18
+[19:36:56.980] [Loader] 加载器 登录 状态改变：Waiting
+[19:36:56.980] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[19:36:56.980] [Loader] 加载器 获取 Java 状态改变：Loading
+[19:36:56.980] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[19:36:56.980] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[19:36:56.980] [Java] 开始完全遍历查找：E:\game\[自己的整合2]\
+[19:36:56.980] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[19:36:56.980] [Loader] 加载器 登录 状态改变：Loading
+[19:36:56.980] [Loader] 加载器 补全文件 状态改变：Loading
+[19:36:56.980] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[19:36:56.980] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[19:36:56.980] [Launch] 登录加载已开始
+[19:36:56.980] [Launch] 登录加载已结束
+[19:36:56.980] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[19:36:56.980] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[19:36:56.980] [Loader] 加载器 登录 状态改变：Finished
+[19:36:56.980] [Download] 版本 1.18.2 对应的资源文件索引为 1.18
+[19:36:56.983] [Java] 开始完全遍历查找：E:\game\[自己的整合2]\.minecraft\
+[19:36:56.989] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[19:36:56.989] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[19:36:56.989] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[19:36:56.989] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[19:36:56.993] [Java] 开始完全遍历查找：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\
+[19:36:56.993] [Java] 选定的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[19:36:56.993] [Launch] 选择的 Java：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[19:36:56.993] [Loader] 加载器 获取 Java 状态改变：Finished
+[19:36:57.011] [Download] 1.18.json 398#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/92aa15a18127b6f9e3f0e5a7d018be7ebb389703/1.18.json
+[19:36:57.055] [Minecraft] 获取支持库列表：1.18.2
+[19:36:57.146] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[19:36:57.146] [Loader] 加载器 下载资源文件 状态改变：Loading
+[19:36:57.147] [Loader] 加载器 下载资源文件 状态改变：Finished
+[19:36:57.147] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[19:36:57.189] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[19:36:57.189] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[19:36:57.189] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[19:36:57.189] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[19:36:57.189] [Loader] 加载器 补全文件 状态改变：Finished
+[19:36:57.190] [Loader] 加载器 获取启动参数 状态改变：Loading
+[19:36:57.190] [Launch] 开始获取 Minecraft 启动参数
+[19:36:57.190] [Launch] 获取新版 JVM 参数
+[19:36:57.191] [Launch] 当前剩余内存：24.6G
+[19:36:57.191] [System] 获取资源：JavaWrapper
+[19:36:57.191] [Java] 已释放 Java Wrapper：C:\Users\first of all\AppData\Roaming\PCL\JavaWrapper.jar
+[19:36:57.191] [Launch] 新版 JVM 参数获取成功：
+[19:36:57.191] [Launch] -Doolloo.jlw.tmpdir="C:\Users\first of all\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Xmn256m -Xmx8192m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\first of all\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main
+[19:36:57.191] [Launch] 获取新版 Game 参数
+[19:36:57.191] [Launch] 新版 Game 参数获取成功
+[19:36:57.191] [Minecraft] 获取支持库列表：1.18.2
+[19:36:57.195] [Launch] Minecraft 启动参数：
+[19:36:57.196] [Launch] -Doolloo.jlw.tmpdir="C:\Users\first of all\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;E:\game\[自己的整合2]\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;E:\game\[自己的整合2]\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;E:\game\[自己的整合2]\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;E:\game\[自己的整合2]\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;E:\game\[自己的整合2]\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2.jar" -Xmn256m -Xmx8192m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\first of all\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main --username yumiaonian --version 1.18.2 --gameDir "E:\game\[自己的整合2]\.minecraft" --assetsDir "E:\game\[自己的整合2]\.minecraft\assets" --assetIndex 1.18 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX18164 --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX18164 --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 
+[19:36:57.196] [Loader] 加载器 获取启动参数 状态改变：Finished
+[19:36:57.202] [Loader] 加载器 解压文件 状态改变：Loading
+[19:36:57.202] [Launch] 正在解压 Natives 文件
+[19:36:57.207] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\lwjgl.dll
+[19:36:57.211] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\lwjgl32.dll
+[19:36:57.213] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\jemalloc.dll
+[19:36:57.215] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\jemalloc32.dll
+[19:36:57.228] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\OpenAL.dll
+[19:36:57.237] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\OpenAL32.dll
+[19:36:57.240] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\lwjgl_opengl.dll
+[19:36:57.242] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\lwjgl_opengl32.dll
+[19:36:57.245] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\glfw.dll
+[19:36:57.248] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\glfw32.dll
+[19:36:57.250] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\lwjgl_tinyfd.dll
+[19:36:57.253] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\lwjgl_tinyfd32.dll
+[19:36:57.258] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\lwjgl_stb.dll
+[19:36:57.264] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\lwjgl_stb32.dll
+[19:36:57.265] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\SAPIWrapper_x86.dll
+[19:36:57.266] [Launch] 已解压：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\1.18.2-natives\SAPIWrapper_x64.dll
+[19:36:57.266] [Loader] 加载器 解压文件 状态改变：Finished
+[19:36:57.268] [Loader] 加载器 预启动处理 状态改变：Loading
+[19:36:57.268] [Launch] 并非首次启动，不修改语言
+[19:36:57.268] [Loader] 加载器 预启动处理 状态改变：Finished
+[19:36:57.300] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[19:36:57.304] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[19:36:57.336] [Loader] 加载器 启动进程 状态改变：Loading
+[19:36:57.338] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-17.0.3.1\bin\javaw.exe
+[19:36:57.338] [Loader] 加载器 启动进程 状态改变：Finished
+[19:36:57.373] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[19:36:57.373] [Launch] 
+[19:36:57.373] [Launch] ~ 基础参数 ~
+[19:36:57.373] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[19:36:57.373] [Launch] 游戏版本：原版 1.18.2（18.2）
+[19:36:57.373] [Launch] 资源版本：1.18
+[19:36:57.373] [Launch] 版本继承：无
+[19:36:57.374] [Launch] 分配的内存：8 GB（8192 MB）
+[19:36:57.374] [Launch] MC 文件夹：E:\game\[自己的整合2]\.minecraft\
+[19:36:57.374] [Launch] 版本文件夹：E:\game\[自己的整合2]\.minecraft\versions\1.18.2\
+[19:36:57.374] [Launch] 版本隔离：False
+[19:36:57.374] [Launch] HMCL 格式：False
+[19:36:57.374] [Launch] Java 信息：JDK 17 (17.3.1)，64 位：C:\Program Files\Java\jdk-17.0.3.1\bin\
+[19:36:57.374] [Launch] 环境变量：未设置
+[19:36:57.374] [Launch] 
+[19:36:57.374] [Launch] ~ 登录参数 ~
+[19:36:57.374] [Launch] 玩家用户名：yumiaonian
+[19:36:57.374] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX18164
+[19:36:57.374] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX18164
+[19:36:57.374] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX18164
+[19:36:57.374] [Launch] 登录方式：Legacy
+[19:36:57.374] [Launch] 
+[19:36:57.374] [Launch] [9684] 开始 Minecraft 日志监控
+[19:36:57.374] [Launch] [全局] 出现运行中的 Minecraft
+[19:36:57.396] [Download] 1.18.json：文件大小 348726 B（341 K）
+[19:36:57.572] [Launch] [9684] 日志 1/5：已出现日志输出
+[19:36:57.656] [Download] 1.18.json：已完成，剩余文件 0
+[19:36:57.656] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[19:36:57.656] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[19:36:57.657] [Launch] 后台更新资源文件索引成功：C:\Users\first of all\AppData\Local\Temp\PCL\Cache\1.18.json
+[19:36:57.657] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[19:36:57.657] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[19:37:01.860] [Launch] [9684] Minecraft 已退出，返回值：1
+[19:37:01.860] [Launch] [9684] Minecraft 尚未加载完成，可能已崩溃
+[19:37:01.860] [Launch] [全局] 已无运行中的 Minecraft
+[19:37:01.860] [Launch] [9684] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[19:37:01.900] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[19:37:01.903] 加载线程 等待游戏窗口出现 (13) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[19:37:01.903] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[19:37:01.903] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[19:37:02.036] 加载线程 Loader Launch (45) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[19:37:02.036] [Loader] 加载器 Loader Launch 状态改变：Failed
+[19:37:02.054] [Launch] [9684] Minecraft 日志监控已退出
+[19:37:03.861] [Launch] [9684] 崩溃分析开始
+[19:37:03.862] [Crash] 崩溃分析暂存文件夹：C:\Users\first of all\AppData\Local\Temp\PCL\CrashAnalyzer\968435651618\
+[19:37:03.862] [Crash] 步骤 1：收集日志文件
+[19:37:03.862] [Crash] 可能可用的日志文件：E:\game\[自己的整合2]\.minecraft\logs\latest.log（0 分钟）
+[19:37:03.862] [Crash] 以下为游戏输出的最后一段内容：
+WARNING: Unknown module: cpw.mods.bootstraplauncher specified to --add-exports
+jlw: native file exists: 'C:\Users\first of all\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+[19:37:01] [Render thread/INFO]: [STDERR]: [LWJGL] Failed to load a library. Possible solutions:
+	a) Add the directory that contains the shared library to -Djava.library.path or -Dorg.lwjgl.librarypath.
+	b) Add the JAR that contains the shared library to the classpath.
+[19:37:01] [Render thread/INFO]: [STDERR]: [LWJGL] Enable debug mode with -Dorg.lwjgl.util.Debug=true for better diagnostics.
+[19:37:01] [Render thread/INFO]: [STDERR]: [LWJGL] Enable the SharedLibraryLoader debug mode with -Dorg.lwjgl.util.DebugLoader=true for better diagnostics.
+[19:37:01] [Render thread/INFO]: [STDERR]: java.lang.reflect.InvocationTargetException
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[19:37:01] [Render thread/INFO]: [STDERR]: Caused by: java.lang.NoClassDefFoundError: Could not initialize class com.mojang.blaze3d.systems.RenderSystem
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at ac.a(SourceFile:65)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at dyr.a(SourceFile:2394)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at dyr.a(SourceFile:2389)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(SourceFile:206)
+[19:37:01] [Render thread/INFO]: [STDERR]: 	... 6 more
+Exception in thread "Render thread" 
+[19:37:03.863] [Crash] 步骤 1：收集日志文件完成，收集到 2 个文件
+[19:37:03.863] [Crash] 步骤 2：准备日志文本
+[19:37:03.863] [Crash] latest.log 分类为 MinecraftLog
+[19:37:03.863] [Crash] RawOutput.log 分类为 MinecraftLog
+[19:37:03.863] [Crash] 输出报告：E:\game\[自己的整合2]\.minecraft\logs\latest.log，作为 Minecraft 或启动器日志
+[19:37:03.863] [Crash] 输出报告：C:\Users\first of all\AppData\Local\Temp\PCL\CrashAnalyzer\968435651618\RawOutput.log，作为 Minecraft 或启动器日志
+[19:37:03.863] [Crash] 导入分析：C:\Users\first of all\AppData\Local\Temp\PCL\CrashAnalyzer\968435651618\RawOutput.log，作为启动器日志
+[19:37:03.863] [Crash] 导入分析：E:\game\[自己的整合2]\.minecraft\logs\latest.log，作为 Minecraft 日志
+[19:37:03.863] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[19:37:03.863] [Crash] 步骤 3：分析崩溃原因
+[19:37:03.863] [Crash] 可能并未安装 Mod，不进行堆栈分析
+[19:37:03.863] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[19:37:03.905] [System] 窗口已置顶，位置：(875, 450), 810 x 500
+[19:37:03.908] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[19:37:09.780] [Control] 按下按钮：导出错误报告
+[19:37:09.780] [Control] 普通弹框返回：3
+[19:37:14.517] [UI] 选择文件返回：C:\Users\first of all\Desktop\错误报告-2023-5-4_19.37.09.zip
+[19:37:14.599] [System] 诊断信息：
+操作系统：Microsoft Windows 10 Pro
+剩余内存：25283 M / 32703 M
+DPI：96（100%）
+MC 文件夹：E:\game\[自己的整合2]\.minecraft\
+文件位置：E:\game\[自己的整合2]\

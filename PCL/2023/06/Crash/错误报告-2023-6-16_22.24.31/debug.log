@@ -1,0 +1,995 @@
+[22:24:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:24:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:24:19] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[22:24:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:24:20] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[22:24:20] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[22:24:20] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_372, running on Windows 7:amd64:6.1, installed at H:\game\MC\java\bellsoft-jdk8u372+7-windows-amd64\jdk8u372\jre
+[22:24:20] [main/DEBUG] [FML]: Java classpath at launch is:
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2860\forge-1.12.2-14.23.5.2860.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\libraries\optifine\OptiFine\1.12.2_HD_U_G6_pre1\OptiFine-1.12.2_HD_U_G6_pre1-installer.jar
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\versions\????-?????\????-?????.jar
+[22:24:20] [main/DEBUG] [FML]: Java library path at launch is:
+[22:24:20] [main/DEBUG] [FML]:     H:\game\a\.minecraft\versions\魔法之风-艾查恩之怒\魔法之风-艾查恩之怒-natives
+[22:24:20] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: H:\game\a\.minecraft\libraries
+[22:24:20] [main/DEBUG] [FML]: Cleaning up mods folder: H:\game\a\.minecraft\mods
+[22:24:20] [main/DEBUG] [FML]: Examining file: Aquaculture-1.12.2-1.6.8.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: Armourers-Workshop-1.12.2-0.50.1.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: AutoRegLib-1.3-32.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: BetterFps-1.4.8.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: blocking-1.0.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: bookworm-1.12.2-2.5.2.1.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: bparmor.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: callablehorses-1.12.2-1.1.1.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: CarianStyle-1.12.2-1.1.1.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: ConquestReforged-3.0.2-mc1.12.2.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: corpsecomplex-1.12.2-1.0.11.1.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: CraftableHorseArmour-1.3.0-1.12.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: CreativeCore_v1.10.40_mc1.12.2.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: CustomMainMenu-MC1.12-2.0.6.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: CustomNPCsFix-B1.2.2.9-1.12.2.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: CustomSkinLoader_Forge-14.13-SNAPSHOT-199.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: DamageMarkMod-1.12.2-1.4.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: DragonCore-2.4.72.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: DrZharks-MoCreatures-Mod-12.0.5.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: EasyGambleV1.0.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: EnhancedVisuals_v1.3.22_mc1.12.2.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: FallingTree-1.12.2-2.4.0.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: Fish's+Undead+Rising-1.3.2.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: foamfix-0.10.11-1.12.2.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: Forgelin-1.8.4.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: FutureVersions+v1.3.1.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: GrimoireOfGaia3-1.12.2-1.7.2.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: horse_colors-1.12.2-1.4.0.1.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: HotLib-1.12.2-0.0.1.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: i18nupdatemod-1.12.2-1.1.0.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: iblis-headshots-1.2.6.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: journeymap-1.12.2-5.7.1.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: jython.jar
+[22:24:20] [main/DEBUG] [FML]: Examining file: lycanitesmobs-1.12.2-2.0.6.6.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: medivalmusic-1.1.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: MixinBootstrap-1.0.5.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: OptiFine_1.12.2_HD_U_G5.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: OreLib-1.12.2-3.6.0.1.jar
+[22:24:21] [main/DEBUG] [FML]: Making maven link for org.orecruncher:OreLib:1.12.2-3.6.0.1 in memory to H:\game\a\.minecraft\mods\OreLib-1.12.2-3.6.0.1.jar.
+[22:24:21] [main/DEBUG] [FML]: Examining file: PassableLeaves-1.12.2-2.0.0.jar
+[22:24:21] [main/DEBUG] [FML]: Found existing ContainedDep PassableLeavesCore-1.12.2-1.0.0.jar(org.teamrtg:PassableLeavesCore-1.12.2:1.0.0) from H:\game\a\.minecraft\mods\memory_repo\org\teamrtg\PassableLeavesCore-1.12.2\1.0.0\PassableLeavesCore-1.12.2-1.0.0.jar extracted to H:\game\a\.minecraft\mods\PassableLeaves-1.12.2-2.0.0.jar, skipping extraction
+[22:24:21] [main/DEBUG] [FML]: Examining file: PassableLeavesCore-1.12.2-1.0.0.jar
+[22:24:21] [main/DEBUG] [FML]: Making maven link for org.teamrtg:PassableLeaves-1.12.2:2.0.0 in memory to H:\game\a\.minecraft\mods\PassableLeaves-1.12.2-2.0.0.jar.
+[22:24:21] [main/DEBUG] [FML]: Examining file: plaguehud-1.0.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: ResourceLoader-MC1.12.1-1.5.3.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: SereneSeasons-1.12.2-1.2.18-universal.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: SmoothFont-mc1.12.2-2.1.2.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: SoManyEnchantments-0.5.0.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: SpartanShields-1.12.2-1.5.5.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: SpartanWeaponry-1.12.2-beta-1.3.8-noreach.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: stamina.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: Surge-1.12.2-2.0.77.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: VariedCommodities_1.12.2(21nov19).jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: vexview-forge-1.12.2-2.7.3.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: WorldEdit-CUI-FE3-1.12.2-3.0.9.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: zawa-1.12.2-2.1.0.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: [???]worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: [?????]WorldEdit+CUI+Forge+Edition+2-2.2.0-mf-1.12.2-14.23.5.2768.jar
+[22:24:21] [main/DEBUG] [FML]: Examining file: [???NPC]CustomNPCs_1.12.2-(05Jul20).jar
+[22:24:21] [main/DEBUG] [FML]: File already proccessed H:\game\a\.minecraft\mods\OreLib-1.12.2-3.6.0.1.jar, Skipping
+[22:24:21] [main/DEBUG] [FML]: File already proccessed H:\game\a\.minecraft\mods\memory_repo\org\teamrtg\PassableLeavesCore-1.12.2\1.0.0\PassableLeavesCore-1.12.2-1.0.0.jar, Skipping
+[22:24:21] [main/DEBUG] [FML]: File already proccessed H:\game\a\.minecraft\mods\PassableLeaves-1.12.2-2.0.0.jar, Skipping
+[22:24:21] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[22:24:21] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[22:24:21] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[22:24:21] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:24:21] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[22:24:21] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[22:24:21] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[22:24:21] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[22:24:21] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:24:21] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[22:24:21] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[22:24:21] [main/DEBUG] [FML]: Discovering coremods
+[22:24:21] [main/INFO] [FML]: Searching H:\game\a\.minecraft\mods for mods
+[22:24:21] [main/DEBUG] [FML]:   Adding Aquaculture-1.12.2-1.6.8.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding Armourers-Workshop-1.12.2-0.50.1.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding AutoRegLib-1.3-32.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding BetterFps-1.4.8.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding blocking-1.0.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding bookworm-1.12.2-2.5.2.1.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding bparmor.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding callablehorses-1.12.2-1.1.1.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding CarianStyle-1.12.2-1.1.1.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding ConquestReforged-3.0.2-mc1.12.2.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding corpsecomplex-1.12.2-1.0.11.1.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding CraftableHorseArmour-1.3.0-1.12.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding CreativeCore_v1.10.40_mc1.12.2.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding CustomMainMenu-MC1.12-2.0.6.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding CustomNPCsFix-B1.2.2.9-1.12.2.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding CustomSkinLoader_Forge-14.13-SNAPSHOT-199.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding DamageMarkMod-1.12.2-1.4.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding DragonCore-2.4.72.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding DrZharks-MoCreatures-Mod-12.0.5.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding EasyGambleV1.0.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding EnhancedVisuals_v1.3.22_mc1.12.2.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding FallingTree-1.12.2-2.4.0.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding Fish's+Undead+Rising-1.3.2.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding foamfix-0.10.11-1.12.2.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding Forgelin-1.8.4.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding FutureVersions+v1.3.1.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding GrimoireOfGaia3-1.12.2-1.7.2.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding horse_colors-1.12.2-1.4.0.1.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding HotLib-1.12.2-0.0.1.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding i18nupdatemod-1.12.2-1.1.0.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding iblis-headshots-1.2.6.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding journeymap-1.12.2-5.7.1.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding jython.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding lycanitesmobs-1.12.2-2.0.6.6.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding medivalmusic-1.1.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding MixinBootstrap-1.0.5.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding OptiFine_1.12.2_HD_U_G5.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding OreLib-1.12.2-3.6.0.1.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding PassableLeaves-1.12.2-2.0.0.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding plaguehud-1.0.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding ResourceLoader-MC1.12.1-1.5.3.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding SereneSeasons-1.12.2-1.2.18-universal.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding SmoothFont-mc1.12.2-2.1.2.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding SoManyEnchantments-0.5.0.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding SpartanShields-1.12.2-1.5.5.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding SpartanWeaponry-1.12.2-beta-1.3.8-noreach.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding stamina.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding Surge-1.12.2-2.0.77.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding VariedCommodities_1.12.2(21nov19).jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding vexview-forge-1.12.2-2.7.3.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding WorldEdit-CUI-FE3-1.12.2-3.0.9.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding zawa-1.12.2-2.1.0.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding [???]worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding [?????]WorldEdit+CUI+Forge+Edition+2-2.2.0-mf-1.12.2-14.23.5.2768.jar to the mod list
+[22:24:21] [main/DEBUG] [FML]:   Adding [???NPC]CustomNPCs_1.12.2-(05Jul20).jar to the mod list
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy [???]worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in [???]worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy [?????]WorldEdit+CUI+Forge+Edition+2-2.2.0-mf-1.12.2-14.23.5.2768.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in [?????]WorldEdit+CUI+Forge+Edition+2-2.2.0-mf-1.12.2-14.23.5.2768.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy [???NPC]CustomNPCs_1.12.2-(05Jul20).jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in [???NPC]CustomNPCs_1.12.2-(05Jul20).jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy Aquaculture-1.12.2-1.6.8.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in Aquaculture-1.12.2-1.6.8.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy Armourers-Workshop-1.12.2-0.50.1.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in Armourers-Workshop-1.12.2-0.50.1.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy AutoRegLib-1.3-32.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in AutoRegLib-1.3-32.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy BetterFps-1.4.8.jar
+[22:24:21] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy blocking-1.0.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in blocking-1.0.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy bookworm-1.12.2-2.5.2.1.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in bookworm-1.12.2-2.5.2.1.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy bparmor.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in bparmor.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy callablehorses-1.12.2-1.1.1.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in callablehorses-1.12.2-1.1.1.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy CarianStyle-1.12.2-1.1.1.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in CarianStyle-1.12.2-1.1.1.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy ConquestReforged-3.0.2-mc1.12.2.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in ConquestReforged-3.0.2-mc1.12.2.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy corpsecomplex-1.12.2-1.0.11.1.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in corpsecomplex-1.12.2-1.0.11.1.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy CraftableHorseArmour-1.3.0-1.12.jar
+[22:24:21] [main/DEBUG] [FML]: Not found coremod data in CraftableHorseArmour-1.3.0-1.12.jar
+[22:24:21] [main/DEBUG] [FML]: Examining for coremod candidacy CreativeCore_v1.10.40_mc1.12.2.jar
+[22:24:21] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.40_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:24:21] [main/DEBUG] [FML]: Instantiating coremod class CreativePatchingLoader
+[22:24:21] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:24:22] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[22:24:22] [main/DEBUG] [FML]: Enqueued coremod CreativePatchingLoader
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy CustomMainMenu-MC1.12-2.0.6.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in CustomMainMenu-MC1.12-2.0.6.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy CustomNPCsFix-B1.2.2.9-1.12.2.jar
+[22:24:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CustomNPCsFix-B1.2.2.9-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:24:22] [main/DEBUG] [FML]: Instantiating coremod class CustomNPCFixPlugin
+[22:24:22] [main/TRACE] [FML]: coremod named CustomNPCFixPlugin is loading
+[22:24:22] [main/DEBUG] [FML]: The coremod mchhui.customnpcsfix.coremod.CustomNPCFixPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[22:24:22] [main/WARN] [FML]: The coremod CustomNPCFixPlugin (mchhui.customnpcsfix.coremod.CustomNPCFixPlugin) is not signed!
+[22:24:22] [main/DEBUG] [FML]: Enqueued coremod CustomNPCFixPlugin
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy CustomSkinLoader_Forge-14.13-SNAPSHOT-199.jar
+[22:24:22] [main/INFO] [FML]: Loading tweaker customskinloader.forge.ForgeTweaker from CustomSkinLoader_Forge-14.13-SNAPSHOT-199.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy DamageMarkMod-1.12.2-1.4.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in DamageMarkMod-1.12.2-1.4.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy DragonCore-2.4.72.jar
+[22:24:22] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DragonCore-2.4.72.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy DrZharks-MoCreatures-Mod-12.0.5.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in DrZharks-MoCreatures-Mod-12.0.5.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy EasyGambleV1.0.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in EasyGambleV1.0.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy EnhancedVisuals_v1.3.22_mc1.12.2.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy FallingTree-1.12.2-2.4.0.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in FallingTree-1.12.2-2.4.0.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy Fish's+Undead+Rising-1.3.2.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in Fish's+Undead+Rising-1.3.2.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy foamfix-0.10.11-1.12.2.jar
+[22:24:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.11-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:24:22] [main/DEBUG] [FML]: Instantiating coremod class FoamFixCore
+[22:24:22] [main/TRACE] [FML]: coremod named Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) is loading
+[22:24:22] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:24:22] [main/DEBUG] [FML]: Found signing certificates for coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (pl.asie.foamfix.coremod.FoamFixCore)
+[22:24:22] [main/DEBUG] [FML]: Found certificate 3481f72e377b0a1989bd38e3f07cf4cf0b626475
+[22:24:22] [main/DEBUG] [FML]: Added access transformer class pl.asie.foamfix.coremod.FoamFixAT to enqueued access transformers
+[22:24:22] [main/DEBUG] [FML]: Enqueued coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.)
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy Forgelin-1.8.4.jar
+[22:24:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:24:22] [main/DEBUG] [FML]: Instantiating coremod class ForgelinPlugin
+[22:24:22] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:24:22] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[22:24:22] [main/DEBUG] [FML]: Enqueued coremod ForgelinPlugin
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy FutureVersions+v1.3.1.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in FutureVersions+v1.3.1.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy GrimoireOfGaia3-1.12.2-1.7.2.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in GrimoireOfGaia3-1.12.2-1.7.2.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy horse_colors-1.12.2-1.4.0.1.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in horse_colors-1.12.2-1.4.0.1.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy HotLib-1.12.2-0.0.1.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in HotLib-1.12.2-0.0.1.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy i18nupdatemod-1.12.2-1.1.0.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in i18nupdatemod-1.12.2-1.1.0.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy iblis-headshots-1.2.6.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in iblis-headshots-1.2.6.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy journeymap-1.12.2-5.7.1.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in journeymap-1.12.2-5.7.1.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy jython.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in jython.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy lycanitesmobs-1.12.2-2.0.6.6.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in lycanitesmobs-1.12.2-2.0.6.6.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy medivalmusic-1.1.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in medivalmusic-1.1.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy MixinBootstrap-1.0.5.jar
+[22:24:22] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MixinBootstrap-1.0.5.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy OptiFine_1.12.2_HD_U_G5.jar
+[22:24:22] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy plaguehud-1.0.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in plaguehud-1.0.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy ResourceLoader-MC1.12.1-1.5.3.jar
+[22:24:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:24:22] [main/DEBUG] [FML]: Instantiating coremod class LoadingPlugin
+[22:24:22] [main/WARN] [FML]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:24:22] [main/DEBUG] [FML]: Found signing certificates for coremod LoadingPlugin (lumien.resourceloader.asm.LoadingPlugin)
+[22:24:22] [main/DEBUG] [FML]: Found certificate d72e0dd57935b3e9476212aea0c0df352dd76291
+[22:24:22] [main/DEBUG] [FML]: Enqueued coremod LoadingPlugin
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy SereneSeasons-1.12.2-1.2.18-universal.jar
+[22:24:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SereneSeasons-1.12.2-1.2.18-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:24:22] [main/DEBUG] [FML]: Instantiating coremod class SSLoadingPlugin
+[22:24:22] [main/WARN] [FML]: The coremod sereneseasons.asm.SSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:24:22] [main/WARN] [FML]: The coremod SSLoadingPlugin (sereneseasons.asm.SSLoadingPlugin) is not signed!
+[22:24:22] [main/DEBUG] [FML]: Enqueued coremod SSLoadingPlugin
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy SmoothFont-mc1.12.2-2.1.2.jar
+[22:24:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SmoothFont-mc1.12.2-2.1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:24:22] [main/DEBUG] [FML]: Instantiating coremod class CorePlugin
+[22:24:22] [main/WARN] [FML]: The coremod bre.smoothfont.asm.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:24:22] [main/WARN] [FML]: The coremod CorePlugin (bre.smoothfont.asm.CorePlugin) is not signed!
+[22:24:22] [main/DEBUG] [FML]: Enqueued coremod CorePlugin
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy SoManyEnchantments-0.5.0.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in SoManyEnchantments-0.5.0.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy SpartanShields-1.12.2-1.5.5.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in SpartanShields-1.12.2-1.5.5.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy SpartanWeaponry-1.12.2-beta-1.3.8-noreach.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in SpartanWeaponry-1.12.2-beta-1.3.8-noreach.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy stamina.jar
+[22:24:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in stamina.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:24:22] [main/DEBUG] [FML]: Instantiating coremod class StaminaCorePlugin
+[22:24:22] [main/WARN] [FML]: The coremod mchhui.stamina.coremod.StaminaCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:24:22] [main/WARN] [FML]: The coremod StaminaCorePlugin (mchhui.stamina.coremod.StaminaCorePlugin) is not signed!
+[22:24:22] [main/DEBUG] [FML]: Enqueued coremod StaminaCorePlugin
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy Surge-1.12.2-2.0.77.jar
+[22:24:22] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Surge-1.12.2-2.0.77.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy VariedCommodities_1.12.2(21nov19).jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in VariedCommodities_1.12.2(21nov19).jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy vexview-forge-1.12.2-2.7.3.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in vexview-forge-1.12.2-2.7.3.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy WorldEdit-CUI-FE3-1.12.2-3.0.9.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in WorldEdit-CUI-FE3-1.12.2-3.0.9.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy zawa-1.12.2-2.1.0.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in zawa-1.12.2-2.1.0.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy OreLib-1.12.2-3.6.0.1.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in OreLib-1.12.2-3.6.0.1.jar
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy PassableLeavesCore-1.12.2-1.0.0.jar
+[22:24:22] [main/TRACE] [FML]: Adding PassableLeavesCore-1.12.2-1.0.0.jar to the list of known coremods, it will not be examined again
+[22:24:22] [main/DEBUG] [FML]: Instantiating coremod class PassableLeavesCore
+[22:24:22] [main/TRACE] [FML]: coremod named PassableLeavesCore is loading
+[22:24:22] [main/DEBUG] [FML]: The coremod teamrtg.passableleaves.asm.PassableLeavesCore requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[22:24:22] [main/WARN] [FML]: The coremod PassableLeavesCore (teamrtg.passableleaves.asm.PassableLeavesCore) is not signed!
+[22:24:22] [main/DEBUG] [passableleavescore]: PassableLeavesCore coremod initialized
+[22:24:22] [main/DEBUG] [FML]: Enqueued coremod PassableLeavesCore
+[22:24:22] [main/DEBUG] [FML]: Examining for coremod candidacy PassableLeaves-1.12.2-2.0.0.jar
+[22:24:22] [main/DEBUG] [FML]: Not found coremod data in PassableLeaves-1.12.2-2.0.0.jar
+[22:24:22] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[22:24:22] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[22:24:22] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[22:24:22] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[22:24:22] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: H:\game\a\.minecraft\libraries\optifine\OptiFine\1.12.2_HD_U_G6_pre1\OptiFine-1.12.2_HD_U_G6_pre1-installer.jar
+[22:24:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:24:22] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[22:24:22] [main/INFO] [LaunchWrapper]: Loading tweak class name customskinloader.forge.ForgeTweaker
+[22:24:22] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[22:24:22] [main/DEBUG] [mixin]: Mixin bootstrap service org.spongepowered.asm.service.modlauncher.MixinServiceModLauncherBootstrap is not available: ModLauncher is not available
+[22:24:22] [main/DEBUG] [mixin]: MixinService [LaunchWrapper] was successfully booted in sun.misc.Launcher$AppClassLoader@70dea4e
+[22:24:22] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar Service=LaunchWrapper Env=CLIENT
+[22:24:22] [main/DEBUG] [mixin]: Error cleaning class output directory: .mixin.out\class: failed to delete one or more files; see suppressed exceptions for details
+[22:24:22] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #1
+[22:24:22] [main/DEBUG] [mixin]: Initialising Mixin Platform Manager
+[22:24:22] [main/DEBUG] [mixin]: Adding mixin platform agents for container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)
+[22:24:22] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)
+[22:24:22] [main/DEBUG] [mixin]: ForceLoadAsMod was specified for DragonCore-2.4.72.jar, attempting force-load
+[22:24:22] [main/DEBUG] [mixin]: Adding DragonCore-2.4.72.jar to reparseable coremod collection
+[22:24:22] [main/DEBUG] [mixin]: DragonCore-2.4.72.jar has core plugin eos.moe.dragoncore.tweaker.ForgePlugin. Injecting it into FML for co-initialisation:
+[22:24:22] [main/DEBUG] [FML]: Instantiating coremod class ForgePlugin
+[22:24:22] [main/WARN] [FML]: The coremod eos.moe.dragoncore.tweaker.ForgePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:24:22] [main/WARN] [FML]: The coremod ForgePlugin (eos.moe.dragoncore.tweaker.ForgePlugin) is not signed!
+[22:24:22] [main/INFO] [STDOUT]: [eos.moe.dragoncore.tweaker.ForgePlugin:<init>:100]: [DragonCore] LoadingPlugin
+[22:24:22] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[22:24:22] [main/DEBUG] [FML]: Enqueued coremod ForgePlugin
+[22:24:22] [main/DEBUG] [mixin]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)
+[22:24:22] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)
+[22:24:22] [main/DEBUG] [mixin]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)
+[22:24:22] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)
+[22:24:22] [main/DEBUG] [mixin]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/C:/Users/Administrator/AppData/Roaming/PCL/JavaWrapper.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/mojang/patchy/1.3.9/patchy-1.3.9.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/google/guava/guava/21.0/guava-21.0.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/optifine/OptiFine/1.12.2_HD_U_G6_pre1/OptiFine-1.12.2_HD_U_G6_pre1-installer.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/versions/????-?????/????-?????.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/BetterFps-1.4.8.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/CreativeCore_v1.10.40_mc1.12.2.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/CustomNPCsFix-B1.2.2.9-1.12.2.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/CustomSkinLoader_Forge-14.13-SNAPSHOT-199.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/foamfix-0.10.11-1.12.2.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/Forgelin-1.8.4.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/OptiFine_1.12.2_HD_U_G5.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/ResourceLoader-MC1.12.1-1.5.3.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/SereneSeasons-1.12.2-1.2.18-universal.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/SmoothFont-mc1.12.2-2.1.2.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/stamina.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/memory_repo/org/teamrtg/PassableLeavesCore-1.12.2/1.0.0/PassableLeavesCore-1.12.2-1.0.0.jar for mixin tweaker
+[22:24:22] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)
+[22:24:22] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar)
+[22:24:22] [main/DEBUG] [mixin]: Adding mixin platform agents for container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar)
+[22:24:22] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar)
+[22:24:22] [main/DEBUG] [mixin]: MixinPlatformAgentFMLLegacy rejected container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar)
+[22:24:22] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar)
+[22:24:22] [main/DEBUG] [mixin]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar)
+[22:24:22] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar)
+[22:24:22] [main/DEBUG] [mixin]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar)
+[22:24:22] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)
+[22:24:22] [main/DEBUG] [mixin]: Adding mixin platform agents for container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)
+[22:24:22] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)
+[22:24:22] [main/DEBUG] [mixin]: ForceLoadAsMod was specified for Surge-1.12.2-2.0.77.jar, attempting force-load
+[22:24:22] [main/DEBUG] [mixin]: Adding Surge-1.12.2-2.0.77.jar to reparseable coremod collection
+[22:24:22] [main/DEBUG] [mixin]: Surge-1.12.2-2.0.77.jar has core plugin net.darkhax.surge.core.SurgeLoadingPlugin. Injecting it into FML for co-initialisation:
+[22:24:22] [main/DEBUG] [FML]: Instantiating coremod class SurgeLoadingPlugin
+[22:24:22] [main/DEBUG] [FML]: The coremod net.darkhax.surge.core.SurgeLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[22:24:22] [main/DEBUG] [FML]: Found signing certificates for coremod SurgeLoadingPlugin (net.darkhax.surge.core.SurgeLoadingPlugin)
+[22:24:22] [main/DEBUG] [FML]: Found certificate d476d1b22b218a10d845928d1665d45fce301b27
+[22:24:22] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[PREINIT]
+[22:24:22] [main/DEBUG] [FML]: Enqueued coremod SurgeLoadingPlugin
+[22:24:22] [main/DEBUG] [mixin]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)
+[22:24:22] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)
+[22:24:22] [main/DEBUG] [mixin]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)
+[22:24:22] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)
+[22:24:22] [main/DEBUG] [mixin]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)
+[22:24:22] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[22:24:22] [main/WARN] [LaunchWrapper]: Tweak class name optifine.OptiFineForgeTweaker has already been visited -- skipping
+[22:24:22] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[22:24:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:24:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:24:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:24:22] [main/INFO] [LaunchWrapper]: Calling tweak class customskinloader.forge.ForgeTweaker
+[22:24:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:22] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[22:24:22] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[22:24:22] [main/DEBUG] [mixin]: Checking for additional mixins for MixinEnvironment[PREINIT]
+[22:24:22] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[22:24:22] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[22:24:22] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[22:24:22] [main/DEBUG] [FML]: Injection complete
+[22:24:22] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[22:24:22] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[22:24:23] [main/DEBUG] [FML]: Read 1154 binary patches
+[22:24:23] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36076 records
+[22:24:24] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:24:24] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[22:24:24] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[22:24:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:24] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[22:24:24] [main/DEBUG] [FML]: Injection complete
+[22:24:24] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[22:24:24] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[22:24:24] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[22:24:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:24] [main/DEBUG] [FML]: Injecting coremod CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\} class transformers
+[22:24:24] [main/DEBUG] [FML]: Injection complete
+[22:24:24] [main/DEBUG] [FML]: Running coremod plugin for CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\}
+[22:24:24] [main/DEBUG] [FML]: Running coremod plugin CreativePatchingLoader
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class CreativePatchingLoader run successfully
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:25] [main/DEBUG] [FML]: Injecting coremod ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\} class transformers
+[22:24:25] [main/DEBUG] [FML]: Injection complete
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin for ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\}
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin ForgelinPlugin
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class ForgelinPlugin run successfully
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:25] [main/DEBUG] [FML]: Injecting coremod SSLoadingPlugin \{sereneseasons.asm.SSLoadingPlugin\} class transformers
+[22:24:25] [main/TRACE] [FML]: Registering transformer sereneseasons.asm.transformer.EntityRendererTransformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer sereneseasons.asm.transformer.WorldTransformer
+[22:24:25] [main/DEBUG] [FML]: Injection complete
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin for SSLoadingPlugin \{sereneseasons.asm.SSLoadingPlugin\}
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin SSLoadingPlugin
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class SSLoadingPlugin run successfully
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:25] [main/DEBUG] [FML]: Injecting coremod CorePlugin \{bre.smoothfont.asm.CorePlugin\} class transformers
+[22:24:25] [main/TRACE] [FML]: Registering transformer bre.smoothfont.asm.Transformer
+[22:24:25] [main/DEBUG] [FML]: Injection complete
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin for CorePlugin \{bre.smoothfont.asm.CorePlugin\}
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin CorePlugin
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: OptiFine was detected.
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class CorePlugin run successfully
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[22:24:25] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)]
+[22:24:25] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)]
+[22:24:25] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar)]
+[22:24:25] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)]
+[22:24:25] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)]
+[22:24:25] [main/DEBUG] [mixin]: Registering mixin config: mixins.surge.json
+[22:24:25] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)]
+[22:24:25] [main/DEBUG] [mixin]: Creating FML remapper adapter: org.spongepowered.asm.bridge.RemapperAdapterFML
+[22:24:25] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3ffb3598
+[22:24:25] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)]
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/C:/Users/Administrator/AppData/Roaming/PCL/JavaWrapper.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/mojang/patchy/1.3.9/patchy-1.3.9.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/google/guava/guava/21.0/guava-21.0.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/libraries/optifine/OptiFine/1.12.2_HD_U_G6_pre1/OptiFine-1.12.2_HD_U_G6_pre1-installer.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/versions/????-?????/????-?????.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/BetterFps-1.4.8.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/CreativeCore_v1.10.40_mc1.12.2.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/CustomNPCsFix-B1.2.2.9-1.12.2.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/CustomSkinLoader_Forge-14.13-SNAPSHOT-199.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/foamfix-0.10.11-1.12.2.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/Forgelin-1.8.4.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/OptiFine_1.12.2_HD_U_G5.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/ResourceLoader-MC1.12.1-1.5.3.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/SereneSeasons-1.12.2-1.2.18-universal.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/SmoothFont-mc1.12.2-2.1.2.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/stamina.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning file:/H:/game/a/.minecraft/mods/memory_repo/org/teamrtg/PassableLeavesCore-1.12.2/1.0.0/PassableLeavesCore-1.12.2-1.0.0.jar for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Scanning asmgen:/ for mixin tweaker
+[22:24:25] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)
+[22:24:25] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar)
+[22:24:25] [main/DEBUG] [mixin]: Adding agents for Mixin Container ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)
+[22:24:25] [main/DEBUG] [mixin]: inject() running with 3 agents
+[22:24:25] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)]
+[22:24:25] [main/DEBUG] [mixin]: FML agent is co-initiralising coremod instance ForgePlugin {[]} for ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)
+[22:24:25] [main/DEBUG] [FML]: Injecting coremod ForgePlugin \{eos.moe.dragoncore.tweaker.ForgePlugin\} class transformers
+[22:24:25] [main/DEBUG] [FML]: Injection complete
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin for ForgePlugin \{eos.moe.dragoncore.tweaker.ForgePlugin\}
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin ForgePlugin
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class ForgePlugin run successfully
+[22:24:25] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/DragonCore-2.4.72.jar)]
+[22:24:25] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/MixinBootstrap-1.0.5.jar)]
+[22:24:25] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)]
+[22:24:25] [main/DEBUG] [mixin]: FML agent is co-initiralising coremod instance SurgeLoadingPlugin {[]} for ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)
+[22:24:25] [main/DEBUG] [FML]: Injecting coremod SurgeLoadingPlugin \{net.darkhax.surge.core.SurgeLoadingPlugin\} class transformers
+[22:24:25] [main/DEBUG] [FML]: Injection complete
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin for SurgeLoadingPlugin \{net.darkhax.surge.core.SurgeLoadingPlugin\}
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin SurgeLoadingPlugin
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class SurgeLoadingPlugin run successfully
+[22:24:25] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/H:/game/a/.minecraft/mods/Surge-1.12.2-2.0.77.jar)]
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[22:24:25] [main/DEBUG] [BetterFps]: Loading Mappings...
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:24:25] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[22:24:25] [main/DEBUG] [FML]: Loaded 17 rules from AccessTransformer config file foamfix_runtime_at.cfg
+[22:24:25] [main/DEBUG] [FML]: Loaded 4 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\DrZharks-MoCreatures-Mod-12.0.5.jar!META-INF/mocreatures_at.cfg
+
+[22:24:25] [main/DEBUG] [FML]: Loaded 7 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\SereneSeasons-1.12.2-1.2.18-universal.jar!META-INF/sereneseasons_at.cfg
+
+[22:24:25] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\[???]worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar!META-INF/worldedit_at.cfg
+
+[22:24:25] [main/DEBUG] [FML]: Loaded 29 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\DragonCore-2.4.72.jar!META-INF/dragoncore_at.cfg
+
+[22:24:25] [main/DEBUG] [FML]: Loaded 9 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\[???NPC]CustomNPCs_1.12.2-(05Jul20).jar!META-INF/cnpcs_at.cfg
+
+[22:24:25] [main/DEBUG] [FML]: Loaded 12 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\SmoothFont-mc1.12.2-2.1.2.jar!META-INF/SmoothFont_at.cfg
+
+[22:24:25] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\journeymap-1.12.2-5.7.1.jar!META-INF/journeymap_at.cfg
+
+[22:24:25] [main/DEBUG] [FML]: Loaded 21 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\iblis-headshots-1.2.6.jar!META-INF/iblis_at.cfg
+
+[22:24:25] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\PassableLeaves-1.12.2-2.0.0.jar!META-INF/passableleaves_at.cfg
+
+[22:24:25] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\i18nupdatemod-1.12.2-1.1.0.jar!META-INF/i18nmod_at.cfg
+
+[22:24:25] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\ResourceLoader-MC1.12.1-1.5.3.jar!META-INF/ResourceLoader_At.cfg
+
+[22:24:25] [main/DEBUG] [FML]: Loaded 19 rules from AccessTransformer mod jar file H:\game\a\.minecraft\mods\CustomMainMenu-MC1.12-2.0.6.jar!META-INF/CustomMainMenu_At.cfg
+
+[22:24:25] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #2
+[22:24:25] [main/DEBUG] [FML]: Validating minecraft
+[22:24:25] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[INIT]
+[22:24:25] [main/DEBUG] [FML]: Minecraft validated, launching...
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:25] [main/DEBUG] [FML]: Injecting coremod CustomNPCFixPlugin \{mchhui.customnpcsfix.coremod.CustomNPCFixPlugin\} class transformers
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.noppes.npcs.util.NBTJsonUtilTransformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.noppes.npcs.roles.RoleCompanionTransformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.noppes.npcs.client.PacketHandlerClientTransformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.noppes.npcs.client.ClientTransFormer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.noppes.npcs.controllers.data.TransportLocationTransformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.noppes.npcs.controllers.data.QuestTransformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.noppes.npcs.client.renderer.RenderCustomNpcTansformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.noppes.npcs.ServerTransformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.noppes.npcs.api.wrapper.PlayerWrapperTransformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.xaero.common.minimap.waypoints.render.WaypointsGuiRendererTranformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.xaero.common.minimap.waypoints.render.WaypointsIngameRendererTranformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.journeymap.client.waypoint.WaypointStoreTransformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.com.mamiyaotaru.voxelmap.VoxelMapTransformer
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.customnpcsfix.coremod.net.minecraft.client.resources.ResourcePackRepositoryTransformer
+[22:24:25] [main/DEBUG] [FML]: Injection complete
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin for CustomNPCFixPlugin \{mchhui.customnpcsfix.coremod.CustomNPCFixPlugin\}
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin CustomNPCFixPlugin
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class CustomNPCFixPlugin run successfully
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:25] [main/DEBUG] [FML]: Injecting coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) \{pl.asie.foamfix.coremod.FoamFixCore\} class transformers
+[22:24:25] [main/TRACE] [FML]: Registering transformer pl.asie.foamfix.coremod.FoamFixTransformer
+[22:24:25] [main/DEBUG] [FML]: Injection complete
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin for Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) \{pl.asie.foamfix.coremod.FoamFixCore\}
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.)
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class FoamFixCore run successfully
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:25] [main/DEBUG] [FML]: Injecting coremod LoadingPlugin \{lumien.resourceloader.asm.LoadingPlugin\} class transformers
+[22:24:25] [main/TRACE] [FML]: Registering transformer lumien.resourceloader.asm.ClassTransformer
+[22:24:25] [main/DEBUG] [FML]: Injection complete
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin for LoadingPlugin \{lumien.resourceloader.asm.LoadingPlugin\}
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin LoadingPlugin
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class LoadingPlugin run successfully
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:25] [main/DEBUG] [FML]: Injecting coremod StaminaCorePlugin \{mchhui.stamina.coremod.StaminaCorePlugin\} class transformers
+[22:24:25] [main/TRACE] [FML]: Registering transformer mchhui.stamina.coremod.net.minecraft.client.renderer.entity.RenderLivingBaseTransformer
+[22:24:25] [main/DEBUG] [FML]: Injection complete
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin for StaminaCorePlugin \{mchhui.stamina.coremod.StaminaCorePlugin\}
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin StaminaCorePlugin
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class StaminaCorePlugin run successfully
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:25] [main/DEBUG] [FML]: Injecting coremod PassableLeavesCore \{teamrtg.passableleaves.asm.PassableLeavesCore\} class transformers
+[22:24:25] [main/TRACE] [FML]: Registering transformer teamrtg.passableleaves.asm.PassableLeavesTransformer
+[22:24:25] [main/DEBUG] [passableleavescore]: PassableLeavesTransformer Initialized
+[22:24:25] [main/DEBUG] [FML]: Injection complete
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin for PassableLeavesCore \{teamrtg.passableleaves.asm.PassableLeavesCore\}
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin PassableLeavesCore
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class PassableLeavesCore run successfully
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:24:25] [main/DEBUG] [FML]: Injecting coremod CustomSkinLoader \{customskinloader.forge.ForgePlugin\} class transformers
+[22:24:25] [main/TRACE] [FML]: Registering transformer customskinloader.forge.loader.LaunchWrapper
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:<init>:52]: Log Path: H:\game\a\.minecraft\.\CustomSkinLoader\ForgePlugin.log
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$MinecraftTransformer
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING CLASS net.minecraft.client.Minecraft
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$AbstractTextureTransfomer
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING CLASS net.minecraft.client.renderer.texture.AbstractTexture
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$TextureTransformer
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING CLASS net.minecraft.client.renderer.texture.Texture
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$TextureManagerTransformer
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING CLASS net.minecraft.client.renderer.texture.TextureManager
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$InitTransformer
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(<init>(Lnet/minecraft/client/renderer/texture/TextureManager;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V)
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinTransformer
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152789_a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkin(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadProfileTexturesTransformer
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152790_a(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadProfileTextures(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinFromCacheTransformer
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152788_a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkinFromCache(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.PlayerTabTransformer$ScoreObjectiveTransformer
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(func_175249_a(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(renderPlayerlist(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SpectatorMenuTransformer$PlayerMenuObjectTransformer
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.spectator.PlayerMenuObject(<init>(Lcom/mojang/authlib/GameProfile;)V)
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.TileEntitySkullTransformer$UpdateGameProfileTransformer
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.tileentity.TileEntitySkull(updateGameProfile(Lcom/mojang/authlib/GameProfile;)Lcom/mojang/authlib/GameProfile;)
+[22:24:25] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.tileentity.TileEntitySkull(func_174884_b(Lcom/mojang/authlib/GameProfile;)Lcom/mojang/authlib/GameProfile;)
+[22:24:25] [main/DEBUG] [FML]: Injection complete
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin for CustomSkinLoader \{customskinloader.forge.ForgePlugin\}
+[22:24:25] [main/DEBUG] [FML]: Running coremod plugin CustomSkinLoader
+[22:24:25] [main/DEBUG] [FML]: Coremod plugin class ForgePlugin run successfully
+[22:24:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:24:25] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:24:25] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:24:25] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[22:24:25] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #3
+[22:24:25] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[DEFAULT]
+[22:24:25] [main/DEBUG] [mixin]: Selecting config mixins.dragoncore.json
+[22:24:25] [main/DEBUG] [mixin]: Selecting config mixins.surge.json
+[22:24:25] [main/DEBUG] [mixin]: Preparing mixins.dragoncore.json (8)
+[22:24:25] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[22:24:25] [main/DEBUG] [mixin]: Rebuilding transformer delegation list:
+[22:24:25] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    optifine.OptiFineClassTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Excluding: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.sereneseasons.asm.transformer.EntityRendererTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.sereneseasons.asm.transformer.WorldTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.bre.smoothfont.asm.Transformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    guichaguri.betterfps.transformers.PatcherTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    guichaguri.betterfps.transformers.MathTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    pl.asie.foamfix.coremod.FoamFixAT
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.util.NBTJsonUtilTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.roles.RoleCompanionTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.client.PacketHandlerClientTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.client.ClientTransFormer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.controllers.data.TransportLocationTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.controllers.data.QuestTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.client.renderer.RenderCustomNpcTansformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.ServerTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.api.wrapper.PlayerWrapperTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.xaero.common.minimap.waypoints.render.WaypointsGuiRendererTranformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.xaero.common.minimap.waypoints.render.WaypointsIngameRendererTranformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.journeymap.client.waypoint.WaypointStoreTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.com.mamiyaotaru.voxelmap.VoxelMapTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.net.minecraft.client.resources.ResourcePackRepositoryTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.pl.asie.foamfix.coremod.FoamFixTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.lumien.resourceloader.asm.ClassTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.stamina.coremod.net.minecraft.client.renderer.entity.RenderLivingBaseTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.teamrtg.passableleaves.asm.PassableLeavesTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Adding:    $wrapper.customskinloader.forge.loader.LaunchWrapper
+[22:24:25] [main/DEBUG] [mixin]:   Excluding: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+[22:24:25] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[22:24:25] [main/DEBUG] [mixin]: Transformer delegation list created with 37 entries
+[22:24:25] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/BlockSkull to metadata cache
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: Transform: net.minecraft.client.gui.FontRenderer
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: OptiFine (int)charWidth[] was found.
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: INIT:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: READ_FONT_TEXTURE:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: READ_GLYPH_SIZES:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: RENDER_CHAR:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: RENDER_DEFAULT_CHAR:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: RENDER_UNICODE_CHAR:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: DRAW_STRING:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: RENDER_STRING_AT_POS:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: DO_DRAW:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: RENDER_STRING_ALIGNED:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: RENDER_STRING:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: GET_STRING_WIDTH:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: GET_CHAR_WIDTH:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: TRIM_STRING_TO_WIDTH:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: SET_UNICODE_FLAG:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: SIZE_STRING_TO_WIDTH:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: BIND_TEXTURE:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: GET_CHAR_WIDTH_FLOAT:true
+[22:24:25] [main/INFO] [SmoothFontCore ASM]: ** FontRenderer was transformed successfully.
+[22:24:25] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/gui/FontRenderer to metadata cache
+[22:24:25] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/gui/GuiChat to metadata cache
+[22:24:25] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/renderer/entity/layers/LayerArmorBase to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/renderer/RenderItem to metadata cache
+[22:24:26] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:113]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/tileentity/TileEntity to metadata cache
+[22:24:26] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] Successfully transformed method func_174884_b in class net.minecraft.tileentity.TileEntitySkull
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/tileentity/TileEntitySkull to metadata cache
+[22:24:26] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.sereneseasons.asm.transformer.WorldTransformer' was detected and will no longer process meta class data
+[22:24:26] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:100]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[22:24:26] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/World to metadata cache
+[22:24:26] [main/DEBUG] [mixin]: Preparing mixins.surge.json (9)
+[22:24:26] [main/DEBUG] [mixin]: Rebuilding transformer delegation list:
+[22:24:26] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    optifine.OptiFineClassTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Excluding: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.sereneseasons.asm.transformer.EntityRendererTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Excluding: $wrapper.sereneseasons.asm.transformer.WorldTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.bre.smoothfont.asm.Transformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    guichaguri.betterfps.transformers.PatcherTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    guichaguri.betterfps.transformers.MathTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    pl.asie.foamfix.coremod.FoamFixAT
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.util.NBTJsonUtilTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.roles.RoleCompanionTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.client.PacketHandlerClientTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.client.ClientTransFormer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.controllers.data.TransportLocationTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.controllers.data.QuestTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.client.renderer.RenderCustomNpcTansformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.ServerTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.noppes.npcs.api.wrapper.PlayerWrapperTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.xaero.common.minimap.waypoints.render.WaypointsGuiRendererTranformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.xaero.common.minimap.waypoints.render.WaypointsIngameRendererTranformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.journeymap.client.waypoint.WaypointStoreTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.com.mamiyaotaru.voxelmap.VoxelMapTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.customnpcsfix.coremod.net.minecraft.client.resources.ResourcePackRepositoryTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.pl.asie.foamfix.coremod.FoamFixTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.lumien.resourceloader.asm.ClassTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.mchhui.stamina.coremod.net.minecraft.client.renderer.entity.RenderLivingBaseTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.teamrtg.passableleaves.asm.PassableLeavesTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Adding:    $wrapper.customskinloader.forge.loader.LaunchWrapper
+[22:24:26] [main/DEBUG] [mixin]:   Excluding: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+[22:24:26] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[22:24:26] [main/DEBUG] [mixin]: Transformer delegation list created with 36 entries
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/passive/EntitySheep to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/Entity to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/item/EntityItem to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/registries/GameData to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/client/model/animation/ModelBlockAnimation to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/resources/FallbackResourceManager to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/resources/SimpleReloadableResourceManager to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/gui/GuiRepair to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/audio/SoundHandler to metadata cache
+[22:24:26] [main/DEBUG] [mixin]: Registering new injector for @Inject with org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo
+[22:24:26] [main/DEBUG] [mixin]: Registering new injector for @ModifyArg with org.spongepowered.asm.mixin.injection.struct.ModifyArgInjectionInfo
+[22:24:26] [main/DEBUG] [mixin]: Registering new injector for @ModifyArgs with org.spongepowered.asm.mixin.injection.struct.ModifyArgsInjectionInfo
+[22:24:26] [main/DEBUG] [mixin]: Registering new injector for @Redirect with org.spongepowered.asm.mixin.injection.struct.RedirectInjectionInfo
+[22:24:26] [main/DEBUG] [mixin]: Registering new injector for @ModifyVariable with org.spongepowered.asm.mixin.injection.struct.ModifyVariableInjectionInfo
+[22:24:26] [main/DEBUG] [mixin]: Registering new injector for @ModifyConstant with org.spongepowered.asm.mixin.injection.struct.ModifyConstantInjectionInfo
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for eos/moe/dragoncore/iIIIiIiIiI to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/renderer/GlStateManager$SourceFactor to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/renderer/GlStateManager$DestFactor to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/util/Constants$NBT to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for java/lang/invoke/MethodHandles$Lookup to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/fml/common/ProgressManager$ProgressBar to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for java/util/Map$Entry to metadata cache
+[22:24:26] [main/DEBUG] [mixin]: Prepared 17 mixins in 0.634 sec (37.3ms avg) (24ms load, 456ms transform, 0ms plugin)
+[22:24:26] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:24:26] [main/INFO] [BetterFps]: Patching net.minecraft.client.Minecraft... (bib)
+[22:24:26] [main/DEBUG] [ResourceLoader]: Found Minecraft Class: net/minecraft/client/Minecraft
+[22:24:26] [main/DEBUG] [ResourceLoader]:  - Found refreshResources 1/3
+[22:24:26] [main/DEBUG] [ResourceLoader]:  - Patched Patched refreshResources 2/3
+[22:24:26] [main/DEBUG] [ResourceLoader]:  - Patched refreshResources 3/3
+[22:24:26] [main/DEBUG] [ResourceLoader]:  - Patched refreshResources 3/3
+[22:24:26] [main/INFO] [STDOUT]: [customskinloader.Logger:log:72]: [main INFO] [CSL DEBUG] Successfully transformed class net/minecraft/client/Minecraft
+[22:24:26] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:100]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[22:24:26] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:137]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[22:24:26] [main/DEBUG] [mixin]: Mixing MixinWorld from mixins.dragoncore.json into net.minecraft.world.World
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for eos/moe/dragoncore/IIIiiIiIII to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/capabilities/ICapabilityProvider to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/IBlockAccess to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/injection/callback/CallbackInfo to metadata cache
+[22:24:26] [main/INFO] [SmoothFontCore ASM]: Transform: net.minecraftforge.client.GuiIngameForge
+[22:24:26] [main/INFO] [SmoothFontCore ASM]: RENDER_EXPERIENCE:true
+[22:24:26] [main/INFO] [SmoothFontCore ASM]: ** GuiIngameForge was transformed successfully.
+[22:24:26] [main/DEBUG] [mixin]: Mixing MixinGuiChat from mixins.dragoncore.json into net.minecraft.client.gui.GuiChat
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/gui/GuiScreen to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/gui/Gui to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for eos/moe/dragoncore/IIiiIIIIiI to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for java/util/concurrent/ConcurrentHashMap to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for java/util/Collection to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for java/util/Iterator to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for eos/moe/dragoncore/iiiIiIiiii to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for java/io/IOException to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for java/lang/Exception to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for java/lang/Throwable to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for eos/moe/dragoncore/iIiiiiIIii to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/gui/GuiYesNoCallback to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for eos/moe/dragoncore/iiiiIIIiIi to metadata cache
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/ITabCompleter to metadata cache
+[22:24:26] [main/DEBUG] [mixin]: Mixing minecraft.entity.MixinEntity from mixins.surge.json into net.minecraft.entity.Entity
+[22:24:26] [main/TRACE] [mixin]: Added class metadata for net/darkhax/surge/core/SurgeConfiguration to metadata cache
+[22:24:27] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/math/AxisAlignedBB to metadata cache
+[22:24:27] [main/TRACE] [mixin]: Added class metadata for net/minecraft/nbt/NBTTagCompound to metadata cache
+[22:24:27] [main/TRACE] [mixin]: Added class metadata for net/minecraft/nbt/NBTTagList to metadata cache
+[22:24:27] [main/TRACE] [mixin]: Added class metadata for net/minecraft/command/ICommandSender to metadata cache
+[22:24:27] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/capabilities/ICapabilitySerializable to metadata cache
+[22:24:27] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/util/INBTSerializable to metadata cache
+[22:24:27] [main/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable to metadata cache
+[22:24:27] [main/TRACE] [mixin]: Added class metadata for java/util/List to metadata cache
+[22:24:27] [main/TRACE] [mixin]: Added class metadata for java/util/ArrayList to metadata cache
+[22:24:27] [main/TRACE] [mixin]: Added class metadata for java/util/AbstractList to metadata cache
+[22:24:27] [main/TRACE] [mixin]: Added class metadata for java/util/AbstractCollection to metadata cache
+[22:24:27] [main/INFO] [BetterFps]: Patching net.minecraft.client.entity.EntityPlayerSP... (bud)
+[22:24:27] [main/ERROR] [LaunchWrapper]: Unable to launch
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_372]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_372]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_372]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_372]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_372]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_372]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_372]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_372]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) [JavaWrapper.jar:?]
+Caused by: java.lang.UnsatisfiedLinkError: no lwjgl64 in java.library.path
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1860) ~[?:1.8.0_372]
+	at java.lang.Runtime.loadLibrary0(Runtime.java:843) ~[?:1.8.0_372]
+	at java.lang.System.loadLibrary(System.java:1136) ~[?:1.8.0_372]
+	at org.lwjgl.Sys$1.run(Sys.java:72) ~[lwjgl-2.9.4-nightly-20150209.jar:?]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_372]
+	at org.lwjgl.Sys.doLoadLibrary(Sys.java:66) ~[lwjgl-2.9.4-nightly-20150209.jar:?]
+	at org.lwjgl.Sys.loadLibrary(Sys.java:87) ~[lwjgl-2.9.4-nightly-20150209.jar:?]
+	at org.lwjgl.Sys.<clinit>(Sys.java:117) ~[lwjgl-2.9.4-nightly-20150209.jar:?]
+	at net.minecraft.client.Minecraft.func_71386_F(Minecraft.java:2984) ~[bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:38) ~[Main.class:?]
+	... 12 more
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.reflect.InvocationTargetException
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.Runtime.exit(Runtime.java:101)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.System.exit(System.java:987)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:24:27] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 6 more

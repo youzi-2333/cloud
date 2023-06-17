@@ -1,0 +1,55 @@
+jlw: native file exists: 'C:\Users\14191\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-01 14:45:59,732 main WARN Advanced terminal features are not available in this environment
+[14:45:59] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Ma_zB, --version, tales of silent, --gameDir, D:\我的世界\PCL\.minecraft\versions\tales of silent, --assetsDir, D:\我的世界\PCL\.minecraft\assets, --assetIndex, 1.16, --uuid, 392846e7102c4f8497f4fdc2c527e960, --accessToken, ????????, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.35, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[14:45:59] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_281 by Oracle Corporation
+[14:46:00] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[14:46:00] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/D:/我的世界/PCL/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[14:46:02] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:60 token recognition error at: ';'
+[14:46:02] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[14:46:02] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[14:46:02] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 4:60 token recognition error at: ';'
+Init ItemPhysic coremods ...
+Init CreativeCore coremods ...
+[14:46:03] [main/ERROR] [mixin/]: Mixin config mixins.skillcloaks.json does not specify "minVersion" property
+[14:46:03] [main/ERROR] [mixin/]: Mixin config antiqueatlas.mixins.json does not specify "minVersion" property
+[14:46:03] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[14:46:03] [main/ERROR] [mixin/]: Mixin config unionlib.mixins.json does not specify "minVersion" property
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.infernalstudios.infernalexp.mixin.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [someoneelse.betternetherreforged.mixin.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.multibeds.mixins.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.robertx22.library_of_exile.main.MixinConnector]
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: java.lang.reflect.InvocationTargetException
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: Caused by: java.lang.UnsupportedClassVersionError: icyllis/modernui/forge/MixinConnector has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.ClassLoader.defineClass1(Native Method)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.ClassLoader.defineClass(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:138)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.Class.forName0(Native Method)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.Class.forName(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.service.modlauncher.ModLauncherClassProvider.findClass(ModLauncherClassProvider.java:67)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.loadConnectors(MixinConnectorManager.java:70)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.inject(MixinConnectorManager.java:59)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.platform.MixinPlatformManager.inject(MixinPlatformManager.java:196)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.MixinBootstrap.inject(MixinBootstrap.java:202)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:201)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:195)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchPluginHandler.lambda$announceLaunch$9(LaunchPluginHandler.java:97)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.util.HashMap.forEach(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchPluginHandler.announceLaunch(LaunchPluginHandler.java:97)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:52)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	... 6 more
+Exception in thread "main" 

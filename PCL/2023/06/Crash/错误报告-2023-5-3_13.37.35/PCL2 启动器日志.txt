@@ -1,0 +1,745 @@
+[13:35:31.289] [Start] 程序版本：Release 2.4.9（281）
+[13:35:31.291] [Start] 识别码：9B74-6877-B605-A071
+[13:35:31.291] [Start] 程序路径：D:\zero-one driver\Lost_CivilizationWilds\PCL2.exe
+[13:35:31.297] [Start] 第一阶段加载用时：63 ms
+[13:35:31.443] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[13:35:31.444] [Start] 第二阶段加载用时：141 ms
+[13:35:31.454] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[13:35:31.650] [System] 窗口已置顶，位置：(555, 271), 810 x 498
+[13:35:31.657] [Start] 第三阶段加载用时：62 ms
+[13:35:31.657] [Animation] 动画线程开始
+[13:35:31.659] [Start] 加载 DLL：Json
+[13:35:31.659] [System] 获取资源：Json
+[13:35:31.670] [Launch] Minecraft 文件夹：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\
+[13:35:31.719] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[13:35:31.726] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[13:35:31.758] [Skin] 载入头像成功：Loader Skin Ms
+[13:35:31.762] [Java] 缓存中有 3 个可用的 Java
+[13:35:31.823] [Minecraft] 启动按钮：Minecraft 版本：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\
+[13:35:31.832] [Loader] 加载器 登录 状态改变：Loading
+[13:35:31.837] [Launch] 登录加载已开始
+[13:35:31.838] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[13:35:31.841] [Launch] 登录方式：微软正版（xiao30000）
+[13:35:31.842] [Launch] 开始微软登录步骤 2（刷新登录）
+[13:35:31.849] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[13:35:31.973] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[13:35:31.974] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[13:35:31.975] [Server] 正在连接到 PCL2 服务器
+[13:35:31.981] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[13:35:31.988] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1683092132-7ff842fc-0-5dd7016a2a198a600fd22ad3ad728ebc，最大超时 10000
+[13:35:32.017] [Server] 服务器公告：102|289|286|5，无需更新
+[13:35:32.025] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[13:35:32.367] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[13:35:32.376] [System] DPI：96，系统版本：10.0.19044.0，PCL 位置：D:\zero-one driver\Lost_CivilizationWilds\PCL2.exe
+[13:35:33.220] [Launch] 开始微软登录步骤 3
+[13:35:33.220] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[13:35:33.483] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[13:35:33.995] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[13:35:34.201] [Control] 按下按钮：版本选择
+[13:35:34.221] [Control] 切换主要页面：VersionSelect, 0
+[13:35:34.402] [Minecraft] 有效的 Minecraft 文件夹：Lost_CivilizationWilds > D:\zero-one driver\Lost_CivilizationWilds\.minecraft\
+[13:35:34.424] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[13:35:34.439] [Setup] 当前选择的 Minecraft 版本：[1.18.2]Lost_CivilizationWilds
+[13:35:34.439] [Minecraft] 选择该文件夹储存的 Minecraft 版本：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\
+[13:35:34.490] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[13:35:34.748] [Launch] 开始微软登录步骤 4
+[13:35:34.749] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[13:35:35.010] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[13:35:35.516] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[13:35:36.285] [Launch] 开始微软登录步骤 5
+[13:35:36.285] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[13:35:36.388] [Control] 切换主要页面：VersionSetup, 0
+[13:35:36.546] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[13:35:37.052] [Launch] 开始微软登录步骤 6
+[13:35:37.052] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[13:35:37.307] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[13:35:37.812] [Launch] 微软登录完成
+[13:35:37.812] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[13:35:37.827] [Launch] 登录加载已结束
+[13:35:37.827] [Loader] 加载器 登录 状态改变：Finished
+[13:35:38.081] [Control] 按下单选列表项：设置
+[13:35:40.689] [Control] 按下单选框：自动配置
+[13:35:41.225] [Control] 按下单选框：自定义
+[13:35:43.729] [Control] 按下图标按钮：BtnTitleInner
+[13:35:43.729] [Control] 切换主要页面：VersionSelect, -1
+[13:35:43.890] [Control] 按下图标按钮：BtnTitleInner
+[13:35:43.891] [Control] 切换主要页面：Launch, -1
+[13:35:44.937] [Control] 按下按钮：启动游戏
+[13:35:44.939] [Loader] 加载器 Loader Launch 状态改变：Loading
+[13:35:44.948] [System] 欲读取的文件不存在，已返回空字符串：D:\zero-one driver\Lost_CivilizationWilds\PCL\hints.txt
+[13:35:44.958] [Launch] 预检测已通过
+[13:35:44.963] [Download] 开始后台更新资源文件索引
+[13:35:44.964] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[13:35:44.966] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[13:35:44.968] [Loader] 加载器 登录 状态改变：Waiting
+[13:35:44.968] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[13:35:44.968] [Loader] 加载器 Java 处理 状态改变：Loading
+[13:35:44.969] [Download] 版本 [1.18.2]Lost_CivilizationWilds 对应的资源文件索引为 1.18
+[13:35:44.971] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[13:35:44.973] [Loader] 加载器 Java 验证 状态改变：Loading
+[13:35:44.973] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[13:35:44.974] [Loader] 加载器 登录 状态改变：Loading
+[13:35:44.974] [Loader] 加载器 补全文件 状态改变：Loading
+[13:35:44.974] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[13:35:44.974] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[13:35:44.974] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[13:35:44.980] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[13:35:44.981] [Download] 版本 [1.18.2]Lost_CivilizationWilds 对应的资源文件索引为 1.18
+[13:35:44.981] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[13:35:44.986] [Launch] 登录加载已开始
+[13:35:44.994] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[13:35:44.995] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[13:35:44.995] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[13:35:44.995] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[13:35:44.996] [Java] 开始完全遍历查找：D:\zero-one driver\Lost_CivilizationWilds\
+[13:35:45.001] [Java] 开始完全遍历查找：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\
+[13:35:45.005] [Java] 开始完全遍历查找：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\
+[13:35:45.008] [Java] 使用用户指定的 Java：C:\Program Files\Java\jdk-17.0.1\bin\
+[13:35:45.017] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[13:35:45.019] [Launch] 登录方式：微软正版（xiao30000）
+[13:35:45.019] [Launch] 微软登录完成
+[13:35:45.019] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[13:35:45.021] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-17.0.1\bin\java.exe -version
+[13:35:45.023] [Launch] 登录加载已结束
+[13:35:45.023] [Loader] 加载器 登录 状态改变：Finished
+[13:35:45.064] [Minecraft] 获取支持库列表：[1.18.2]Lost_CivilizationWilds
+[13:35:45.101] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[13:35:45.101] [Loader] 加载器 下载资源文件 状态改变：Loading
+[13:35:45.101] [Loader] 加载器 下载资源文件 状态改变：Finished
+[13:35:45.102] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[13:35:45.141] [Java] 选定的 Java：JDK 17 (17.0.1)，64 位，手动导入：C:\Program Files\Java\jdk-17.0.1\bin\
+[13:35:45.142] [Launch] 选择的 Java：JDK 17 (17.0.1)，64 位，手动导入：C:\Program Files\Java\jdk-17.0.1\bin\
+[13:35:45.142] [Loader] 加载器 Java 验证 状态改变：Finished
+[13:35:45.142] [Loader] 加载器 Java 处理 状态改变：Finished
+[13:35:45.147] [Download] 1.18.json 547#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/92aa15a18127b6f9e3f0e5a7d018be7ebb389703/1.18.json
+[13:35:45.305] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[13:35:45.305] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[13:35:45.306] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[13:35:45.306] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[13:35:45.306] [Loader] 加载器 补全文件 状态改变：Finished
+[13:35:45.307] [Loader] 加载器 获取启动参数 状态改变：Loading
+[13:35:45.309] [Launch] 开始获取 Minecraft 启动参数
+[13:35:45.309] [Launch] 获取新版 JVM 参数
+[13:35:45.313] [Launch] 当前剩余内存：7.5G
+[13:35:45.314] [System] 获取资源：JavaWrapper
+[13:35:45.314] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[13:35:45.314] [Launch] 新版 JVM 参数获取成功：
+[13:35:45.314] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx11264m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[13:35:45.314] [Launch] 获取新版 Game 参数
+[13:35:45.316] [Launch] 新版 Game 参数获取成功
+[13:35:45.320] [Minecraft] 获取支持库列表：[1.18.2]Lost_CivilizationWilds
+[13:35:45.331] [Launch] Minecraft 启动参数：
+[13:35:45.333] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\[1.18.2]Lost_CivilizationWilds-natives" -Dminecraft.launcher.brand=PCL2 -Dminecraft.launcher.version=281 -cp "D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\cpw\mods\securejarhandler\1.0.3\securejarhandler-1.0.3.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\ow2\asm\asm\9.2\asm-9.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\ow2\asm\asm-commons\9.2\asm-commons-9.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\ow2\asm\asm-tree\9.2\asm-tree-9.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\ow2\asm\asm-util\9.2\asm-util-9.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\ow2\asm\asm-analysis\9.2\asm-analysis-9.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecraftforge\eventbus\5.0.3\eventbus-5.0.3.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecraftforge\forgespi\4.0.15-4.x\forgespi-4.0.15-4.x.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\cpw\mods\modlauncher\9.1.3\modlauncher-9.1.3.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecraftforge\JarJar\0.3.0\JarJar-0.3.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\cpw\mods\bootstraplauncher\1.0.0\bootstraplauncher-1.0.0.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries\net\minecraftforge\fmlloader\1.18.2-40.2.2\fmlloader-1.18.2-40.2.2.jar;D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\[1.18.2]Lost_CivilizationWilds.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,[1.18.2]Lost_CivilizationWilds.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory="D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries" -p "D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar;"D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries"/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar;"D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries"/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar;"D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries"/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar;"D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar;"D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries"/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;"D:\zero-one driver\Lost_CivilizationWilds\.minecraft\libraries"/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx11264m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username xiao30000 --version [1.18.2]Lost_CivilizationWilds --gameDir "D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds" --assetsDir "D:\zero-one driver\Lost_CivilizationWilds\.minecraft\assets" --assetIndex 1.18 --uuid cf9c3092df384247931a37f393d076b0 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXF-uiQ --clientId ${clientid} --xuid ${auth_xuid} --userType Mojang --versionType PCL2 --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 40.2.2 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914 
+[13:35:45.333] [Loader] 加载器 获取启动参数 状态改变：Finished
+[13:35:45.338] [Loader] 加载器 解压文件 状态改变：Loading
+[13:35:45.345] [Launch] 正在解压 Natives 文件
+[13:35:45.347] [Loader] 加载器 解压文件 状态改变：Finished
+[13:35:45.418] [Loader] 加载器 预启动处理 状态改变：Loading
+[13:35:45.440] [Launch] 已更新 launcher_profiles.json
+[13:35:45.440] [Launch] 并非首次启动，不修改语言
+[13:35:45.441] [Loader] 加载器 预启动处理 状态改变：Finished
+[13:35:45.494] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[13:35:45.500] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[13:35:45.545] [Download] 1.18.json：文件大小 348726 B（341 K）
+[13:35:45.569] [Loader] 加载器 启动进程 状态改变：Loading
+[13:35:45.574] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-17.0.1\bin\javaw.exe
+[13:35:45.574] [Loader] 加载器 启动进程 状态改变：Finished
+[13:35:45.649] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[13:35:45.651] [Launch] 
+[13:35:45.651] [Launch] ~ 基础参数 ~
+[13:35:45.651] [Launch] PCL2 版本：Release 2.4.9 (281)
+[13:35:45.651] [Launch] 游戏版本：1.18.2, Forge 40.2.2（18.2）
+[13:35:45.651] [Launch] 资源版本：1.18
+[13:35:45.651] [Launch] 版本继承：无
+[13:35:45.651] [Launch] 分配的内存：11 GB（11264 MB）
+[13:35:45.651] [Launch] MC 文件夹：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\
+[13:35:45.651] [Launch] 版本文件夹：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\
+[13:35:45.651] [Launch] 版本隔离：True
+[13:35:45.651] [Launch] HMCL 格式：False
+[13:35:45.651] [Launch] Java 信息：JDK 17 (17.0.1)，64 位，手动导入：C:\Program Files\Java\jdk-17.0.1\bin\
+[13:35:45.652] [Launch] 环境变量：未设置
+[13:35:45.652] [Launch] 
+[13:35:45.652] [Launch] ~ 登录参数 ~
+[13:35:45.652] [Launch] 玩家用户名：xiao30000
+[13:35:45.652] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXF-uiQ
+[13:35:45.652] [Launch] ClientToken：cf9c3092df384247931a37f393d076b0
+[13:35:45.652] [Launch] UUID：cf9c3092df384247931a37f393d076b0
+[13:35:45.652] [Launch] 登录方式：Microsoft
+[13:35:45.652] [Launch] 
+[13:35:45.656] [Launch] [7004] 开始 Minecraft 日志监控
+[13:35:45.656] [Launch] [全局] 出现运行中的 Minecraft
+[13:35:46.307] [Download] 1.18.json：已完成，剩余文件 0
+[13:35:46.308] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[13:35:46.309] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[13:35:46.312] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.18.json
+[13:35:46.312] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[13:35:46.312] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[13:35:48.264] [Launch] [7004] 日志 1/5：已出现日志输出
+[13:35:57.846] [Report] FPS 0, 动画 10, 下载中 0（0 B/s）
+[13:36:19.205] [Report] FPS 0, 动画 8, 下载中 0（0 B/s）
+[13:36:27.159] [Launch] [7004] 日志 2/5：游戏用户已设置
+[13:36:27.629] [Launch] [7004] 日志 3/5：LWJGL 版本已确认
+[13:36:29.209] [Animation] 两个动画帧间隔 1406 ms
+[13:36:29.433] [Launch] [7004] Minecraft 窗口已加载：（853172）
+[13:36:29.660] [Launch] [7004] Minecraft 加载已完成
+[13:36:29.675] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[13:36:29.748] [Loader] 加载器 结束处理 状态改变：Loading
+[13:36:29.777] [Launch] 开始启动结束处理
+[13:36:29.777] [Launch] 启动器可见性：2
+[13:36:29.777] [Launch] 已根据设置，在启动后隐藏启动器
+[13:36:29.778] [Loader] 加载器 结束处理 状态改变：Finished
+[13:36:29.862] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[13:36:29.870] [System] 窗口已隐藏，位置：(-9445,271)
+[13:36:30.116] [Loader] 加载器 Loader Launch 状态改变：Finished
+[13:36:30.177] [UI] 弹出提示：[1.18.2]Lost_CivilizationWilds 启动成功！
+[13:37:30.596] [Launch] [7004] Minecraft 已退出，返回值：1
+[13:37:30.596] [Launch] [7004] Minecraft 返回值异常，可能已崩溃
+[13:37:30.597] [Launch] [全局] 已无运行中的 Minecraft
+[13:37:30.598] [Launch] [7004] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[13:37:30.688] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[13:37:30.696] [System] 窗口已置顶，位置：(555, 271), 810 x 498
+[13:37:30.832] [Launch] [7004] Minecraft 日志监控已退出
+[13:37:32.606] [Launch] [7004] 崩溃分析开始
+[13:37:32.633] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\70042489586\
+[13:37:32.651] [Crash] 步骤 1：收集日志文件
+[13:37:32.651] [Crash] 可能可用的日志文件：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\logs\latest.log（0 分钟）
+[13:37:32.651] [Crash] 可能可用的日志文件：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\logs\debug.log（0 分钟）
+[13:37:32.698] [Crash] 以下为游戏输出的最后一段内容：
+[13:36:42] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
+[13:36:42] [modloading-worker-0/INFO] [ne.mi.co.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.2, for MC 1.18.2 with MCP 20220404.173914
+[13:36:42] [modloading-worker-0/INFO] [ne.mi.co.MinecraftForge/FORGE]: MinecraftForge v40.2.2 Initialized
+[13:36:42] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[13:36:43] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:edit_nbt
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[13:36:43] [modloading-worker-0/INFO] [co.tt.re.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:sync_teams
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:sync_message_history
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:open_my_team_gui
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:update_settings_response
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:send_message_response
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:update_presence
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[13:36:43] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[13:36:43] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[13:36:43] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[13:36:43] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.BetterChannel$PartialPacketBegin
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/61a49a35c5283c0aaa7b0dfea5b7a53a
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/61a49a35c5283c0aaa7b0dfea5b7a53a
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.BetterChannel$PartialPacketBegin
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.BetterChannel$PartialPacketData
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/3dd73fd88be832559bc3a3c4a2e63b4a
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/3dd73fd88be832559bc3a3c4a2e63b4a
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.BetterChannel$PartialPacketData
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$InitTPSProfile
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/b453c08f23b83b82b690c31bf8b2a45a
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/b453c08f23b83b82b690c31bf8b2a45a
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$InitTPSProfile
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$RequestTeleport
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/3a13df9e0b0a3290bb99252e1f8f68a2
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/3a13df9e0b0a3290bb99252e1f8f68a2
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$RequestTeleport
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$RequestAvailability
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/0c662822629034678f5a8f0e70375315
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/0c662822629034678f5a8f0e70375315
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$RequestAvailability
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingStarted
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/2e815604a29b3a5cbfe0208e619d86c4
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/2e815604a29b3a5cbfe0208e619d86c4
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingStarted
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingCompleted
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/9ae83199b65a3768862799cc5e461a02
+[13:36:43] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/9ae83199b65a3768862799cc5e461a02
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingCompleted
+[13:36:43] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilerInactive
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/ae8dfae1238e312397aa53e9d14c45ca
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/ae8dfae1238e312397aa53e9d14c45ca
+[13:36:44] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilerInactive
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_quests
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_team_data
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:update_task_progress
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:claim_reward_response
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_editing_mode
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:create_other_team_data
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_completion_toast
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_reward_toast
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_item_reward_toast
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:toggle_pinned_response
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:toggle_chapter_pinned_response
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:update_team_data
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_started
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_completed
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_started_reset
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_completed_reset
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_lock
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:reset_reward
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:team_data_changed
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:task_screen_config_req
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[13:36:44] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingResult
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/3a94cae7336038df9152bcb7b4b94825
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/3a94cae7336038df9152bcb7b4b94825
+[13:36:44] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingResult
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:create_object_response
+[13:36:44] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$Availability
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:delete_object_response
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:edit_object_response
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_chapter_response
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/c86a824e756d312396d1ba30e943e6aa
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/c86a824e756d312396d1ba30e943e6aa
+[13:36:44] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$Availability
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_quest_response
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
+[13:36:44] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ConsiderProfiling
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:change_chapter_group_response
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_chapter_group_response
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_reward_blocking
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/80ae5e04c32934dab1c17d27a88baf19
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id minecraft:channel/observable/80ae5e04c32934dab1c17d27a88baf19
+[13:36:44] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ConsiderProfiling
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
+[13:36:44] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[13:36:44] [modloading-worker-0/INFO] [co.tt.re.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[13:36:44] [modloading-worker-0/INFO] [co.tt.re.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[13:36:45] [modloading-worker-0/INFO] [Enchantment Descriptions/]: Loaded config file.
+[13:36:45] [modloading-worker-0/INFO] [Enchantment Descriptions/]: Saved config file.
+[13:36:45] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[13:36:46] [modloading-worker-0/INFO] [betterstats/]: Initializing 'Better Statistics Screen' as 'BetterStatsClient'.
+[13:36:46] [modloading-worker-0/ERROR] [ne.mi.co.Co.adpother/COREMODLOG]: FAILED: target node not found!
+[13:36:47] [modloading-worker-0/INFO] [co.sa.mi.re.re.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[13:36:47] [modloading-worker-0/INFO] [jecharacters/]: Good to see you, Snownee
+[13:36:47] [modloading-worker-0/INFO] [jecharacters/]: Good to see you, TartaricAcid
+[13:36:47] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[13:36:47] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[13:36:47] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[13:36:47] [modloading-worker-0/INFO] [co.tt.re.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[13:36:48] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[13:36:48] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[13:36:48] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+[13:36:48] [modloading-worker-0/INFO] [co.tt.re.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[13:36:48] [modloading-worker-0/INFO] [be.fl.ex.ExpandAbility/]: ExpandAbility here, who dis?
+[13:36:48] [modloading-worker-0/INFO] [co.tt.re.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[13:36:48] [modloading-worker-0/WARN] [mixin/]: @ModifyConstant conflict. Skipping appetite.mixins.json:FoodDataMixin->@ModifyConstant::getMaxExhaustionDelta(F)F with priority 1000, already redirected by appetite.mixins.json:FoodDataMixin->@ModifyConstant::getMaxExhaustion(F)F with priority 1000
+[13:36:48] [modloading-worker-0/INFO] [co.tt.re.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[13:36:51] [modloading-worker-0/INFO] [co.sk.we.WeaponMaster/]: Total varients loaded: 1509035
+[13:36:59] [Render thread/INFO] [cl.ia.se.SeasonHUD/]: HELLO from Register Block
+[13:37:04] [Render thread/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `create_central_kitchen`. This could be a intended override, but in most cases indicates a broken mod.
+[13:37:05] [Render thread/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `domum_ornamentum` for name `architects_cutter`, expected `minecolonies`. This could be a intended override, but in most cases indicates a broken mod.
+[13:37:06] [Render thread/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[13:37:06] [Render thread/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[13:37:06] [Render thread/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `thirst` for name `bedroom_width`, expected `villagercomfort`. This could be a intended override, but in most cases indicates a broken mod.
+[13:37:08] [Render thread/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[13:37:08] [Render thread/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `betteroceanmonuments` for name `ocean_monument`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[13:37:09] [Render thread/INFO] [Open Loader/]: Preparing Resource Pack injection.
+[13:37:09] [Render thread/INFO] [Open Loader/]: Loaded archive Resource Pack from D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\openloader\resources\Minecraft-Mod-Language-Package-1.18.zip.
+[13:37:09] [Render thread/INFO] [Open Loader/]: Loaded archive Resource Pack from D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\openloader\resources\[1.18.2]LCW_TEX.zip.
+[13:37:09] [Render thread/INFO] [Open Loader/]: Successfully injected 2/2 packs from D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\openloader\resources.
+[13:37:09] [Render thread/INFO] [FileResourcePackProviderMixin/]: BRRP register - before user
+[13:37:10] [Render thread/INFO] [Oculus/]: Hardware information:
+[13:37:10] [Render thread/INFO] [Oculus/]: CPU: 4x Intel(R) Core(TM) i5-4460 CPU @ 3.20GHz
+[13:37:10] [Render thread/INFO] [Oculus/]: GPU: Intel(R) HD Graphics 4600 (Supports OpenGL 4.1.0 - Build 20.19.15.4703)
+[13:37:10] [Render thread/INFO] [Oculus/]: OS: Windows 10 (10.0)
+[13:37:10] [Render thread/INFO] [bi.fo.FogLooksGoodNowMod/]: Initialized Density Manager
+[13:37:13] [Render thread/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `fallingleaves` for name `falling_leaf`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:37:13] [Render thread/INFO] [ne.mi.re.GameData/]: Potentially Dangerous alternative prefix `fallingleaves` for name `falling_leaf_conifer`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:37:13] [Render thread/INFO] [ModernUI/UIManager]: UI manager initialized
+[13:37:13] [Render thread/INFO] [mojang/NarratorWindows]: Narrator library for x64 successfully loaded
+[13:37:15] [UI thread/INFO] [ModernUI/UIManager]: UI thread initialized in 1867ms
+[13:37:15] [Render thread/INFO] [minecraft/ReloadableResourceManager]: Reloading ResourceManager: Default, Mod Resources, Minecraft-Mod-Language-Package-1.18.zip, [1.18.2]LCW_TEX.zip
+[13:37:15] [Render thread/INFO] [LifecycledResourceManagerImplMixin/]: BRRP register - before vanilla
+[13:37:15] [Render thread/INFO] [LifecycledResourceManagerImplMixin/]: BRRP register - after vanilla
+[13:37:17] [Render thread/INFO] [gg.mo.po.ap.re.mo.ResourceModifierManager/]: Loaded 0 resource modifiers
+[13:37:17] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading client config for pickupnotifier
+[13:37:17] [Render thread/INFO] [defaultoptions/]: Loaded default options for keymappings
+[13:37:17] [modloading-worker-0/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\waterdripsound-client.toml is not correct. Correcting
+[13:37:17] [modloading-worker-0/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key General.soundCategory was corrected from AMBIENT to its default, AMBIENT. 
+[13:37:17] [modloading-worker-0/INFO] [bi.fo.FogLooksGoodNowMod/]: Initialized Config Values
+[13:37:18] [modloading-worker-0/INFO] [ModernUI/Core]: Font Noto Sans failed to load or invalid
+[13:37:18] [modloading-worker-0/INFO] [ModernUI/Core]: Font San Francisco failed to load or invalid
+[13:37:18] [modloading-worker-0/INFO] [ModernUI/Core]: Font STHeiti failed to load or invalid
+[13:37:18] [modloading-worker-0/INFO] [ModernUI/Core]: Loaded typeface: {Minecraft,Segoe UI,Source Han Sans CN Medium,Calibri,Microsoft YaHei UI,SimHei,SansSerif}
+java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList$SubList.get(ArrayList.java:1149)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:306)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:282)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.createFunction(MathBuilder.java:439)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:266)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:308)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:283)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.core.molang.MolangParser.parseSymbolsMolang(MolangParser.java:228)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.core.molang.MolangParser.parseOneLine(MolangParser.java:216)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.core.molang.MolangParser.parseExpression(MolangParser.java:174)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.core.molang.MolangParser.parseJson(MolangParser.java:154)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.parseExpression(JsonKeyFrameUtils.java:180)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJson(JsonKeyFrameUtils.java:58)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJsonToRotationKeyFrames(JsonKeyFrameUtils.java:174)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.util.json.JsonAnimationUtils.deserializeJsonToAnimation(JsonAnimationUtils.java:277)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.file.AnimationFileLoader.loadAllAnimations(AnimationFileLoader.java:33)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.resource.GeckoLibCache.lambda$reload$0(GeckoLibCache.java:73)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.resource.GeckoLibCache.lambda$loadResources$5(GeckoLibCache.java:92)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList$SubList.get(ArrayList.java:1149)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:306)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:282)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.createFunction(MathBuilder.java:439)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:266)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:308)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:283)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.core.molang.MolangParser.parseSymbolsMolang(MolangParser.java:228)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.core.molang.MolangParser.parseOneLine(MolangParser.java:216)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.core.molang.MolangParser.parseExpression(MolangParser.java:174)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.core.molang.MolangParser.parseJson(MolangParser.java:154)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.parseExpression(JsonKeyFrameUtils.java:180)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJson(JsonKeyFrameUtils.java:58)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJsonToRotationKeyFrames(JsonKeyFrameUtils.java:174)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.util.json.JsonAnimationUtils.deserializeJsonToAnimation(JsonAnimationUtils.java:277)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.file.AnimationFileLoader.loadAllAnimations(AnimationFileLoader.java:33)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.resource.GeckoLibCache.lambda$reload$0(GeckoLibCache.java:73)
+	at TRANSFORMER/geckolib3@3.0.57/software.bernie.geckolib3.resource.GeckoLibCache.lambda$loadResources$5(GeckoLibCache.java:92)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList$SubList.get(ArrayList.java:1149)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:307)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:283)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.createFunction(MathBuilder.java:440)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:267)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:309)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:284)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.molang.MolangParser.parseSymbolsMolang(MolangParser.java:205)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.molang.MolangParser.parseOneLine(MolangParser.java:194)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.molang.MolangParser.parseExpression(MolangParser.java:146)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.molang.MolangParser.parseJson(MolangParser.java:115)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.util.json.JsonKeyFrameUtils.parseExpression(JsonKeyFrameUtils.java:178)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.util.json.JsonKeyFrameUtils.convertJson(JsonKeyFrameUtils.java:55)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.util.json.JsonKeyFrameUtils.convertJsonToRotationKeyFrames(JsonKeyFrameUtils.java:172)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.util.json.JsonAnimationUtils.deserializeJsonToAnimation(JsonAnimationUtils.java:279)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.file.AnimationFileLoader.loadAllAnimations(AnimationFileLoader.java:33)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.resource.GeckoLibCache.lambda$reload$0(GeckoLibCache.java:70)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.resource.GeckoLibCache.lambda$loadResources$5(GeckoLibCache.java:89)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList$SubList.get(ArrayList.java:1149)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:307)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:283)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.createFunction(MathBuilder.java:440)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:267)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:309)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:284)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.molang.MolangParser.parseSymbolsMolang(MolangParser.java:205)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.molang.MolangParser.parseOneLine(MolangParser.java:194)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.molang.MolangParser.parseExpression(MolangParser.java:146)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.shadowed.eliotlash.molang.MolangParser.parseJson(MolangParser.java:115)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.util.json.JsonKeyFrameUtils.parseExpression(JsonKeyFrameUtils.java:178)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.util.json.JsonKeyFrameUtils.convertJson(JsonKeyFrameUtils.java:55)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.util.json.JsonKeyFrameUtils.convertJsonToRotationKeyFrames(JsonKeyFrameUtils.java:172)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.util.json.JsonAnimationUtils.deserializeJsonToAnimation(JsonAnimationUtils.java:279)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.file.AnimationFileLoader.loadAllAnimations(AnimationFileLoader.java:33)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.resource.GeckoLibCache.lambda$reload$0(GeckoLibCache.java:70)
+	at TRANSFORMER/ars_nouveau@2.8.0/software.bernie.ars_nouveau.geckolib3.resource.GeckoLibCache.lambda$loadResources$5(GeckoLibCache.java:89)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[13:37:19] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:biome_dictionary
+[13:37:19] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:loot_table_alias
+[13:37:20] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:data_handler_type
+[13:37:20] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:dynamic_spawner
+[13:37:20] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
+[13:37:20] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered terrablender:deferred_placeholder to [structure_gel:neutral_temp, structure_gel:dry]
+[13:37:20] [modloading-worker-0/INFO] [co.to.st.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[13:37:20] [Worker-Main-5/WARN] [minecraft/SoundManager]: File majruszsdifficulty:sounds/entity/cerberus_growl.ogg does not exist, cannot add it to event majruszsdifficulty:entity.cerberus_growl
+[13:37:20] [Worker-Main-5/WARN] [minecraft/SoundManager]: File majruszsdifficulty:sounds/entity/cerberus_bite.ogg does not exist, cannot add it to event majruszsdifficulty:entity.cerberus_bite
+[13:37:20] [Worker-Main-5/WARN] [minecraft/SoundManager]: File minecraft:sounds/item.totem.use.ogg does not exist, cannot add it to event rankine:totem_of_enduring_use
+[13:37:20] [modloading-worker-0/INFO] [co.to.cr.CreateOreExcavation/]: Loaded Create Ore Excavation config file createoreexcavation-common.toml
+[13:37:21] [modloading-worker-0/INFO] [cuneiform/]: Loading config file cuneiform-common.toml
+[13:37:21] [Thread-0/INFO] [cuneiform/]: Reloading config file cuneiform-common.toml
+[13:37:22] [modloading-worker-0/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\itemborders-common.toml is not correct. Correcting
+[13:37:22] [modloading-worker-0/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\config\drinkit-common.toml is not correct. Correcting
+[13:37:22] [modloading-worker-0/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key drinkable was corrected from [minecraft:beetroot_soup, example:another_drinkable] to its default, [minecraft:beetroot_soup, example:another_drinkable]. 
+[13:37:22] [modloading-worker-0/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key thick was corrected from [minecraft:suspicious_stew, example:another_thick] to its default, [minecraft:suspicious_stew, example:another_thick]. 
+[13:37:22] [modloading-worker-0/INFO] [cc.ap.Main/]: Loaded config appetite-common.toml
+[13:37:22] [modloading-worker-0/INFO] [cc.ap.Main/]: Loaded config appetite/peckish-profile.toml
+[13:37:22] [modloading-worker-0/INFO] [cc.ap.Main/]: Loaded config appetite/hungry-profile.toml
+[13:37:22] [modloading-worker-0/INFO] [cc.ap.Main/]: Loaded config appetite/starving-profile.toml
+[13:37:22] [modloading-worker-0/INFO] [cc.ap.Main/]: Loaded config appetite/custom-profile.toml
+[13:37:24] [Worker-Main-10/INFO] [co.or.bb.BetterBlockSounds/]: HELLO FROM PREINIT
+[13:37:24] [Worker-Main-10/INFO] [co.or.bb.BetterBlockSounds/]: DIRT BLOCK >> minecraft:dirt
+[13:37:24] [Worker-Main-10/INFO] [Sound Physics - General/]: Reloading config
+[13:37:24] [Worker-Main-10/INFO] [Sound Physics - General/]: Reloading reverb parameters
+[13:37:24] [Worker-Main-10/INFO] [co.ph.ph.PhilipsRuins/]: Philip's ruins loading...
+[13:37:24] [Worker-Main-10/INFO] [la.mo.pe.in.fo.ForgePeacefulSurface/]: [PeacefulSurface] Loading filters...
+[13:37:24] [Worker-Main-10/INFO] [la.mo.pe.in.fo.ForgePeacefulSurface/]: [PeacefulSurface] Loaded 1 filter.
+[13:37:24] [Worker-Main-10/INFO] [th.co.ConstructionWand/]: ConstructionWand says hello - may the odds be ever in your favor.
+[13:37:24] [Worker-Main-10/INFO] [co.to.st.StorageMod/]: Tom's Storage Setup starting
+[13:37:24] [Worker-Main-10/INFO] [co.to.st.StorageMod/]: Initilaized Network Handler
+[13:37:25] [Worker-Main-10/INFO] [co.ca.ra.ProjectRankine/]: Rankine: "CommonSetup" Event Complete!
+[13:37:25] [Worker-Main-10/INFO] [co.be.BetterfpsdistMod/]: betterfpsdist mod initialized
+[13:37:25] [Worker-Main-10/INFO] [cn.mc.mm.Main/]: Presented by Zaia
+[13:37:25] [Worker-Main-10/INFO] [co.to.cr.CreateOreExcavation/]: Create Ore Excavation starting
+[13:37:25] [Worker-Main-8/ERROR] [minecraft/SimpleJsonResourceReloadListener]: Couldn't parse data file thermal:guidebook/zh_cn/entries/world/materials/hardened_glass from thermal:patchouli_books/guidebook/zh_cn/entries/world/materials/hardened_glass.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 41 column 6 path $.pages[3]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:505) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?] {re:classloading,re:mixin}
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:542) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?] {re:classloading,re:mixin}
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:52) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?] {re:mixin,re:classloading,pl:mixin:APP:bookshelf.common.mixins.json:packs.resources.MixinSimpleJsonResourceReloadListener,pl:mixin:A}
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:20) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?] {re:mixin,re:classloading,pl:mixin:APP:bookshelf.common.mixins.json:packs.resources.MixinSimpleJsonResourceReloadListener,pl:mixin:A}
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?] {re:mixin,re:classloading,pl:mixin:APP:immediatelyfast.mixins.json:fast_text_lookup.ISinglePreparationResourceReloader,pl:mixin:A}
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?] {}
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?] {}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?] {}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?] {}
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 41 column 6 path $.pages[3]
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1562) ~[gson-2.8.9.jar%2317!/:?] {}
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1403) ~[gson-2.8.9.jar%2317!/:?] {}
+	at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1354) ~[gson-2.8.9.jar%2317!/:?] {}
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:548) ~[gson-2.8.9.jar%2317!/:?] {}
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:413) ~[gson-2.8.9.jar%2317!/:?] {}
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:675) ~[gson-2.8.9.jar%2317!/:?] {}
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:684) ~[gson-2.8.9.jar%2317!/:?] {}
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:655) ~[gson-2.8.9.jar%2317!/:?] {}
+	at com.google.gson.internal.bind.TypeAdapters$33$1.read(TypeAdapters.java:866) ~[gson-2.8.9.jar%2317!/:?] {}
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:503) ~[client-1.18.2-20220404.173914-srg.jar%23311!/:?] {re:classloading,re:mixin}
+	... 11 more
+[13:37:25] [Worker-Main-10/INFO] [co.co.Connectivity/]: Connectivity initialized
+java.net.UnknownHostException: raw.githubusercontent.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:299)
+	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:498)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:603)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+	at TRANSFORMER/citadel@1.11.3/com.github.alexthe666.citadel.web.WebHelper.getURLContents(WebHelper.java:19)
+	at TRANSFORMER/citadel@1.11.3/com.github.alexthe666.citadel.Citadel.setup(Citadel.java:103)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at LAYER PLUGIN/javafmllanguage@1.18.2-40.2.2/net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:106)
+	at LAYER PLUGIN/fmlcore@1.18.2-40.2.2/net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:107)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+java.lang.NullPointerException: Cannot invoke "java.lang.ClassLoader.getResourceAsStream(String)" because the return value of "java.lang.Class.getClassLoader()" is null
+	at TRANSFORMER/citadel@1.11.3/com.github.alexthe666.citadel.web.WebHelper.getURLContents(WebHelper.java:28)
+	at TRANSFORMER/citadel@1.11.3/com.github.alexthe666.citadel.Citadel.setup(Citadel.java:103)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at LAYER PLUGIN/javafmllanguage@1.18.2-40.2.2/net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:106)
+	at LAYER PLUGIN/fmlcore@1.18.2-40.2.2/net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:107)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[13:37:25] [Worker-Main-10/WARN] [citadel/]: Failed to load patreon contributor perks
+[13:37:25] [Worker-Main-10/INFO] [co.dr.DragonfightMod/]: dragonfight mod initialized
+[13:37:25] [Worker-Main-10/INFO] [MapFrontiers/]: commonSetup done
+[13:37:25] [Worker-Main-10/INFO] [co.nc.cu.CulturalDelights/]: HELLO FROM PREINIT
+[13:37:25] [Worker-Main-10/INFO] [co.nc.cu.CulturalDelights/]: DIRT BLOCK >> minecraft:dirt
+[13:37:25] [Worker-Main-10/INFO] [cn.fo.en.EndsDelight/]: HELLO FROM PREINIT
+[13:37:25] [Worker-Main-10/INFO] [cn.fo.en.EndsDelight/]: DIRT BLOCK >> minecraft:dirt
+[13:37:25] [Worker-Main-10/INFO] [co.dr.DrawerFPS/]: Drawer FPS initialized
+[13:37:26] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: Global Forge version check system disabled, no further processing.
+[13:37:26] [Worker-Main-8/INFO] [gg.mo.po.pi.co.cl.ge.LocalGeometryModelLoader/]: Loaded 0 geometry models.
+[13:37:26] [Worker-Main-10/INFO] [cl.ia.se.SeasonHUD/]: HELLO FROM PREINIT
+[13:37:26] [Worker-Main-10/INFO] [cl.ia.se.SeasonHUD/]: DIRT BLOCK >> minecraft:dirt
+[13:37:26] [Worker-Main-10/INFO] [co.li.LimitedChunks/]: Limited chunkloading initialized
+[13:37:26] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: com.railwayteam.railways.compat.journeymap.RailwayMapPlugin
+[13:37:26] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: games.alejandrocoria.mapfrontiers.client.plugin.MapFrontiersPlugin
+[13:37:26] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: frankv.jmi.JMIJourneyMapPlugin
+[13:37:26] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: net.blay09.mods.waystones.compat.JourneyMapAddon
+[13:37:26] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: com.anthonyhilyard.merchantmarkers.compat.JourneymapHandler
+[13:37:26] [Worker-Main-10/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
+[13:37:26] [Worker-Main-10/INFO] [ne.ha.al.AlcoCraft/]: HELLO FROM PREINIT
+[13:37:26] [Worker-Main-10/INFO] [ne.ha.al.AlcoCraft/]: DIRT BLOCK >> minecraft:dirt
+[13:37:26] [Worker-Main-10/INFO] [bno/]: Setup Method Registered (PreInit)
+[13:37:27] [Worker-Main-10/INFO] [co.ja.mi.st.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[13:37:27] [Worker-Main-10/INFO] [co.ja.mi.st.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[13:37:27] [Worker-Main-10/INFO] [co.ja.mi.st.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[13:37:27] [Worker-Main-10/INFO] [co.ja.mi.st.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[13:37:27] [Worker-Main-10/INFO] [co.ja.mi.st.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[13:37:27] [Worker-Main-10/INFO] [co.ja.mi.st.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[13:37:27] [Worker-Main-10/INFO] [co.ja.mi.st.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[13:37:27] [Worker-Main-10/INFO] [co.ja.mi.st.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[13:37:27] [Worker-Main-10/INFO] [co.ja.mi.st.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[13:37:27] [Worker-Main-10/INFO] [co.ja.mi.st.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[13:37:27] [Worker-Main-10/INFO] [co.ja.mi.st.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[13:37:28] [Worker-Main-8/ERROR] [LocalAnimationLoader/]: Mod: geckolib3 is using deprecated Pollen animations. Animations should be relocated to 'assets/geckolib3/pinwheel/animations'
+[13:37:28] [Worker-Main-8/ERROR] [LocalAnimationLoader/]: Mod: geckolib3 is using deprecated Pollen animations. Animations should be relocated to 'assets/geckolib3/pinwheel/animations'
+[13:37:28] [Worker-Main-10/INFO] [gg.mo.po.pi.co.cl.te.LocalTextureTableLoader/]: Loaded 0 hash tables.
+[13:37:28] [Worker-Main-8/INFO] [gg.mo.po.pi.co.cl.te.LocalTextureTableLoader/]: Loaded 0 model texture tables.
+[13:37:29] [Render thread/FATAL] [ModernUI/]: OK
+[13:37:29] [Render thread/INFO] [ModernUI/Core]: Loaded text layout engine, resolution level: 2.0, locale: en_US, layout RTL: false
+[13:37:29] [Render thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[13:37:29] [Render thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[13:37:29] [Render thread/INFO] [terrablender/]: Registered region eco:geodeial_caves_biome_provider to index 1 for type OVERWORLD
+[13:37:29] [Render thread/INFO] [terrablender/]: Registered region eco:molten_seeping_caves_biome_provider to index 2 for type OVERWORLD
+[13:37:29] [Render thread/INFO] [journeymap/]: Initializing Packet Registries
+[13:37:30] [Worker-Main-8/INFO] [Sound Physics - General/]: Using Cloth Config GUI
+[13:37:30] [Worker-Main-6/INFO] [co.ca.ra.ProjectRankine/]: Rankine: "ClientSetup" Event Complete!
+[13:37:30] [Worker-Main-8/INFO] [structurize/]: Optifine not found. Disabling compat.
+[13:37:30] [Worker-Main-8/INFO] [ModernUI/Core]: Loaded modern text engine
+[13:37:30] [Worker-Main-8/INFO] [MapFrontiers/]: clientSetup done
+FATAL ERROR in native method: Thread[Render thread,5,main]: No context is current or a function that is not available in the current context was called. The JVM will abort execution.
+	at org.lwjgl.opengl.GL45C.nglCreateBuffers(org.lwjgl.opengl/Native Method)
+	at org.lwjgl.opengl.GL45C.glCreateBuffers(org.lwjgl.opengl/GL45C.java:347)
+	at icyllis.modernui.graphics.opengl.GLBuffer$Ref.<init>(modernui@3.5.4.113/GLBuffer.java:123)
+	at icyllis.modernui.graphics.opengl.GLBuffer.get(modernui@3.5.4.113/GLBuffer.java:45)
+	at icyllis.modernui.graphics.opengl.GLBuffer.allocate(modernui@3.5.4.113/GLBuffer.java:85)
+	at icyllis.modernui.graphics.opengl.GLSurfaceCanvas.<init>(modernui@3.5.4.113/GLSurfaceCanvas.java:251)
+	at icyllis.modernui.graphics.opengl.GLSurfaceCanvas.initialize(modernui@3.5.4.113/GLSurfaceCanvas.java:289)
+	at icyllis.modernui.forge.UIManager.initializeRenderer(modernui@3.5.4.113/UIManager.java:217)
+	at icyllis.modernui.forge.Registration.lambda$setupClient$4(modernui@3.5.4.113/Registration.java:199)
+	at icyllis.modernui.forge.Registration$$Lambda$28887/0x0000000803e76e30.run(modernui@3.5.4.113/Unknown Source)
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(minecraft@1.18.2/BlockableEventLoop.java:157)
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(minecraft@1.18.2/ReentrantBlockableEventLoop.java:23)
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(minecraft@1.18.2/BlockableEventLoop.java:131)
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(minecraft@1.18.2/BlockableEventLoop.java:116)
+	at net.minecraft.client.Minecraft.m_91383_(minecraft@1.18.2/Minecraft.java:1015)
+	at net.minecraft.client.Minecraft.m_91374_(minecraft@1.18.2/Minecraft.java:665)
+	at net.minecraft.client.main.Main.main(minecraft@1.18.2/Main.java:205)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(java.base@17.0.1/Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(java.base@17.0.1/NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(java.base@17.0.1/DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(java.base@17.0.1/Method.java:568)
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(fmlloader@1.18.2-40.2.2/CommonClientLaunchHandler.java:31)
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler$$Lambda$877/0x00000008010da258.call(fmlloader@1.18.2-40.2.2/Unknown Source)
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(cpw.mods.modlauncher@9.1.3/LaunchServiceHandlerDecorator.java:37)
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(cpw.mods.modlauncher@9.1.3/LaunchServiceHandler.java:53)
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(cpw.mods.modlauncher@9.1.3/LaunchServiceHandler.java:71)
+	at cpw.mods.modlauncher.Launcher.run(cpw.mods.modlauncher@9.1.3/Launcher.java:106)
+	at cpw.mods.modlauncher.Launcher.main(cpw.mods.modlauncher@9.1.3/Launcher.java:77)
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(cpw.mods.modlauncher@9.1.3/BootstrapLaunchConsumer.java:26)
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(cpw.mods.modlauncher@9.1.3/BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(cpw.mods.bootstraplauncher@1.0.0/BootstrapLauncher.java:149)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(java.base@17.0.1/Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(java.base@17.0.1/NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(java.base@17.0.1/DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(java.base@17.0.1/Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:58)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:51)
+[13:37:32.699] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[13:37:32.718] [Crash] 步骤 2：准备日志文本
+[13:37:32.719] [Crash] latest.log 分类为 MinecraftLog
+[13:37:32.719] [Crash] debug.log 分类为 MinecraftLog
+[13:37:32.719] [Crash] RawOutput.log 分类为 MinecraftLog
+[13:37:32.719] [Crash] 输出报告：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\logs\latest.log，作为 Minecraft 或启动器日志
+[13:37:32.719] [Crash] 输出报告：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\logs\debug.log，作为 Minecraft 或启动器日志
+[13:37:32.719] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\70042489586\RawOutput.log，作为 Minecraft 或启动器日志
+[13:37:32.721] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\70042489586\RawOutput.log，作为启动器日志
+[13:37:32.721] [Crash] 导入分析：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\versions\[1.18.2]Lost_CivilizationWilds\logs\latest.log，作为 Minecraft 日志
+[13:37:32.721] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[13:37:32.724] [Crash] 步骤 3：分析崩溃原因
+[13:37:32.738] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 9 个报错项
+[13:37:32.741] [Crash] 找到 0 条可能的堆栈信息
+[13:37:32.741] [Crash] 找到 0 条可能的堆栈信息
+[13:37:32.741] [Crash] 找到 0 条可能的堆栈信息
+[13:37:32.741] [Crash] 找到 0 条可能的堆栈信息
+[13:37:32.741] [Crash] 找到 0 条可能的堆栈信息
+[13:37:32.741] [Crash] 找到 0 条可能的堆栈信息
+[13:37:32.741] [Crash] 找到 0 条可能的堆栈信息
+[13:37:32.742] [Crash] 找到 0 条可能的堆栈信息
+[13:37:32.742] [Crash] 找到 0 条可能的堆栈信息
+[13:37:32.743] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[13:37:32.746] [System] 窗口已置顶，位置：(555, 271), 810 x 498
+[13:37:32.847] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[13:37:35.630] [Control] 按下按钮：导出错误报告
+[13:37:35.630] [Control] 普通弹框返回：3
+[13:37:36.210] [Animation] 两个动画帧间隔 468 ms
+[13:37:37.600] [UI] 选择文件返回：D:\zero-one driver\Lost_CivilizationWilds\错误报告-2023-5-3_13.37.35.zip
+[13:37:37.719] [System] 诊断信息：
+操作系统：Microsoft Windows 10 专业版
+剩余内存：7770 M / 12171 M
+DPI：96（100%）
+MC 文件夹：D:\zero-one driver\Lost_CivilizationWilds\.minecraft\
+文件位置：D:\zero-one driver\Lost_CivilizationWilds\

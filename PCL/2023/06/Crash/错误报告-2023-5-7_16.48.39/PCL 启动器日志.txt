@@ -1,0 +1,896 @@
+[16:47:27.977] [Start] 程序版本：Snapshot 2.5.4（289）
+[16:47:27.979] [Start] 识别码：3D92-20DB-BAA8-C0E4
+[16:47:27.979] [Start] 程序路径：C:\Users\Administrator\Desktop\我的世界pcl版\Plain Craft Launcher 2.exe
+[16:47:27.981] [Start] 第一阶段加载用时：31 ms
+[16:47:28.063] [UI] 刷新主题：0
+[16:47:28.098] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[16:47:28.099] [Start] 第二阶段加载用时：110 ms
+[16:47:28.106] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[16:47:28.231] [UI] 加载背景图片：C:\Users\Administrator\Desktop\我的世界pcl版\PCL\Pictures\un.jpg
+[16:47:28.598] [System] 窗口已置顶，位置：(545, 321), 830 x 519
+[16:47:28.602] [Start] 第三阶段加载用时：375 ms
+[16:47:28.603] [Animation] 动画线程开始
+[16:47:28.605] [Start] 加载 DLL：Json
+[16:47:28.605] [System] 获取资源：Json
+[16:47:28.607] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\我的世界pcl版\PCL\Custom.xaml
+[16:47:28.607] [System] 尝试从本地文件读取主页自定义数据（0）
+[16:47:28.613] [Launch] Minecraft 文件夹：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\
+[16:47:28.660] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[16:47:28.665] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[16:47:28.686] [Java] 缓存中有 5 个可用的 Java
+[16:47:28.696] [Skin] 载入头像成功：Loader Skin Ms
+[16:47:28.723] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\
+[16:47:28.727] [Loader] 加载器 登录 状态改变：Loading
+[16:47:28.732] [Launch] 登录加载已开始
+[16:47:28.733] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[16:47:28.736] [Launch] 登录方式：正版（anxiangge）
+[16:47:28.736] [Launch] 开始微软登录步骤 2（刷新登录）
+[16:47:28.744] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[16:47:28.902] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[16:47:28.903] [Loader] 加载器 PCL 服务 状态改变：Loading
+[16:47:28.904] [Server] 正在连接到 PCL 服务器
+[16:47:28.908] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[16:47:28.914] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1683449249-4152a3c5-0-66e5888969127c82c70305c9e65950af，最大超时 10000
+[16:47:29.038] [Server] 服务器公告：102|289|286|5，无需更新
+[16:47:29.043] [Loader] 加载器 PCL 服务 状态改变：Finished
+[16:47:29.327] [System] DPI：96，系统版本：10.0.19042.0，PCL 位置：C:\Users\Administrator\Desktop\我的世界pcl版\Plain Craft Launcher 2.exe
+[16:47:29.713] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 30000
+[16:47:29.747] [Launch] 开始微软登录步骤 3
+[16:47:29.749] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[16:47:30.011] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[16:47:30.173] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[16:47:30.526] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[16:47:31.292] [Launch] 开始微软登录步骤 4
+[16:47:31.292] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[16:47:31.456] [Control] 按下按钮：启动游戏
+[16:47:31.460] [Loader] 加载器 Loader Launch 状态改变：Loading
+[16:47:31.469] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\我的世界pcl版\PCL\hints.txt
+[16:47:31.475] [Launch] 预检测已通过
+[16:47:31.477] [Download] 开始后台更新资源文件索引
+[16:47:31.478] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[16:47:31.479] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[16:47:31.480] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[16:47:31.480] [Loader] 加载器 获取 Java 状态改变：Loading
+[16:47:31.481] [Download] 版本 The Winter Frontier 对应的资源文件索引为 1.18
+[16:47:31.484] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[16:47:31.484] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[16:47:31.485] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[16:47:31.490] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\
+[16:47:31.510] [Download] 1.18.json 133#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/92aa15a18127b6f9e3f0e5a7d018be7ebb389703/1.18.json
+[16:47:31.518] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\
+[16:47:31.531] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\
+[16:47:31.555] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[16:47:31.561] [Java] 用户指定的 Java：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma-test\bin\
+[16:47:31.562] [Java] 开始确认列表 Java 状态，共 1 项
+[16:47:31.566] [System] 执行外部命令并等待返回结果：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma-test\bin\java.exe -version
+[16:47:31.691] [Java] JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma-test\bin\
+[16:47:31.699] [Java] 检查后找到 1 个特定的 Java
+[16:47:31.699] [Java] 使用用户指定的 Java：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma-test\bin\
+[16:47:31.700] [Java] 选定的 Java：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma-test\bin\
+[16:47:31.700] [Launch] 选择的 Java：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma-test\bin\
+[16:47:31.700] [Loader] 加载器 获取 Java 状态改变：Finished
+[16:47:31.810] [Download] 1.18.json：文件大小 348726 B（341 K）
+[16:47:32.064] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[16:47:32.723] [Download] 1.18.json：已完成，剩余文件 0
+[16:47:32.724] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[16:47:32.724] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[16:47:32.725] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.18.json
+[16:47:32.725] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[16:47:32.725] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[16:47:32.824] [Launch] 开始微软登录步骤 5
+[16:47:32.824] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[16:47:33.087] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[16:47:33.603] [Launch] 开始微软登录步骤 6
+[16:47:33.604] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[16:47:33.864] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[16:47:34.379] [Launch] 微软登录完成
+[16:47:34.380] [UI] 解锁隐藏主题：10
+[16:47:34.380] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[16:47:34.389] [Launch] 登录加载已结束
+[16:47:34.389] [Loader] 加载器 登录 状态改变：Finished
+[16:47:34.393] [Loader] 加载器 登录 状态改变：Loading
+[16:47:34.393] [Loader] 加载器 补全文件 状态改变：Loading
+[16:47:34.393] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[16:47:34.393] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[16:47:34.393] [Launch] 登录加载已开始
+[16:47:34.393] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[16:47:34.393] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[16:47:34.393] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[16:47:34.393] [Launch] 登录方式：正版（anxiangge）
+[16:47:34.393] [Launch] 微软登录完成
+[16:47:34.393] [UI] 解锁隐藏主题：10
+[16:47:34.394] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[16:47:34.395] [Download] 版本 The Winter Frontier 对应的资源文件索引为 1.18
+[16:47:34.402] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[16:47:34.402] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[16:47:34.402] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[16:47:34.402] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[16:47:34.405] [Launch] 登录加载已结束
+[16:47:34.405] [Loader] 加载器 登录 状态改变：Finished
+[16:47:34.454] [Minecraft] 获取支持库列表：The Winter Frontier
+[16:47:34.657] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[16:47:34.657] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[16:47:34.658] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[16:47:34.658] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[16:47:34.862] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[16:47:34.862] [Loader] 加载器 下载资源文件 状态改变：Loading
+[16:47:34.863] [Loader] 加载器 下载资源文件 状态改变：Finished
+[16:47:34.863] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[16:47:34.863] [Loader] 加载器 补全文件 状态改变：Finished
+[16:47:34.863] [Loader] 加载器 获取启动参数 状态改变：Loading
+[16:47:34.865] [Launch] 开始获取 Minecraft 启动参数
+[16:47:34.865] [Launch] 获取新版 JVM 参数
+[16:47:34.872] [Launch] 当前剩余内存：28.1G
+[16:47:34.876] [System] 获取资源：JavaWrapper
+[16:47:34.877] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[16:47:34.877] [Launch] 新版 JVM 参数获取成功：
+[16:47:34.877] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx17510m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[16:47:34.877] [Launch] 获取新版 Game 参数
+[16:47:34.879] [Launch] 新版 Game 参数获取成功
+[16:47:34.882] [Minecraft] 获取支持库列表：The Winter Frontier
+[16:47:34.890] [Launch] Minecraft 启动参数：
+[16:47:34.891] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\The Winter Frontier-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\securejarhandler\1.0.3\securejarhandler-1.0.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm\9.2\asm-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-commons\9.2\asm-commons-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-tree\9.2\asm-tree-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-util\9.2\asm-util-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-analysis\9.2\asm-analysis-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\eventbus\5.0.3\eventbus-5.0.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\forgespi\4.0.15-4.x\forgespi-4.0.15-4.x.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\modlauncher\9.1.3\modlauncher-9.1.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\JarJar\0.3.0\JarJar-0.3.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\bootstraplauncher\1.0.0\bootstraplauncher-1.0.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\fmlloader\1.18.2-40.2.0\fmlloader-1.18.2-40.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\The Winter Frontier.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,"The Winter Frontier".jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory="C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries" -p "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx17510m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username anxiangge --version "The Winter Frontier" --gameDir "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier" --assetsDir "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\assets" --assetIndex 1.18 --uuid a643ee826d0d43cf8cefa6dc403be7db --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXsuM-M --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 40.2.0 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914 
+[16:47:34.891] [Loader] 加载器 获取启动参数 状态改变：Finished
+[16:47:34.897] [Loader] 加载器 解压文件 状态改变：Loading
+[16:47:34.901] [Launch] 正在解压 Natives 文件
+[16:47:34.911] [Loader] 加载器 解压文件 状态改变：Finished
+[16:47:34.936] [Loader] 加载器 预启动处理 状态改变：Loading
+[16:47:34.951] [Launch] 已更新 launcher_profiles.json
+[16:47:34.951] [Launch] 并非首次启动，不修改语言
+[16:47:34.951] [Loader] 加载器 预启动处理 状态改变：Finished
+[16:47:34.973] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[16:47:34.978] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[16:47:35.010] [Loader] 加载器 启动进程 状态改变：Loading
+[16:47:35.017] [Launch] 已启动游戏进程：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma-test\bin\javaw.exe
+[16:47:35.017] [Loader] 加载器 启动进程 状态改变：Finished
+[16:47:35.056] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[16:47:35.058] [Launch] 
+[16:47:35.058] [Launch] ~ 基础参数 ~
+[16:47:35.058] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[16:47:35.058] [Launch] 游戏版本：1.18.2, Forge 40.2.0（18.2）
+[16:47:35.058] [Launch] 资源版本：1.18
+[16:47:35.058] [Launch] 版本继承：无
+[16:47:35.058] [Launch] 分配的内存：17.1 GB（17510 MB）
+[16:47:35.058] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\
+[16:47:35.058] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\
+[16:47:35.058] [Launch] 版本隔离：True
+[16:47:35.058] [Launch] HMCL 格式：False
+[16:47:35.058] [Launch] Java 信息：JDK 17 (17.0.3)，64 位：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\java-runtime-gamma-test\bin\
+[16:47:35.059] [Launch] 环境变量：未设置
+[16:47:35.059] [Launch] 
+[16:47:35.059] [Launch] ~ 登录参数 ~
+[16:47:35.059] [Launch] 玩家用户名：anxiangge
+[16:47:35.059] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXsuM-M
+[16:47:35.059] [Launch] ClientToken：a643ee826d0d43cf8cefa6dc403be7db
+[16:47:35.059] [Launch] UUID：a643ee826d0d43cf8cefa6dc403be7db
+[16:47:35.059] [Launch] 登录方式：Microsoft
+[16:47:35.059] [Launch] 
+[16:47:35.061] [Launch] [3200] 开始 Minecraft 日志监控
+[16:47:35.061] [Launch] [全局] 出现运行中的 Minecraft
+[16:47:35.303] [Launch] [3200] 日志 1/5：已出现日志输出
+[16:47:37.196] [Launch] [3200] Minecraft 已退出，返回值：1
+[16:47:37.196] [Launch] [3200] Minecraft 尚未加载完成，可能已崩溃
+[16:47:37.197] [Launch] [全局] 已无运行中的 Minecraft
+[16:47:37.197] [Launch] [3200] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[16:47:37.274] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[16:47:37.286] 加载线程 等待游戏窗口出现 (23) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[16:47:37.286] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[16:47:37.286] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[16:47:37.371] 加载线程 Loader Launch (24) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[16:47:37.371] [Loader] 加载器 Loader Launch 状态改变：Failed
+[16:47:37.430] [Launch] [3200] Minecraft 日志监控已退出
+[16:47:39.212] [Launch] [3200] 崩溃分析开始
+[16:47:39.220] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\320094993472\
+[16:47:39.223] [Crash] 步骤 1：收集日志文件
+[16:47:39.224] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log（0 分钟）
+[16:47:39.224] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\debug.log（0 分钟）
+[16:47:39.224] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-07 16:47:36,217 main WARN Advanced terminal features are not available in this environment
+[16:47:36] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, anxiangge, --version, The Winter Frontier, --gameDir, C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier, --assetsDir, C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\assets, --assetIndex, 1.18, --uuid, a643ee826d0d43cf8cefa6dc403be7db, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[16:47:36] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.3 by Microsoft
+[16:47:36] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Administrator/Desktop/我的世界pcl版/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2348!/ Service=ModLauncher Env=CLIENT
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.RuntimeException: Failed to load FML config from C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\config\fml.toml
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:49)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.load(FMLConfig.java:62)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLServiceProvider.initialize(FMLServiceProvider.java:65)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServiceDecorator.onInitialize(TransformationServiceDecorator.java:68)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseTransformationServices$7(TransformationServicesHandler.java:92)
+	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1065)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.initialiseTransformationServices(TransformationServicesHandler.java:92)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:51)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:87)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)
+	... 6 more
+Caused by: com.electronwill.nightconfig.core.io.ParsingException: Not enough data available
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ParsingException.notEnoughData(ParsingException.java:22)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ReaderInput.directReadChar(ReaderInput.java:36)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.AbstractInput.readChar(AbstractInput.java:49)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.AbstractInput.readCharsUntil(AbstractInput.java:123)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseKey(TableParser.java:166)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseDottedKey(TableParser.java:145)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:55)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:44)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.AutoreloadFileConfig.load(AutoreloadFileConfig.java:41)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:45)
+	... 18 more
+[16:47:39.224] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[16:47:39.229] [Crash] 步骤 2：准备日志文本
+[16:47:39.230] [Crash] latest.log 分类为 MinecraftLog
+[16:47:39.230] [Crash] debug.log 分类为 MinecraftLog
+[16:47:39.230] [Crash] RawOutput.log 分类为 MinecraftLog
+[16:47:39.230] [Crash] 输出报告：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log，作为 Minecraft 或启动器日志
+[16:47:39.230] [Crash] 输出报告：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\debug.log，作为 Minecraft 或启动器日志
+[16:47:39.230] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\320094993472\RawOutput.log，作为 Minecraft 或启动器日志
+[16:47:39.231] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\320094993472\RawOutput.log，作为启动器日志
+[16:47:39.231] [Crash] 导入分析：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log，作为 Minecraft 日志
+[16:47:39.231] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[16:47:39.233] [Crash] 步骤 3：分析崩溃原因
+[16:47:39.237] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[16:47:39.237] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[16:47:39.255] [System] 窗口已置顶，位置：(545, 321), 830 x 519
+[16:47:39.285] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[16:47:41.368] [Control] 按下按钮：查看日志
+[16:47:41.370] [System] 执行外部命令：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log 
+[16:47:48.912] [Control] 按下按钮：确定
+[16:47:48.913] [Control] 普通弹框返回：1
+[16:47:49.712] [Control] 按下单选按钮：设置
+[16:47:49.816] [Control] 切换主要页面：Setup, -1
+[16:47:49.891] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[16:47:49.893] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[16:47:59.465] [Java] 修改 Java 选择设置：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:00.496] [Control] 按下单选按钮：启动
+[16:48:00.496] [Control] 切换主要页面：Launch, -1
+[16:48:00.656] [Report] FPS 0, 动画 27, 下载中 0（0 B/s）
+[16:48:01.672] [Control] 按下按钮：启动游戏
+[16:48:01.672] [Loader] 加载器 Loader Launch 状态改变：Loading
+[16:48:01.673] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\我的世界pcl版\PCL\hints.txt
+[16:48:01.678] [Launch] 预检测已通过
+[16:48:01.678] [Download] 开始后台更新资源文件索引
+[16:48:01.678] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[16:48:01.678] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[16:48:01.678] [Loader] 加载器 登录 状态改变：Waiting
+[16:48:01.678] [Download] 版本 The Winter Frontier 对应的资源文件索引为 1.18
+[16:48:01.678] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[16:48:01.680] [Loader] 加载器 获取 Java 状态改变：Loading
+[16:48:01.680] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[16:48:01.680] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[16:48:01.680] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\
+[16:48:01.680] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[16:48:01.680] [Loader] 加载器 登录 状态改变：Loading
+[16:48:01.680] [Loader] 加载器 补全文件 状态改变：Loading
+[16:48:01.680] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[16:48:01.680] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[16:48:01.680] [Launch] 登录加载已开始
+[16:48:01.680] [Launch] 登录加载已结束
+[16:48:01.680] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[16:48:01.680] [Loader] 加载器 登录 状态改变：Finished
+[16:48:01.680] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[16:48:01.680] [Download] 版本 The Winter Frontier 对应的资源文件索引为 1.18
+[16:48:01.686] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\
+[16:48:01.686] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[16:48:01.686] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[16:48:01.686] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[16:48:01.686] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[16:48:01.702] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\
+[16:48:01.706] [Java] 用户指定的 Java：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:01.706] [Java] 开始确认列表 Java 状态，共 1 项
+[16:48:01.707] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-19\bin\java.exe -version
+[16:48:01.719] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[16:48:01.719] [Loader] 加载器 下载资源文件 状态改变：Loading
+[16:48:01.719] [Loader] 加载器 下载资源文件 状态改变：Finished
+[16:48:01.719] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[16:48:01.722] [Minecraft] 获取支持库列表：The Winter Frontier
+[16:48:01.751] [Download] 1.18.json 541#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/92aa15a18127b6f9e3f0e5a7d018be7ebb389703/1.18.json
+[16:48:01.836] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[16:48:01.836] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[16:48:01.837] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[16:48:01.837] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[16:48:01.837] [Loader] 加载器 补全文件 状态改变：Finished
+[16:48:01.904] [Java] JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:01.909] [Java] 检查后找到 1 个特定的 Java
+[16:48:01.909] [Java] 使用用户指定的 Java：C:\Program Files\Java\jdk-19\bin\
+[16:48:01.909] [Java] 选定的 Java：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:01.909] [Launch] 选择的 Java：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:01.909] [Loader] 加载器 获取 Java 状态改变：Finished
+[16:48:01.909] [Loader] 加载器 获取启动参数 状态改变：Loading
+[16:48:01.909] [Launch] 开始获取 Minecraft 启动参数
+[16:48:01.909] [Launch] 获取新版 JVM 参数
+[16:48:01.910] [Launch] 当前剩余内存：28G
+[16:48:01.911] [System] 获取资源：JavaWrapper
+[16:48:01.911] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[16:48:01.911] [Launch] 新版 JVM 参数获取成功：
+[16:48:01.911] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx17510m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[16:48:01.911] [Launch] 获取新版 Game 参数
+[16:48:01.911] [Launch] 新版 Game 参数获取成功
+[16:48:01.911] [Minecraft] 获取支持库列表：The Winter Frontier
+[16:48:01.917] [Launch] Minecraft 启动参数：
+[16:48:01.918] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\The Winter Frontier-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\securejarhandler\1.0.3\securejarhandler-1.0.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm\9.2\asm-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-commons\9.2\asm-commons-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-tree\9.2\asm-tree-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-util\9.2\asm-util-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-analysis\9.2\asm-analysis-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\eventbus\5.0.3\eventbus-5.0.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\forgespi\4.0.15-4.x\forgespi-4.0.15-4.x.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\modlauncher\9.1.3\modlauncher-9.1.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\JarJar\0.3.0\JarJar-0.3.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\bootstraplauncher\1.0.0\bootstraplauncher-1.0.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\fmlloader\1.18.2-40.2.0\fmlloader-1.18.2-40.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\The Winter Frontier.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,"The Winter Frontier".jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory="C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries" -p "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx17510m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username anxiangge --version "The Winter Frontier" --gameDir "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier" --assetsDir "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\assets" --assetIndex 1.18 --uuid a643ee826d0d43cf8cefa6dc403be7db --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXsuM-M --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 40.2.0 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914 
+[16:48:01.918] [Loader] 加载器 获取启动参数 状态改变：Finished
+[16:48:01.919] [Loader] 加载器 解压文件 状态改变：Loading
+[16:48:01.919] [Launch] 正在解压 Natives 文件
+[16:48:01.920] [Loader] 加载器 解压文件 状态改变：Finished
+[16:48:01.955] [Loader] 加载器 预启动处理 状态改变：Loading
+[16:48:01.955] [Launch] 已更新 launcher_profiles.json
+[16:48:01.955] [Launch] 并非首次启动，不修改语言
+[16:48:01.955] [Loader] 加载器 预启动处理 状态改变：Finished
+[16:48:02.004] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[16:48:02.006] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[16:48:02.041] [Loader] 加载器 启动进程 状态改变：Loading
+[16:48:02.046] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-19\bin\javaw.exe
+[16:48:02.046] [Loader] 加载器 启动进程 状态改变：Finished
+[16:48:02.084] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[16:48:02.084] [Launch] 
+[16:48:02.084] [Launch] ~ 基础参数 ~
+[16:48:02.084] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[16:48:02.084] [Launch] 游戏版本：1.18.2, Forge 40.2.0（18.2）
+[16:48:02.084] [Launch] 资源版本：1.18
+[16:48:02.084] [Launch] 版本继承：无
+[16:48:02.084] [Launch] 分配的内存：17.1 GB（17510 MB）
+[16:48:02.084] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\
+[16:48:02.084] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\
+[16:48:02.084] [Launch] 版本隔离：True
+[16:48:02.085] [Launch] HMCL 格式：False
+[16:48:02.085] [Launch] Java 信息：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:02.085] [Launch] 环境变量：未设置
+[16:48:02.085] [Launch] 
+[16:48:02.085] [Launch] ~ 登录参数 ~
+[16:48:02.085] [Launch] 玩家用户名：anxiangge
+[16:48:02.085] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXsuM-M
+[16:48:02.085] [Launch] ClientToken：a643ee826d0d43cf8cefa6dc403be7db
+[16:48:02.085] [Launch] UUID：a643ee826d0d43cf8cefa6dc403be7db
+[16:48:02.085] [Launch] 登录方式：Microsoft
+[16:48:02.085] [Launch] 
+[16:48:02.085] [Launch] [12880] 开始 Minecraft 日志监控
+[16:48:02.085] [Launch] [全局] 出现运行中的 Minecraft
+[16:48:02.167] [Download] 1.18.json：文件大小 348726 B（341 K）
+[16:48:02.321] [Launch] [12880] 日志 1/5：已出现日志输出
+[16:48:02.664] [Download] 1.18.json：已完成，剩余文件 0
+[16:48:02.664] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[16:48:02.664] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[16:48:02.665] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.18.json
+[16:48:02.665] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[16:48:02.666] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[16:48:04.210] [Launch] [12880] Minecraft 已退出，返回值：1
+[16:48:04.210] [Launch] [12880] Minecraft 尚未加载完成，可能已崩溃
+[16:48:04.210] [Launch] [全局] 已无运行中的 Minecraft
+[16:48:04.210] [Launch] [12880] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[16:48:04.253] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[16:48:04.288] 加载线程 等待游戏窗口出现 (35) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[16:48:04.288] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[16:48:04.288] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[16:48:04.446] [Launch] [12880] Minecraft 日志监控已退出
+[16:48:04.487] 加载线程 Loader Launch (3) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[16:48:04.487] [Loader] 加载器 Loader Launch 状态改变：Failed
+[16:48:06.214] [Launch] [12880] 崩溃分析开始
+[16:48:06.215] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1288010323224\
+[16:48:06.215] [Crash] 步骤 1：收集日志文件
+[16:48:06.215] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log（0 分钟）
+[16:48:06.215] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\debug.log（0 分钟）
+[16:48:06.215] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-07 16:48:03,300 main WARN Advanced terminal features are not available in this environment
+[16:48:03] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, anxiangge, --version, The Winter Frontier, --gameDir, C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier, --assetsDir, C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\assets, --assetIndex, 1.18, --uuid, a643ee826d0d43cf8cefa6dc403be7db, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[16:48:03] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 19.0.2 by Oracle Corporation
+[16:48:03] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Administrator/Desktop/我的世界pcl版/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2348!/ Service=ModLauncher Env=CLIENT
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.RuntimeException: Failed to load FML config from C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\config\fml.toml
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:49)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.load(FMLConfig.java:62)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLServiceProvider.initialize(FMLServiceProvider.java:65)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServiceDecorator.onInitialize(TransformationServiceDecorator.java:68)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseTransformationServices$7(TransformationServicesHandler.java:92)
+	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1073)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.initialiseTransformationServices(TransformationServicesHandler.java:92)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:51)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:87)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 3 more
+Caused by: com.electronwill.nightconfig.core.io.ParsingException: Not enough data available
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ParsingException.notEnoughData(ParsingException.java:22)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ReaderInput.directReadChar(ReaderInput.java:36)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.AbstractInput.readChar(AbstractInput.java:49)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.AbstractInput.readCharsUntil(AbstractInput.java:123)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseKey(TableParser.java:166)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseDottedKey(TableParser.java:145)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:55)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:44)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.AutoreloadFileConfig.load(AutoreloadFileConfig.java:41)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:45)
+	... 16 more
+[16:48:06.216] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[16:48:06.216] [Crash] 步骤 2：准备日志文本
+[16:48:06.216] [Crash] latest.log 分类为 MinecraftLog
+[16:48:06.216] [Crash] debug.log 分类为 MinecraftLog
+[16:48:06.216] [Crash] RawOutput.log 分类为 MinecraftLog
+[16:48:06.216] [Crash] 输出报告：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log，作为 Minecraft 或启动器日志
+[16:48:06.216] [Crash] 输出报告：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\debug.log，作为 Minecraft 或启动器日志
+[16:48:06.216] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1288010323224\RawOutput.log，作为 Minecraft 或启动器日志
+[16:48:06.216] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1288010323224\RawOutput.log，作为启动器日志
+[16:48:06.216] [Crash] 导入分析：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log，作为 Minecraft 日志
+[16:48:06.216] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[16:48:06.216] [Crash] 步骤 3：分析崩溃原因
+[16:48:06.216] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[16:48:06.216] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[16:48:06.254] [System] 窗口已置顶，位置：(545, 321), 830 x 519
+[16:48:06.255] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[16:48:07.063] [Control] 按下按钮：查看日志
+[16:48:07.063] [System] 执行外部命令：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log 
+[16:48:25.128] [Control] 按下按钮：确定
+[16:48:25.128] [Control] 普通弹框返回：1
+[16:48:25.872] [Control] 按下按钮：版本选择
+[16:48:25.881] [Control] 切换主要页面：VersionSelect, 0
+[16:48:26.018] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[16:48:26.018] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[16:48:26.041] [Setup] 当前选择的 Minecraft 版本：The Winter Frontier
+[16:48:26.041] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\
+[16:48:26.047] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\
+[16:48:26.119] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[16:48:27.168] [Control] 按下图标按钮：BtnTitleInner
+[16:48:27.168] [Control] 切换主要页面：Launch, -1
+[16:48:27.301] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\
+[16:48:27.880] [Control] 按下单选按钮：离线
+[16:48:27.992] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[16:48:27.993] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[16:48:27.998] [Skin] 载入头像成功：Loader Skin Legacy
+[16:48:28.400] [Control] 按下按钮：启动游戏
+[16:48:28.400] [Loader] 加载器 Loader Launch 状态改变：Loading
+[16:48:28.400] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\我的世界pcl版\PCL\hints.txt
+[16:48:28.418] [Launch] 预检测已通过
+[16:48:28.418] [Download] 开始后台更新资源文件索引
+[16:48:28.418] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[16:48:28.418] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[16:48:28.419] [Loader] 加载器 登录 状态改变：Waiting
+[16:48:28.419] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[16:48:28.419] [Loader] 加载器 获取 Java 状态改变：Loading
+[16:48:28.419] [Download] 版本 The Winter Frontier 对应的资源文件索引为 1.18
+[16:48:28.419] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[16:48:28.419] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[16:48:28.419] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\
+[16:48:28.419] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[16:48:28.419] [Loader] 加载器 登录 状态改变：Loading
+[16:48:28.419] [Loader] 加载器 补全文件 状态改变：Loading
+[16:48:28.419] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[16:48:28.419] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[16:48:28.419] [Launch] 登录加载已开始
+[16:48:28.419] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[16:48:28.420] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[16:48:28.420] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[16:48:28.420] [Download] 版本 The Winter Frontier 对应的资源文件索引为 1.18
+[16:48:28.420] [Launch] 登录方式：离线（anxiangge）
+[16:48:28.421] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[16:48:28.435] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\
+[16:48:28.435] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[16:48:28.436] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[16:48:28.436] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[16:48:28.436] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[16:48:28.446] [Launch] 登录加载已结束
+[16:48:28.446] [Loader] 加载器 登录 状态改变：Finished
+[16:48:28.447] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\
+[16:48:28.451] [Java] 用户指定的 Java：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:28.451] [Java] 开始确认列表 Java 状态，共 1 项
+[16:48:28.451] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-19\bin\java.exe -version
+[16:48:28.465] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[16:48:28.465] [Loader] 加载器 下载资源文件 状态改变：Loading
+[16:48:28.465] [Loader] 加载器 下载资源文件 状态改变：Finished
+[16:48:28.465] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[16:48:28.467] [Minecraft] 获取支持库列表：The Winter Frontier
+[16:48:28.516] [Java] JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:28.525] [Java] 检查后找到 1 个特定的 Java
+[16:48:28.525] [Java] 使用用户指定的 Java：C:\Program Files\Java\jdk-19\bin\
+[16:48:28.525] [Java] 选定的 Java：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:28.525] [Launch] 选择的 Java：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:28.525] [Loader] 加载器 获取 Java 状态改变：Finished
+[16:48:28.541] [Download] 1.18.json 788#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/92aa15a18127b6f9e3f0e5a7d018be7ebb389703/1.18.json
+[16:48:28.581] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[16:48:28.581] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[16:48:28.581] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[16:48:28.581] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[16:48:28.581] [Loader] 加载器 补全文件 状态改变：Finished
+[16:48:28.581] [Loader] 加载器 获取启动参数 状态改变：Loading
+[16:48:28.581] [Launch] 开始获取 Minecraft 启动参数
+[16:48:28.581] [Launch] 获取新版 JVM 参数
+[16:48:28.582] [Launch] 当前剩余内存：28G
+[16:48:28.582] [System] 获取资源：JavaWrapper
+[16:48:28.583] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[16:48:28.583] [Launch] 新版 JVM 参数获取成功：
+[16:48:28.583] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx17510m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[16:48:28.583] [Launch] 获取新版 Game 参数
+[16:48:28.583] [Launch] 新版 Game 参数获取成功
+[16:48:28.583] [Minecraft] 获取支持库列表：The Winter Frontier
+[16:48:28.588] [Launch] Minecraft 启动参数：
+[16:48:28.589] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\The Winter Frontier-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\securejarhandler\1.0.3\securejarhandler-1.0.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm\9.2\asm-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-commons\9.2\asm-commons-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-tree\9.2\asm-tree-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-util\9.2\asm-util-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-analysis\9.2\asm-analysis-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\eventbus\5.0.3\eventbus-5.0.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\forgespi\4.0.15-4.x\forgespi-4.0.15-4.x.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\modlauncher\9.1.3\modlauncher-9.1.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\JarJar\0.3.0\JarJar-0.3.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\bootstraplauncher\1.0.0\bootstraplauncher-1.0.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\fmlloader\1.18.2-40.2.0\fmlloader-1.18.2-40.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\The Winter Frontier.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,"The Winter Frontier".jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory="C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries" -p "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx17510m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username anxiangge --version "The Winter Frontier" --gameDir "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier" --assetsDir "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\assets" --assetIndex 1.18 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX6CB3E --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX6CB3E --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 40.2.0 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914 
+[16:48:28.589] [Loader] 加载器 获取启动参数 状态改变：Finished
+[16:48:28.598] [Loader] 加载器 解压文件 状态改变：Loading
+[16:48:28.598] [Launch] 正在解压 Natives 文件
+[16:48:28.599] [Loader] 加载器 解压文件 状态改变：Finished
+[16:48:28.615] [Download] 1.18.json：文件大小 348726 B（341 K）
+[16:48:28.652] [Loader] 加载器 预启动处理 状态改变：Loading
+[16:48:28.652] [Launch] 并非首次启动，不修改语言
+[16:48:28.652] [Loader] 加载器 预启动处理 状态改变：Finished
+[16:48:28.652] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[16:48:28.654] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[16:48:28.687] [Loader] 加载器 启动进程 状态改变：Loading
+[16:48:28.689] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-19\bin\javaw.exe
+[16:48:28.689] [Loader] 加载器 启动进程 状态改变：Finished
+[16:48:28.690] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[16:48:28.690] [Launch] 
+[16:48:28.690] [Launch] ~ 基础参数 ~
+[16:48:28.690] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[16:48:28.690] [Launch] 游戏版本：1.18.2, Forge 40.2.0（18.2）
+[16:48:28.690] [Launch] 资源版本：1.18
+[16:48:28.690] [Launch] 版本继承：无
+[16:48:28.690] [Launch] 分配的内存：17.1 GB（17510 MB）
+[16:48:28.690] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\
+[16:48:28.690] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\
+[16:48:28.690] [Launch] 版本隔离：True
+[16:48:28.690] [Launch] HMCL 格式：False
+[16:48:28.690] [Launch] Java 信息：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:28.690] [Launch] 环境变量：未设置
+[16:48:28.690] [Launch] 
+[16:48:28.690] [Launch] ~ 登录参数 ~
+[16:48:28.690] [Launch] 玩家用户名：anxiangge
+[16:48:28.690] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX6CB3E
+[16:48:28.690] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX6CB3E
+[16:48:28.690] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX6CB3E
+[16:48:28.690] [Launch] 登录方式：Legacy
+[16:48:28.690] [Launch] 
+[16:48:28.690] [Launch] [10004] 开始 Minecraft 日志监控
+[16:48:28.690] [Launch] [全局] 出现运行中的 Minecraft
+[16:48:28.920] [Launch] [10004] 日志 1/5：已出现日志输出
+[16:48:29.150] [Download] 1.18.json：已完成，剩余文件 0
+[16:48:29.150] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[16:48:29.150] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[16:48:29.151] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.18.json
+[16:48:29.151] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[16:48:29.151] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[16:48:30.802] [Launch] [10004] Minecraft 已退出，返回值：1
+[16:48:30.802] [Launch] [10004] Minecraft 尚未加载完成，可能已崩溃
+[16:48:30.802] [Launch] [全局] 已无运行中的 Minecraft
+[16:48:30.802] [Launch] [10004] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[16:48:30.846] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[16:48:30.881] 加载线程 等待游戏窗口出现 (3) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[16:48:30.881] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[16:48:30.881] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[16:48:30.944] 加载线程 Loader Launch (61) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[16:48:30.944] [Loader] 加载器 Loader Launch 状态改变：Failed
+[16:48:31.035] [Launch] [10004] Minecraft 日志监控已退出
+[16:48:32.689] [Control] 按下单选按钮：正版
+[16:48:32.707] [Report] FPS 0, 动画 7, 下载中 0（0 B/s）
+[16:48:32.818] [Launch] [10004] 崩溃分析开始
+[16:48:32.822] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1000442808836\
+[16:48:32.822] [Crash] 步骤 1：收集日志文件
+[16:48:32.822] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log（0 分钟）
+[16:48:32.822] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\debug.log（0 分钟）
+[16:48:32.822] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-07 16:48:29,770 main WARN Advanced terminal features are not available in this environment
+[16:48:29] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, anxiangge, --version, The Winter Frontier, --gameDir, C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier, --assetsDir, C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\assets, --assetIndex, 1.18, --uuid, 00000000000030099B3A976E4966CB3E, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[16:48:29] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 19.0.2 by Oracle Corporation
+[16:48:30] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Administrator/Desktop/我的世界pcl版/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2348!/ Service=ModLauncher Env=CLIENT
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.RuntimeException: Failed to load FML config from C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\config\fml.toml
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:49)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.load(FMLConfig.java:62)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLServiceProvider.initialize(FMLServiceProvider.java:65)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServiceDecorator.onInitialize(TransformationServiceDecorator.java:68)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseTransformationServices$7(TransformationServicesHandler.java:92)
+	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1073)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.initialiseTransformationServices(TransformationServicesHandler.java:92)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:51)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:87)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 3 more
+Caused by: com.electronwill.nightconfig.core.io.ParsingException: Not enough data available
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ParsingException.notEnoughData(ParsingException.java:22)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ReaderInput.directReadChar(ReaderInput.java:36)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.AbstractInput.readChar(AbstractInput.java:49)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.AbstractInput.readCharsUntil(AbstractInput.java:123)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseKey(TableParser.java:166)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseDottedKey(TableParser.java:145)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:55)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:44)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.AutoreloadFileConfig.load(AutoreloadFileConfig.java:41)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:45)
+	... 16 more
+[16:48:32.822] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[16:48:32.822] [Crash] 步骤 2：准备日志文本
+[16:48:32.823] [Crash] latest.log 分类为 MinecraftLog
+[16:48:32.823] [Crash] debug.log 分类为 MinecraftLog
+[16:48:32.823] [Crash] RawOutput.log 分类为 MinecraftLog
+[16:48:32.823] [Crash] 输出报告：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log，作为 Minecraft 或启动器日志
+[16:48:32.823] [Crash] 输出报告：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\debug.log，作为 Minecraft 或启动器日志
+[16:48:32.823] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1000442808836\RawOutput.log，作为 Minecraft 或启动器日志
+[16:48:32.823] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1000442808836\RawOutput.log，作为启动器日志
+[16:48:32.823] [Crash] 导入分析：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log，作为 Minecraft 日志
+[16:48:32.823] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[16:48:32.823] [Crash] 步骤 3：分析崩溃原因
+[16:48:32.823] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[16:48:32.823] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[16:48:32.861] [System] 窗口已置顶，位置：(545, 321), 830 x 519
+[16:48:32.883] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[16:48:34.055] [Control] 按下按钮：确定
+[16:48:34.055] [Control] 普通弹框返回：1
+[16:48:34.503] [Control] 按下按钮：启动游戏
+[16:48:34.503] [Loader] 加载器 Loader Launch 状态改变：Loading
+[16:48:34.504] [System] 欲读取的文件不存在，已返回空字符串：C:\Users\Administrator\Desktop\我的世界pcl版\PCL\hints.txt
+[16:48:34.511] [Launch] 预检测已通过
+[16:48:34.511] [Download] 开始后台更新资源文件索引
+[16:48:34.511] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[16:48:34.511] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[16:48:34.511] [Loader] 加载器 登录 状态改变：Waiting
+[16:48:34.511] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[16:48:34.511] [Loader] 加载器 获取 Java 状态改变：Loading
+[16:48:34.511] [Download] 版本 The Winter Frontier 对应的资源文件索引为 1.18
+[16:48:34.511] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[16:48:34.511] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[16:48:34.511] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[16:48:34.511] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\
+[16:48:34.511] [Loader] 加载器 登录 状态改变：Loading
+[16:48:34.511] [Loader] 加载器 补全文件 状态改变：Loading
+[16:48:34.512] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[16:48:34.512] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[16:48:34.512] [Launch] 登录加载已开始
+[16:48:34.512] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[16:48:34.512] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[16:48:34.512] [Launch] 登录加载已结束
+[16:48:34.512] [Loader] 加载器 登录 状态改变：Finished
+[16:48:34.512] [Download] 版本 The Winter Frontier 对应的资源文件索引为 1.18
+[16:48:34.520] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[16:48:34.520] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[16:48:34.521] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[16:48:34.521] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[16:48:34.521] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\
+[16:48:34.528] [Download] 1.18.json 902#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/92aa15a18127b6f9e3f0e5a7d018be7ebb389703/1.18.json
+[16:48:34.548] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\
+[16:48:34.552] [Java] 用户指定的 Java：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:34.552] [Java] 开始确认列表 Java 状态，共 1 项
+[16:48:34.553] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-19\bin\java.exe -version
+[16:48:34.562] [Minecraft] 获取支持库列表：The Winter Frontier
+[16:48:34.564] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[16:48:34.565] [Loader] 加载器 下载资源文件 状态改变：Loading
+[16:48:34.565] [Loader] 加载器 下载资源文件 状态改变：Finished
+[16:48:34.565] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[16:48:34.615] [Java] JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:34.624] [Java] 检查后找到 1 个特定的 Java
+[16:48:34.624] [Java] 使用用户指定的 Java：C:\Program Files\Java\jdk-19\bin\
+[16:48:34.624] [Java] 选定的 Java：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:34.624] [Launch] 选择的 Java：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:34.624] [Loader] 加载器 获取 Java 状态改变：Finished
+[16:48:34.639] [Download] 1.18.json：文件大小 348726 B（341 K）
+[16:48:34.676] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[16:48:34.676] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[16:48:34.676] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[16:48:34.676] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[16:48:34.676] [Loader] 加载器 补全文件 状态改变：Finished
+[16:48:34.676] [Loader] 加载器 获取启动参数 状态改变：Loading
+[16:48:34.676] [Launch] 开始获取 Minecraft 启动参数
+[16:48:34.676] [Launch] 获取新版 JVM 参数
+[16:48:34.677] [Launch] 当前剩余内存：28G
+[16:48:34.677] [System] 获取资源：JavaWrapper
+[16:48:34.678] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[16:48:34.678] [Launch] 新版 JVM 参数获取成功：
+[16:48:34.678] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx17510m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[16:48:34.678] [Launch] 获取新版 Game 参数
+[16:48:34.678] [Launch] 新版 Game 参数获取成功
+[16:48:34.678] [Minecraft] 获取支持库列表：The Winter Frontier
+[16:48:34.683] [Launch] Minecraft 启动参数：
+[16:48:34.684] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\The Winter Frontier-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\securejarhandler\1.0.3\securejarhandler-1.0.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm\9.2\asm-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-commons\9.2\asm-commons-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-tree\9.2\asm-tree-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-util\9.2\asm-util-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\ow2\asm\asm-analysis\9.2\asm-analysis-9.2.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\eventbus\5.0.3\eventbus-5.0.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\forgespi\4.0.15-4.x\forgespi-4.0.15-4.x.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\modlauncher\9.1.3\modlauncher-9.1.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\JarJar\0.3.0\JarJar-0.3.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\cpw\mods\bootstraplauncher\1.0.0\bootstraplauncher-1.0.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries\net\minecraftforge\fmlloader\1.18.2-40.2.0\fmlloader-1.18.2-40.2.0.jar;C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\The Winter Frontier.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,"The Winter Frontier".jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory="C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries" -p "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/cpw/mods/securejarhandler/1.0.3/securejarhandler-1.0.3.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-util/9.2/asm-util-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;"C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\libraries"/org/ow2/asm/asm/9.2/asm-9.2.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx17510m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username anxiangge --version "The Winter Frontier" --gameDir "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier" --assetsDir "C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\assets" --assetIndex 1.18 --uuid a643ee826d0d43cf8cefa6dc403be7db --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXsuM-M --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 40.2.0 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914 
+[16:48:34.684] [Loader] 加载器 获取启动参数 状态改变：Finished
+[16:48:34.690] [Loader] 加载器 解压文件 状态改变：Loading
+[16:48:34.690] [Launch] 正在解压 Natives 文件
+[16:48:34.697] [Loader] 加载器 解压文件 状态改变：Finished
+[16:48:34.730] [Loader] 加载器 预启动处理 状态改变：Loading
+[16:48:34.731] [Launch] 已更新 launcher_profiles.json
+[16:48:34.731] [Launch] 并非首次启动，不修改语言
+[16:48:34.731] [Loader] 加载器 预启动处理 状态改变：Finished
+[16:48:34.766] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[16:48:34.769] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[16:48:34.802] [Loader] 加载器 启动进程 状态改变：Loading
+[16:48:34.804] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-19\bin\javaw.exe
+[16:48:34.804] [Loader] 加载器 启动进程 状态改变：Finished
+[16:48:34.804] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[16:48:34.804] [Launch] 
+[16:48:34.804] [Launch] ~ 基础参数 ~
+[16:48:34.804] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[16:48:34.804] [Launch] 游戏版本：1.18.2, Forge 40.2.0（18.2）
+[16:48:34.804] [Launch] 资源版本：1.18
+[16:48:34.804] [Launch] 版本继承：无
+[16:48:34.805] [Launch] 分配的内存：17.1 GB（17510 MB）
+[16:48:34.805] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\
+[16:48:34.805] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\
+[16:48:34.805] [Launch] 版本隔离：True
+[16:48:34.805] [Launch] HMCL 格式：False
+[16:48:34.805] [Launch] Java 信息：JDK 19 (19.0.2)，64 位：C:\Program Files\Java\jdk-19\bin\
+[16:48:34.805] [Launch] 环境变量：未设置
+[16:48:34.805] [Launch] 
+[16:48:34.805] [Launch] ~ 登录参数 ~
+[16:48:34.805] [Launch] 玩家用户名：anxiangge
+[16:48:34.805] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXsuM-M
+[16:48:34.805] [Launch] ClientToken：a643ee826d0d43cf8cefa6dc403be7db
+[16:48:34.805] [Launch] UUID：a643ee826d0d43cf8cefa6dc403be7db
+[16:48:34.805] [Launch] 登录方式：Microsoft
+[16:48:34.805] [Launch] 
+[16:48:34.805] [Launch] [12668] 开始 Minecraft 日志监控
+[16:48:34.805] [Launch] [全局] 出现运行中的 Minecraft
+[16:48:34.928] [Download] 1.18.json：已完成，剩余文件 0
+[16:48:34.928] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[16:48:34.928] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[16:48:34.929] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.18.json
+[16:48:34.929] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[16:48:34.929] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[16:48:35.036] [Launch] [12668] 日志 1/5：已出现日志输出
+[16:48:36.921] [Launch] [12668] Minecraft 已退出，返回值：1
+[16:48:36.921] [Launch] [12668] Minecraft 尚未加载完成，可能已崩溃
+[16:48:36.921] [Launch] [全局] 已无运行中的 Minecraft
+[16:48:36.921] [Launch] [12668] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[16:48:36.971] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[16:48:36.999] 加载线程 等待游戏窗口出现 (84) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[16:48:36.999] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[16:48:37.000] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[16:48:37.047] 加载线程 Loader Launch (75) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[16:48:37.047] [Loader] 加载器 Loader Launch 状态改变：Failed
+[16:48:37.155] [Launch] [12668] Minecraft 日志监控已退出
+[16:48:38.925] [Launch] [12668] 崩溃分析开始
+[16:48:38.930] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1266838242952\
+[16:48:38.930] [Crash] 步骤 1：收集日志文件
+[16:48:38.930] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log（0 分钟）
+[16:48:38.930] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\debug.log（0 分钟）
+[16:48:38.931] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\Administrator\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-07 16:48:35,891 main WARN Advanced terminal features are not available in this environment
+[16:48:36] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, anxiangge, --version, The Winter Frontier, --gameDir, C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier, --assetsDir, C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\assets, --assetIndex, 1.18, --uuid, a643ee826d0d43cf8cefa6dc403be7db, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[16:48:36] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 19.0.2 by Oracle Corporation
+[16:48:36] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Administrator/Desktop/我的世界pcl版/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2348!/ Service=ModLauncher Env=CLIENT
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.RuntimeException: Failed to load FML config from C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\config\fml.toml
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:49)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.load(FMLConfig.java:62)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLServiceProvider.initialize(FMLServiceProvider.java:65)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServiceDecorator.onInitialize(TransformationServiceDecorator.java:68)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseTransformationServices$7(TransformationServicesHandler.java:92)
+	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1073)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.initialiseTransformationServices(TransformationServicesHandler.java:92)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:51)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:87)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 3 more
+Caused by: com.electronwill.nightconfig.core.io.ParsingException: Not enough data available
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ParsingException.notEnoughData(ParsingException.java:22)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ReaderInput.directReadChar(ReaderInput.java:36)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.AbstractInput.readChar(AbstractInput.java:49)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.AbstractInput.readCharsUntil(AbstractInput.java:123)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseKey(TableParser.java:166)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseDottedKey(TableParser.java:145)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:55)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:44)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.toml@3.6.4/com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.AutoreloadFileConfig.load(AutoreloadFileConfig.java:41)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.0/net.minecraftforge.fml.loading.FMLConfig.loadFrom(FMLConfig.java:45)
+	... 16 more
+[16:48:38.931] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[16:48:38.931] [Crash] 步骤 2：准备日志文本
+[16:48:38.931] [Crash] latest.log 分类为 MinecraftLog
+[16:48:38.931] [Crash] debug.log 分类为 MinecraftLog
+[16:48:38.931] [Crash] RawOutput.log 分类为 MinecraftLog
+[16:48:38.931] [Crash] 输出报告：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log，作为 Minecraft 或启动器日志
+[16:48:38.931] [Crash] 输出报告：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\debug.log，作为 Minecraft 或启动器日志
+[16:48:38.931] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1266838242952\RawOutput.log，作为 Minecraft 或启动器日志
+[16:48:38.931] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\1266838242952\RawOutput.log，作为启动器日志
+[16:48:38.931] [Crash] 导入分析：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\versions\The Winter Frontier\logs\latest.log，作为 Minecraft 日志
+[16:48:38.931] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[16:48:38.931] [Crash] 步骤 3：分析崩溃原因
+[16:48:38.931] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[16:48:38.931] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[16:48:38.968] [System] 窗口已置顶，位置：(545, 321), 830 x 519
+[16:48:38.970] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[16:48:39.872] [Control] 按下按钮：导出错误报告
+[16:48:39.872] [Control] 普通弹框返回：3
+[16:48:43.880] [UI] 选择文件返回：C:\Users\Administrator\Desktop\错误报告-2023-5-7_16.48.39.zip
+[16:48:43.915] [System] 诊断信息：
+操作系统：Microsoft Windows 10 专业版
+剩余内存：28697 M / 32578 M
+DPI：96（100%）
+MC 文件夹：C:\Users\Administrator\Desktop\我的世界pcl版\.minecraft\
+文件位置：C:\Users\Administrator\Desktop\我的世界pcl版\

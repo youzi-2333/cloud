@@ -1,0 +1,758 @@
+[14:40:53.186] [Start] 程序版本：Snapshot 2.5.4（289）
+[14:40:53.188] [Start] 识别码：7A18-297C-B759-BA0A
+[14:40:53.188] [Start] 程序路径：D:\我的世界\PCL\Plain Craft Launcher 2.exe
+[14:40:53.198] [Start] 第一阶段加载用时：156 ms
+[14:40:53.852] [UI] 刷新主题：6
+[14:40:53.951] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[14:40:53.951] [Start] 第二阶段加载用时：656 ms
+[14:40:53.961] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[14:40:54.837] [System] 窗口已置顶，位置：(555, 270), 810 x 501
+[14:40:54.843] [Start] 第三阶段加载用时：172 ms
+[14:40:54.843] [Animation] 动画线程开始
+[14:40:54.845] [Start] 加载 DLL：Json
+[14:40:54.845] [System] 获取资源：Json
+[14:40:54.858] [Launch] Minecraft 文件夹：D:\我的世界\PCL\.minecraft\
+[14:40:54.922] [Java] 缓存中有 2 个可用的 Java
+[14:40:55.028] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[14:40:55.034] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[14:40:55.065] [Minecraft] 启动按钮：Minecraft 版本：D:\我的世界\PCL\.minecraft\versions\蜕变新生-V2.6\
+[14:40:55.068] [Loader] 加载器 登录 状态改变：Loading
+[14:40:55.074] [Launch] 登录加载已开始
+[14:40:55.074] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[14:40:55.076] [Launch] 登录方式：正版（Ma_zB）
+[14:40:55.077] [Launch] 开始微软登录步骤 2（刷新登录）
+[14:40:55.077] [Skin] 载入头像成功：Loader Skin Ms
+[14:40:55.077] [Animation] 两个动画帧间隔 218 ms
+[14:40:55.081] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[14:40:55.126] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[14:40:55.128] [UI] 解锁隐藏主题：6
+[14:40:55.129] [Loader] 加载器 PCL 服务 状态改变：Loading
+[14:40:55.129] [Server] 正在连接到 PCL 服务器
+[14:40:55.131] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[14:40:55.140] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1682923255-38cd5f00-0-360f5581c582b92c1f9f626a0a2e0296，最大超时 10000
+[14:40:55.248] [Server] 服务器公告：102|289|286|5，无需更新
+[14:40:55.254] [Loader] 加载器 PCL 服务 状态改变：Finished
+[14:40:55.563] [System] DPI：96，系统版本：10.0.19044.0，PCL 位置：D:\我的世界\PCL\Plain Craft Launcher 2.exe
+[14:40:56.276] [Control] 按下按钮：版本选择
+[14:40:56.292] [Control] 切换主要页面：VersionSelect, 0
+[14:40:56.534] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > D:\我的世界\PCL\.minecraft\
+[14:40:56.549] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[14:40:56.564] [Setup] 当前选择的 Minecraft 版本：蜕变新生-V2.6
+[14:40:56.564] [Minecraft] 选择该文件夹储存的 Minecraft 版本：D:\我的世界\PCL\.minecraft\versions\蜕变新生-V2.6\
+[14:40:56.581] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[14:40:56.616] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[14:40:56.821] [Launch] 开始微软登录步骤 3
+[14:40:56.821] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[14:40:57.085] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[14:40:57.599] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[14:40:58.359] [Launch] 开始微软登录步骤 4
+[14:40:58.360] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[14:40:58.570] [Setup] 当前选择的 Minecraft 版本：tales of silent
+[14:40:58.571] [Control] 切换主要页面：Launch, -1
+[14:40:58.571] [Control] 按下单击列表项：tales of silent
+[14:40:58.623] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[14:40:58.707] [Minecraft] 启动按钮：Minecraft 版本：D:\我的世界\PCL\.minecraft\versions\tales of silent\
+[14:40:59.125] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[14:40:59.578] [Control] 按下按钮：启动游戏
+[14:40:59.580] [Loader] 加载器 Loader Launch 状态改变：Loading
+[14:40:59.587] [System] 欲读取的文件不存在，已返回空字符串：D:\我的世界\PCL\PCL\hints.txt
+[14:40:59.599] [Launch] 预检测已通过
+[14:40:59.601] [Download] 开始后台更新资源文件索引
+[14:40:59.602] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[14:40:59.604] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[14:40:59.604] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[14:40:59.604] [Loader] 加载器 获取 Java 状态改变：Loading
+[14:40:59.606] [Download] 版本 tales of silent 对应的资源文件索引为 1.16
+[14:40:59.608] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[14:40:59.609] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[14:40:59.609] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[14:40:59.616] [Java] 开始完全遍历查找：D:\我的世界\PCL\
+[14:40:59.623] [Java] 开始完全遍历查找：D:\我的世界\PCL\.minecraft\
+[14:40:59.633] [Java] 开始完全遍历查找：D:\我的世界\PCL\.minecraft\versions\tales of silent\
+[14:40:59.639] [Download] 1.16.json 258#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[14:40:59.643] [System] 执行外部命令并等待返回结果：C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\java.exe -version
+[14:40:59.724] [Download] 1.16.json：文件大小 295229 B（288 K）
+[14:40:59.726] [Java] 选定的 Java：JDK 17 (17.0.7)，64 位：C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\
+[14:40:59.726] [Launch] 选择的 Java：JDK 17 (17.0.7)，64 位：C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\
+[14:40:59.726] [Loader] 加载器 获取 Java 状态改变：Finished
+[14:40:59.773] [Download] 1.16.json：已完成，剩余文件 0
+[14:40:59.774] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[14:40:59.774] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[14:40:59.775] [Launch] 后台更新资源文件索引成功：C:\Users\14191\AppData\Local\Temp\PCL\Cache\1.16.json
+[14:40:59.775] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[14:40:59.776] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[14:40:59.890] [Launch] 开始微软登录步骤 5
+[14:40:59.890] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[14:41:00.154] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[14:41:01.326] [Launch] 开始微软登录步骤 6
+[14:41:01.327] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[14:41:01.578] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[14:41:02.193] [Launch] 微软登录完成
+[14:41:02.193] [UI] 解锁隐藏主题：10
+[14:41:02.193] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[14:41:02.200] [Launch] 登录加载已结束
+[14:41:02.200] [Loader] 加载器 登录 状态改变：Finished
+[14:41:02.200] [Loader] 加载器 登录 状态改变：Loading
+[14:41:02.201] [Loader] 加载器 补全文件 状态改变：Loading
+[14:41:02.201] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[14:41:02.201] [Launch] 登录加载已开始
+[14:41:02.201] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[14:41:02.201] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[14:41:02.201] [Launch] 登录方式：正版（Ma_zB）
+[14:41:02.201] [Launch] 微软登录完成
+[14:41:02.201] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[14:41:02.201] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[14:41:02.201] [UI] 解锁隐藏主题：10
+[14:41:02.201] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[14:41:02.201] [Download] 版本 tales of silent 对应的资源文件索引为 1.16
+[14:41:02.207] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[14:41:02.207] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[14:41:02.207] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[14:41:02.207] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[14:41:02.218] [Launch] 登录加载已结束
+[14:41:02.218] [Loader] 加载器 登录 状态改变：Finished
+[14:41:02.249] [Minecraft] 获取支持库列表：tales of silent
+[14:41:02.284] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[14:41:02.284] [Loader] 加载器 下载资源文件 状态改变：Loading
+[14:41:02.285] [Loader] 加载器 下载资源文件 状态改变：Finished
+[14:41:02.285] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[14:41:02.388] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[14:41:02.388] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[14:41:02.388] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[14:41:02.388] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[14:41:02.388] [Loader] 加载器 补全文件 状态改变：Finished
+[14:41:02.389] [Loader] 加载器 获取启动参数 状态改变：Loading
+[14:41:02.391] [Launch] 开始获取 Minecraft 启动参数
+[14:41:02.391] [Launch] 获取新版 JVM 参数
+[14:41:02.403] [Launch] 当前剩余内存：9.4G
+[14:41:02.407] [System] 获取资源：JavaWrapper
+[14:41:02.408] [Java] 已释放 Java Wrapper：C:\Users\14191\AppData\Roaming\PCL\JavaWrapper.jar
+[14:41:02.409] [Launch] 新版 JVM 参数获取成功：
+[14:41:02.409] [Launch] -Doolloo.jlw.tmpdir="C:\Users\14191\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\14191\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher
+[14:41:02.409] [Launch] 获取新版 Game 参数
+[14:41:02.411] [Launch] 新版 Game 参数获取成功
+[14:41:02.414] [Minecraft] 获取支持库列表：tales of silent
+[14:41:02.419] [Launch] Minecraft 启动参数：
+[14:41:02.420] [Launch] -Doolloo.jlw.tmpdir="C:\Users\14191\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "D:\我的世界\PCL\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;D:\我的世界\PCL\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;D:\我的世界\PCL\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\我的世界\PCL\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;D:\我的世界\PCL\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;D:\我的世界\PCL\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;D:\我的世界\PCL\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;D:\我的世界\PCL\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;D:\我的世界\PCL\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;D:\我的世界\PCL\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.35\forge-1.16.5-36.2.35.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;D:\我的世界\PCL\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;D:\我的世界\PCL\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;D:\我的世界\PCL\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;D:\我的世界\PCL\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\14191\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher --username Ma_zB --version "tales of silent" --gameDir "D:\我的世界\PCL\.minecraft\versions\tales of silent" --assetsDir "D:\我的世界\PCL\.minecraft\assets" --assetIndex 1.16 --uuid 392846e7102c4f8497f4fdc2c527e960 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGUFAk --userType msa --versionType PCL --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.35 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[14:41:02.427] [Loader] 加载器 获取启动参数 状态改变：Finished
+[14:41:02.437] [Loader] 加载器 解压文件 状态改变：Loading
+[14:41:02.439] [Launch] 正在解压 Natives 文件
+[14:41:02.455] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\lwjgl.dll
+[14:41:02.458] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\lwjgl32.dll
+[14:41:02.461] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\jemalloc.dll
+[14:41:02.464] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\jemalloc32.dll
+[14:41:02.478] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\OpenAL.dll
+[14:41:02.489] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\OpenAL32.dll
+[14:41:02.492] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\lwjgl_opengl.dll
+[14:41:02.494] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\lwjgl_opengl32.dll
+[14:41:02.497] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\glfw.dll
+[14:41:02.500] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\glfw32.dll
+[14:41:02.503] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\lwjgl_tinyfd.dll
+[14:41:02.505] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\lwjgl_tinyfd32.dll
+[14:41:02.513] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\lwjgl_stb.dll
+[14:41:02.517] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\lwjgl_stb32.dll
+[14:41:02.518] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\SAPIWrapper_x86.dll
+[14:41:02.520] [Launch] 已解压：D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives\SAPIWrapper_x64.dll
+[14:41:02.520] [Loader] 加载器 解压文件 状态改变：Finished
+[14:41:02.526] [Loader] 加载器 预启动处理 状态改变：Loading
+[14:41:02.541] [Launch] 已更新 launcher_profiles.json
+[14:41:02.541] [Launch] 已根据设置自动修改语言为中文
+[14:41:02.545] [Loader] 加载器 预启动处理 状态改变：Finished
+[14:41:02.579] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[14:41:02.582] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[14:41:02.632] [Loader] 加载器 启动进程 状态改变：Loading
+[14:41:02.641] [Launch] 已启动游戏进程：C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\javaw.exe
+[14:41:02.641] [Loader] 加载器 启动进程 状态改变：Finished
+[14:41:02.696] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[14:41:02.698] [Launch] 
+[14:41:02.698] [Launch] ~ 基础参数 ~
+[14:41:02.698] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[14:41:02.698] [Launch] 游戏版本：1.16.5, Forge 36.2.35（16.5）
+[14:41:02.698] [Launch] 资源版本：1.16
+[14:41:02.698] [Launch] 版本继承：无
+[14:41:02.698] [Launch] 分配的内存：15 GB（15360 MB）
+[14:41:02.698] [Launch] MC 文件夹：D:\我的世界\PCL\.minecraft\
+[14:41:02.698] [Launch] 版本文件夹：D:\我的世界\PCL\.minecraft\versions\tales of silent\
+[14:41:02.698] [Launch] 版本隔离：True
+[14:41:02.698] [Launch] HMCL 格式：False
+[14:41:02.698] [Launch] Java 信息：JDK 17 (17.0.7)，64 位：C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\
+[14:41:02.698] [Launch] 环境变量：已设置
+[14:41:02.698] [Launch] 
+[14:41:02.698] [Launch] ~ 登录参数 ~
+[14:41:02.698] [Launch] 玩家用户名：Ma_zB
+[14:41:02.698] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGUFAk
+[14:41:02.698] [Launch] ClientToken：392846e7102c4f8497f4fdc2c527e960
+[14:41:02.698] [Launch] UUID：392846e7102c4f8497f4fdc2c527e960
+[14:41:02.698] [Launch] 登录方式：Microsoft
+[14:41:02.698] [Launch] 
+[14:41:02.701] [Launch] [17912] 开始 Minecraft 日志监控
+[14:41:02.701] [Launch] [全局] 出现运行中的 Minecraft
+[14:41:02.708] [Launch] [17912] 日志 1/5：已出现日志输出
+[14:41:03.886] [Launch] [17912] FML 窗口已加载：FML early loading progress（789166）
+[14:41:05.770] [Launch] [17912] Minecraft 加载已完成
+[14:41:05.783] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[14:41:05.836] [Loader] 加载器 结束处理 状态改变：Loading
+[14:41:05.838] [Launch] 开始启动结束处理
+[14:41:05.838] [Launch] 启动器可见性：5
+[14:41:05.839] [Loader] 加载器 结束处理 状态改变：Finished
+[14:41:05.904] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[14:41:06.114] [Loader] 加载器 Loader Launch 状态改变：Finished
+[14:41:06.162] [UI] 弹出提示：tales of silent 启动成功！
+[14:41:06.940] [Launch] [17912] Minecraft 已退出，返回值：1
+[14:41:06.940] [Launch] [17912] Minecraft 返回值异常，可能已崩溃
+[14:41:06.941] [Launch] [全局] 已无运行中的 Minecraft
+[14:41:06.941] [Launch] [17912] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[14:41:07.002] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[14:41:07.174] [Launch] [17912] Minecraft 日志监控已退出
+[14:41:08.955] [Launch] [17912] 崩溃分析开始
+[14:41:08.962] [Crash] 崩溃分析暂存文件夹：C:\Users\14191\AppData\Local\Temp\PCL\CrashAnalyzer\1791251048858\
+[14:41:08.964] [Crash] 步骤 1：收集日志文件
+[14:41:08.965] [Crash] 可能可用的日志文件：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\latest.log（0 分钟）
+[14:41:08.965] [Crash] 可能可用的日志文件：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\debug.log（0 分钟）
+[14:41:08.966] [Crash] 以下为游戏输出的最后一段内容：
+WARNING: Unknown module: cpw.mods.bootstraplauncher specified to --add-exports
+jlw: native file exists: 'C:\Users\14191\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-01 14:41:03,129 main WARN Advanced terminal features are not available in this environment
+[14:41:03] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Ma_zB, --version, tales of silent, --gameDir, D:\我的世界\PCL\.minecraft\versions\tales of silent, --assetsDir, D:\我的世界\PCL\.minecraft\assets, --assetIndex, 1.16, --uuid, 392846e7102c4f8497f4fdc2c527e960, --accessToken, ????????, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.35, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[14:41:03] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 17.0.7 by Microsoft
+[14:41:03] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[14:41:03] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/D:/我的世界/PCL/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[14:41:05] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:60 token recognition error at: ';'
+[14:41:05] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[14:41:05] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[14:41:05] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 4:60 token recognition error at: ';'
+Init ItemPhysic coremods ...
+Init CreativeCore coremods ...
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: java.lang.reflect.InvocationTargetException
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: Caused by: java.lang.ExceptionInInitializerError
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compile(Context.java:1509)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:1449)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:759)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:528)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:517)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.evalImpl(NashornScriptEngine.java:395)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.eval(NashornScriptEngine.java:146)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.scripting/javax.script.AbstractScriptEngine.eval(AbstractScriptEngine.java:247)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreMod.initialize(CoreMod.java:40)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModEngine.initialize(CoreModEngine.java:75)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModEngine.initializeCoreMods(CoreModEngine.java:69)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.coremod.CoreModProvider.getCoreModTransformers(CoreModProvider.java:17)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.transformers(FMLServiceProvider.java:142)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.gatherTransformers(TransformationServiceDecorator.java:74)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseServiceTransformers$6(TransformationServicesHandler.java:101)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1065)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initialiseServiceTransformers(TransformationServicesHandler.java:101)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:64)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	... 6 more
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: Caused by: java.lang.RuntimeException: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:335)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:318)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.getDefineAnonymousClass(Context.java:327)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.<clinit>(Context.java:317)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	... 27 more
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: Caused by: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MemberName.makeAccessException(MemberName.java:976)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1117)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3649)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.findVirtual(MethodHandles.java:2680)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:329)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	... 30 more
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: Caused by: java.lang.NoSuchMethodError: 'java.lang.Class sun.misc.Unsafe.defineAnonymousClass(java.lang.Class, byte[], java.lang.Object[])'
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MethodHandleNatives.resolve(Native Method)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MemberName$Factory.resolve(MemberName.java:1085)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1114)
+[14:41:06] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:724]: 	... 33 more
+Exception in thread "main" 
+[14:41:08.966] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[14:41:08.973] [Crash] 步骤 2：准备日志文本
+[14:41:08.974] [Crash] latest.log 分类为 MinecraftLog
+[14:41:08.974] [Crash] debug.log 分类为 MinecraftLog
+[14:41:08.974] [Crash] RawOutput.log 分类为 MinecraftLog
+[14:41:08.974] [Crash] 输出报告：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\latest.log，作为 Minecraft 或启动器日志
+[14:41:08.974] [Crash] 输出报告：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\debug.log，作为 Minecraft 或启动器日志
+[14:41:08.974] [Crash] 输出报告：C:\Users\14191\AppData\Local\Temp\PCL\CrashAnalyzer\1791251048858\RawOutput.log，作为 Minecraft 或启动器日志
+[14:41:08.975] [Crash] 导入分析：C:\Users\14191\AppData\Local\Temp\PCL\CrashAnalyzer\1791251048858\RawOutput.log，作为启动器日志
+[14:41:08.975] [Crash] 导入分析：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\latest.log，作为 Minecraft 日志
+[14:41:08.975] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[14:41:08.976] [Crash] 步骤 3：分析崩溃原因
+[14:41:08.982] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[14:41:08.983] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[14:41:09.029] [System] 窗口已置顶，位置：(555, 270), 810 x 501
+[14:41:09.033] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[14:41:12.579] [Control] 按下按钮：导出错误报告
+[14:41:12.580] [Control] 普通弹框返回：3
+[14:41:16.842] [UI] 选择文件返回：C:\Users\14191\Desktop\错误报告-2023-5-1_14.41.12.zip
+[14:41:16.918] [System] 诊断信息：
+操作系统：Microsoft Windows 10 专业版
+剩余内存：9511 M / 16290 M
+DPI：96（100%）
+MC 文件夹：D:\我的世界\PCL\.minecraft\
+文件位置：D:\我的世界\PCL\
+[14:41:16.960] [System] 执行外部命令：explorer.exe /select,"C:\Users\14191\Desktop\错误报告-2023-5-1_14.41.12.zip"
+[14:41:16.967] [UI] 弹出提示：错误报告已导出！
+[14:44:42.989] [System] 收到置顶信息：3015352
+[14:44:43.030] [System] 窗口已置顶，位置：(555, 270), 810 x 501
+[14:44:45.763] [Control] 按下单选按钮：设置
+[14:44:46.008] [Control] 切换主要页面：Setup, -1
+[14:44:46.016] [Animation] 两个动画帧间隔 250 ms
+[14:44:46.148] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[14:44:46.152] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[14:44:58.534] [Control] 按下文本按钮：自动搜索
+[14:44:58.535] [Loader] 加载器 查找 Java 状态改变：Loading
+[14:44:58.546] [Java] 开始部分遍历查找：C:\
+[14:44:58.553] [UI] 弹出提示：正在搜索 Java！
+[14:44:58.562] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\ProgramData\Microsoft\MapData\mapscache\BitsTemp
+[14:44:58.563] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\ProgramData\Microsoft\Network\Downloader
+[14:44:58.570] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\ProgramData\Packages
+[14:44:58.667] [Java] 开始部分遍历查找：D:\
+[14:44:58.674] [Java] 开始部分遍历查找：E:\
+[14:44:58.676] [Java] 开始部分遍历查找：F:\
+[14:44:58.676] [Java] 开始部分遍历查找：C:\Users\14191\AppData\Roaming\
+[14:44:58.680] [Java] 开始部分遍历查找：C:\Users\14191\AppData\Local\
+[14:44:58.745] [Java] 开始完全遍历查找：D:\我的世界\PCL\
+[14:44:58.748] [Java] 开始完全遍历查找：D:\我的世界\PCL\.minecraft\
+[14:44:58.754] [Java] 位于 C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\ 的 Java 不含符号链接
+[14:44:58.754] [Java] 位于 C:\Program Files\Java\jre1.8.0_281\bin\ 的 Java 不含符号链接
+[14:44:58.755] [Java] 位于 C:\Users\14191\AppData\Roaming\.minecraft\cache\java\java-runtime-beta\windows-x64\java-runtime-beta\bin\ 的 Java 不含符号链接
+[14:44:58.755] [Java] 位于 C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\ 的 Java 不含特殊引用
+[14:44:58.755] [Java] 位于 C:\Program Files\Java\jre1.8.0_281\bin\ 的 Java 不含特殊引用
+[14:44:58.755] [Java] 位于 C:\Users\14191\AppData\Roaming\.minecraft\cache\java\java-runtime-beta\windows-x64\java-runtime-beta\bin\ 的 Java 不含特殊引用
+[14:44:58.761] [Java] 开始确认列表 Java 状态，共 3 项
+[14:44:58.761] [System] 执行外部命令并等待返回结果：C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\java.exe -version
+[14:44:58.762] [System] 执行外部命令并等待返回结果：C:\Users\14191\AppData\Roaming\.minecraft\cache\java\java-runtime-beta\windows-x64\java-runtime-beta\bin\java.exe -version
+[14:44:58.762] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jre1.8.0_281\bin\java.exe -version
+[14:44:58.846] [Java] JDK 17 (17.0.7)，64 位：C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\
+[14:44:58.894] [Java] JDK 17 (17.0.1)，64 位：C:\Users\14191\AppData\Roaming\.minecraft\cache\java\java-runtime-beta\windows-x64\java-runtime-beta\bin\
+[14:44:59.024] [Java] JRE 8 (8.0.281)，64 位：C:\Program Files\Java\jre1.8.0_281\bin\
+[14:44:59.031] [Java] Java 搜索完成，发现 3 个 Java
+[14:44:59.031] [Loader] 加载器 查找 Java 状态改变：Finished
+[14:44:59.032] [Java] 修改 Java 选择设置：自动选择
+[14:44:59.061] [UI] 弹出提示：已找到 3 个 Java，请检查下拉框查看列表！
+[14:45:00.695] [Control] 按下单选按钮：启动
+[14:45:00.695] [Control] 切换主要页面：Launch, -1
+[14:45:01.493] [Control] 按下按钮：启动游戏
+[14:45:01.493] [Loader] 加载器 Loader Launch 状态改变：Loading
+[14:45:01.493] [System] 欲读取的文件不存在，已返回空字符串：D:\我的世界\PCL\PCL\hints.txt
+[14:45:01.497] [Launch] 预检测已通过
+[14:45:01.497] [Download] 开始后台更新资源文件索引
+[14:45:01.497] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[14:45:01.497] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[14:45:01.497] [Download] 版本 tales of silent 对应的资源文件索引为 1.16
+[14:45:01.497] [Loader] 加载器 登录 状态改变：Waiting
+[14:45:01.497] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[14:45:01.497] [Loader] 加载器 获取 Java 状态改变：Loading
+[14:45:01.497] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[14:45:01.497] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[14:45:01.497] [Java] 开始完全遍历查找：D:\我的世界\PCL\
+[14:45:01.497] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[14:45:01.497] [Loader] 加载器 登录 状态改变：Loading
+[14:45:01.498] [Loader] 加载器 补全文件 状态改变：Loading
+[14:45:01.498] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[14:45:01.498] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[14:45:01.498] [Launch] 登录加载已开始
+[14:45:01.498] [Launch] 登录加载已结束
+[14:45:01.498] [Loader] 加载器 登录 状态改变：Finished
+[14:45:01.498] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[14:45:01.498] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[14:45:01.498] [Download] 版本 tales of silent 对应的资源文件索引为 1.16
+[14:45:01.504] [Java] 开始完全遍历查找：D:\我的世界\PCL\.minecraft\
+[14:45:01.506] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[14:45:01.507] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[14:45:01.507] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[14:45:01.507] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[14:45:01.510] [Java] 开始完全遍历查找：D:\我的世界\PCL\.minecraft\versions\tales of silent\
+[14:45:01.520] [Java] 选定的 Java：JRE 8 (8.0.281)，64 位：C:\Program Files\Java\jre1.8.0_281\bin\
+[14:45:01.520] [Launch] 选择的 Java：JRE 8 (8.0.281)，64 位：C:\Program Files\Java\jre1.8.0_281\bin\
+[14:45:01.520] [Loader] 加载器 获取 Java 状态改变：Finished
+[14:45:01.543] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[14:45:01.543] [Loader] 加载器 下载资源文件 状态改变：Loading
+[14:45:01.543] [Loader] 加载器 下载资源文件 状态改变：Finished
+[14:45:01.543] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[14:45:01.545] [Minecraft] 获取支持库列表：tales of silent
+[14:45:01.579] [Download] 1.16.json 749#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[14:45:01.677] [Download] 1.16.json：文件大小 295229 B（288 K）
+[14:45:01.681] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[14:45:01.682] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[14:45:01.682] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[14:45:01.682] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[14:45:01.682] [Loader] 加载器 补全文件 状态改变：Finished
+[14:45:01.682] [Loader] 加载器 获取启动参数 状态改变：Loading
+[14:45:01.682] [Launch] 开始获取 Minecraft 启动参数
+[14:45:01.682] [Launch] 获取新版 JVM 参数
+[14:45:01.683] [Launch] 当前剩余内存：8.7G
+[14:45:01.683] [System] 获取资源：JavaWrapper
+[14:45:01.684] [Java] 已释放 Java Wrapper：C:\Users\14191\AppData\Roaming\PCL\JavaWrapper.jar
+[14:45:01.684] [Launch] 新版 JVM 参数获取成功：
+[14:45:01.684] [Launch] -Doolloo.jlw.tmpdir="C:\Users\14191\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\14191\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher
+[14:45:01.684] [Launch] 获取新版 Game 参数
+[14:45:01.684] [Launch] 新版 Game 参数获取成功
+[14:45:01.684] [Minecraft] 获取支持库列表：tales of silent
+[14:45:01.689] [Launch] Minecraft 启动参数：
+[14:45:01.689] [Launch] -Doolloo.jlw.tmpdir="C:\Users\14191\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "D:\我的世界\PCL\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;D:\我的世界\PCL\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;D:\我的世界\PCL\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\我的世界\PCL\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;D:\我的世界\PCL\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;D:\我的世界\PCL\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;D:\我的世界\PCL\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;D:\我的世界\PCL\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;D:\我的世界\PCL\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;D:\我的世界\PCL\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.35\forge-1.16.5-36.2.35.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;D:\我的世界\PCL\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;D:\我的世界\PCL\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;D:\我的世界\PCL\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;D:\我的世界\PCL\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\14191\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher --username Ma_zB --version "tales of silent" --gameDir "D:\我的世界\PCL\.minecraft\versions\tales of silent" --assetsDir "D:\我的世界\PCL\.minecraft\assets" --assetIndex 1.16 --uuid 392846e7102c4f8497f4fdc2c527e960 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGUFAk --userType msa --versionType PCL --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.35 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[14:45:01.689] [Loader] 加载器 获取启动参数 状态改变：Finished
+[14:45:01.692] [Loader] 加载器 解压文件 状态改变：Loading
+[14:45:01.692] [Launch] 正在解压 Natives 文件
+[14:45:01.694] [Loader] 加载器 解压文件 状态改变：Finished
+[14:45:01.714] [Download] 1.16.json：已完成，剩余文件 0
+[14:45:01.714] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[14:45:01.714] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[14:45:01.715] [Launch] 后台更新资源文件索引成功：C:\Users\14191\AppData\Local\Temp\PCL\Cache\1.16.json
+[14:45:01.715] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[14:45:01.715] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[14:45:01.747] [Loader] 加载器 预启动处理 状态改变：Loading
+[14:45:01.748] [Launch] 已更新 launcher_profiles.json
+[14:45:01.748] [Launch] 已根据设置自动修改语言为中文
+[14:45:01.749] [Loader] 加载器 预启动处理 状态改变：Finished
+[14:45:01.794] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[14:45:01.796] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[14:45:01.796] [Loader] 加载器 启动进程 状态改变：Loading
+[14:45:01.884] [Launch] 已启动游戏进程：C:\Program Files\Java\jre1.8.0_281\bin\javaw.exe
+[14:45:01.884] [Loader] 加载器 启动进程 状态改变：Finished
+[14:45:01.930] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[14:45:01.938] [Launch] 
+[14:45:01.938] [Launch] ~ 基础参数 ~
+[14:45:01.938] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[14:45:01.938] [Launch] 游戏版本：1.16.5, Forge 36.2.35（16.5）
+[14:45:01.938] [Launch] 资源版本：1.16
+[14:45:01.938] [Launch] 版本继承：无
+[14:45:01.938] [Launch] 分配的内存：15 GB（15360 MB）
+[14:45:01.938] [Launch] MC 文件夹：D:\我的世界\PCL\.minecraft\
+[14:45:01.938] [Launch] 版本文件夹：D:\我的世界\PCL\.minecraft\versions\tales of silent\
+[14:45:01.938] [Launch] 版本隔离：True
+[14:45:01.938] [Launch] HMCL 格式：False
+[14:45:01.938] [Launch] Java 信息：JRE 8 (8.0.281)，64 位：C:\Program Files\Java\jre1.8.0_281\bin\
+[14:45:01.938] [Launch] 环境变量：未设置
+[14:45:01.938] [Launch] 
+[14:45:01.938] [Launch] ~ 登录参数 ~
+[14:45:01.938] [Launch] 玩家用户名：Ma_zB
+[14:45:01.938] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGUFAk
+[14:45:01.938] [Launch] ClientToken：392846e7102c4f8497f4fdc2c527e960
+[14:45:01.938] [Launch] UUID：392846e7102c4f8497f4fdc2c527e960
+[14:45:01.938] [Launch] 登录方式：Microsoft
+[14:45:01.938] [Launch] 
+[14:45:01.938] [Launch] [26704] 开始 Minecraft 日志监控
+[14:45:01.938] [Launch] [全局] 出现运行中的 Minecraft
+[14:45:02.163] [Launch] [26704] 日志 1/5：已出现日志输出
+[14:45:03.587] [Launch] [26704] FML 窗口已加载：FML early loading progress（919882）
+[14:45:05.234] [Launch] [26704] Minecraft 加载已完成
+[14:45:05.246] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[14:45:05.304] [Loader] 加载器 结束处理 状态改变：Loading
+[14:45:05.304] [Launch] 开始启动结束处理
+[14:45:05.304] [Launch] 启动器可见性：5
+[14:45:05.305] [Loader] 加载器 结束处理 状态改变：Finished
+[14:45:05.305] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[14:45:05.512] [Loader] 加载器 Loader Launch 状态改变：Finished
+[14:45:05.544] [UI] 弹出提示：tales of silent 启动成功！
+[14:45:07.568] [Launch] [26704] Minecraft 已退出，返回值：1
+[14:45:07.568] [Launch] [26704] Minecraft 返回值异常，可能已崩溃
+[14:45:07.568] [Launch] [全局] 已无运行中的 Minecraft
+[14:45:07.568] [Launch] [26704] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[14:45:07.616] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[14:45:07.803] [Launch] [26704] Minecraft 日志监控已退出
+[14:45:09.577] [Launch] [26704] 崩溃分析开始
+[14:45:09.578] [Crash] 崩溃分析暂存文件夹：C:\Users\14191\AppData\Local\Temp\PCL\CrashAnalyzer\2670442163362\
+[14:45:09.578] [Crash] 步骤 1：收集日志文件
+[14:45:09.578] [Crash] 可能可用的日志文件：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\latest.log（0 分钟）
+[14:45:09.578] [Crash] 可能可用的日志文件：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\debug.log（0 分钟）
+[14:45:09.595] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\14191\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-01 14:45:02,449 main WARN Advanced terminal features are not available in this environment
+[14:45:02] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Ma_zB, --version, tales of silent, --gameDir, D:\我的世界\PCL\.minecraft\versions\tales of silent, --assetsDir, D:\我的世界\PCL\.minecraft\assets, --assetIndex, 1.16, --uuid, 392846e7102c4f8497f4fdc2c527e960, --accessToken, ????????, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.35, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[14:45:02] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_281 by Oracle Corporation
+[14:45:03] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[14:45:03] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/D:/我的世界/PCL/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[14:45:05] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:60 token recognition error at: ';'
+[14:45:05] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[14:45:05] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[14:45:05] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 4:60 token recognition error at: ';'
+Init ItemPhysic coremods ...
+Init CreativeCore coremods ...
+[14:45:06] [main/ERROR] [mixin/]: Mixin config mixins.skillcloaks.json does not specify "minVersion" property
+[14:45:06] [main/ERROR] [mixin/]: Mixin config antiqueatlas.mixins.json does not specify "minVersion" property
+[14:45:06] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[14:45:06] [main/ERROR] [mixin/]: Mixin config unionlib.mixins.json does not specify "minVersion" property
+[14:45:06] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.infernalstudios.infernalexp.mixin.MixinConnector]
+[14:45:06] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [someoneelse.betternetherreforged.mixin.MixinConnector]
+[14:45:06] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[14:45:06] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[14:45:06] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[14:45:06] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.multibeds.mixins.MixinConnector]
+[14:45:06] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.robertx22.library_of_exile.main.MixinConnector]
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: java.lang.reflect.InvocationTargetException
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: Caused by: java.lang.UnsupportedClassVersionError: icyllis/modernui/forge/MixinConnector has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.ClassLoader.defineClass1(Native Method)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.ClassLoader.defineClass(Unknown Source)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:138)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.Class.forName0(Native Method)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.Class.forName(Unknown Source)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.service.modlauncher.ModLauncherClassProvider.findClass(ModLauncherClassProvider.java:67)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.loadConnectors(MixinConnectorManager.java:70)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.inject(MixinConnectorManager.java:59)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.platform.MixinPlatformManager.inject(MixinPlatformManager.java:196)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.MixinBootstrap.inject(MixinBootstrap.java:202)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:201)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:195)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchPluginHandler.lambda$announceLaunch$9(LaunchPluginHandler.java:97)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.util.HashMap.forEach(Unknown Source)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchPluginHandler.announceLaunch(LaunchPluginHandler.java:97)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:52)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[14:45:06] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	... 6 more
+Exception in thread "main" 
+[14:45:09.596] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[14:45:09.596] [Crash] 步骤 2：准备日志文本
+[14:45:09.596] [Crash] latest.log 分类为 MinecraftLog
+[14:45:09.596] [Crash] debug.log 分类为 MinecraftLog
+[14:45:09.596] [Crash] RawOutput.log 分类为 MinecraftLog
+[14:45:09.596] [Crash] 输出报告：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\latest.log，作为 Minecraft 或启动器日志
+[14:45:09.596] [Crash] 输出报告：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\debug.log，作为 Minecraft 或启动器日志
+[14:45:09.596] [Crash] 输出报告：C:\Users\14191\AppData\Local\Temp\PCL\CrashAnalyzer\2670442163362\RawOutput.log，作为 Minecraft 或启动器日志
+[14:45:09.596] [Crash] 导入分析：C:\Users\14191\AppData\Local\Temp\PCL\CrashAnalyzer\2670442163362\RawOutput.log，作为启动器日志
+[14:45:09.596] [Crash] 导入分析：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\latest.log，作为 Minecraft 日志
+[14:45:09.596] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[14:45:09.596] [Crash] 步骤 3：分析崩溃原因
+[14:45:09.596] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[14:45:09.596] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[14:45:09.631] [System] 窗口已置顶，位置：(555, 270), 810 x 501
+[14:45:09.636] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[14:45:11.484] [Control] 按下按钮：确定
+[14:45:11.484] [Control] 普通弹框返回：1
+[14:45:56.842] [System] 收到置顶信息：3015352
+[14:45:56.845] [System] 窗口已置顶，位置：(555, 270), 810 x 501
+[14:45:58.861] [Control] 按下按钮：启动游戏
+[14:45:58.861] [Loader] 加载器 Loader Launch 状态改变：Loading
+[14:45:58.861] [System] 欲读取的文件不存在，已返回空字符串：D:\我的世界\PCL\PCL\hints.txt
+[14:45:58.864] [Launch] 预检测已通过
+[14:45:58.864] [Download] 开始后台更新资源文件索引
+[14:45:58.864] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[14:45:58.864] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[14:45:58.864] [Loader] 加载器 登录 状态改变：Waiting
+[14:45:58.864] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[14:45:58.864] [Download] 版本 tales of silent 对应的资源文件索引为 1.16
+[14:45:58.864] [Loader] 加载器 获取 Java 状态改变：Loading
+[14:45:58.864] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[14:45:58.864] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[14:45:58.864] [Java] 开始完全遍历查找：D:\我的世界\PCL\
+[14:45:58.864] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[14:45:58.865] [Loader] 加载器 登录 状态改变：Loading
+[14:45:58.865] [Loader] 加载器 补全文件 状态改变：Loading
+[14:45:58.865] [Launch] 登录加载已开始
+[14:45:58.866] [Launch] 登录加载已结束
+[14:45:58.866] [Loader] 加载器 登录 状态改变：Finished
+[14:45:58.866] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[14:45:58.866] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[14:45:58.866] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[14:45:58.866] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[14:45:58.866] [Download] 版本 tales of silent 对应的资源文件索引为 1.16
+[14:45:58.869] [Java] 开始完全遍历查找：D:\我的世界\PCL\.minecraft\
+[14:45:58.888] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[14:45:58.888] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[14:45:58.889] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[14:45:58.889] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[14:45:58.892] [Java] 开始完全遍历查找：D:\我的世界\PCL\.minecraft\versions\tales of silent\
+[14:45:58.895] [Java] 选定的 Java：JRE 8 (8.0.281)，64 位：C:\Program Files\Java\jre1.8.0_281\bin\
+[14:45:58.895] [Launch] 选择的 Java：JRE 8 (8.0.281)，64 位：C:\Program Files\Java\jre1.8.0_281\bin\
+[14:45:58.895] [Loader] 加载器 获取 Java 状态改变：Finished
+[14:45:58.916] [Minecraft] 获取支持库列表：tales of silent
+[14:45:58.923] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[14:45:58.923] [Loader] 加载器 下载资源文件 状态改变：Loading
+[14:45:58.924] [Loader] 加载器 下载资源文件 状态改变：Finished
+[14:45:58.924] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[14:45:58.979] [Download] 1.16.json 889#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[14:45:58.991] [Download] 1.16.json：文件大小 295229 B（288 K）
+[14:45:59.037] [Download] 1.16.json：已完成，剩余文件 0
+[14:45:59.037] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[14:45:59.038] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[14:45:59.039] [Launch] 后台更新资源文件索引成功：C:\Users\14191\AppData\Local\Temp\PCL\Cache\1.16.json
+[14:45:59.039] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[14:45:59.039] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[14:45:59.052] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[14:45:59.052] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[14:45:59.052] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[14:45:59.052] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[14:45:59.052] [Loader] 加载器 补全文件 状态改变：Finished
+[14:45:59.053] [Loader] 加载器 获取启动参数 状态改变：Loading
+[14:45:59.053] [Launch] 开始获取 Minecraft 启动参数
+[14:45:59.053] [Launch] 获取新版 JVM 参数
+[14:45:59.054] [Launch] 当前剩余内存：9G
+[14:45:59.054] [System] 获取资源：JavaWrapper
+[14:45:59.055] [Java] 已释放 Java Wrapper：C:\Users\14191\AppData\Roaming\PCL\JavaWrapper.jar
+[14:45:59.055] [Launch] 新版 JVM 参数获取成功：
+[14:45:59.055] [Launch] -Doolloo.jlw.tmpdir="C:\Users\14191\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\14191\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher
+[14:45:59.055] [Launch] 获取新版 Game 参数
+[14:45:59.055] [Launch] 新版 Game 参数获取成功
+[14:45:59.055] [Minecraft] 获取支持库列表：tales of silent
+[14:45:59.059] [Launch] Minecraft 启动参数：
+[14:45:59.060] [Launch] -Doolloo.jlw.tmpdir="C:\Users\14191\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=289 -cp "D:\我的世界\PCL\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;D:\我的世界\PCL\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;D:\我的世界\PCL\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\我的世界\PCL\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;D:\我的世界\PCL\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;D:\我的世界\PCL\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;D:\我的世界\PCL\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;D:\我的世界\PCL\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;D:\我的世界\PCL\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;D:\我的世界\PCL\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;D:\我的世界\PCL\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;D:\我的世界\PCL\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.35\forge-1.16.5-36.2.35.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;D:\我的世界\PCL\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;D:\我的世界\PCL\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\我的世界\PCL\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;D:\我的世界\PCL\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;D:\我的世界\PCL\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;D:\我的世界\PCL\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\我的世界\PCL\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\我的世界\PCL\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;D:\我的世界\PCL\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;D:\我的世界\PCL\.minecraft\versions\tales of silent\tales of silent.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\14191\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.modlauncher.Launcher --username Ma_zB --version "tales of silent" --gameDir "D:\我的世界\PCL\.minecraft\versions\tales of silent" --assetsDir "D:\我的世界\PCL\.minecraft\assets" --assetIndex 1.16 --uuid 392846e7102c4f8497f4fdc2c527e960 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGUFAk --userType msa --versionType PCL --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.35 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[14:45:59.060] [Loader] 加载器 获取启动参数 状态改变：Finished
+[14:45:59.064] [Loader] 加载器 解压文件 状态改变：Loading
+[14:45:59.064] [Launch] 正在解压 Natives 文件
+[14:45:59.066] [Loader] 加载器 解压文件 状态改变：Finished
+[14:45:59.106] [Loader] 加载器 预启动处理 状态改变：Loading
+[14:45:59.107] [Launch] 已更新 launcher_profiles.json
+[14:45:59.107] [Launch] 已根据设置自动修改语言为中文
+[14:45:59.108] [Loader] 加载器 预启动处理 状态改变：Finished
+[14:45:59.156] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[14:45:59.157] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[14:45:59.196] [Loader] 加载器 启动进程 状态改变：Loading
+[14:45:59.202] [Launch] 已启动游戏进程：C:\Program Files\Java\jre1.8.0_281\bin\javaw.exe
+[14:45:59.202] [Loader] 加载器 启动进程 状态改变：Finished
+[14:45:59.246] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[14:45:59.247] [Launch] 
+[14:45:59.247] [Launch] ~ 基础参数 ~
+[14:45:59.247] [Launch] PCL 版本：Snapshot 2.5.4 (289)
+[14:45:59.247] [Launch] 游戏版本：1.16.5, Forge 36.2.35（16.5）
+[14:45:59.247] [Launch] 资源版本：1.16
+[14:45:59.247] [Launch] 版本继承：无
+[14:45:59.247] [Launch] 分配的内存：15 GB（15360 MB）
+[14:45:59.247] [Launch] MC 文件夹：D:\我的世界\PCL\.minecraft\
+[14:45:59.247] [Launch] 版本文件夹：D:\我的世界\PCL\.minecraft\versions\tales of silent\
+[14:45:59.247] [Launch] 版本隔离：True
+[14:45:59.247] [Launch] HMCL 格式：False
+[14:45:59.247] [Launch] Java 信息：JRE 8 (8.0.281)，64 位：C:\Program Files\Java\jre1.8.0_281\bin\
+[14:45:59.247] [Launch] 环境变量：未设置
+[14:45:59.247] [Launch] 
+[14:45:59.247] [Launch] ~ 登录参数 ~
+[14:45:59.247] [Launch] 玩家用户名：Ma_zB
+[14:45:59.247] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGUFAk
+[14:45:59.247] [Launch] ClientToken：392846e7102c4f8497f4fdc2c527e960
+[14:45:59.247] [Launch] UUID：392846e7102c4f8497f4fdc2c527e960
+[14:45:59.247] [Launch] 登录方式：Microsoft
+[14:45:59.247] [Launch] 
+[14:45:59.247] [Launch] [8948] 开始 Minecraft 日志监控
+[14:45:59.247] [Launch] [全局] 出现运行中的 Minecraft
+[14:45:59.477] [Launch] [8948] 日志 1/5：已出现日志输出
+[14:46:00.657] [Launch] [8948] FML 窗口已加载：FML early loading progress（2491944）
+[14:46:02.548] [Launch] [8948] Minecraft 加载已完成
+[14:46:02.652] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[14:46:02.653] [Loader] 加载器 结束处理 状态改变：Loading
+[14:46:02.653] [Launch] 开始启动结束处理
+[14:46:02.653] [Launch] 启动器可见性：5
+[14:46:02.654] [Loader] 加载器 结束处理 状态改变：Finished
+[14:46:02.708] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[14:46:02.809] [Loader] 加载器 Loader Launch 状态改变：Finished
+[14:46:02.841] [UI] 弹出提示：tales of silent 启动成功！
+[14:46:04.654] [Launch] [8948] Minecraft 已退出，返回值：1
+[14:46:04.654] [Launch] [8948] Minecraft 返回值异常，可能已崩溃
+[14:46:04.654] [Launch] [全局] 已无运行中的 Minecraft
+[14:46:04.654] [Launch] [8948] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[14:46:04.658] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[14:46:04.892] [Launch] [8948] Minecraft 日志监控已退出
+[14:46:06.670] [Launch] [8948] 崩溃分析开始
+[14:46:06.670] [Crash] 崩溃分析暂存文件夹：C:\Users\14191\AppData\Local\Temp\PCL\CrashAnalyzer\894823955289\
+[14:46:06.670] [Crash] 步骤 1：收集日志文件
+[14:46:06.671] [Crash] 可能可用的日志文件：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\latest.log（0 分钟）
+[14:46:06.671] [Crash] 可能可用的日志文件：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\debug.log（0 分钟）
+[14:46:06.674] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\14191\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-05-01 14:45:59,732 main WARN Advanced terminal features are not available in this environment
+[14:45:59] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Ma_zB, --version, tales of silent, --gameDir, D:\我的世界\PCL\.minecraft\versions\tales of silent, --assetsDir, D:\我的世界\PCL\.minecraft\assets, --assetIndex, 1.16, --uuid, 392846e7102c4f8497f4fdc2c527e960, --accessToken, ????????, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.35, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[14:45:59] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_281 by Oracle Corporation
+[14:46:00] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[14:46:00] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/D:/我的世界/PCL/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[14:46:02] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:60 token recognition error at: ';'
+[14:46:02] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[14:46:02] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[14:46:02] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 4:60 token recognition error at: ';'
+Init ItemPhysic coremods ...
+Init CreativeCore coremods ...
+[14:46:03] [main/ERROR] [mixin/]: Mixin config mixins.skillcloaks.json does not specify "minVersion" property
+[14:46:03] [main/ERROR] [mixin/]: Mixin config antiqueatlas.mixins.json does not specify "minVersion" property
+[14:46:03] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[14:46:03] [main/ERROR] [mixin/]: Mixin config unionlib.mixins.json does not specify "minVersion" property
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.infernalstudios.infernalexp.mixin.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [someoneelse.betternetherreforged.mixin.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.multibeds.mixins.MixinConnector]
+[14:46:04] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.robertx22.library_of_exile.main.MixinConnector]
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: java.lang.reflect.InvocationTargetException
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: Caused by: java.lang.UnsupportedClassVersionError: icyllis/modernui/forge/MixinConnector has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.ClassLoader.defineClass1(Native Method)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.ClassLoader.defineClass(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:138)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.Class.forName0(Native Method)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.lang.Class.forName(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.service.modlauncher.ModLauncherClassProvider.findClass(ModLauncherClassProvider.java:67)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.loadConnectors(MixinConnectorManager.java:70)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.platform.MixinConnectorManager.inject(MixinConnectorManager.java:59)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.platform.MixinPlatformManager.inject(MixinPlatformManager.java:196)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.MixinBootstrap.inject(MixinBootstrap.java:202)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:201)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.initializeLaunch(MixinLaunchPluginLegacy.java:195)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchPluginHandler.lambda$announceLaunch$9(LaunchPluginHandler.java:97)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.util.HashMap.forEach(Unknown Source)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchPluginHandler.announceLaunch(LaunchPluginHandler.java:97)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:52)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[14:46:04] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:-1]: 	... 6 more
+Exception in thread "main" 
+[14:46:06.675] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[14:46:06.675] [Crash] 步骤 2：准备日志文本
+[14:46:06.675] [Crash] latest.log 分类为 MinecraftLog
+[14:46:06.675] [Crash] debug.log 分类为 MinecraftLog
+[14:46:06.675] [Crash] RawOutput.log 分类为 MinecraftLog
+[14:46:06.675] [Crash] 输出报告：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\latest.log，作为 Minecraft 或启动器日志
+[14:46:06.675] [Crash] 输出报告：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\debug.log，作为 Minecraft 或启动器日志
+[14:46:06.675] [Crash] 输出报告：C:\Users\14191\AppData\Local\Temp\PCL\CrashAnalyzer\894823955289\RawOutput.log，作为 Minecraft 或启动器日志
+[14:46:06.675] [Crash] 导入分析：C:\Users\14191\AppData\Local\Temp\PCL\CrashAnalyzer\894823955289\RawOutput.log，作为启动器日志
+[14:46:06.675] [Crash] 导入分析：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\latest.log，作为 Minecraft 日志
+[14:46:06.675] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[14:46:06.675] [Crash] 步骤 3：分析崩溃原因
+[14:46:06.676] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[14:46:06.676] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[14:46:06.739] [System] 窗口已置顶，位置：(54, 422), 810 x 501
+[14:46:06.742] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[14:46:45.897] [Control] 按下按钮：查看日志
+[14:46:45.897] [System] 执行外部命令：D:\我的世界\PCL\.minecraft\versions\tales of silent\logs\latest.log 
+[14:47:41.611] [Control] 按下按钮：导出错误报告
+[14:47:41.611] [Control] 普通弹框返回：3
+[14:47:46.168] [UI] 选择文件返回：C:\Users\14191\Desktop\错误报告-2023-5-1_14.47.41.zip
+[14:47:46.237] [System] 诊断信息：
+操作系统：Microsoft Windows 10 专业版
+剩余内存：9212 M / 16290 M
+DPI：96（100%）
+MC 文件夹：D:\我的世界\PCL\.minecraft\
+文件位置：D:\我的世界\PCL\

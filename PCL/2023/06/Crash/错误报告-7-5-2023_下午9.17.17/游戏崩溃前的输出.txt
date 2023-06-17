@@ -1,0 +1,500 @@
+[21:16:02] [Render thread/WARN] [minecraft/Options]: Removed resource pack simplyswords:classic from options because it doesn't seem to exist anymore
+[21:16:02] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.sound.SoundLoadEvent to a broken mod state
+[21:16:02] [Render thread/WARN] [mixin/]: @Final field f_173173_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[21:16:02] [Render thread/WARN] [mixin/]: @Final field f_173174_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[21:16:02] [Render thread/WARN] [mixin/]: @Final field f_181442_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[21:16:02] [Render thread/WARN] [mixin/]: @Final field f_181443_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[21:16:02] [Render thread/WARN] [mixin/]: @Final field f_173175_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[21:16:02] [Render thread/WARN] [mixin/]: @Final field f_173176_:Ljava/util/function/Function; in immediatelyfast.mixins.json:core.MixinRenderLayer should be final
+[21:16:02] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Block to a broken mod state
+[21:16:02] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Item to a broken mod state
+---- Minecraft Crash Report ----
+// Why did you do that?
+
+Time: 7/5/23 下午9:16
+Description: Initializing game
+
+java.lang.IllegalAccessError: class com.mojang.blaze3d.vertex.BufferBuilder tried to access private field com.mojang.blaze3d.platform.MemoryTracker.f_182525_ (com.mojang.blaze3d.vertex.BufferBuilder and com.mojang.blaze3d.platform.MemoryTracker are in module minecraft@1.18.2 of loader 'TRANSFORMER' @638afcaa)
+	at com.mojang.blaze3d.vertex.BufferBuilder.release(BufferBuilder.java:1052) ~[client-1.18.2-20220404.173914-srg.jar%23497!/:?] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:flywheel.mixins.json:BufferBuilderMixin,pl:mixin:APP:immediatelyfast.mixins.json:core.MixinBufferBuilder,pl:mixin:APP:irisflw.mixins.iris.json:MixinBufferBuilder,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.renderer.MultiBufferSource.m_109900_(MultiBufferSource.java:546) ~[client-1.18.2-20220404.173914-srg.jar%23497!/:?] {re:mixin,re:classloading,pl:mixin:APP:immediatelyfast.mixins.json:core.MixinVertexConsumerProvider,pl:mixin:A}
+	at net.minecraft.client.renderer.RenderBuffers.<init>(RenderBuffers.java:42) ~[client-1.18.2-20220404.173914-srg.jar%23497!/:?] {re:mixin,re:classloading,pl:mixin:APP:quark.mixins.json:client.RenderBuffersMixin,pl:mixin:A}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:497) ~[client-1.18.2-20220404.173914-srg.jar%23497!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:immediatelyfast.mixins.json:hud_batching.MixinMinecraftClient,pl:mixin:APP:modernfix.mixins.json:core.MinecraftMixin,pl:mixin:APP:modernfix.mixins.json:feature.measure_time.MinecraftMixin,pl:mixin:APP:modernfix.mixins.json:bugfix.concurrency.MinecraftMixin,pl:mixin:APP:the_bumblezone.mixins.json:client.MinecraftMixin,pl:mixin:APP:dungeons_libraries.mixins.json:MinecraftMixin,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:enhancedvisuals.mixins.json:MinecraftMixin,pl:mixin:APP:bookshelf.common.mixins.json:client.AccessorMinecraft,pl:mixin:APP:konkrete.mixin.json:client.MixinMinecraft,pl:mixin:APP:travelerstitles.mixins.json:MinecraftClientTickMixin,pl:mixin:APP:plasmovoice-common.mixins.json:MixinMinecraft,pl:mixin:APP:fancymenu.general.mixin.json:MixinMinecraft,pl:mixin:APP:fancymenu.general.mixin.json:IMixinMinecraft,pl:mixin:APP:balm.mixins.json:MinecraftMixin,pl:mixin:APP:fallingleaves.mixins.json:MinecraftClientMixin,pl:mixin:APP:bettercombat.mixins.json:client.MinecraftClientAccessor,pl:mixin:APP:bettercombat.mixins.json:client.MinecraftClientInject,pl:mixin:APP:byg_forge.mixins.json:client.MixinMinecraft,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:blueprint.mixins.json:client.MinecraftMixin,pl:mixin:APP:iceberg.mixins.json:MinecraftMixin,pl:mixin:APP:create.mixins.json:WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23497!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.2.1.jar%2351!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?] {}
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:58) [JavaWrapper.jar:?] {}
+	at oolloo.jlw.Wrapper.main(Wrapper.java:51) [JavaWrapper.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at com.mojang.blaze3d.vertex.BufferBuilder.release(BufferBuilder.java:1052) ~[client-1.18.2-20220404.173914-srg.jar%23497!/:?] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:flywheel.mixins.json:BufferBuilderMixin,pl:mixin:APP:immediatelyfast.mixins.json:core.MixinBufferBuilder,pl:mixin:APP:irisflw.mixins.iris.json:MixinBufferBuilder,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.renderer.MultiBufferSource.m_109900_(MultiBufferSource.java:546) ~[client-1.18.2-20220404.173914-srg.jar%23497!/:?] {re:mixin,re:classloading,pl:mixin:APP:immediatelyfast.mixins.json:core.MixinVertexConsumerProvider,pl:mixin:A}
+	at net.minecraft.client.renderer.RenderBuffers.<init>(RenderBuffers.java:42) ~[client-1.18.2-20220404.173914-srg.jar%23497!/:?] {re:mixin,re:classloading,pl:mixin:APP:quark.mixins.json:client.RenderBuffersMixin,pl:mixin:A}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:497) ~[client-1.18.2-20220404.173914-srg.jar%23497!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:immediatelyfast.mixins.json:hud_batching.MixinMinecraftClient,pl:mixin:APP:modernfix.mixins.json:core.MinecraftMixin,pl:mixin:APP:modernfix.mixins.json:feature.measure_time.MinecraftMixin,pl:mixin:APP:modernfix.mixins.json:bugfix.concurrency.MinecraftMixin,pl:mixin:APP:the_bumblezone.mixins.json:client.MinecraftMixin,pl:mixin:APP:dungeons_libraries.mixins.json:MinecraftMixin,pl:mixin:APP:flywheel.mixins.json:PausedPartialTickAccessor,pl:mixin:APP:enhancedvisuals.mixins.json:MinecraftMixin,pl:mixin:APP:bookshelf.common.mixins.json:client.AccessorMinecraft,pl:mixin:APP:konkrete.mixin.json:client.MixinMinecraft,pl:mixin:APP:travelerstitles.mixins.json:MinecraftClientTickMixin,pl:mixin:APP:plasmovoice-common.mixins.json:MixinMinecraft,pl:mixin:APP:fancymenu.general.mixin.json:MixinMinecraft,pl:mixin:APP:fancymenu.general.mixin.json:IMixinMinecraft,pl:mixin:APP:balm.mixins.json:MinecraftMixin,pl:mixin:APP:fallingleaves.mixins.json:MinecraftClientMixin,pl:mixin:APP:bettercombat.mixins.json:client.MinecraftClientAccessor,pl:mixin:APP:bettercombat.mixins.json:client.MinecraftClientInject,pl:mixin:APP:byg_forge.mixins.json:client.MixinMinecraft,pl:mixin:APP:architectury.mixins.json:MixinMinecraft,pl:mixin:APP:blueprint.mixins.json:client.MinecraftMixin,pl:mixin:APP:iceberg.mixins.json:MinecraftMixin,pl:mixin:APP:create.mixins.json:WindowResizeMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+-- Initialization --
+Details:
+	Modules: 
+		ADVAPI32.dll:高级 Windows 32 基本 API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		COMCTL32.dll:用户体验控件库:6.10 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPT32.dll:加密 API32:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTBASE.dll:Base cryptographic API DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTSP.dll:Cryptographic Service Provider API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		CoreMessaging.dll:Microsoft CoreMessaging Dll:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		DBGHELP.DLL:Windows Image Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		DEVOBJ.dll:Device Information Set DLL:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		DNSAPI.dll:DNS 客户端 API DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		GDI32.dll:GDI Client DLL:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		GLU32.dll:OpenGL 实用工具库 DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		HID.DLL:Hid 用户库:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		IMM32.DLL:Multi-User Windows IMM32 API Client DLL:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		IPHLPAPI.DLL:IP 帮助程序 API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		KERNEL32.DLL:Windows NT 基本 API 客户端 DLL:10.0.22621.1485 (WinBuild.160101.0800):Microsoft Corporation
+		KERNELBASE.dll:Windows NT 基本 API 客户端 DLL:10.0.22621.1485 (WinBuild.160101.0800):Microsoft Corporation
+		MMDevApi.dll:MMDevice API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		MSASN1.dll:ASN.1 Runtime APIs:10.0.22621.819 (WinBuild.160101.0800):Microsoft Corporation
+		MSCTF.dll:MSCTF 服务器 DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		NSI.dll:NSI User-mode interface DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		OLEAUT32.dll:OLEAUT32.DLL:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		Ole32.dll:用于 Windows 的 Microsoft OLE:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		Oleacc.dll:Active Accessibility Core Component:7.2.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		OpenAL.dll
+		PSAPI.DLL:Process Status Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		Pdh.dll:Windows 性能数据助手 DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		RPCRT4.dll:远程过程调用运行时:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		SETUPAPI.DLL:Windows 安装程序 API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		SHCORE.dll:SHCORE:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		SHELL32.dll:Windows Shell 公用 DLL:10.0.22621.755 (WinBuild.160101.0800):Microsoft Corporation
+		UMPDC.dll:User Mode Power Dependency Coordinator:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		USER32.dll:多用户 Windows 用户 API 客户端 DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		USERENV.dll:Userenv:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		VCRUNTIME140.dll:Microsoft? C Runtime Library:14.16.27033.0 built by: vcwrkspc:Microsoft Corporation
+		VERSION.dll:Version Checking and File Installation Libraries:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		WINHTTP.dll:Windows HTTP 服务:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		WINMM.dll:MCI API DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		WINSTA.dll:Winstation Library:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		WINTRUST.dll:Microsoft Trust Verification APIs:10.0.22621.1485 (WinBuild.160101.0800):Microsoft Corporation
+		WS2_32.dll:Windows Socket 2.0 32 位 DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		WSOCK32.dll:Windows Socket 32-Bit DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		WTSAPI32.dll:Windows Remote Desktop Session Host Server SDK APIs:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		amsi.dll:Anti-Malware Scan Interface:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		bcrypt.dll:Windows 加密基元库:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		bcryptPrimitives.dll:Windows Cryptographic Primitives Library:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		cfgmgr32.dll:Configuration Manager DLL:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		clbcatq.dll:COM+ Configuration Catalog:2001.12.10941.16384 (WinBuild.160101.0800):Microsoft Corporation
+		combase.dll:用于 Windows 的 Microsoft COM:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		cryptnet.dll:Crypto Network Related API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		dbgcore.DLL:Windows Core Debugging Helpers:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc.DLL:DHCP 客户端服务:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc6.DLL:DHCPv6 客户端:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		dinput8.dll:Microsoft DirectInput:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		drvstore.dll:Driver Store API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		dwmapi.dll:Microsoft 桌面窗口管理器 API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		dxcore.dll:DXCore:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		fwpuclnt.dll:FWP/IPsec 用户模式 API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		gdi32full.dll:GDI Client DLL:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		glfw.dll
+		icm32.dll:Microsoft Color Management Module (CMM):10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		inputhost.dll:InputHost:10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		instrument.dll:OpenJDK Platform binary:17.0.2.0:BellSoft
+		java.dll:OpenJDK Platform binary:17.0.2.0:BellSoft
+		javaw.exe:OpenJDK Platform binary:17.0.2.0:BellSoft
+		jemalloc.dll
+		jimage.dll:OpenJDK Platform binary:17.0.2.0:BellSoft
+		jli.dll:OpenJDK Platform binary:17.0.2.0:BellSoft
+		jna17374714855161854994.dll:JNA native library:6.1.2:Java(TM) Native Access (JNA)
+		jsvml.dll:OpenJDK Platform binary:17.0.2.0:BellSoft
+		jvm.dll:OpenJDK 64-Bit server VM:17.0.2.0:BellSoft
+		kernel.appcore.dll:AppModel API Host:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		libwrapper.dll
+		lwjgl.dll
+		lwjgl_opengl.dll
+		lwjgl_stb.dll
+		management.dll:OpenJDK Platform binary:17.0.2.0:BellSoft
+		management_ext.dll:OpenJDK Platform binary:17.0.2.0:BellSoft
+		mscms.dll:Microsoft 颜色匹配系统 DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		msvcp140.dll:Microsoft? C Runtime Library:14.16.27033.0 built by: vcwrkspc:Microsoft Corporation
+		msvcp_win.dll:Microsoft? C Runtime Library:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		msvcrt.dll:Windows NT CRT DLL:7.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		mswsock.dll:Microsoft Windows Sockets 2.0 服务提供程序:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		napinsp.dll:电子邮件命名填充提供程序:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		net.dll:OpenJDK Platform binary:17.0.2.0:BellSoft
+		nio.dll:OpenJDK Platform binary:17.0.2.0:BellSoft
+		nlansp_c.dll:NLA Namespace Service Provider DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		ntdll.dll:NT 层 DLL:10.0.22621.1485 (WinBuild.160101.0800):Microsoft Corporation
+		ntmarta.dll:Windows NT MARTA 提供程序:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		nvoglv64.dll:NVIDIA Compatible OpenGL ICD:31.0.15.3179:NVIDIA Corporation
+		nvspcap64.dll:NVIDIA Game Proxy:3.27.0.112:NVIDIA Corporation
+		opengl32.dll:OpenGL Client DLL:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		perfos.dll:Windows 系统性能对象 DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		pfclient.dll:SysMain Client:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		pnrpnsp.dll:PNRP 命名空间提供程序:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		powrprof.dll:电源配置文件帮助程序 DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		profapi.dll:User Profile Basic API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		rasadhlp.dll:Remote Access AutoDial Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		rsaenh.dll:Microsoft Enhanced Cryptographic Provider:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		sechost.dll:Host for SCM/SDDL/LSA Lookup APIs:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		shlwapi.dll:外壳简易实用工具库:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		textinputframework.dll:"TextInputFramework.DYNLINK":10.0.22621.1344 (WinBuild.160101.0800):Microsoft Corporation
+		ucrtbase.dll:Microsoft? C Runtime Library:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		uxtheme.dll:Microsoft UxTheme 库:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		verify.dll:OpenJDK Platform binary:17.0.2.0:BellSoft
+		win32u.dll:Win32u:10.0.22621.1555 (WinBuild.160101.0800):Microsoft Corporation
+		windows.storage.dll:Microsoft WinRT Storage API:10.0.22621.608 (WinBuild.160101.0800):Microsoft Corporation
+		winrnr.dll:LDAP RnR Provider DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		wintypes.dll:Windows 基本类型 DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		wldp.dll:Windows 锁定策略:10.0.22621.900 (WinBuild.160101.0800):Microsoft Corporation
+		wshbth.dll:Windows Sockets Helper DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		xinput1_4.dll:Microsoft 公共控制器 API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		zip.dll:OpenJDK Platform binary:17.0.2.0:BellSoft
+Stacktrace:
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23497!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.2.1.jar%2351!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%2339!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?] {}
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:58) [JavaWrapper.jar:?] {}
+	at oolloo.jlw.Wrapper.main(Wrapper.java:51) [JavaWrapper.jar:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.18.2
+	Minecraft Version ID: 1.18.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.2, BellSoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), BellSoft
+	Memory: 493948416 bytes (471 MiB) / 981467136 bytes (936 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 16
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 7 5800H with Radeon Graphics         
+	Identifier: AuthenticAMD Family 25 Model 80 Stepping 0
+	Microarchitecture: Zen 3
+	Frequency (GHz): 3.19
+	Number of physical packages: 1
+	Number of physical CPUs: 8
+	Number of logical CPUs: 16
+	Graphics card #0 name: NVIDIA GeForce RTX 3060 Laptop GPU
+	Graphics card #0 vendor: NVIDIA (0x10de)
+	Graphics card #0 VRAM (MB): 4095.00
+	Graphics card #0 deviceId: 0x2560
+	Graphics card #0 versionInfo: DriverVersion=31.0.15.3179
+	Memory slot #0 capacity (MB): 16384.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 16384.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 34717.37
+	Virtual memory used (MB): 19761.31
+	Swap memory total (MB): 2097.31
+	Swap memory used (MB): 69.37
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx12288m
+	Launched Version: 永恒乐事
+	Backend library: LWJGL version 3.2.2 SNAPSHOT
+	Backend API: NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2 GL version 3.2.0 NVIDIA 531.79, NVIDIA Corporation
+	Window size: <not initialized>
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'forge'
+	Type: Client (map_client.txt)
+	CPU: 16x AMD Ryzen 7 5800H with Radeon Graphics 
+	Forge CoreMods: 
+		| ID    | Name                          | Source                           | Status | 
+		| ----- | ----------------------------- | -------------------------------- | ------ | 
+		| forge | field_to_method               | field_to_method.js               | Loaded | 
+		| forge | field_to_instanceof           | field_to_instanceof.js           | Loaded | 
+		| forge | add_bouncer_method            | add_bouncer_method.js            | Loaded | 
+		| forge | registry_object_binary_compat | registry_object_binary_compat.js | Loaded | 
+	Mixin Configs: 
+		| Name                                                                 | Mixin Package                                           | Priority | Required | Targets | 
+		| -------------------------------------------------------------------- | ------------------------------------------------------- | -------- | -------- | ------- | 
+		| betterdungeons.mixins.json                                           | com.yungnickyoung.minecraft.betterdungeons.mixin.       | 1000     | true     | 2       | 
+		| betterdungeons_forge.mixins.json                                     | com.yungnickyoung.minecraft.betterdungeons.mixin.       | 1000     | true     | 0       | 
+		| paucal_xplat.mixins.json                                             | at.petrak.paucal.api.mixin.                             | 1000     | true     | 3       | 
+		| paucal_forge.mixins.json                                             | at.petrak.paucal.forge.mixin.                           | 1000     | true     | 3       | 
+		| climbladdersfast-common.mixins.json                                  | org.spoorn.climbladdersfast.mixin.                      | 1000     | true     | 2       | 
+		| modernworldcreation.mixin.json                                       | de.keksuccino.modernworldcreation.mixin.                | 1000     | true     | 2       | 
+		| infernal-expansion.mixins.json                                       | org.infernalstudios.infernalexp.mixin.                  | 1000     | true     | 31      | 
+		| entitycollisionfpsfix.mixins.json                                    | corgitaco.entitycollisionfpsfix.mixin.                  | 1000     | true     | 2       | 
+		| entitycollisionfpsfix.forge.mixins.json                              | corgitaco.entitycollisionfpsfix.mixin.                  | 1000     | true     | 0       | 
+		| modernfix.mixins.json                                                | org.embeddedt.modernfix.mixin.                          | 1000     | true     | 42      | 
+		| yungsapi.mixins.json                                                 | com.yungnickyoung.minecraft.yungsapi.mixin.             | 1000     | true     | 9       | 
+		| yungsapi_forge.mixins.json                                           | com.yungnickyoung.minecraft.yungsapi.mixin.             | 1000     | true     | 0       | 
+		| ldlib.mixins.json                                                    | com.lowdragmc.lowdraglib.core.mixins.                   | 1000     | true     | 13      | 
+		| META-INF/pickupnotifier.mixins.json                                  | fuzs.pickupnotifier.mixin.                              | 1000     | true     | 2       | 
+		| delogger.mixins.json                                                 | com.unrealdinnerbone.delogger.mixin.                    | 1000     | true     | 1       | 
+		| betterfortresses.mixins.json                                         | com.yungnickyoung.minecraft.betterfortresses.mixin.     | 1000     | true     | 5       | 
+		| betterfortresses_forge.mixins.json                                   | com.yungnickyoung.minecraft.betterfortresses.mixin.     | 1000     | true     | 1       | 
+		| supplementaries.mixins.json                                          | net.mehvahdjukaar.supplementaries.mixins.               | 1000     | true     | 58      | 
+		| structure_gel.mixins.json                                            | com.legacy.structure_gel.core.mixin.                    | 1000     | true     | 16      | 
+		| META-INF/tinyskeletons.mixins.json                                   | fuzs.tinyskeletons.mixin.                               | 1000     | true     | 1       | 
+		| repurposed_structures.mixins.json                                    | com.telepathicgrunt.repurposedstructures.mixin.         | 1000     | true     | 24      | 
+		| sereneseasonfix.mixins.json                                          | oros.sereneseasonfix.mixin.                             | 1000     | true     | 4       | 
+		| questplaques.mixins.json                                             | com.anthonyhilyard.questplaques.mixin.                  | 1000     | true     | 1       | 
+		| lightspeed.mixins.json                                               | com.ccr4ft3r.lightspeed.mixin.                          | 1000     | true     | 18      | 
+		| snowpig.mixins.json                                                  | com.uraneptus.snowpig.mixins.                           | 1000     | true     | 2       | 
+		| illagerrevolution.mixins.json                                        | net.sangrebk.illagerrevolutionmod.mixin.                | 1000     | true     | 1       | 
+		| pluto.mixins.json                                                    | com.abdelaziz.pluto.mixin.                              | 1000     | true     | 12      | 
+		| cfm.mixins.json                                                      | com.mrcrayfish.furniture.mixin.                         | 1000     | true     | 1       | 
+		| the_bumblezone.mixins.json                                           | com.telepathicgrunt.the_bumblezone.mixin.               | 1000     | true     | 36      | 
+		| hunger_reworked.mixins.json                                          | me.adneths.hunger_reworked.core.mixin.                  | 1000     | true     | 2       | 
+		| dungeons_libraries.mixins.json                                       | com.infamous.dungeons_libraries.mixin.                  | 1000     | true     | 14      | 
+		| pumpkillagersquest_forge.mixins.json                                 | com.natamus.pumpkillagersquest.forge.mixin.             | 1000     | true     | 2       | 
+		| packetsizedoublerforge.mixins.json                                   | net.tonimatasdev.packetsizedoublerforge.mixin.          | 1000     | false    | 4       | 
+		| dungeons_gear.mixins.json                                            | com.infamous.dungeons_gear.mixin.                       | 1000     | true     | 13      | 
+		| clienttweaks.mixins.json                                             | net.blay09.mods.clienttweaks.mixin.                     | 1000     | true     | 3       | 
+		| mixins.nameless_trinkets.json                                        | com.cozary.nameless_trinkets.mixin.                     | 1000     | true     | 1       | 
+		| libraryferret.mixins.json                                            | com.jtorleonstudios.libraryferret.mixins.               | 1000     | true     | 1       | 
+		| goblintraders.mixins.json                                            | com.mrcrayfish.goblintraders.mixin.                     | 1000     | true     | 5       | 
+		| integrated_api.mixins.json                                           | com.craisinlord.integrated_api.mixin.                   | 1000     | true     | 18      | 
+		| untamedwilds.mixins.json                                             | untamedwilds.mixin.                                     | 1000     | true     | 0       | 
+		| curioofundying.mixins.json                                           | top.theillusivec4.curioofundying.mixin.                 | 1000     | true     | 1       | 
+		| pyrotechnicraft.mixins.json                                          | org.mineplugin.locusazzurro.pyrotechnicraft.mixin.      | 1000     | true     | 0       | 
+		| questsadditions.mixins.json                                          | questsadditions.mixin.                                  | 1000     | true     | 6       | 
+		| display_case.mixins.json                                             | chappie.displaycase.mixin.                              | 1000     | true     | 2       | 
+		| terrablender.mixins.json                                             | terrablender.mixin.                                     | 1000     | true     | 4       | 
+		| terrablender_forge.mixins.json                                       | terrablender.mixin.                                     | 1000     | true     | 1       | 
+		| shouldersurfing.mixins.json                                          | com.teamderpy.shouldersurfing.mixins.                   | 1000     | true     | 6       | 
+		| firstperson.mixins.json                                              | dev.tr7zw.firstperson.mixins.                           | 1000     | true     | 13      | 
+		| arnicalib.mixin.json                                                 | org.auioc.mcmod.arnicalib.mod.mixin.                    | 1000     | true     | 8       | 
+		| personality.mixins.json                                              | com.teamabnormals.personality.core.mixin.               | 1000     | true     | 8       | 
+		| brewinandchewin.mixins.json                                          | com.brewinandchewin.core.mixin.                         | 1000     | true     | 1       | 
+		| farmersrespite.mixins.json                                           | com.farmersrespite.core.mixin.                          | 1000     | true     | 0       | 
+		| notenoughanimations.mixins.json                                      | dev.tr7zw.notenoughanimations.mixins.                   | 1000     | true     | 7       | 
+		| flywheel.mixins.json                                                 | com.jozufozu.flywheel.mixin.                            | 1000     | true     | 23      | 
+		| foglooksgoodnow.mixins.json                                          | birsy.foglooksgoodnow.mixin.                            | 1000     | true     | 2       | 
+		| autumnity.mixins.json                                                | com.teamabnormals.autumnity.core.mixin.                 | 1000     | true     | 3       | 
+		| immediatelyfast.mixins.json                                          | net.raphimc.immediatelyfast.injection.mixins.           | 1000     | true     | 16      | 
+		| lootr.mixins.json                                                    | noobanidus.mods.lootr.mixins.                           | 1000     | true     | 2       | 
+		| galosphere.mixins.json                                               | net.orcinus.galosphere.mixin.                           | 1000     | true     | 10      | 
+		| betteroceanmonuments.mixins.json                                     | com.yungnickyoung.minecraft.betteroceanmonuments.mixin. | 1000     | true     | 4       | 
+		| betteroceanmonuments_forge.mixins.json                               | com.yungnickyoung.minecraft.betteroceanmonuments.mixin. | 1000     | true     | 1       | 
+		| enhancedvisuals.mixins.json                                          | team.creative.enhancedvisuals.mixin.                    | 1000     | true     | 8       | 
+		| placebo.mixins.json                                                  | shadows.placebo.mixin.                                  | 1000     | true     | 7       | 
+		| bookshelf.common.mixins.json                                         | net.darkhax.bookshelf.mixin.                            | 1000     | true     | 18      | 
+		| bookshelf.forge.mixins.json                                          | net.darkhax.bookshelf.mixin.                            | 1000     | true     | 1       | 
+		| takesapillage.mixins.json                                            | com.izofar.takesapillage.mixin.                         | 1000     | true     | 3       | 
+		| bygonenether.mixins.json                                             | com.izofar.bygonenether.mixin.                          | 1000     | true     | 6       | 
+		| dragonfight.mixins.json                                              | com.dragonfight.mixin.                                  | 1000     | false    | 5       | 
+		| konkrete.mixin.json                                                  | de.keksuccino.konkrete.mixin.                           | 1000     | true     | 7       | 
+		| cuneiform.mixins.json                                                | azmalent.cuneiform.mixin.                               | 1000     | true     | 3       | 
+		| equipmentcompare.mixins.json                                         | com.anthonyhilyard.equipmentcompare.mixin.              | 1000     | true     | 1       | 
+		| projectvibrantjourneys.mixins.json                                   | com.projectvibrantjourneys.core.mixin.                  | 1000     | true     | 1       | 
+		| dogslie.mixins.json                                                  | me.ichun.mods.dogslie.mixin.                            | 1000     | true     | 3       | 
+		| creatures-and-beasts.mixins.json                                     | com.cgessinger.creaturesandbeasts.mixin.                | 1000     | true     | 5       | 
+		| undergarden.mixins.json                                              | quek.undergarden.mixin.                                 | 1000     | true     | 1       | 
+		| observable.common.json                                               | observable.mixin.                                       | 1000     | true     | 2       | 
+		| homeostatic.mixins.json                                              | homeostatic.mixin.                                      | 1000     | true     | 4       | 
+		| flatbedrock.mixins.json                                              | com.sunekaer.mods.flatbedrock.mixin.                    | 1000     | true     | 2       | 
+		| irisflw.mixins.flw.json                                              | top.leonx.irisflw.mixin.                                | 1000     | true     | 7       | 
+		| irisflw.mixins.iris.json                                             | top.leonx.irisflw.mixin.                                | 1000     | true     | 1       | 
+		| forge-mca.mixin.json                                                 | forge.net.mca.mixin.                                    | 1000     | true     | 25      | 
+		| mixins.shrines.json                                                  | com.silverminer.shrines.mixins.                         | 1000     | true     | 5       | 
+		| conjurer_illager.mixins.json                                         | com.legacy.conjurer_illager.mixin.                      | 1000     | true     | 1       | 
+		| obscure_api.mixins.json                                              | com.obscuria.obscureapi.mixin.                          | 1000     | true     | 3       | 
+		| lead_beyond.mixins.json                                              | io.github.dovecotmc.leadbeyond.mixin.                   | 1000     | true     | 0       | 
+		| mixins.artifacts.json                                                | artifacts.mixin.                                        | 1000     | true     | 6       | 
+		| moremountedstorages.mixins.json                                      | com.juh9870.moremountedstorages.mixin.                  | 1000     | true     | 4       | 
+		| more_babies.mixins.json                                              | com.github.mammut53.more_babies.mixin.                  | 1000     | true     | 24      | 
+		| lazydfu.mixins.json                                                  | me.steinborn.lazydfu.mixin.                             | 1000     | true     | 1       | 
+		| travelerstitles.mixins.json                                          | com.yungnickyoung.minecraft.travelerstitles.mixin.      | 1000     | true     | 3       | 
+		| travelerstitles_forge.mixins.json                                    | com.yungnickyoung.minecraft.travelerstitles.mixin.      | 1000     | true     | 1       | 
+		| untitledduckmod.mixins.json                                          | net.untitledduckmod.mixin.                              | 1000     | true     | 3       | 
+		| graveyard_biomes.mixins.json                                         |                                                         | 1000     | true     | 0       | 
+		| horsecombatcontrols.mixins.json                                      | github.pitbox46.horsecombatcontrols.mixins.             | 1000     | true     | 2       | 
+		| simplyswords-common.mixins.json                                      | net.sweenus.simplyswords.mixin.                         | 1000     | false    | 0       | 
+		| simplyswords.mixins.json                                             | net.sweenus.simplyswords.mixin.forge.                   | 1000     | false    | 0       | 
+		| plasmovoice-common.mixins.json                                       | su.plo.voice.mixin.                                     | 1000     | true     | 8       | 
+		| plasmovoice.mixins.json                                              | su.plo.voice.forge.mixin.                               | 1000     | true     | 2       | 
+		| creativecore.mixins.json                                             | team.creative.creativecore.mixin.                       | 1000     | true     | 1       | 
+		| cull-less-leaves.mixins.json                                         | dev.isxander.culllessleaves.mixins.                     | 1000     | true     | 2       | 
+		| smoothboot.mixins.json                                               | com.abdelaziz.smoothboot.mixin.                         | 1000     | true     | 4       | 
+		| unstructured.mixins.json                                             | de.cristelknight999.unstructured.mixin.                 | 1000     | true     | 5       | 
+		| mixins.some_assembly_required.json                                   | someassemblyrequired.mixin.                             | 1000     | true     | 2       | 
+		| miners_delight.mixins.json                                           | com.sammy.minersdelight.mixin.                          | 1000     | true     | 1       | 
+		| fancymenu.general.mixin.json                                         | de.keksuccino.fancymenu.mixin.client.                   | 1000     | true     | 14      | 
+		| creeperoverhaul.mixins.json                                          | tech.thatgravyboat.creeperoverhaul.mixin.               | 1000     | true     | 2       | 
+		| ferritecore.predicates.mixin.json                                    | malte0811.ferritecore.mixin.predicates.                 | 1000     | true     | 3       | 
+		| ferritecore.fastmap.mixin.json                                       | malte0811.ferritecore.mixin.fastmap.                    | 1000     | true     | 1       | 
+		| ferritecore.mrl.mixin.json                                           | malte0811.ferritecore.mixin.mrl.                        | 1000     | true     | 2       | 
+		| ferritecore.dedupmultipart.mixin.json                                | malte0811.ferritecore.mixin.dedupmultipart.             | 1000     | true     | 2       | 
+		| ferritecore.blockstatecache.mixin.json                               | malte0811.ferritecore.mixin.blockstatecache.            | 1000     | true     | 8       | 
+		| ferritecore.dedupbakedquad.mixin.json                                | malte0811.ferritecore.mixin.dedupbakedquad.             | 1000     | true     | 2       | 
+		| ferritecore.threaddetec.mixin.json                                   | malte0811.ferritecore.mixin.threaddetec.                | 1000     | true     | 0       | 
+		| NoChatLagForge.mixins.json                                           | me.noahvdaa.nochatlag.forge.mixin.                      | 1000     | true     | 1       | 
+		| enhancedcelestials.mixins.json                                       | corgitaco.enhancedcelestials.mixin.                     | 1000     | true     | 24      | 
+		| enhancedcelestials.forge.mixins.json                                 | corgitaco.enhancedcelestials.mixin.                     | 1000     | true     | 0       | 
+		| saturn.mixins.json                                                   | com.abdelaziz.saturn.mixin.                             | 1000     | true     | 1       | 
+		| playerAnimator-common.mixins.json                                    | dev.kosmx.playerAnim.mixin.                             | 1000     | true     | 13      | 
+		| nerb.mixins.json                                                     | it.hurts.sskirillss.nerb.mixin.                         | 1000     | true     | 4       | 
+		| maxhealthfix.common.mixins.json                                      | net.darkhax.maxhealthfix.mixin.                         | 1000     | true     | 1       | 
+		| maxhealthfix.forge.mixins.json                                       | net.darkhax.maxhealthfix.mixin.                         | 1000     | true     | 0       | 
+		| armorcurve.mixins.json                                               | jackiecrazy.armorcurve.mixin.                           | 1000     | true     | 4       | 
+		| respiteful.mixins.json                                               | plus.dragons.respiteful.core.mixin.                     | 1000     | true     | 3       | 
+		| balm.mixins.json                                                     | net.blay09.mods.balm.mixin.                             | 1000     | true     | 15      | 
+		| immersive_armors.mixins.json                                         | immersive_armors.mixin.                                 | 1000     | true     | 9       | 
+		| mixins.bsf.json                                                      | com.linngdu664.bsf.mixin.                               | 1000     | false    | 2       | 
+		| ellemes-container-library-forge.mixins.json                          | ellemes.container_library.forge.mixin.                  | 1000     | true     | 1       | 
+		| minieffects.mixins.json                                              | snownee.minieffects.mixin.                              | 1000     | true     | 3       | 
+		| endlessocean.mixins.json                                             | com.nyfaria.endlessocean.mixin.                         | 1000     | true     | 1       | 
+		| do-a-barrel-roll.forge.mixins.json                                   | nl.enjarai.doabarrelroll.forge.mixin.                   | 1000     | true     | 1       | 
+		| do-a-barrel-roll.mixins.json                                         | nl.enjarai.doabarrelroll.mixin.                         | 1000     | true     | 6       | 
+		| notreepunching.mixins.json                                           | com.alcatrazescapee.notreepunching.mixin.               | 1000     | true     | 0       | 
+		| notreepunching.common.mixins.json                                    | com.alcatrazescapee.notreepunching.mixin.               | 1000     | true     | 4       | 
+		| darkerdepths.mixins.json                                             | com.naterbobber.darkerdepths.mixin.                     | 1000     | true     | 3       | 
+		| citadel.mixins.json                                                  | com.github.alexthe666.citadel.mixin.                    | 1000     | true     | 5       | 
+		| cloudstorage.mixins.json                                             | com.github.alexthe668.cloudstorage.mixin.               | 1000     | true     | 4       | 
+		| curios.mixins.json                                                   | top.theillusivec4.curios.mixin.core.                    | 1000     | true     | 6       | 
+		| overweightfarming.mixins.json                                        | net.orcinus.overweightfarming.mixin.                    | 1000     | true     | 2       | 
+		| mixins.fix_quark_3951.json                                           | net.heipiao.fix_quark_3951.mixins.                      | 1000     | false    | 1       | 
+		| quicksand.mixins.json                                                | com.github.channelingmc.quicksand.core.mixin.           | 1000     | true     | 7       | 
+		| soulfired.mixins.json                                                | crystalspider.soulfired.mixin.                          | 1000     | true     | 10      | 
+		| rankine.mixins.json                                                  | com.cannolicatfish.rankine.mixin.                       | 1000     | true     | 0       | 
+		| bettermineshafts.mixins.json                                         | com.yungnickyoung.minecraft.bettermineshafts.mixin.     | 1000     | true     | 3       | 
+		| bettermineshafts_forge.mixins.json                                   | com.yungnickyoung.minecraft.bettermineshafts.mixin.     | 1000     | true     | 1       | 
+		| sliceanddice.mixins.json                                             | com.possible_triangle.sliceanddice.mixins.              | 1000     | true     | 3       | 
+		| ftblibrary-common.mixins.json                                        | dev.ftb.mods.ftblibrary.core.mixin.common.              | 1000     | true     | 4       | 
+		| thecomfortzone.mixins.json                                           | com.frenderman.tcz.common.mixin.                        | 1000     | true     | 1       | 
+		| graveyard.mixins.json                                                | com.finallion.graveyard.mixin.                          | 1000     | true     | 9       | 
+		| upgrade_aquatic.mixins.json                                          | com.teamabnormals.upgrade_aquatic.core.mixin.           | 1000     | true     | 7       | 
+		| passablefoliage.mixins.json                                          | snownee.passablefoliage.mixin.                          | 1000     | true     | 4       | 
+		| fallingleaves.mixins.json                                            | de.cheaterpaul.fallingleaves.mixin.                     | 1000     | true     | 3       | 
+		| sereneseasons.mixins.json                                            | sereneseasons.mixin.                                    | 1000     | true     | 2       | 
+		| table_top_craft.mixins.json                                          | andrews.table_top_craft.mixins.                         | 1000     | true     | 1       | 
+		| prp.mixins.json                                                      | gkappa.prp.mixin.                                       | 1000     | true     | 2       | 
+		| idas.mixins.json                                                     | com.craisinlord.idas.mixin.                             | 1000     | true     | 0       | 
+		| neapolitan.mixins.json                                               | com.teamabnormals.neapolitan.core.mixin.                | 1000     | true     | 6       | 
+		| jsonthings.mixins.json                                               | dev.gigaherz.jsonthings.mixin.                          | 1000     | true     | 1       | 
+		| bettercombat.mixins.json                                             | net.bettercombat.mixin.                                 | 1000     | true     | 13      | 
+		| mousetweaks.mixins.json                                              | yalter.mousetweaks.mixin.                               | 1000     | true     | 1       | 
+		| mixin.imdlib-whisperwoods.json                                       | dev.itsmeow.whisperwoods.imdlib.mixin.                  | 1000     | true     | 5       | 
+		| whisperwoods.mixins.json                                             | dev.itsmeow.whisperwoods.mixin.                         | 1000     | true     | 3       | 
+		| whisperwoods-forge.mixins.json                                       | dev.itsmeow.whisperwoods.mixin.forge.                   | 1000     | true     | 1       | 
+		| ecologics-common.mixins.json                                         | samebutdifferent.ecologics.mixin.                       | 1000     | true     | 3       | 
+		| ecologics.mixins.json                                                | samebutdifferent.ecologics.mixin.forge.                 | 1000     | true     | 2       | 
+		| integrated_stronghold.mixins.json                                    | com.craisinlord.integrated_stronghold.mixin.            | 1000     | true     | 2       | 
+		| polymorph.mixins.json                                                | top.theillusivec4.polymorph.mixin.core.                 | 1000     | true     | 7       | 
+		| polymorph_integrations.mixins.json                                   | top.theillusivec4.polymorph.mixin.integration.          | 1000     | true     | 0       | 
+		| earthmobsmod.mixins.json                                             | baguchan.earthmobsmod.mixin.                            | 1000     | true     | 5       | 
+		| crittersandcompanions.mixins.json                                    | com.github.eterdelta.crittersandcompanions.mixin.       | 1000     | true     | 6       | 
+		| entityculling.mixins.json                                            | dev.tr7zw.entityculling.mixin.                          | 1000     | true     | 7       | 
+		| byg.mixins.json                                                      | potionstudios.byg.mixin.                                | 1000     | true     | 97      | 
+		| byg_forge.mixins.json                                                | potionstudios.byg.mixin.                                | 1000     | true     | 1       | 
+		| domesticationinnovation.mixins.json                                  | com.github.alexthe668.domesticationinnovation.mixin.    | 1000     | true     | 23      | 
+		| blue_skies.mixins.json                                               | com.legacy.blue_skies.mixin.                            | 1000     | true     | 20      | 
+		| betterwitchhuts.mixins.json                                          | com.yungnickyoung.minecraft.betterwitchhuts.mixin.      | 1000     | true     | 5       | 
+		| betterwitchhuts_forge.mixins.json                                    | com.yungnickyoung.minecraft.betterwitchhuts.mixin.      | 1000     | true     | 1       | 
+		| mixins.mega.json                                                     | com.mega.something.mixin.                               | 1000     | true     | 1       | 
+		| naturalist-common.mixins.json                                        | com.starfish_studios.naturalist.mixin.                  | 1000     | true     | 4       | 
+		| naturalist.mixins.json                                               | com.starfish_studios.naturalist.mixin.forge.            | 1000     | true     | 0       | 
+		| connectivity.mixins.json                                             | com.connectivity.mixin.                                 | 1000     | false    | 16      | 
+		| immersive_aircraft.mixins.json                                       | immersive_aircraft.mixin.                               | 1000     | true     | 9       | 
+		| kleeslabs.mixins.json                                                | net.blay09.mods.kleeslabs.mixin.                        | 1000     | true     | 1       | 
+		| piglinproliferation.mixins.json                                      | tallestred.piglinproliferation.mixins.                  | 1000     | true     | 1       | 
+		| controlling.mixins.json                                              | com.blamejared.controlling.mixin.                       | 1000     | true     | 5       | 
+		| controlling.forge.mixins.json                                        | com.blamejared.controlling.mixin.                       | 1000     | true     | 0       | 
+		| feature_nbt_deadlock_be_gone.mixins.json                             | com.telepathicgrunt.featurenbtdeadlockbegone.mixin.     | 1000     | true     | 1       | 
+		| allurement.mixins.json                                               | com.teamabnormals.allurement.core.mixin.                | 1000     | true     | 22      | 
+		| fpsreducer.mixins.json                                               | bre2el.fpsreducer.mixin.                                | 1000     | true     | 1       | 
+		| beyond_earth.mixin.json                                              | net.mrscauthd.beyond_earth.mixin.                       | 1000     | true     | 7       | 
+		| dummmmmmy.mixins.json                                                | net.mehvahdjukaar.dummmmmmy.mixins.                     | 1000     | true     | 2       | 
+		| farmersdelight.mixins.json                                           | vectorwing.farmersdelight.common.mixin.                 | 1000     | true     | 7       | 
+		| endrem.mixins.json                                                   | com.teamremastered.endrem.mixin.                        | 1000     | true     | 1       | 
+		| mixins.gift_from_the_black_dragon.json                               | plus.dragons.gftbd22.mixin.                             | 1000     | true     | 0       | 
+		| patchouli_xplat.mixins.json                                          | vazkii.patchouli.mixin.                                 | 1000     | true     | 7       | 
+		| mixins.simplehats.json                                               | fonnymunkey.simplehats.mixin.core.                      | 1000     | true     | 2       | 
+		| skiing.mixins.json                                                   | com.affehund.skiing.mixin.                              | 1000     | true     | 0       | 
+		| expandedstorage-common.mixin.json                                    | ellemes.expandedstorage.mixin.                          | 1000     | true     | 2       | 
+		| eatinganimation.mixins.json                                          | com.matyrobbrt.eatinganimation.mixin.                   | 1000     | true     | 1       | 
+		| architectury.mixins.json                                             | dev.architectury.mixin.forge.                           | 1000     | true     | 8       | 
+		| architectury-common.mixins.json                                      | dev.architectury.mixin.                                 | 1000     | true     | 9       | 
+		| spiderstpo.mixins.json                                               | tcb.spiderstpo.mixins.                                  | 1000     | true     | 4       | 
+		| itemfilters-common.mixins.json                                       | dev.latvian.mods.itemfilters.core.mixin.common.         | 1000     | true     | 1       | 
+		| fastsuite.mixins.json                                                | shadows.fastsuite.mixin.                                | 1000     | true     | 2       | 
+		| itemborders.mixins.json                                              | com.anthonyhilyard.itemborders.mixin.                   | 1000     | true     | 2       | 
+		| betterdeserttemples.mixins.json                                      | com.yungnickyoung.minecraft.betterdeserttemples.mixin.  | 1000     | true     | 7       | 
+		| betterdeserttemples_forge.mixins.json                                | com.yungnickyoung.minecraft.betterdeserttemples.mixin.  | 1000     | true     | 1       | 
+		| blueprint.mixins.json                                                | com.teamabnormals.blueprint.core.mixin.                 | 1000     | true     | 27      | 
+		| coldsnaphorde.mixins.json                                            | com.villain.coldsnaphorde.mixin.                        | 1000     | true     | 0       | 
+		| coldsnaphorde.forge.mixins.json                                      | com.villain.coldsnaphorde.mixin.                        | 1000     | true     | 0       | 
+		| selene.mixins.json                                                   | net.mehvahdjukaar.selene.mixins.                        | 1000     | true     | 12      | 
+		| nethersdelight.mixins.json                                           | com.nethersdelight.core.mixin.                          | 1000     | true     | 0       | 
+		| rottencreatures-common.mixins.json                                   | com.github.teamfusion.rottencreatures.mixin.            | 1000     | true     | 13      | 
+		| rottencreatures.mixins.json                                          | com.github.teamfusion.rottencreatures.mixin.forge.      | 1000     | true     | 0       | 
+		| iceberg.mixins.json                                                  | com.anthonyhilyard.iceberg.mixin.                       | 1000     | true     | 5       | 
+		| quark.mixins.json                                                    | vazkii.quark.mixin.                                     | 1000     | true     | 70      | 
+		| diet.mixins.json                                                     | top.theillusivec4.diet.mixin.                           | 1000     | true     | 4       | 
+		| parcool.mixins.json                                                  | com.alrex.parcool.mixin.                                | 1000     | true     | 5       | 
+		| forgetmechunk.mixins.json                                            | com.abdelaziz.forgetmechunk.mixin.                      | 1000     | true     | 1       | 
+		| cartoonishhorde.mixins.json                                          | com.villain.cartoonishhorde.mixin.                      | 1000     | true     | 2       | 
+		| cartoonishhorde.forge.mixins.json                                    | com.villain.cartoonishhorde.mixin.                      | 1000     | true     | 0       | 
+		| expandability.mixins.json                                            | be.florens.expandability.mixin.                         | 1000     | true     | 7       | 
+		| presencefootsteps.mixin.json                                         | eu.ha3.presencefootsteps.mixins.                        | 1000     | true     | 5       | 
+		| assets/paraglider/mixin.json                                         | tictim.paraglider.mixin.                                | 1000     | true     | 3       | 
+		| assets/camera/camera.mixins.json                                     | de.maxhenkel.camera.mixins.                             | 1000     | true     | 1       | 
+		| assets/sound_physics_remastered/sound_physics_remastered.mixins.json | com.sonicether.soundphysics.mixin.                      | 1000     | true     | 6       | 
+		| assets/car/car.mixins.json                                           | de.maxhenkel.car.mixins.                                | 1000     | true     | 1       | 
+		| create_central_kitchen.mixins.json                                   | plus.dragons.createcentralkitchen.mixin.                | 1100     | true     | 0       | 
+		| rainbowcompound.mixins.json                                          | com.LunaGlaze.rainbowcompound.Mixins.                   | 1100     | true     | 5       | 
+		| create_crystal_clear.mixins.json                                     | com.cyvack.create_crystal_clear.mixins.                 | 1100     | true     | 2       | 
+		| create.mixins.json                                                   | com.simibubi.create.foundation.mixin.                   | 1100     | true     | 21      | 
+	ModLauncher: 9.1.3+9.1.3+main.9b69c82a
+	ModLauncher launch target: forgeclient
+	ModLauncher naming: srg
+	ModLauncher services: 
+		 mixin PLUGINSERVICE 
+		 eventbus PLUGINSERVICE 
+		 slf4jfixer PLUGINSERVICE 
+		 object_holder_definalize PLUGINSERVICE 
+		 runtime_enum_extender PLUGINSERVICE 
+		 capability_token_subclass PLUGINSERVICE 
+		 accesstransformer PLUGINSERVICE 
+		 runtimedistcleaner PLUGINSERVICE 
+		 mixin TRANSFORMATIONSERVICE 
+		 fml TRANSFORMATIONSERVICE 
+		 MoreCrashInfoTransformerService TRANSFORMATIONSERVICE 
+		 I18nUpdateMod TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		javafml@null
+		lowcodefml@null
+		kotori_scala@2.13.10-build-12
+		kotlinforforge@3.4.0
+	Mod List: 
+		client-1.18.2-20220404.173914-srg.jar             |Minecraft                     |minecraft                     |1.18.2              |NONE      |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		forge-1.18.2-40.2.1-universal.jar                 |Forge                         |forge                         |40.2.1              |NONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+#@!@# Game crashed! Crash report saved to: #@!@# D:\永痕乐视\.minecraft\versions\永恒乐事\crash-reports\crash-2023-05-07_21.16.02-client.txt

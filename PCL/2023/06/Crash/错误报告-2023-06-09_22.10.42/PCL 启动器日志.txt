@@ -1,0 +1,1084 @@
+[22:07:28.871] [Start] 程序版本：Snapshot 2.6.2（294）
+[22:07:28.871] [Start] 识别码：0B3C-1163-D78C-0F43
+[22:07:28.871] [Start] 程序路径：D:\Y\PCL\Plain Craft Launcher 2.exe
+[22:07:28.881] [Start] 第一阶段加载用时：156 ms
+[22:07:28.989] [UI] 刷新主题：0
+[22:07:29.022] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[22:07:29.022] [Start] 第二阶段加载用时：141 ms
+[22:07:29.037] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[22:07:29.181] [UI] 加载背景图片：D:\Y\PCL\PCL\Pictures\b6c6665b45c3c4ad115a15fbcee0216b6bcf4561_raw.png
+[22:07:29.255] [System] 窗口已置顶，位置：(220, 65.6), 1096 x 684.8
+[22:07:29.260] [Start] 第三阶段加载用时：109 ms
+[22:07:29.260] [Animation] 动画线程开始
+[22:07:29.262] [Start] 加载 DLL：Json
+[22:07:29.262] [System] 获取资源：Json
+[22:07:29.271] [Launch] Minecraft 文件夹：C:\Users\MI\AppData\Roaming\.minecraft\
+[22:07:29.316] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[22:07:29.321] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[22:07:29.351] [Java] 缓存中有 4 个可用的 Java
+[22:07:29.362] [Skin] 载入头像成功：Loader Skin Ms
+[22:07:29.411] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\
+[22:07:29.416] [Loader] 加载器 登录 状态改变：Loading
+[22:07:29.421] [Launch] 登录加载已开始
+[22:07:29.427] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[22:07:29.427] [Launch] 登录方式：正版（MAXCARZZY）
+[22:07:29.427] [Launch] 开始微软登录步骤 2（刷新登录）
+[22:07:29.431] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[22:07:29.561] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[22:07:29.561] [UI] 解锁隐藏主题：6
+[22:07:29.561] [Loader] 加载器 PCL 服务 状态改变：Loading
+[22:07:29.561] [Server] 正在连接到 PCL 服务器
+[22:07:29.561] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[22:07:29.587] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1686319650-071085e8-0-964a0287f682b430da899ecfc3b05fd1，最大超时 10000
+[22:07:29.683] [Server] 服务器公告：108|294|293|5，无需更新
+[22:07:29.691] [Loader] 加载器 PCL 服务 状态改变：Finished
+[22:07:29.951] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[22:07:29.985] [System] DPI：120，系统版本：10.0.22621.0，PCL 位置：D:\Y\PCL\Plain Craft Launcher 2.exe
+[22:07:30.193] [Launch] 开始微软登录步骤 3
+[22:07:30.193] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[22:07:30.450] [Control] 按下按钮：版本设置
+[22:07:30.450] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[22:07:30.502] [Control] 切换主要页面：VersionSetup, 0
+[22:07:30.958] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[22:07:31.722] [Launch] 开始微软登录步骤 4
+[22:07:31.722] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[22:07:31.975] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[22:07:32.488] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[22:07:33.162] [Control] 按下单选列表项：Mod 管理
+[22:07:33.251] [Launch] 开始微软登录步骤 5
+[22:07:33.251] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[22:07:33.336] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[22:07:33.336] [System] 已刷新 Mod 列表
+[22:07:33.504] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[22:07:34.013] [Launch] 开始微软登录步骤 6
+[22:07:34.013] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[22:07:34.044] Mod Class 信息不可用（C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\kotlinforforge-3.12.0-all.jar）：未找到 Mod 入口点
+   在 PCL.ModMinecraft.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[22:07:34.266] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[22:07:34.773] [Launch] 微软登录完成
+[22:07:34.773] [UI] 解锁隐藏主题：10
+[22:07:34.773] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[22:07:34.789] [Launch] 登录加载已结束
+[22:07:34.789] [Loader] 加载器 登录 状态改变：Finished
+[22:07:34.837] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[22:07:37.021] [Control] 按下按钮：打开 Mod 文件夹
+[22:07:37.021] [System] 执行外部命令：explorer.exe "C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\"
+[22:08:03.835] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[22:08:03.835] [System] 已刷新 Mod 列表
+[22:08:04.546] Mod Class 信息不可用（C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\kotlinforforge-3.12.0-all.jar）：未找到 Mod 入口点
+   在 PCL.ModMinecraft.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[22:08:05.365] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[22:08:05.970] [Control] 按下图标按钮：BtnTitleInner
+[22:08:05.971] [Control] 切换主要页面：Launch, -1
+[22:08:07.055] [Control] 按下按钮：启动游戏
+[22:08:07.061] [Loader] 加载器 Loader Launch 状态改变：Loading
+[22:08:07.061] [System] 欲读取的文件不存在，已返回空字符串：D:\Y\PCL\PCL\hints.txt
+[22:08:07.071] [Launch] 预检测已通过
+[22:08:07.082] [Download] 开始后台更新资源文件索引
+[22:08:07.082] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[22:08:07.082] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[22:08:07.082] [Loader] 加载器 登录 状态改变：Waiting
+[22:08:07.082] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[22:08:07.082] [Loader] 加载器 获取 Java 状态改变：Loading
+[22:08:07.082] [Loader] 加载器 登录 状态改变：Loading
+[22:08:07.082] [Loader] 加载器 补全文件 状态改变：Loading
+[22:08:07.082] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[22:08:07.082] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[22:08:07.082] [Launch] 登录加载已开始
+[22:08:07.082] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[22:08:07.082] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[22:08:07.082] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[22:08:07.082] [Launch] 登录方式：正版（MAXCARZZY）
+[22:08:07.082] [Launch] 微软登录完成
+[22:08:07.082] [UI] 解锁隐藏主题：10
+[22:08:07.082] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[22:08:07.082] [Download] 版本 1.19.2-Forge_43.2.0 对应的资源文件索引为 1.19
+[22:08:07.087] [Download] 版本 1.19.2-Forge_43.2.0 对应的资源文件索引为 1.19
+[22:08:07.087] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[22:08:07.091] [Launch] Java 版本需求：最低 1.17.0.0，最高 1.19.999.999
+[22:08:07.091] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[22:08:07.096] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\
+[22:08:07.101] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[22:08:07.103] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[22:08:07.103] [Launch] 登录加载已结束
+[22:08:07.103] [Loader] 加载器 登录 状态改变：Finished
+[22:08:07.103] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[22:08:07.111] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[22:08:07.141] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\.minecraft\
+[22:08:07.161] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\
+[22:08:07.161] [Java] 用户指定的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:07.161] [Java] 开始确认列表 Java 状态，共 1 项
+[22:08:07.167] [System] 执行外部命令并等待返回结果：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\java.exe -version
+[22:08:07.181] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[22:08:07.252] [Download] 1.19.json 440#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/a9c8b05a8082a65678beda6dfa2b8f21fa627bce/1.19.json
+[22:08:07.261] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[22:08:07.261] [Loader] 加载器 下载资源文件 状态改变：Loading
+[22:08:07.261] [Loader] 加载器 下载资源文件 状态改变：Finished
+[22:08:07.261] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[22:08:07.271] [Java] JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:07.277] [Java] 检查后找到 1 个特定的 Java
+[22:08:07.277] [Java] 使用用户指定的 Java：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:07.277] [Java] 选定的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:07.277] [Launch] 选择的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:07.277] [Loader] 加载器 获取 Java 状态改变：Finished
+[22:08:07.372] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[22:08:07.372] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[22:08:07.372] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[22:08:07.372] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[22:08:07.372] [Loader] 加载器 补全文件 状态改变：Finished
+[22:08:07.372] [Loader] 加载器 获取启动参数 状态改变：Loading
+[22:08:07.372] [Launch] 开始获取 Minecraft 启动参数
+[22:08:07.372] [Launch] 获取新版 JVM 参数
+[22:08:07.381] [Launch] 当前剩余内存：11G
+[22:08:07.391] [System] 获取资源：JavaWrapper
+[22:08:07.391] [Java] 已释放 Java Wrapper：C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar
+[22:08:07.391] [Launch] 新版 JVM 参数获取成功：
+[22:08:07.391] [Launch] -Doolloo.jlw.tmpdir="C:\Users\MI\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.3/asm-9.3.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[22:08:07.391] [Launch] 获取新版 Game 参数
+[22:08:07.391] [Launch] 新版 Game 参数获取成功
+[22:08:07.391] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[22:08:07.421] [Launch] Minecraft 启动参数：
+[22:08:07.421] [Launch] -Doolloo.jlw.tmpdir="C:\Users\MI\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\1.19.2-Forge_43.2.0-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=294 -cp "C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\securejarhandler\2.1.4\securejarhandler-2.1.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.16\JarJarSelector-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.16\JarJarMetadata-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.16\JarJarFileSystems-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlloader\1.19.2-43.2.0\fmlloader-1.19.2-43.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\1.19.2-Forge_43.2.0.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,1.19.2-Forge_43.2.0.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory="C:\Users\MI\AppData\Roaming\.minecraft\libraries" -p "C:\Users\MI\AppData\Roaming\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm/9.3/asm-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username MAXCARZZY --version 1.19.2-Forge_43.2.0 --gameDir "C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0" --assetsDir "C:\Users\MI\AppData\Roaming\.minecraft\assets" --assetIndex 1.19 --uuid d399b45ac55a4eb7a21c45eaf66c4980 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2SkxE --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 43.2.0 --fml.mcVersion 1.19.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220805.130853 
+[22:08:07.421] [Loader] 加载器 获取启动参数 状态改变：Finished
+[22:08:07.428] [Loader] 加载器 解压文件 状态改变：Loading
+[22:08:07.431] [Launch] 正在解压 Natives 文件
+[22:08:07.431] [Loader] 加载器 解压文件 状态改变：Finished
+[22:08:07.456] [Loader] 加载器 预启动处理 状态改变：Loading
+[22:08:07.477] [Launch] 已更新 launcher_profiles.json
+[22:08:07.477] [Launch] 已将语言从 none 修改为 zh_cn
+[22:08:07.477] [Launch] 已开启 forceUnicodeFont
+[22:08:07.477] [Loader] 加载器 预启动处理 状态改变：Finished
+[22:08:07.491] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[22:08:07.491] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[22:08:07.528] [Loader] 加载器 启动进程 状态改变：Loading
+[22:08:07.531] [Launch] 已启动游戏进程：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\javaw.exe
+[22:08:07.531] [Loader] 加载器 启动进程 状态改变：Finished
+[22:08:07.571] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[22:08:07.571] [Launch] 
+[22:08:07.571] [Launch] ~ 基础参数 ~
+[22:08:07.571] [Launch] PCL 版本：Snapshot 2.6.2 (294)
+[22:08:07.571] [Launch] 游戏版本：1.19.2, Forge 43.2.0（19.2）
+[22:08:07.571] [Launch] 资源版本：1.19
+[22:08:07.571] [Launch] 版本继承：无
+[22:08:07.571] [Launch] 分配的内存：15 GB（15360 MB）
+[22:08:07.571] [Launch] MC 文件夹：C:\Users\MI\AppData\Roaming\.minecraft\
+[22:08:07.571] [Launch] 版本文件夹：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\
+[22:08:07.571] [Launch] 版本隔离：True
+[22:08:07.571] [Launch] HMCL 格式：False
+[22:08:07.571] [Launch] Java 信息：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:07.571] [Launch] 环境变量：未设置
+[22:08:07.571] [Launch] 
+[22:08:07.571] [Launch] ~ 登录参数 ~
+[22:08:07.571] [Launch] 玩家用户名：MAXCARZZY
+[22:08:07.571] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2SkxE
+[22:08:07.571] [Launch] ClientToken：d399b45ac55a4eb7a21c45eaf66c4980
+[22:08:07.571] [Launch] UUID：d399b45ac55a4eb7a21c45eaf66c4980
+[22:08:07.571] [Launch] 登录方式：Microsoft
+[22:08:07.571] [Launch] 
+[22:08:07.571] [Launch] [4880] 开始 Minecraft 日志监控
+[22:08:07.571] [Launch] [4880] 要求窗口标题：我的世界
+[22:08:07.571] [Launch] [全局] 出现运行中的 Minecraft
+[22:08:07.611] [Download] 1.19.json：文件大小 385608 B（377 K）
+[22:08:07.818] [Launch] [4880] 日志 1/5：已出现日志输出
+[22:08:08.228] [Download] 1.19.json：已完成，剩余文件 0
+[22:08:08.228] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[22:08:08.228] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[22:08:08.228] [Launch] 后台更新资源文件索引成功：C:\Users\MI\AppData\Local\Temp\PCL\Cache\1.19.json
+[22:08:08.228] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[22:08:08.231] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[22:08:16.083] [Report] FPS 0, 动画 7, 下载中 0（0 B/s）
+[22:08:16.469] [Launch] [4880] Minecraft 已退出，返回值：1
+[22:08:16.469] [Launch] [4880] Minecraft 尚未加载完成，可能已崩溃
+[22:08:16.469] [Launch] [全局] 已无运行中的 Minecraft
+[22:08:16.471] [Launch] [4880] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[22:08:16.485] 加载线程 等待游戏窗口出现 (37) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[22:08:16.485] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[22:08:16.485] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[22:08:16.531] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[22:08:16.643] 加载线程 Loader Launch (11) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[22:08:16.643] [Loader] 加载器 Loader Launch 状态改变：Failed
+[22:08:16.705] [Launch] [4880] Minecraft 日志监控已退出
+[22:08:18.476] [Launch] [4880] 崩溃分析开始
+[22:08:18.498] [Crash] 崩溃分析暂存文件夹：C:\Users\MI\AppData\Local\Temp\PCL\CrashAnalyzer\488044785000\
+[22:08:18.501] [Crash] 步骤 1：收集日志文件
+[22:08:18.501] [Crash] 可能可用的日志文件：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log（0.1 分钟）
+[22:08:18.501] [Crash] 可能可用的日志文件：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\debug.log（0 分钟）
+[22:08:18.502] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\MI\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-06-09 22:08:09,591 main WARN Advanced terminal features are not available in this environment
+[22:08:09] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, MAXCARZZY, --version, 1.19.2-Forge_43.2.0, --gameDir, C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\Users\MI\AppData\Roaming\.minecraft\assets, --assetIndex, 1.19, --uuid, d399b45ac55a4eb7a21c45eaf66c4980, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[22:08:09] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.2 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[22:08:10] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/MI/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23146!/ Service=ModLauncher Env=CLIENT
+[22:08:10] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.0\fmlcore-1.19.2-43.2.0.jar is missing mods.toml file
+[22:08:10] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.0\javafmllanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:08:10] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.0\lowcodelanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:08:10] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.0\mclanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:08:11] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[22:08:11] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'forge', Requested by: 'create', Expected range: '[43.2.3,)', Actual version: '43.2.0'
+[22:08:12] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22:08:12] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[22:08:12] [main/ERROR] [mixin/]: Mixin config mixins.oculus.compat.sodium.json does not specify "minVersion" property
+[22:08:12] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.19.2-Forge_43.2.0, --gameDir, C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\Users\MI\AppData\Roaming\.minecraft\assets, --uuid, d399b45ac55a4eb7a21c45eaf66c4980, --username, MAXCARZZY, --assetIndex, 1.19, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480]
+[22:08:12] [main/WARN] [mixin/]: Reference map 'alloyed.refmap.json' for alloyed.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:08:12] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[22:08:12] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix: 56 options available, 0 override(s) found
+[22:08:12] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[22:08:12] [main/INFO] [Sodium Extra Config/]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[22:08:12] [main/WARN] [CanaryConfig/]: Option 'mixin.world.block_entity_ticking.world_border' requires 'mixin.util.world_border_listener=true' but found 'false'. Setting 'mixin.world.block_entity_ticking.world_border=false'.
+[22:08:12] [main/INFO] [Canary/]: Loaded configuration file for Canary: 140 options available, 0 override(s) found
+[22:08:13] [main/WARN] [IMixinConfigPlugin/]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[22:08:13] [main/INFO] [IMixinConfigPlugin/]: Inventory Profiles Next dependency resolution failed! Probably missing libIPN.
+[22:08:14] [pool-3-thread-1/INFO] [minecraft/Bootstrap]: ModernFix bootstrap
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:32)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+	... 6 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.2.0/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	... 13 more
+Caused by: java.lang.RuntimeException: java.lang.IllegalAccessError: class com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube tried to access method 'void net.minecraft.world.phys.shapes.VoxelShape.<init>(net.minecraft.world.phys.shapes.DiscreteVoxelShape)' (com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube is in module canary@0.2.4 of loader 'TRANSFORMER' @2e17a321; net.minecraft.world.phys.shapes.VoxelShape is in module minecraft@1.19.2 of loader 'TRANSFORMER' @2e17a321)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.2.0/net.minecraftforge.fml.loading.BackgroundWaiter.runAndTick(BackgroundWaiter.java:29)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.m_239872_(Main.java:145)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.main(Main.java:51)
+	... 19 more
+Caused by: java.lang.IllegalAccessError: class com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube tried to access method 'void net.minecraft.world.phys.shapes.VoxelShape.<init>(net.minecraft.world.phys.shapes.DiscreteVoxelShape)' (com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube is in module canary@0.2.4 of loader 'TRANSFORMER' @2e17a321; net.minecraft.world.phys.shapes.VoxelShape is in module minecraft@1.19.2 of loader 'TRANSFORMER' @2e17a321)
+	at TRANSFORMER/canary@0.2.4/com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube.<init>(VoxelShapeSimpleCube.java:31)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.m_166049_(Shapes.java:1601)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.m_83048_(Shapes.java:50)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.<clinit>(Shapes.java:26)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.Block.m_49796_(Block.java:140)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.SaplingBlock.<clinit>(SaplingBlock.java:20)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.Blocks.<clinit>(Blocks.java:59)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverDebugSettings.<clinit>(CarverDebugSettings.java:9)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverConfiguration.m_224838_(CarverConfiguration.java:20)
+	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverConfiguration.<clinit>(CarverConfiguration.java:16)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.WorldCarver.<clinit>(WorldCarver.java:32)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.worldgen.Carvers.<clinit>(Carvers.java:21)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236012_(BuiltinRegistries.java:53)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236009_(BuiltinRegistries.java:87)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236004_(BuiltinRegistries.java:114)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.<clinit>(BuiltinRegistries.java:113)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.core.Registry.<clinit>(Registry.java:665)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.Bootstrap.m_135870_(Bootstrap.java:43)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.lambda$run$0(Main.java:145)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[22:08:18.503] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[22:08:18.512] [Crash] 步骤 2：准备日志文本
+[22:08:18.512] [Crash] latest.log 分类为 MinecraftLog
+[22:08:18.512] [Crash] debug.log 分类为 MinecraftLog
+[22:08:18.512] [Crash] RawOutput.log 分类为 ExtraLog
+[22:08:18.512] [Crash] 输出报告：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log，作为 Minecraft 或启动器日志
+[22:08:18.512] [Crash] 输出报告：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\debug.log，作为 Minecraft 或启动器日志
+[22:08:18.513] [Crash] 导入分析：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log，作为 Minecraft 日志
+[22:08:18.513] [Crash] 输出报告：C:\Users\MI\AppData\Local\Temp\PCL\CrashAnalyzer\488044785000\RawOutput.log，作为额外日志
+[22:08:18.513] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[22:08:18.515] [Crash] 步骤 3：分析崩溃原因
+[22:08:18.520] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[22:08:18.521] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[22:08:18.541] [System] 窗口已置顶，位置：(220, 65.6), 1096 x 684.8
+[22:08:18.546] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[22:08:19.985] [Control] 按下按钮：确定
+[22:08:19.987] [Control] 普通弹框返回：1
+[22:08:25.362] [Control] 按下按钮：版本设置
+[22:08:25.372] [Control] 切换主要页面：VersionSetup, 0
+[22:08:26.501] [Control] 按下单选列表项：Mod 管理
+[22:08:28.302] [Control] 按下按钮：打开 Mod 文件夹
+[22:08:28.302] [System] 执行外部命令：explorer.exe "C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\"
+[22:08:36.545] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[22:08:36.545] [System] 已刷新 Mod 列表
+[22:08:37.238] Mod Class 信息不可用（C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\kotlinforforge-3.12.0-all.jar）：未找到 Mod 入口点
+   在 PCL.ModMinecraft.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[22:08:38.017] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[22:08:38.497] [Control] 按下图标按钮：BtnTitleInner
+[22:08:38.497] [Control] 切换主要页面：Launch, -1
+[22:08:39.497] [Control] 按下按钮：启动游戏
+[22:08:39.497] [Loader] 加载器 Loader Launch 状态改变：Loading
+[22:08:39.507] [System] 欲读取的文件不存在，已返回空字符串：D:\Y\PCL\PCL\hints.txt
+[22:08:39.507] [Launch] 预检测已通过
+[22:08:39.507] [Download] 开始后台更新资源文件索引
+[22:08:39.507] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[22:08:39.507] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[22:08:39.507] [Loader] 加载器 登录 状态改变：Waiting
+[22:08:39.507] [Download] 版本 1.19.2-Forge_43.2.0 对应的资源文件索引为 1.19
+[22:08:39.507] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[22:08:39.507] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[22:08:39.507] [Loader] 加载器 获取 Java 状态改变：Loading
+[22:08:39.507] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[22:08:39.507] [Launch] Java 版本需求：最低 1.17.0.0，最高 1.19.999.999
+[22:08:39.507] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\
+[22:08:39.507] [Loader] 加载器 登录 状态改变：Loading
+[22:08:39.507] [Loader] 加载器 补全文件 状态改变：Loading
+[22:08:39.507] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[22:08:39.507] [Launch] 登录加载已开始
+[22:08:39.507] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[22:08:39.507] [Launch] 登录加载已结束
+[22:08:39.507] [Loader] 加载器 登录 状态改变：Finished
+[22:08:39.507] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[22:08:39.507] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[22:08:39.507] [Download] 版本 1.19.2-Forge_43.2.0 对应的资源文件索引为 1.19
+[22:08:39.522] [Download] 1.19.json 795#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/a9c8b05a8082a65678beda6dfa2b8f21fa627bce/1.19.json
+[22:08:39.527] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[22:08:39.527] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[22:08:39.527] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[22:08:39.527] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[22:08:39.547] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\.minecraft\
+[22:08:39.557] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\
+[22:08:39.557] [Java] 用户指定的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:39.557] [Java] 开始确认列表 Java 状态，共 1 项
+[22:08:39.557] [System] 执行外部命令并等待返回结果：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\java.exe -version
+[22:08:39.585] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[22:08:39.649] [Download] 1.19.json：文件大小 385608 B（377 K）
+[22:08:39.677] [Java] JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:39.682] [Java] 检查后找到 1 个特定的 Java
+[22:08:39.682] [Java] 使用用户指定的 Java：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:39.682] [Java] 选定的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:39.682] [Launch] 选择的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:39.682] [Loader] 加载器 获取 Java 状态改变：Finished
+[22:08:39.717] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[22:08:39.717] [Loader] 加载器 下载资源文件 状态改变：Loading
+[22:08:39.717] [Loader] 加载器 下载资源文件 状态改变：Finished
+[22:08:39.717] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[22:08:39.782] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[22:08:39.782] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[22:08:39.782] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[22:08:39.782] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[22:08:39.782] [Loader] 加载器 补全文件 状态改变：Finished
+[22:08:39.782] [Loader] 加载器 获取启动参数 状态改变：Loading
+[22:08:39.782] [Launch] 开始获取 Minecraft 启动参数
+[22:08:39.782] [Launch] 获取新版 JVM 参数
+[22:08:39.787] [Launch] 当前剩余内存：11.1G
+[22:08:39.787] [System] 获取资源：JavaWrapper
+[22:08:39.787] [Java] 已释放 Java Wrapper：C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar
+[22:08:39.787] [Launch] 新版 JVM 参数获取成功：
+[22:08:39.787] [Launch] -Doolloo.jlw.tmpdir="C:\Users\MI\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.3/asm-9.3.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[22:08:39.787] [Launch] 获取新版 Game 参数
+[22:08:39.787] [Launch] 新版 Game 参数获取成功
+[22:08:39.787] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[22:08:39.798] [Launch] Minecraft 启动参数：
+[22:08:39.798] [Launch] -Doolloo.jlw.tmpdir="C:\Users\MI\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\1.19.2-Forge_43.2.0-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=294 -cp "C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\securejarhandler\2.1.4\securejarhandler-2.1.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.16\JarJarSelector-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.16\JarJarMetadata-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.16\JarJarFileSystems-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlloader\1.19.2-43.2.0\fmlloader-1.19.2-43.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\1.19.2-Forge_43.2.0.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,1.19.2-Forge_43.2.0.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory="C:\Users\MI\AppData\Roaming\.minecraft\libraries" -p "C:\Users\MI\AppData\Roaming\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm/9.3/asm-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username MAXCARZZY --version 1.19.2-Forge_43.2.0 --gameDir "C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0" --assetsDir "C:\Users\MI\AppData\Roaming\.minecraft\assets" --assetIndex 1.19 --uuid d399b45ac55a4eb7a21c45eaf66c4980 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2SkxE --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 43.2.0 --fml.mcVersion 1.19.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220805.130853 
+[22:08:39.798] [Loader] 加载器 获取启动参数 状态改变：Finished
+[22:08:39.809] [Loader] 加载器 解压文件 状态改变：Loading
+[22:08:39.809] [Launch] 正在解压 Natives 文件
+[22:08:39.809] [Loader] 加载器 解压文件 状态改变：Finished
+[22:08:39.841] [Loader] 加载器 预启动处理 状态改变：Loading
+[22:08:39.841] [Launch] 已更新 launcher_profiles.json
+[22:08:39.841] [Launch] 当前语言为 zh_cn，无需修改
+[22:08:39.841] [Launch] 已开启 forceUnicodeFont
+[22:08:39.841] [Loader] 加载器 预启动处理 状态改变：Finished
+[22:08:39.877] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[22:08:39.882] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[22:08:39.907] [Loader] 加载器 启动进程 状态改变：Loading
+[22:08:39.907] [Launch] 已启动游戏进程：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\javaw.exe
+[22:08:39.907] [Loader] 加载器 启动进程 状态改变：Finished
+[22:08:39.942] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[22:08:39.942] [Launch] 
+[22:08:39.942] [Launch] ~ 基础参数 ~
+[22:08:39.942] [Launch] PCL 版本：Snapshot 2.6.2 (294)
+[22:08:39.942] [Launch] 游戏版本：1.19.2, Forge 43.2.0（19.2）
+[22:08:39.942] [Launch] 资源版本：1.19
+[22:08:39.942] [Launch] 版本继承：无
+[22:08:39.942] [Launch] 分配的内存：15 GB（15360 MB）
+[22:08:39.942] [Launch] MC 文件夹：C:\Users\MI\AppData\Roaming\.minecraft\
+[22:08:39.942] [Launch] 版本文件夹：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\
+[22:08:39.942] [Launch] 版本隔离：True
+[22:08:39.942] [Launch] HMCL 格式：False
+[22:08:39.942] [Launch] Java 信息：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:08:39.942] [Launch] 环境变量：未设置
+[22:08:39.942] [Launch] 
+[22:08:39.942] [Launch] ~ 登录参数 ~
+[22:08:39.942] [Launch] 玩家用户名：MAXCARZZY
+[22:08:39.942] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2SkxE
+[22:08:39.942] [Launch] ClientToken：d399b45ac55a4eb7a21c45eaf66c4980
+[22:08:39.942] [Launch] UUID：d399b45ac55a4eb7a21c45eaf66c4980
+[22:08:39.942] [Launch] 登录方式：Microsoft
+[22:08:39.942] [Launch] 
+[22:08:39.942] [Launch] [16028] 开始 Minecraft 日志监控
+[22:08:39.942] [Launch] [16028] 要求窗口标题：我的世界
+[22:08:39.942] [Launch] [全局] 出现运行中的 Minecraft
+[22:08:40.174] [Launch] [16028] 日志 1/5：已出现日志输出
+[22:08:40.237] [Download] 1.19.json：已完成，剩余文件 0
+[22:08:40.237] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[22:08:40.237] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[22:08:40.237] [Launch] 后台更新资源文件索引成功：C:\Users\MI\AppData\Local\Temp\PCL\Cache\1.19.json
+[22:08:40.237] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[22:08:40.237] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[22:08:40.332] [Report] FPS 0, 动画 8, 下载中 0（441 K/s）
+[22:08:43.195] [Report] FPS 0, 动画 10, 下载中 0（0 B/s）
+[22:08:49.066] [Launch] [16028] Minecraft 已退出，返回值：1
+[22:08:49.066] [Launch] [16028] Minecraft 尚未加载完成，可能已崩溃
+[22:08:49.066] [Launch] [全局] 已无运行中的 Minecraft
+[22:08:49.066] [Launch] [16028] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[22:08:49.114] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[22:08:49.162] 加载线程 等待游戏窗口出现 (57) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[22:08:49.162] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[22:08:49.162] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[22:08:49.272] 加载线程 Loader Launch (38) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[22:08:49.272] [Loader] 加载器 Loader Launch 状态改变：Failed
+[22:08:49.304] [Launch] [16028] Minecraft 日志监控已退出
+[22:08:51.073] [Launch] [16028] 崩溃分析开始
+[22:08:51.073] [Crash] 崩溃分析暂存文件夹：C:\Users\MI\AppData\Local\Temp\PCL\CrashAnalyzer\1602837531382\
+[22:08:51.073] [Crash] 步骤 1：收集日志文件
+[22:08:51.073] [Crash] 可能可用的日志文件：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log（0.1 分钟）
+[22:08:51.073] [Crash] 可能可用的日志文件：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\debug.log（0 分钟）
+[22:08:51.073] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\MI\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-06-09 22:08:42,098 main WARN Advanced terminal features are not available in this environment
+[22:08:42] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, MAXCARZZY, --version, 1.19.2-Forge_43.2.0, --gameDir, C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\Users\MI\AppData\Roaming\.minecraft\assets, --assetIndex, 1.19, --uuid, d399b45ac55a4eb7a21c45eaf66c4980, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[22:08:42] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.2 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[22:08:42] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/MI/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23146!/ Service=ModLauncher Env=CLIENT
+[22:08:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.0\fmlcore-1.19.2-43.2.0.jar is missing mods.toml file
+[22:08:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.0\javafmllanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:08:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.0\lowcodelanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:08:43] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.0\mclanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:08:43] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[22:08:43] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'forge', Requested by: 'create', Expected range: '[43.2.3,)', Actual version: '43.2.0'
+[22:08:45] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22:08:45] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[22:08:45] [main/ERROR] [mixin/]: Mixin config mixins.oculus.compat.sodium.json does not specify "minVersion" property
+[22:08:45] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.19.2-Forge_43.2.0, --gameDir, C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\Users\MI\AppData\Roaming\.minecraft\assets, --uuid, d399b45ac55a4eb7a21c45eaf66c4980, --username, MAXCARZZY, --assetIndex, 1.19, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480]
+[22:08:45] [main/WARN] [mixin/]: Reference map 'alloyed.refmap.json' for alloyed.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:08:45] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[22:08:45] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix: 56 options available, 0 override(s) found
+[22:08:45] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[22:08:45] [main/INFO] [Sodium Extra Config/]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[22:08:45] [main/WARN] [CanaryConfig/]: Option 'mixin.world.block_entity_ticking.world_border' requires 'mixin.util.world_border_listener=true' but found 'false'. Setting 'mixin.world.block_entity_ticking.world_border=false'.
+[22:08:45] [main/INFO] [Canary/]: Loaded configuration file for Canary: 140 options available, 0 override(s) found
+[22:08:46] [main/WARN] [IMixinConfigPlugin/]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[22:08:46] [main/INFO] [IMixinConfigPlugin/]: Inventory Profiles Next dependency resolution failed! Probably missing libIPN.
+[22:08:47] [pool-3-thread-1/INFO] [minecraft/Bootstrap]: ModernFix bootstrap
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:32)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+	... 6 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.2.0/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	... 13 more
+Caused by: java.lang.RuntimeException: java.lang.IllegalAccessError: class com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube tried to access method 'void net.minecraft.world.phys.shapes.VoxelShape.<init>(net.minecraft.world.phys.shapes.DiscreteVoxelShape)' (com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube is in module canary@0.2.4 of loader 'TRANSFORMER' @17947e6d; net.minecraft.world.phys.shapes.VoxelShape is in module minecraft@1.19.2 of loader 'TRANSFORMER' @17947e6d)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.2.0/net.minecraftforge.fml.loading.BackgroundWaiter.runAndTick(BackgroundWaiter.java:29)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.m_239872_(Main.java:145)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.main(Main.java:51)
+	... 19 more
+Caused by: java.lang.IllegalAccessError: class com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube tried to access method 'void net.minecraft.world.phys.shapes.VoxelShape.<init>(net.minecraft.world.phys.shapes.DiscreteVoxelShape)' (com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube is in module canary@0.2.4 of loader 'TRANSFORMER' @17947e6d; net.minecraft.world.phys.shapes.VoxelShape is in module minecraft@1.19.2 of loader 'TRANSFORMER' @17947e6d)
+	at TRANSFORMER/canary@0.2.4/com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube.<init>(VoxelShapeSimpleCube.java:31)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.m_166049_(Shapes.java:1601)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.m_83048_(Shapes.java:50)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.<clinit>(Shapes.java:26)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.Block.m_49796_(Block.java:140)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.SaplingBlock.<clinit>(SaplingBlock.java:20)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.Blocks.<clinit>(Blocks.java:59)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverDebugSettings.<clinit>(CarverDebugSettings.java:9)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverConfiguration.m_224838_(CarverConfiguration.java:20)
+	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverConfiguration.<clinit>(CarverConfiguration.java:16)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.WorldCarver.<clinit>(WorldCarver.java:32)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.worldgen.Carvers.<clinit>(Carvers.java:21)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236012_(BuiltinRegistries.java:53)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236009_(BuiltinRegistries.java:87)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236004_(BuiltinRegistries.java:114)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.<clinit>(BuiltinRegistries.java:113)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.core.Registry.<clinit>(Registry.java:665)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.Bootstrap.m_135870_(Bootstrap.java:43)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.lambda$run$0(Main.java:145)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[22:08:51.073] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[22:08:51.073] [Crash] 步骤 2：准备日志文本
+[22:08:51.073] [Crash] latest.log 分类为 MinecraftLog
+[22:08:51.073] [Crash] debug.log 分类为 MinecraftLog
+[22:08:51.073] [Crash] RawOutput.log 分类为 ExtraLog
+[22:08:51.073] [Crash] 输出报告：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log，作为 Minecraft 或启动器日志
+[22:08:51.073] [Crash] 输出报告：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\debug.log，作为 Minecraft 或启动器日志
+[22:08:51.073] [Crash] 导入分析：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log，作为 Minecraft 日志
+[22:08:51.073] [Crash] 输出报告：C:\Users\MI\AppData\Local\Temp\PCL\CrashAnalyzer\1602837531382\RawOutput.log，作为额外日志
+[22:08:51.073] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[22:08:51.073] [Crash] 步骤 3：分析崩溃原因
+[22:08:51.077] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[22:08:51.077] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[22:08:51.107] [System] 窗口已置顶，位置：(220, 65.6), 1096 x 684.8
+[22:08:51.117] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[22:09:09.297] [Control] 按下按钮：确定
+[22:09:09.297] [Control] 普通弹框返回：1
+[22:09:10.569] [Control] 按下单选按钮：下载
+[22:09:10.617] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[22:09:10.617] [Control] 切换主要页面：Download, -1
+[22:09:10.627] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[22:09:10.627] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
+[22:09:10.627] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，最大超时 10000
+[22:09:10.717] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[22:09:10.722] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[22:09:10.722] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[22:09:10.722] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[22:09:10.727] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[22:09:10.727] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，最大超时 10000
+[22:09:10.729] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[22:09:10.729] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，最大超时 10000
+[22:09:10.729] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，最大超时 10000
+[22:09:10.729] [Download] 刷新 Forge 推荐版本缓存开始
+[22:09:10.735] [Loader] 加载器 源码获取 984# 状态改变：Loading
+[22:09:10.745] [Download] -1798645995_983 1002#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[22:09:10.857] [Loader] 加载器 DlClientList Bmclapi 状态改变：Finished
+[22:09:10.877] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[22:09:10.888] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[22:09:10.982] [Download] -1798645995_983：文件大小 46261 B（45.2 K）
+[22:09:10.999] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[22:09:11.007] [Download] -1798645995_983：已完成，剩余文件 0
+[22:09:11.007] [Loader] 加载器 源码获取 984# 状态改变：Finished
+[22:09:11.017] [Download] 刷新 Forge 推荐版本缓存成功
+[22:09:11.030] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[22:09:11.046] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[22:09:11.082] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[22:09:11.093] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[22:09:11.897] [Control] 按下单选列表项：Mod
+[22:09:11.917] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[22:09:11.932] [Comp] 工程列表搜索原始文本：
+[22:09:11.932] [Comp] 工程列表搜索最终文本：
+[22:09:11.937] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0
+[22:09:11.937] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0，最大超时 10000
+[22:09:11.937] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]
+[22:09:11.937] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]，最大超时 10000
+[22:09:13.400] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 43460 个）
+[22:09:13.889] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 9398 个）
+[22:09:13.895] [System] 获取资源：ModData
+[22:09:13.920] [Comp] 将 Fabric API (fabric-api) 与 Fabric API (fabric-api) 认定为相似工程
+[22:09:13.923] [Comp] 将 Cloth Config API (cloth-config) 与 Cloth Config API (Fabric/Forge) (cloth-config) 认定为相似工程
+[22:09:13.923] [Comp] 将 Architectury API (architectury-api) 与 Architectury API (Fabric/Forge) (architectury-api) 认定为相似工程
+[22:09:13.926] [Comp] 去重后累计新增结果 77 个
+[22:09:13.940] [Comp] 开始可视化 Mod 列表，已储藏 77 个结果，当前在第 1 页
+[22:09:14.087] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[22:09:19.245] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[22:09:19.246] [Comp] 工程列表搜索原始文本：铑
+[22:09:19.496] [Comp] 中文搜索原始关键词：rhodium rhodium 
+[22:09:19.496] [Comp] 中文搜索最终关键词：rhodium rhodium  
+[22:09:19.496] [Comp] 工程列表搜索最终文本：rhodium
+[22:09:19.496] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=rhodium
+[22:09:19.496] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=rhodium，最大超时 10000
+[22:09:19.496] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=rhodium&facets=[["project_type:mod"]]
+[22:09:19.496] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=rhodium&facets=[["project_type:mod"]]，最大超时 10000
+[22:09:20.214] [Comp] 从 CurseForge 获取到了 2 个工程（已获取 2 个，共 2 个）
+[22:09:20.719] [Comp] 从 Modrinth 获取到了 1 个工程（已获取 1 个，共 1 个）
+[22:09:20.719] [Comp] 去重后累计新增结果 3 个
+[22:09:20.719] [Comp] 总结果数需求最少 40 个，仅获得了 3 个
+[22:09:20.719] [Comp] 无法继续加载，将强制结束
+[22:09:20.721] [Comp] 开始可视化 Mod 列表，已储藏 3 个结果，当前在第 1 页
+[22:09:20.741] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/263/164/64/64/637222993171602509.png
+[22:09:20.742] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/107/173/64/64/636364247090891260.png
+[22:09:20.763] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[22:09:21.712] [Loader] 加载器 Comp File 状态改变：Loading
+[22:09:21.712] [Control] 切换主要页面：CompDetail, 0
+[22:09:21.712] [Control] 按下资源工程列表项：铑
+[22:09:21.717] [Comp] 开始获取文件列表：R6SANxhd
+[22:09:21.717] [Net] 获取网络结果：https://api.modrinth.com/v2/project/R6SANxhd/version，最大超时 10000
+[22:09:23.871] [Loader] 加载器 Comp File 状态改变：Finished
+[22:09:25.337] [Control] 展开卡片：1.19.2
+[22:09:26.157] [Control] 按下单击列表项：Rhodium 1.19.2
+[22:09:26.165] [Comp] 允许 Forge：True，允许 Fabric：False
+[22:09:26.167] [Comp] 使用当前版本的 mods 文件夹作为默认下载位置（1.19.2-Forge_43.2.0）
+[22:09:27.099] [UI] 选择文件返回：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\[铑] Rhodium V4 - 1.19.2.jar
+[22:09:27.100] [Loader] 加载器 Mod 下载：Rhodium 1.19.2  状态改变：Loading
+[22:09:27.103] [Loader] 加载器 下载文件 状态改变：Loading
+[22:09:27.147] [Download] [铑] Rhodium V4 - 1.19.2.jar 1285#：开始，起始点 0，https://cdn.modrinth.com/data/R6SANxhd/versions/kU5wyvkS/Rhodium%20V4%20-%201.19.2.jar
+[22:09:28.447] [Control] 按下图标按钮：BtnTitleInner
+[22:09:28.449] [Control] 切换主要页面：Download, -1
+[22:09:29.887] [Download] [铑] Rhodium V4 - 1.19.2.jar：文件大小 5228 B（5.11 K）
+[22:09:29.888] [Download] [铑] Rhodium V4 - 1.19.2.jar：已完成，剩余文件 0
+[22:09:29.888] [Loader] 加载器 下载文件 状态改变：Finished
+[22:09:29.888] [Loader] 加载器 Mod 下载：Rhodium 1.19.2  状态改变：Finished
+[22:09:29.903] [UI] 弹出提示：Mod 下载：Rhodium 1.19.2 成功！
+[22:09:41.839] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[22:09:41.840] [Comp] 工程列表搜索原始文本：lightspeed
+[22:09:41.840] [Comp] 工程列表搜索最终文本：lightspeed
+[22:09:41.840] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=lightspeed
+[22:09:41.841] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=lightspeed，最大超时 10000
+[22:09:41.841] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=lightspeed&facets=[["project_type:mod"]]
+[22:09:41.841] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=lightspeed&facets=[["project_type:mod"]]，最大超时 10000
+[22:09:42.590] [Comp] 从 CurseForge 获取到了 1 个工程（已获取 1 个，共 1 个）
+[22:09:42.792] [Comp] 从 Modrinth 获取到了 2 个工程（已获取 2 个，共 2 个）
+[22:09:42.793] [Comp] 将 Lightspeed (lightspeed) 与 Lightspeed - Launch optimizations (lightspeedmod) 认定为相似工程
+[22:09:42.793] [Comp] 去重后累计新增结果 2 个
+[22:09:42.793] [Comp] 总结果数需求最少 40 个，仅获得了 2 个
+[22:09:42.793] [Comp] 无法继续加载，将强制结束
+[22:09:42.793] [Comp] 开始可视化 Mod 列表，已储藏 2 个结果，当前在第 1 页
+[22:09:42.827] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[22:09:43.997] [Control] 切换主要页面：CompDetail, 0
+[22:09:43.997] [Control] 按下资源工程列表项：Lightspeed - Launch optimizations
+[22:09:44.183] [Loader] 加载器 Comp File 状态改变：Loading
+[22:09:44.183] [Comp] 开始获取文件列表：821790
+[22:09:44.183] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[22:09:45.045] [Loader] 加载器 Comp File 状态改变：Finished
+[22:09:46.225] [Control] 展开卡片：1.19.2
+[22:09:46.977] [Control] 按下单击列表项：lightspeed-1.19.2-1.0.4
+[22:09:46.977] [Comp] 允许 Forge：True，允许 Fabric：False
+[22:09:46.977] [Comp] 使用上次下载时的文件夹作为默认下载位置
+[22:09:48.239] [UI] 选择文件返回：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\lightspeed-1.19.2-1.0.4.jar
+[22:09:48.239] [Loader] 加载器 Mod 下载：lightspeed-1.19.2-1.0.4  状态改变：Loading
+[22:09:48.239] [Loader] 加载器 下载文件 状态改变：Loading
+[22:09:48.272] [Download] lightspeed-1.19.2-1.0.4.jar 1435#：开始，起始点 0，https://media.forgecdn.net/files/4533/212/lightspeed-1.19.2-1.0.4.jar
+[22:09:48.437] [Download] lightspeed-1.19.2-1.0.4.jar：文件大小 51406 B（50.2 K）
+[22:09:48.607] [Download] lightspeed-1.19.2-1.0.4.jar：已完成，剩余文件 0
+[22:09:48.607] [Loader] 加载器 下载文件 状态改变：Finished
+[22:09:48.607] [Loader] 加载器 Mod 下载：lightspeed-1.19.2-1.0.4  状态改变：Finished
+[22:09:48.627] [UI] 弹出提示：Mod 下载：lightspeed-1.19.2-1.0.4 成功！
+[22:09:50.967] [Control] 按下图标按钮：BtnTitleInner
+[22:09:50.967] [Control] 切换主要页面：Download, -1
+[22:09:52.367] [Control] 按下单选按钮：启动
+[22:09:52.367] [Control] 切换主要页面：Launch, -1
+[22:09:53.257] [Control] 按下按钮：启动游戏
+[22:09:53.257] [Loader] 加载器 Loader Launch 状态改变：Loading
+[22:09:53.257] [System] 欲读取的文件不存在，已返回空字符串：D:\Y\PCL\PCL\hints.txt
+[22:09:53.262] [Launch] 预检测已通过
+[22:09:53.262] [Download] 开始后台更新资源文件索引
+[22:09:53.262] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[22:09:53.262] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[22:09:53.262] [Loader] 加载器 登录 状态改变：Waiting
+[22:09:53.262] [Download] 版本 1.19.2-Forge_43.2.0 对应的资源文件索引为 1.19
+[22:09:53.262] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[22:09:53.262] [Loader] 加载器 获取 Java 状态改变：Loading
+[22:09:53.262] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[22:09:53.262] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[22:09:53.262] [Launch] Java 版本需求：最低 1.17.0.0，最高 1.19.999.999
+[22:09:53.262] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\
+[22:09:53.262] [Loader] 加载器 登录 状态改变：Loading
+[22:09:53.262] [Loader] 加载器 补全文件 状态改变：Loading
+[22:09:53.262] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[22:09:53.262] [Launch] 登录加载已开始
+[22:09:53.262] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[22:09:53.262] [Launch] 登录加载已结束
+[22:09:53.262] [Loader] 加载器 登录 状态改变：Finished
+[22:09:53.262] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[22:09:53.262] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[22:09:53.267] [Download] 版本 1.19.2-Forge_43.2.0 对应的资源文件索引为 1.19
+[22:09:53.277] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[22:09:53.277] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[22:09:53.277] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[22:09:53.277] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[22:09:53.297] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\.minecraft\
+[22:09:53.317] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\
+[22:09:53.317] [Java] 用户指定的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:09:53.317] [Java] 开始确认列表 Java 状态，共 1 项
+[22:09:53.317] [System] 执行外部命令并等待返回结果：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\java.exe -version
+[22:09:53.340] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[22:09:53.388] [Download] 1.19.json 1574#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/a9c8b05a8082a65678beda6dfa2b8f21fa627bce/1.19.json
+[22:09:53.417] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[22:09:53.417] [Loader] 加载器 下载资源文件 状态改变：Loading
+[22:09:53.417] [Loader] 加载器 下载资源文件 状态改变：Finished
+[22:09:53.417] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[22:09:53.427] [Java] JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:09:53.435] [Java] 检查后找到 1 个特定的 Java
+[22:09:53.435] [Java] 使用用户指定的 Java：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:09:53.435] [Java] 选定的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:09:53.435] [Launch] 选择的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:09:53.435] [Loader] 加载器 获取 Java 状态改变：Finished
+[22:09:53.498] [Download] 1.19.json：文件大小 385608 B（377 K）
+[22:09:53.517] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[22:09:53.517] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[22:09:53.517] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[22:09:53.517] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[22:09:53.517] [Loader] 加载器 补全文件 状态改变：Finished
+[22:09:53.517] [Loader] 加载器 获取启动参数 状态改变：Loading
+[22:09:53.517] [Launch] 开始获取 Minecraft 启动参数
+[22:09:53.517] [Launch] 获取新版 JVM 参数
+[22:09:53.517] [Launch] 当前剩余内存：11.1G
+[22:09:53.517] [System] 获取资源：JavaWrapper
+[22:09:53.517] [Java] 已释放 Java Wrapper：C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar
+[22:09:53.517] [Launch] 新版 JVM 参数获取成功：
+[22:09:53.517] [Launch] -Doolloo.jlw.tmpdir="C:\Users\MI\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.3/asm-9.3.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[22:09:53.517] [Launch] 获取新版 Game 参数
+[22:09:53.517] [Launch] 新版 Game 参数获取成功
+[22:09:53.517] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[22:09:53.530] [Launch] Minecraft 启动参数：
+[22:09:53.530] [Launch] -Doolloo.jlw.tmpdir="C:\Users\MI\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\1.19.2-Forge_43.2.0-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=294 -cp "C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\securejarhandler\2.1.4\securejarhandler-2.1.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.16\JarJarSelector-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.16\JarJarMetadata-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.16\JarJarFileSystems-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlloader\1.19.2-43.2.0\fmlloader-1.19.2-43.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\1.19.2-Forge_43.2.0.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,1.19.2-Forge_43.2.0.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory="C:\Users\MI\AppData\Roaming\.minecraft\libraries" -p "C:\Users\MI\AppData\Roaming\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm/9.3/asm-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username MAXCARZZY --version 1.19.2-Forge_43.2.0 --gameDir "C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0" --assetsDir "C:\Users\MI\AppData\Roaming\.minecraft\assets" --assetIndex 1.19 --uuid d399b45ac55a4eb7a21c45eaf66c4980 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2SkxE --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 43.2.0 --fml.mcVersion 1.19.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220805.130853 
+[22:09:53.530] [Loader] 加载器 获取启动参数 状态改变：Finished
+[22:09:53.537] [Loader] 加载器 解压文件 状态改变：Loading
+[22:09:53.537] [Launch] 正在解压 Natives 文件
+[22:09:53.537] [Loader] 加载器 解压文件 状态改变：Finished
+[22:09:53.587] [Loader] 加载器 预启动处理 状态改变：Loading
+[22:09:53.592] [Launch] 已更新 launcher_profiles.json
+[22:09:53.592] [Launch] 当前语言为 zh_cn，无需修改
+[22:09:53.592] [Launch] 已开启 forceUnicodeFont
+[22:09:53.592] [Loader] 加载器 预启动处理 状态改变：Finished
+[22:09:53.622] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[22:09:53.627] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[22:09:53.647] [Loader] 加载器 启动进程 状态改变：Loading
+[22:09:53.657] [Launch] 已启动游戏进程：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\javaw.exe
+[22:09:53.657] [Loader] 加载器 启动进程 状态改变：Finished
+[22:09:53.689] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[22:09:53.689] [Launch] 
+[22:09:53.689] [Launch] ~ 基础参数 ~
+[22:09:53.689] [Launch] PCL 版本：Snapshot 2.6.2 (294)
+[22:09:53.689] [Launch] 游戏版本：1.19.2, Forge 43.2.0（19.2）
+[22:09:53.689] [Launch] 资源版本：1.19
+[22:09:53.689] [Launch] 版本继承：无
+[22:09:53.689] [Launch] 分配的内存：15 GB（15360 MB）
+[22:09:53.689] [Launch] MC 文件夹：C:\Users\MI\AppData\Roaming\.minecraft\
+[22:09:53.689] [Launch] 版本文件夹：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\
+[22:09:53.689] [Launch] 版本隔离：True
+[22:09:53.689] [Launch] HMCL 格式：False
+[22:09:53.689] [Launch] Java 信息：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:09:53.689] [Launch] 环境变量：未设置
+[22:09:53.689] [Launch] 
+[22:09:53.689] [Launch] ~ 登录参数 ~
+[22:09:53.689] [Launch] 玩家用户名：MAXCARZZY
+[22:09:53.689] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2SkxE
+[22:09:53.689] [Launch] ClientToken：d399b45ac55a4eb7a21c45eaf66c4980
+[22:09:53.689] [Launch] UUID：d399b45ac55a4eb7a21c45eaf66c4980
+[22:09:53.689] [Launch] 登录方式：Microsoft
+[22:09:53.689] [Launch] 
+[22:09:53.689] [Launch] [4756] 开始 Minecraft 日志监控
+[22:09:53.689] [Launch] [4756] 要求窗口标题：我的世界
+[22:09:53.689] [Launch] [全局] 出现运行中的 Minecraft
+[22:09:53.880] [Download] 1.19.json：已完成，剩余文件 0
+[22:09:53.880] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[22:09:53.880] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[22:09:53.887] [Launch] 后台更新资源文件索引成功：C:\Users\MI\AppData\Local\Temp\PCL\Cache\1.19.json
+[22:09:53.887] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[22:09:53.887] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[22:09:53.912] [Launch] [4756] 日志 1/5：已出现日志输出
+[22:09:55.532] [Report] FPS 0, 动画 10, 下载中 0（0 B/s）
+[22:10:08.497] [Control] 按下按钮：取消
+[22:10:08.497] [Loader] 加载器 Minecraft 启动 状态改变：Aborted
+[22:10:08.497] [Launch] 已取消启动
+[22:10:08.497] [Launch] [全局] 已无运行中的 Minecraft
+[22:10:08.497] [Launch] [4756] 尝试强制结束 Minecraft 进程
+[22:10:08.497] [Loader] 加载器 等待游戏窗口出现 状态改变：Aborted
+[22:10:08.497] [Launch] [4756] 已强制结束 Minecraft 进程
+[22:10:08.538] [Loader] 加载器 Loader Launch 状态改变：Finished
+[22:10:08.602] [Launch] [4756] Minecraft 日志监控已退出
+[22:10:08.602] [UI] 弹出提示：已取消启动！
+[22:10:10.192] [Control] 按下按钮：版本设置
+[22:10:10.197] [Control] 切换主要页面：VersionSetup, 0
+[22:10:11.369] [Control] 按下单选列表项：Mod 管理
+[22:10:11.497] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[22:10:11.497] [System] 已刷新 Mod 列表
+[22:10:12.177] Mod Class 信息不可用（C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\kotlinforforge-3.12.0-all.jar）：未找到 Mod 入口点
+   在 PCL.ModMinecraft.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[22:10:12.940] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[22:10:13.850] [Control] 按下按钮：打开 Mod 文件夹
+[22:10:13.857] [System] 执行外部命令：explorer.exe "C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\"
+[22:10:22.043] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[22:10:22.043] [System] 已刷新 Mod 列表
+[22:10:22.734] Mod Class 信息不可用（C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\mods\kotlinforforge-3.12.0-all.jar）：未找到 Mod 入口点
+   在 PCL.ModMinecraft.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[22:10:23.492] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[22:10:24.807] [Control] 按下图标按钮：BtnTitleInner
+[22:10:24.807] [Control] 切换主要页面：Launch, -1
+[22:10:25.937] [Control] 按下按钮：启动游戏
+[22:10:25.937] [Loader] 加载器 Loader Launch 状态改变：Loading
+[22:10:25.937] [System] 欲读取的文件不存在，已返回空字符串：D:\Y\PCL\PCL\hints.txt
+[22:10:25.937] [Launch] 预检测已通过
+[22:10:25.937] [Download] 开始后台更新资源文件索引
+[22:10:25.937] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[22:10:25.937] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[22:10:25.937] [Loader] 加载器 登录 状态改变：Waiting
+[22:10:25.937] [Download] 版本 1.19.2-Forge_43.2.0 对应的资源文件索引为 1.19
+[22:10:25.937] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[22:10:25.937] [Loader] 加载器 获取 Java 状态改变：Loading
+[22:10:25.937] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[22:10:25.937] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[22:10:25.937] [Launch] Java 版本需求：最低 1.17.0.0，最高 1.19.999.999
+[22:10:25.937] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\
+[22:10:25.937] [Loader] 加载器 登录 状态改变：Loading
+[22:10:25.937] [Loader] 加载器 补全文件 状态改变：Loading
+[22:10:25.937] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[22:10:25.937] [Launch] 登录加载已开始
+[22:10:25.937] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[22:10:25.937] [Launch] 登录加载已结束
+[22:10:25.937] [Loader] 加载器 登录 状态改变：Finished
+[22:10:25.937] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[22:10:25.937] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[22:10:25.937] [Download] 版本 1.19.2-Forge_43.2.0 对应的资源文件索引为 1.19
+[22:10:25.957] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[22:10:25.957] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[22:10:25.957] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[22:10:25.957] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[22:10:25.967] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\.minecraft\
+[22:10:25.995] [Java] 开始完全遍历查找：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\
+[22:10:25.997] [Java] 用户指定的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:10:25.997] [Java] 开始确认列表 Java 状态，共 1 项
+[22:10:25.997] [System] 执行外部命令并等待返回结果：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\java.exe -version
+[22:10:26.011] [Download] 1.19.json 1976#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/a9c8b05a8082a65678beda6dfa2b8f21fa627bce/1.19.json
+[22:10:26.017] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[22:10:26.077] [Java] JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:10:26.090] [Java] 检查后找到 1 个特定的 Java
+[22:10:26.090] [Java] 使用用户指定的 Java：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:10:26.090] [Java] 选定的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:10:26.090] [Launch] 选择的 Java：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:10:26.090] [Loader] 加载器 获取 Java 状态改变：Finished
+[22:10:26.107] [Download] 1.19.json：文件大小 385608 B（377 K）
+[22:10:26.127] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[22:10:26.127] [Loader] 加载器 下载资源文件 状态改变：Loading
+[22:10:26.127] [Loader] 加载器 下载资源文件 状态改变：Finished
+[22:10:26.127] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[22:10:26.187] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[22:10:26.187] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[22:10:26.187] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[22:10:26.187] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[22:10:26.187] [Loader] 加载器 补全文件 状态改变：Finished
+[22:10:26.187] [Loader] 加载器 获取启动参数 状态改变：Loading
+[22:10:26.187] [Launch] 开始获取 Minecraft 启动参数
+[22:10:26.187] [Launch] 获取新版 JVM 参数
+[22:10:26.187] [Launch] 当前剩余内存：11G
+[22:10:26.187] [System] 获取资源：JavaWrapper
+[22:10:26.187] [Java] 已释放 Java Wrapper：C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar
+[22:10:26.187] [Launch] 新版 JVM 参数获取成功：
+[22:10:26.187] [Launch] -Doolloo.jlw.tmpdir="C:\Users\MI\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.3/asm-9.3.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[22:10:26.187] [Launch] 获取新版 Game 参数
+[22:10:26.187] [Launch] 新版 Game 参数获取成功
+[22:10:26.187] [Minecraft] 获取支持库列表：1.19.2-Forge_43.2.0
+[22:10:26.202] [Launch] Minecraft 启动参数：
+[22:10:26.202] [Launch] -Doolloo.jlw.tmpdir="C:\Users\MI\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\1.19.2-Forge_43.2.0-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=294 -cp "C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-common\4.1.77.Final\netty-common-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-buffer\4.1.77.Final\netty-buffer-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec\4.1.77.Final\netty-codec-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-handler\4.1.77.Final\netty-handler-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-resolver\4.1.77.Final\netty-resolver-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport\4.1.77.Final\netty-transport-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.77.Final\netty-transport-native-unix-common-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.77.Final\netty-transport-classes-epoll-4.1.77.Final.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\3.11.49\authlib-3.11.49.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\securejarhandler\2.1.4\securejarhandler-2.1.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.16\JarJarSelector-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.16\JarJarMetadata-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.16\JarJarFileSystems-0.3.16.jar;C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlloader\1.19.2-43.2.0\fmlloader-1.19.2-43.2.0.jar;C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\1.19.2-Forge_43.2.0.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,1.19.2-Forge_43.2.0.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory="C:\Users\MI\AppData\Roaming\.minecraft\libraries" -p "C:\Users\MI\AppData\Roaming\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/org/ow2/asm/asm/9.3/asm-9.3.jar;"C:\Users\MI\AppData\Roaming\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx15360m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\MI\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username MAXCARZZY --version 1.19.2-Forge_43.2.0 --gameDir "C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0" --assetsDir "C:\Users\MI\AppData\Roaming\.minecraft\assets" --assetIndex 1.19 --uuid d399b45ac55a4eb7a21c45eaf66c4980 --accessToken eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2SkxE --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 43.2.0 --fml.mcVersion 1.19.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220805.130853 
+[22:10:26.202] [Loader] 加载器 获取启动参数 状态改变：Finished
+[22:10:26.218] [Loader] 加载器 解压文件 状态改变：Loading
+[22:10:26.218] [Launch] 正在解压 Natives 文件
+[22:10:26.218] [Loader] 加载器 解压文件 状态改变：Finished
+[22:10:26.234] [Loader] 加载器 预启动处理 状态改变：Loading
+[22:10:26.237] [Launch] 已更新 launcher_profiles.json
+[22:10:26.237] [Launch] 当前语言为 zh_cn，无需修改
+[22:10:26.237] [Launch] 已开启 forceUnicodeFont
+[22:10:26.237] [Loader] 加载器 预启动处理 状态改变：Finished
+[22:10:26.267] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[22:10:26.267] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[22:10:26.298] [Loader] 加载器 启动进程 状态改变：Loading
+[22:10:26.302] [Launch] 已启动游戏进程：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\javaw.exe
+[22:10:26.302] [Loader] 加载器 启动进程 状态改变：Finished
+[22:10:26.337] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[22:10:26.337] [Launch] 
+[22:10:26.337] [Launch] ~ 基础参数 ~
+[22:10:26.337] [Launch] PCL 版本：Snapshot 2.6.2 (294)
+[22:10:26.337] [Launch] 游戏版本：1.19.2, Forge 43.2.0（19.2）
+[22:10:26.337] [Launch] 资源版本：1.19
+[22:10:26.337] [Launch] 版本继承：无
+[22:10:26.337] [Launch] 分配的内存：15 GB（15360 MB）
+[22:10:26.337] [Launch] MC 文件夹：C:\Users\MI\AppData\Roaming\.minecraft\
+[22:10:26.337] [Launch] 版本文件夹：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\
+[22:10:26.337] [Launch] 版本隔离：True
+[22:10:26.337] [Launch] HMCL 格式：False
+[22:10:26.337] [Launch] Java 信息：JDK 17 (17.0.2)，64 位：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:10:26.337] [Launch] 环境变量：未设置
+[22:10:26.337] [Launch] 
+[22:10:26.337] [Launch] ~ 登录参数 ~
+[22:10:26.337] [Launch] 玩家用户名：MAXCARZZY
+[22:10:26.337] [Launch] AccessToken：eyJraXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2SkxE
+[22:10:26.337] [Launch] ClientToken：d399b45ac55a4eb7a21c45eaf66c4980
+[22:10:26.337] [Launch] UUID：d399b45ac55a4eb7a21c45eaf66c4980
+[22:10:26.337] [Launch] 登录方式：Microsoft
+[22:10:26.337] [Launch] 
+[22:10:26.337] [Launch] [8844] 开始 Minecraft 日志监控
+[22:10:26.337] [Launch] [8844] 要求窗口标题：我的世界
+[22:10:26.337] [Launch] [全局] 出现运行中的 Minecraft
+[22:10:26.568] [Launch] [8844] 日志 1/5：已出现日志输出
+[22:10:27.074] [Download] 1.19.json：已完成，剩余文件 0
+[22:10:27.074] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[22:10:27.077] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[22:10:27.077] [Launch] 后台更新资源文件索引成功：C:\Users\MI\AppData\Local\Temp\PCL\Cache\1.19.json
+[22:10:27.077] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[22:10:27.077] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[22:10:36.695] [Launch] [8844] Minecraft 已退出，返回值：1
+[22:10:36.695] [Launch] [8844] Minecraft 尚未加载完成，可能已崩溃
+[22:10:36.695] [Launch] [全局] 已无运行中的 Minecraft
+[22:10:36.695] [Launch] [8844] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[22:10:36.697] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[22:10:36.711] 加载线程 等待游戏窗口出现 (92) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[22:10:36.711] [Loader] 加载器 等待游戏窗口出现 状态改变：Failed
+[22:10:36.711] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[22:10:36.854] 加载线程 Loader Launch (49) 发生运行时错误：等待游戏窗口出现失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchWait(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[22:10:36.854] [Loader] 加载器 Loader Launch 状态改变：Failed
+[22:10:36.933] [Launch] [8844] Minecraft 日志监控已退出
+[22:10:38.697] [Launch] [8844] 崩溃分析开始
+[22:10:38.697] [Crash] 崩溃分析暂存文件夹：C:\Users\MI\AppData\Local\Temp\PCL\CrashAnalyzer\88448206509\
+[22:10:38.697] [Crash] 步骤 1：收集日志文件
+[22:10:38.697] [Crash] 可能可用的日志文件：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log（0.1 分钟）
+[22:10:38.697] [Crash] 可能可用的日志文件：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\debug.log（0 分钟）
+[22:10:38.697] [Crash] 以下为游戏输出的最后一段内容：
+jlw: native file exists: 'C:\Users\MI\AppData\Roaming\PCL\libjlw-1.3.2.dll'.
+jlw: native file checked.
+2023-06-09 22:10:28,427 main WARN Advanced terminal features are not available in this environment
+[22:10:28] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, MAXCARZZY, --version, 1.19.2-Forge_43.2.0, --gameDir, C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\Users\MI\AppData\Roaming\.minecraft\assets, --assetIndex, 1.19, --uuid, d399b45ac55a4eb7a21c45eaf66c4980, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[22:10:28] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.2 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[22:10:29] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/MI/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23146!/ Service=ModLauncher Env=CLIENT
+[22:10:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.0\fmlcore-1.19.2-43.2.0.jar is missing mods.toml file
+[22:10:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.0\javafmllanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:10:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.0\lowcodelanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:10:30] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\MI\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.0\mclanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[22:10:30] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[22:10:30] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'forge', Requested by: 'create', Expected range: '[43.2.3,)', Actual version: '43.2.0'
+[22:10:32] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22:10:32] [main/ERROR] [mixin/]: Mixin config radon.mixins.json does not specify "minVersion" property
+[22:10:32] [main/ERROR] [mixin/]: Mixin config mixins.oculus.compat.sodium.json does not specify "minVersion" property
+[22:10:32] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.19.2-Forge_43.2.0, --gameDir, C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0, --assetsDir, C:\Users\MI\AppData\Roaming\.minecraft\assets, --uuid, d399b45ac55a4eb7a21c45eaf66c4980, --username, MAXCARZZY, --assetIndex, 1.19, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480]
+[22:10:32] [main/WARN] [mixin/]: Reference map 'alloyed.refmap.json' for alloyed.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:10:32] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[22:10:32] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix: 56 options available, 0 override(s) found
+[22:10:32] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[22:10:32] [main/INFO] [Sodium Extra Config/]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[22:10:32] [main/WARN] [CanaryConfig/]: Option 'mixin.world.block_entity_ticking.world_border' requires 'mixin.util.world_border_listener=true' but found 'false'. Setting 'mixin.world.block_entity_ticking.world_border=false'.
+[22:10:32] [main/INFO] [Canary/]: Loaded configuration file for Canary: 140 options available, 0 override(s) found
+[22:10:33] [main/WARN] [IMixinConfigPlugin/]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[22:10:33] [main/INFO] [IMixinConfigPlugin/]: Inventory Profiles Next dependency resolution failed! Probably missing libIPN.
+[22:10:34] [pool-3-thread-1/INFO] [minecraft/Bootstrap]: ModernFix bootstrap
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:32)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+	... 6 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.2.0/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	... 13 more
+Caused by: java.lang.RuntimeException: java.lang.IllegalAccessError: class com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube tried to access method 'void net.minecraft.world.phys.shapes.VoxelShape.<init>(net.minecraft.world.phys.shapes.DiscreteVoxelShape)' (com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube is in module canary@0.2.4 of loader 'TRANSFORMER' @1a0c5e9; net.minecraft.world.phys.shapes.VoxelShape is in module minecraft@1.19.2 of loader 'TRANSFORMER' @1a0c5e9)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.2.0/net.minecraftforge.fml.loading.BackgroundWaiter.runAndTick(BackgroundWaiter.java:29)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.m_239872_(Main.java:145)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.main(Main.java:51)
+	... 19 more
+Caused by: java.lang.IllegalAccessError: class com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube tried to access method 'void net.minecraft.world.phys.shapes.VoxelShape.<init>(net.minecraft.world.phys.shapes.DiscreteVoxelShape)' (com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube is in module canary@0.2.4 of loader 'TRANSFORMER' @1a0c5e9; net.minecraft.world.phys.shapes.VoxelShape is in module minecraft@1.19.2 of loader 'TRANSFORMER' @1a0c5e9)
+	at TRANSFORMER/canary@0.2.4/com.abdelaziz.canary.common.shapes.VoxelShapeSimpleCube.<init>(VoxelShapeSimpleCube.java:31)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.m_166049_(Shapes.java:1601)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.m_83048_(Shapes.java:50)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.phys.shapes.Shapes.<clinit>(Shapes.java:26)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.Block.m_49796_(Block.java:140)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.SaplingBlock.<clinit>(SaplingBlock.java:20)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.block.Blocks.<clinit>(Blocks.java:59)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverDebugSettings.<clinit>(CarverDebugSettings.java:9)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverConfiguration.m_224838_(CarverConfiguration.java:20)
+	at MC-BOOTSTRAP/datafixerupper@5.0.28/com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.CarverConfiguration.<clinit>(CarverConfiguration.java:16)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.levelgen.carver.WorldCarver.<clinit>(WorldCarver.java:32)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.worldgen.Carvers.<clinit>(Carvers.java:21)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236012_(BuiltinRegistries.java:53)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236009_(BuiltinRegistries.java:87)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.m_236004_(BuiltinRegistries.java:114)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.data.BuiltinRegistries.<clinit>(BuiltinRegistries.java:113)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.core.Registry.<clinit>(Registry.java:665)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.Bootstrap.m_135870_(Bootstrap.java:43)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.lambda$run$0(Main.java:145)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[22:10:38.697] [Crash] 步骤 1：收集日志文件完成，收集到 3 个文件
+[22:10:38.697] [Crash] 步骤 2：准备日志文本
+[22:10:38.697] [Crash] latest.log 分类为 MinecraftLog
+[22:10:38.697] [Crash] debug.log 分类为 MinecraftLog
+[22:10:38.697] [Crash] RawOutput.log 分类为 ExtraLog
+[22:10:38.697] [Crash] 输出报告：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log，作为 Minecraft 或启动器日志
+[22:10:38.697] [Crash] 输出报告：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\debug.log，作为 Minecraft 或启动器日志
+[22:10:38.697] [Crash] 导入分析：C:\Users\MI\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.0\logs\latest.log，作为 Minecraft 日志
+[22:10:38.697] [Crash] 输出报告：C:\Users\MI\AppData\Local\Temp\PCL\CrashAnalyzer\88448206509\RawOutput.log，作为额外日志
+[22:10:38.697] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+[22:10:38.697] [Crash] 步骤 3：分析崩溃原因
+[22:10:38.697] [Crash] 开始进行 Minecraft 日志堆栈分析，发现 0 个报错项
+[22:10:38.697] [Crash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+[22:10:38.742] [System] 窗口已置顶，位置：(361.6, 104.8), 1096 x 684.8
+[22:10:38.749] [Control] 普通弹窗：Minecraft 出现错误
+很抱歉，你的游戏出现了一些问题……
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+你也可以查看错误报告，其中可能会有出错的原因。
+[22:10:42.007] [Control] 按下按钮：导出错误报告
+[22:10:42.007] [Control] 普通弹框返回：3
+[22:10:49.230] [UI] 选择文件返回：C:\Users\MI\Desktop\错误报告-2023-06-09_22.10.42.zip
+[22:10:49.337] [System] 诊断信息：
+操作系统：Microsoft Windows 11 家庭中文版
+剩余内存：11017 M / 16251 M
+DPI：120（125%）
+MC 文件夹：C:\Users\MI\AppData\Roaming\.minecraft\
+文件位置：D:\Y\PCL\

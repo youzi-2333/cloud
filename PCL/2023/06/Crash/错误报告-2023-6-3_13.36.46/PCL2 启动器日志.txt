@@ -1,0 +1,410 @@
+[13:34:18.737] [Start] 程序版本：Snapshot 2.2.10（249）
+[13:34:18.777] [Start] 识别码：33B6-3A35-B609-6210
+[13:34:18.777] [Start] 程序路径：C:\Users\Administrator\Desktop\
+[13:34:18.819] [Start] 第一阶段加载用时：406 ms
+[13:34:19.535] [UI] 刷新主题：0
+[13:34:19.635] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[13:34:19.636] [Start] 第二阶段加载用时：688 ms
+[13:34:19.667] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[13:34:20.479] [Start] 加载 DLL：Json
+[13:34:20.479] [System] 获取资源：Json
+[13:34:20.560] [Java] 缓存中有 2 个可用的 Java
+[13:34:20.664] [System] 窗口已置顶，位置：(448.666666666667, 210), 810 x 500
+[13:34:20.670] [Start] 第三阶段加载用时：203 ms
+[13:34:20.670] [Animation] 动画线程开始
+[13:34:20.685] [Launch] Minecraft 文件夹：C:\Users\Administrator\Desktop\.minecraft\
+[13:34:20.878] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[13:34:20.882] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[13:34:20.883] [Server] 正在连接到 PCL2 服务器
+[13:34:20.885] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[13:34:20.897] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1685770461-3655ec52-0-04eb14af76f2ce707a51e354853dcfd7，最大超时 10000
+[13:34:21.050] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[13:34:21.055] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[13:34:21.117] [Server] 服务器公告：108|294|293|5，无需更新
+[13:34:21.125] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[13:34:21.202] [Animation] 两个动画帧间隔 485 ms
+[13:34:21.287] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\
+[13:34:21.292] [Loader] 加载器 登录 状态改变：Loading
+[13:34:21.294] [Launch] 登录线程已启动
+[13:34:21.295] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[13:34:21.297] [Launch] 登录方式：离线（白哉常世）
+[13:34:21.300] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[13:34:21.306] [Loader] 加载器 登录 状态改变：Finished
+[13:34:21.340] [Skin] 载入头像成功：Loader Skin Legacy
+[13:34:21.341] [System] DPI：144，工作区尺寸：2560 x 1380，系统版本：10.0.17763.0
+[13:34:21.568] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[13:34:54.722] [Control] 按下按钮：启动游戏
+[13:34:54.723] [Loader] 加载器 Loader Launch 状态改变：Loading
+[13:34:54.780] [Launch] 预检测已通过
+[13:34:54.783] [Download] 开始后台更新资源文件索引
+[13:34:54.783] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[13:34:54.784] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[13:34:54.785] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[13:34:54.786] [Loader] 加载器 Java 处理 状态改变：Loading
+[13:34:54.787] [Download] 版本 The Pixelmon Modpack 对应的资源文件索引为 1.16
+[13:34:54.788] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[13:34:54.789] [Loader] 加载器 Java 验证 状态改变：Loading
+[13:34:54.792] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[13:34:54.794] [Loader] 加载器 补全文件 状态改变：Loading
+[13:34:54.794] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[13:34:54.794] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[13:34:54.794] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[13:34:54.795] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[13:34:54.795] [Launch] Java 版本需求：最低 1.8.0.0，最高 1.15.999.999
+[13:34:54.796] [Download] 版本 The Pixelmon Modpack 对应的资源文件索引为 1.16
+[13:34:54.799] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\
+[13:34:54.803] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[13:34:54.803] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[13:34:54.804] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[13:34:54.804] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[13:34:54.807] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\
+[13:34:54.811] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\
+[13:34:54.825] [System] 执行外部命令并等待返回结果：E:\5\bin\java.exe -version
+[13:34:54.855] [Minecraft] 获取支持库列表：The Pixelmon Modpack
+[13:34:54.952] [Download] 1.16.json 127#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[13:34:55.017] [Download] 1.16.json：文件大小 295229 B（288 K）
+[13:34:55.024] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[13:34:55.024] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[13:34:55.024] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[13:34:55.025] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[13:34:55.071] [Java] 选定的 Java：Java 8 (8.0.291)，64 位，手动导入：E:\5\bin\
+[13:34:55.071] [Launch] 选择的 Java：Java 8 (8.0.291)，64 位，手动导入：E:\5\bin\
+[13:34:55.071] [Loader] 加载器 Java 验证 状态改变：Finished
+[13:34:55.073] [Loader] 加载器 Java 处理 状态改变：Finished
+[13:34:55.077] [Download] 1.16.json：已完成，剩余文件 0
+[13:34:55.077] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[13:34:55.077] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[13:34:55.080] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.16.json
+[13:34:55.080] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[13:34:55.080] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[13:34:55.335] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[13:34:55.336] [Loader] 加载器 下载资源文件 状态改变：Loading
+[13:34:55.336] [Loader] 加载器 下载资源文件 状态改变：Finished
+[13:34:55.336] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[13:34:55.336] [Loader] 加载器 补全文件 状态改变：Finished
+[13:34:55.336] [Loader] 加载器 提供参数中的服务器 IP 状态改变：Loading
+[13:34:55.336] [Loader] 加载器 提供参数中的服务器 IP 状态改变：Finished
+[13:34:55.337] [Loader] 加载器 获取启动参数 状态改变：Loading
+[13:34:55.339] [Launch] 开始获取 Minecraft 启动参数
+[13:34:55.339] [Launch] 获取新版 JVM 参数
+[13:34:55.346] [Launch] 当前剩余内存：9.4G
+[13:34:55.353] [Launch] 新版 JVM 参数获取成功：
+[13:34:55.353] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx15360m cpw.mods.modlauncher.Launcher
+[13:34:55.353] [Launch] 获取新版 Game 参数
+[13:34:55.354] [Launch] 新版 Game 参数获取成功
+[13:34:55.357] [Minecraft] 获取支持库列表：The Pixelmon Modpack
+[13:34:55.360] [Launch] Minecraft 启动参数：
+[13:34:55.360] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\The Pixelmon Modpack-natives" -Dminecraft.launcher.brand=PCL2 -Dminecraft.launcher.version=249 -cp "C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.34\forge-1.16.5-36.2.34.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\The Pixelmon Modpack.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx15360m cpw.mods.modlauncher.Launcher --username 白哉常世 --version "The Pixelmon Modpack" --gameDir "C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack" --assetsDir "C:\Users\Administrator\Desktop\.minecraft\assets" --assetIndex 1.16 --uuid 0000000000003004998F50********10 --accessToken 0000000000003004998F50********10 --userType Legacy --versionType PCL2 --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.34 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[13:34:55.360] [Loader] 加载器 获取启动参数 状态改变：Finished
+[13:34:55.367] [Loader] 加载器 解压文件 状态改变：Loading
+[13:34:55.371] [Launch] 正在解压 Natives 文件
+[13:34:55.399] [Loader] 加载器 解压文件 状态改变：Finished
+[13:34:55.415] [Loader] 加载器 预启动处理 状态改变：Loading
+[13:34:55.423] [Launch] 已根据设置自动修改语言为中文
+[13:34:55.425] [Loader] 加载器 预启动处理 状态改变：Finished
+[13:34:55.445] [Loader] 加载器 启动进程 状态改变：Loading
+[13:34:55.457] [Launch] 已启动游戏进程
+[13:34:55.465] [Loader] 加载器 启动进程 状态改变：Finished
+[13:34:55.481] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[13:34:55.483] [Launch] 
+[13:34:55.483] [Launch] ~ 基础参数 ~
+[13:34:55.483] [Launch] PCL2 版本：Snapshot 2.2.10 (249)
+[13:34:55.483] [Launch] 游戏版本：1.16.5, Forge 36.2.34（16）
+[13:34:55.483] [Launch] 资源版本：1.16
+[13:34:55.483] [Launch] 版本继承：无
+[13:34:55.483] [Launch] 分配的内存：15 GB（15360 MB）
+[13:34:55.483] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\.minecraft\
+[13:34:55.483] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\
+[13:34:55.483] [Launch] 版本隔离：True
+[13:34:55.483] [Launch] HMCL 格式：False
+[13:34:55.483] [Launch] Java 信息：Java 8 (8.0.291)，64 位，手动导入：E:\5\bin\
+[13:34:55.484] [Launch] 环境变量：未设置
+[13:34:55.484] [Launch] 
+[13:34:55.484] [Launch] ~ 登录参数 ~
+[13:34:55.484] [Launch] 玩家用户名：白哉常世
+[13:34:55.484] [Launch] AccessToken：0000000000003004998F50********10
+[13:34:55.484] [Launch] ClientToken：0000000000003004998F501AAD657C10
+[13:34:55.484] [Launch] UUID：0000000000003004998F501AAD657C10
+[13:34:55.484] [Launch] 登录方式：Legacy
+[13:34:55.484] [Launch] 
+[13:34:55.486] [Launch] [22456] 开始 Minecraft 日志监控
+[13:34:55.487] [Launch] [全局] 出现运行中的 Minecraft
+[13:34:56.294] [Launch] [22456] 日志 1/5：已出现日志输出
+[13:34:57.277] [Launch] [22456] FML 窗口已加载：929836
+[13:34:57.277] [Launch] [22456] Minecraft 加载已完成
+[13:34:57.311] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[13:34:57.313] [Loader] 加载器 结束处理 状态改变：Loading
+[13:34:57.315] [Launch] 开始启动结束处理
+[13:34:57.316] [Launch] 启动器可见性：5
+[13:34:57.317] [Loader] 加载器 结束处理 状态改变：Finished
+[13:34:57.349] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[13:34:57.428] [Loader] 加载器 Loader Launch 状态改变：Finished
+[13:34:57.450] [UI] 弹出提示：The Pixelmon Modpack 启动成功！
+[13:35:04.373] [Launch] [22456] Minecraft 已退出，返回值：1
+[13:35:04.373] [Launch] [22456] Minecraft 返回值异常，可能已崩溃
+[13:35:04.374] [Launch] [全局] 已无运行中的 Minecraft
+[13:35:04.374] [Launch] [22456] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[13:35:04.400] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[13:35:04.568] [Launch] [22456] Minecraft 日志监控已退出
+[13:35:06.376] [Launch] [22456] 崩溃分析开始
+[13:35:06.386] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\2245626958757\
+[13:35:06.390] [Crash] 步骤 1：收集日志文件
+[13:35:06.392] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\hs_err_pid22456.log（0 分钟）
+[13:35:06.392] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\logs\latest.log（0.1 分钟）
+[13:35:06.392] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\logs\debug.log（0 分钟）
+[13:35:06.396] [Crash] 以下为游戏输出的最后一段内容：
+2023-06-03 13:34:56,150 main WARN Advanced terminal features are not available in this environment
+[13:34:56] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, 白哉常世, --version, The Pixelmon Modpack, --gameDir, C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack, --assetsDir, C:\Users\Administrator\Desktop\.minecraft\assets, --assetIndex, 1.16, --uuid, 0000000000003004998F501AAD657C10, --accessToken, ????????, --userType, Legacy, --versionType, PCL2, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.34, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[13:34:56] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_291 by Oracle Corporation
+[13:34:56] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[13:34:56] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Administrator/Desktop/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[13:34:58] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlclient' with arguments [--version, The Pixelmon Modpack, --gameDir, C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack, --assetsDir, C:\Users\Administrator\Desktop\.minecraft\assets, --uuid, 0000000000003004998F501AAD657C10, --username, 白哉常世, --assetIndex, 1.16, --accessToken, ????????, --userType, Legacy, --versionType, PCL2, --width, 854, --height, 480]
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 2296381440 bytes for Failed to commit area from 0x0000000514000000 to 0x000000059ce00000 of length 2296381440.
+# An error report file with more information is saved as:
+# C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\hs_err_pid22456.log
+Java HotSpot(TM) 64-Bit Server VM warning: INFO: os::commit_memory(0x0000000514000000, 2296381440, 0) failed; error='页面文件太小，无法完成操作。' (DOS error/errno=1455)
+[13:35:06.398] [Crash] 步骤 1：收集日志文件完成，收集到 4 个文件
+[13:35:06.408] [Crash] 步骤 2：准备日志文本
+[13:35:06.408] [Crash] hs_err_pid22456.log 分类为 HsErr
+[13:35:06.408] [Crash] latest.log 分类为 MinecraftLog
+[13:35:06.408] [Crash] debug.log 分类为 MinecraftLog
+[13:35:06.408] [Crash] RawOutput.log 分类为 MinecraftLog
+[13:35:06.411] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\logs\latest.log，作为 Minecraft 或启动器日志
+[13:35:06.411] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\logs\debug.log，作为 Minecraft 或启动器日志
+[13:35:06.411] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\2245626958757\RawOutput.log，作为 Minecraft 或启动器日志
+[13:35:06.411] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\2245626958757\RawOutput.log，作为启动器日志
+[13:35:06.411] [Crash] 导入分析：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\logs\latest.log，作为 Minecraft 日志
+[13:35:06.416] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\hs_err_pid22456.log，作为虚拟机错误信息
+[13:35:06.416] [Crash] 导入分析：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\hs_err_pid22456.log，作为虚拟机错误信息
+[13:35:06.416] [Crash] 步骤 2：准备日志文本完成，找到游戏日志、虚拟机日志用作分析
+[13:35:06.418] [Crash] 步骤 3：分析崩溃原因
+[13:35:06.424] [Crash] 可能的崩溃原因：内存不足
+[13:35:06.424] [Crash] 可能的崩溃原因：内存不足
+[13:35:06.424] [Crash] 步骤 3：分析崩溃原因完成，找到 1 条可能的原因
+[13:35:06.424] [Crash]  - 内存不足
+[13:35:06.427] [System] 窗口已置顶，位置：(448.666666666667, 210), 810 x 500
+[13:35:06.469] [Control] 普通弹窗：Minecraft 出现错误
+Minecraft 内存不足，导致其无法继续运行。
+这很可能是由于你为游戏分配的内存不足，或是游戏的配置要求过高。
+
+你可以在启动设置中增加为游戏分配的内存，删除配置要求较高的材质、Mod、光影。
+如果这依然不奏效，请在开始游戏前尽量关闭其他软件，或者……换台电脑？
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+[13:35:18.915] [Control] 按下按钮：导出错误报告
+[13:35:18.917] [Control] 普通弹框返回：2
+[13:35:23.364] [UI] 选择文件返回：错误报告-2023-6-3_13.35.18.zip
+[13:35:23.377] 导出错误报告失败：不包含路径：错误报告-2023-6-3_13.35.18.zip
+   在 PCL.ModBase.GetPathFromFullPath(String FilePath)
+   在 PCL.CrashAnalyzer.Output(Boolean IsHandAnalyze, List`1 ExtraFiles)
+[13:35:23.420] [Control] 普通弹窗：出现错误
+导出错误报告失败：不包含路径：错误报告-2023-6-3_13.35.18.zip
+   在 PCL.ModBase.GetPathFromFullPath(String FilePath)
+   在 PCL.CrashAnalyzer.Output(Boolean IsHandAnalyze, List`1 ExtraFiles)
+
+是否反馈此问题？如果不反馈，这个问题可能永远无法得到解决！
+[13:35:24.707] [Control] 按下按钮：取消
+[13:35:24.708] [Control] 普通弹框返回：2
+[13:35:26.000] [Control] 按下按钮：版本选择
+[13:35:26.014] [Control] 切换主要页面：VersionSelect, 0
+[13:35:26.144] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[13:35:26.144] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[13:35:26.190] [Setup] 当前选择的 Minecraft 版本：The Pixelmon Modpack
+[13:35:26.190] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\
+[13:35:26.267] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > C:\Users\Administrator\Desktop\.minecraft\
+[13:35:26.328] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[13:35:28.861] [UI] 选择文件返回：
+[13:35:28.861] [Control] 按下单击列表项：导入整合包
+[13:35:29.756] [Control] 按下图标按钮：BtnTitleInner
+[13:35:29.757] [Control] 切换主要页面：Launch, -1
+[13:35:29.908] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\
+[13:35:31.208] [Control] 按下按钮：版本设置
+[13:35:31.264] [Control] 切换主要页面：VersionSetup, 0
+[13:35:32.109] [Control] 按下单选列表项：Mod 管理
+[13:35:32.243] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[13:35:32.542] Mod Class 信息不可用（C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\mods\ThePixelmonOST.zip）：未找到 Mod 入口点
+   在 PCL.ModMinecraft.McMod.LoadWithClass(ZipArchive Jar)
+错误类型：System.IO.FileNotFoundException
+[13:35:32.558] [UI] 弹出提示：直接点击某个 Mod 项即可将它禁用！
+[13:35:32.573] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[13:35:32.911] [Report] FPS 0, 动画 9, 下载中 0（0 B/s）
+[13:35:36.762] [Control] 按下图标按钮：BtnTitleInner
+[13:35:36.762] [Control] 切换主要页面：Launch, -1
+[13:35:37.859] [Control] 按下单选按钮：设置
+[13:35:37.934] [Control] 切换主要页面：Setup, -1
+[13:36:01.723] [Report] FPS 0, 动画 6, 下载中 0（0 B/s）
+[13:36:02.352] [Control] 展开卡片：高级设置
+[13:36:02.551] [Report] FPS 0, 动画 5, 下载中 0（0 B/s）
+[13:36:03.866] [Control] 按下单选按钮：启动
+[13:36:03.867] [Control] 切换主要页面：Launch, -1
+[13:36:07.028] [Control] 按下按钮：启动游戏
+[13:36:07.028] [Loader] 加载器 Loader Launch 状态改变：Loading
+[13:36:07.036] [Launch] 预检测已通过
+[13:36:07.036] [Download] 开始后台更新资源文件索引
+[13:36:07.036] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[13:36:07.036] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[13:36:07.036] [Download] 版本 The Pixelmon Modpack 对应的资源文件索引为 1.16
+[13:36:07.036] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[13:36:07.036] [Loader] 加载器 Java 处理 状态改变：Loading
+[13:36:07.036] [Loader] 加载器 Java 验证 状态改变：Loading
+[13:36:07.036] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[13:36:07.036] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[13:36:07.036] [Launch] Java 版本需求：最低 1.8.0.0，最高 1.15.999.999
+[13:36:07.036] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\
+[13:36:07.037] [Loader] 加载器 补全文件 状态改变：Loading
+[13:36:07.037] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[13:36:07.037] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[13:36:07.037] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[13:36:07.037] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[13:36:07.037] [Download] 版本 The Pixelmon Modpack 对应的资源文件索引为 1.16
+[13:36:07.038] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\
+[13:36:07.044] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[13:36:07.044] [Java] 开始完全遍历查找：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\
+[13:36:07.044] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[13:36:07.045] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[13:36:07.045] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[13:36:07.047] [System] 执行外部命令并等待返回结果：E:\5\bin\java.exe -version
+[13:36:07.058] [Download] 1.16.json 955#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[13:36:07.090] [Minecraft] 获取支持库列表：The Pixelmon Modpack
+[13:36:07.113] [Download] 1.16.json：文件大小 295229 B（288 K）
+[13:36:07.166] [Download] 1.16.json：已完成，剩余文件 0
+[13:36:07.166] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[13:36:07.166] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[13:36:07.169] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.16.json
+[13:36:07.169] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[13:36:07.169] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[13:36:07.198] [Java] 选定的 Java：Java 8 (8.0.291)，64 位，手动导入：E:\5\bin\
+[13:36:07.198] [Launch] 选择的 Java：Java 8 (8.0.291)，64 位，手动导入：E:\5\bin\
+[13:36:07.198] [Loader] 加载器 Java 验证 状态改变：Finished
+[13:36:07.198] [Loader] 加载器 Java 处理 状态改变：Finished
+[13:36:07.249] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[13:36:07.250] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[13:36:07.250] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[13:36:07.250] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[13:36:07.327] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[13:36:07.327] [Loader] 加载器 下载资源文件 状态改变：Loading
+[13:36:07.327] [Loader] 加载器 下载资源文件 状态改变：Finished
+[13:36:07.327] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[13:36:07.327] [Loader] 加载器 补全文件 状态改变：Finished
+[13:36:07.328] [Loader] 加载器 提供参数中的服务器 IP 状态改变：Loading
+[13:36:07.328] [Loader] 加载器 提供参数中的服务器 IP 状态改变：Finished
+[13:36:07.329] [Loader] 加载器 获取启动参数 状态改变：Loading
+[13:36:07.329] [Launch] 开始获取 Minecraft 启动参数
+[13:36:07.329] [Launch] 获取新版 JVM 参数
+[13:36:07.331] [Launch] 当前剩余内存：9.3G
+[13:36:07.331] [Launch] 新版 JVM 参数获取成功：
+[13:36:07.331] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx15360m cpw.mods.modlauncher.Launcher
+[13:36:07.331] [Launch] 获取新版 Game 参数
+[13:36:07.331] [Launch] 新版 Game 参数获取成功
+[13:36:07.331] [Minecraft] 获取支持库列表：The Pixelmon Modpack
+[13:36:07.334] [Launch] Minecraft 启动参数：
+[13:36:07.334] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\The Pixelmon Modpack-natives" -Dminecraft.launcher.brand=PCL2 -Dminecraft.launcher.version=249 -cp "C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forge\1.16.5-36.2.34\forge-1.16.5-36.2.34.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-util\9.1\asm-util-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\modlauncher\8.1.3\modlauncher-8.1.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\cpw\mods\grossjava9hacks\1.3.3\grossjava9hacks-1.3.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\eventbus\4.0.0\eventbus-4.0.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\forgespi\3.2.0\forgespi-3.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\coremods\4.0.6\coremods-4.0.6.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\core\3.6.3\core-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\com\electronwill\night-config\toml\3.6.3\toml-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\jline\jline\3.12.1\jline-3.12.1.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.15.0\log4j-slf4j18-impl-2.15.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\org\spongepowered\mixin\0.8.4\mixin-0.8.4.jar;C:\Users\Administrator\Desktop\.minecraft\libraries\net\minecraftforge\nashorn-core-compat\15.1.1.1\nashorn-core-compat-15.1.1.1.jar;C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\The Pixelmon Modpack.jar" -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Xmn256m -Xmx15360m cpw.mods.modlauncher.Launcher --username 白哉常世 --version "The Pixelmon Modpack" --gameDir "C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack" --assetsDir "C:\Users\Administrator\Desktop\.minecraft\assets" --assetIndex 1.16 --uuid 0000000000003004998F50********10 --accessToken 0000000000003004998F50********10 --userType Legacy --versionType PCL2 --width 854 --height 480 --launchTarget fmlclient --fml.forgeVersion 36.2.34 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 
+[13:36:07.334] [Loader] 加载器 获取启动参数 状态改变：Finished
+[13:36:07.340] [Loader] 加载器 解压文件 状态改变：Loading
+[13:36:07.341] [Launch] 正在解压 Natives 文件
+[13:36:07.345] [Loader] 加载器 解压文件 状态改变：Finished
+[13:36:07.360] [Loader] 加载器 预启动处理 状态改变：Loading
+[13:36:07.360] [Launch] 已根据设置自动修改语言为中文
+[13:36:07.362] [Loader] 加载器 预启动处理 状态改变：Finished
+[13:36:07.378] [Loader] 加载器 启动进程 状态改变：Loading
+[13:36:07.387] [Launch] 已启动游戏进程
+[13:36:07.388] [Loader] 加载器 启动进程 状态改变：Finished
+[13:36:07.404] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[13:36:07.405] [Launch] 
+[13:36:07.405] [Launch] ~ 基础参数 ~
+[13:36:07.405] [Launch] PCL2 版本：Snapshot 2.2.10 (249)
+[13:36:07.405] [Launch] 游戏版本：1.16.5, Forge 36.2.34（16）
+[13:36:07.405] [Launch] 资源版本：1.16
+[13:36:07.405] [Launch] 版本继承：无
+[13:36:07.405] [Launch] 分配的内存：15 GB（15360 MB）
+[13:36:07.405] [Launch] MC 文件夹：C:\Users\Administrator\Desktop\.minecraft\
+[13:36:07.405] [Launch] 版本文件夹：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\
+[13:36:07.405] [Launch] 版本隔离：True
+[13:36:07.405] [Launch] HMCL 格式：False
+[13:36:07.405] [Launch] Java 信息：Java 8 (8.0.291)，64 位，手动导入：E:\5\bin\
+[13:36:07.405] [Launch] 环境变量：未设置
+[13:36:07.405] [Launch] 
+[13:36:07.405] [Launch] ~ 登录参数 ~
+[13:36:07.405] [Launch] 玩家用户名：白哉常世
+[13:36:07.405] [Launch] AccessToken：0000000000003004998F50********10
+[13:36:07.405] [Launch] ClientToken：0000000000003004998F501AAD657C10
+[13:36:07.405] [Launch] UUID：0000000000003004998F501AAD657C10
+[13:36:07.405] [Launch] 登录方式：Legacy
+[13:36:07.405] [Launch] 
+[13:36:07.405] [Launch] [23928] 开始 Minecraft 日志监控
+[13:36:07.405] [Launch] [全局] 出现运行中的 Minecraft
+[13:36:08.189] [Launch] [23928] 日志 1/5：已出现日志输出
+[13:36:09.164] [Launch] [23928] FML 窗口已加载：1453592
+[13:36:09.164] [Launch] [23928] Minecraft 加载已完成
+[13:36:09.219] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[13:36:09.226] [Loader] 加载器 结束处理 状态改变：Loading
+[13:36:09.226] [Launch] 开始启动结束处理
+[13:36:09.226] [Launch] 启动器可见性：5
+[13:36:09.227] [Loader] 加载器 结束处理 状态改变：Finished
+[13:36:09.264] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[13:36:09.273] [Loader] 加载器 Loader Launch 状态改变：Finished
+[13:36:09.313] [UI] 弹出提示：The Pixelmon Modpack 启动成功！
+[13:36:16.105] [Launch] [23928] Minecraft 已退出，返回值：1
+[13:36:16.105] [Launch] [23928] Minecraft 返回值异常，可能已崩溃
+[13:36:16.105] [Launch] [全局] 已无运行中的 Minecraft
+[13:36:16.105] [Launch] [23928] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+[13:36:16.132] [UI] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+[13:36:16.299] [Launch] [23928] Minecraft 日志监控已退出
+[13:36:18.106] [Launch] [23928] 崩溃分析开始
+[13:36:18.106] [Crash] 崩溃分析暂存文件夹：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\2392890795722\
+[13:36:18.106] [Crash] 步骤 1：收集日志文件
+[13:36:18.107] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\hs_err_pid22456.log（1.2 分钟）
+[13:36:18.107] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\hs_err_pid23928.log（0 分钟）
+[13:36:18.107] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\logs\latest.log（0.1 分钟）
+[13:36:18.107] [Crash] 可能可用的日志文件：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\logs\debug.log（0 分钟）
+[13:36:18.111] [Crash] 以下为游戏输出的最后一段内容：
+2023-06-03 13:36:08,105 main WARN Advanced terminal features are not available in this environment
+[13:36:08] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, 白哉常世, --version, The Pixelmon Modpack, --gameDir, C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack, --assetsDir, C:\Users\Administrator\Desktop\.minecraft\assets, --assetIndex, 1.16, --uuid, 0000000000003004998F501AAD657C10, --accessToken, ????????, --userType, Legacy, --versionType, PCL2, --width, 854, --height, 480, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.34, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[13:36:08] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_291 by Oracle Corporation
+[13:36:08] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[13:36:08] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Administrator/Desktop/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[13:36:10] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlclient' with arguments [--version, The Pixelmon Modpack, --gameDir, C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack, --assetsDir, C:\Users\Administrator\Desktop\.minecraft\assets, --uuid, 0000000000003004998F501AAD657C10, --username, 白哉常世, --assetIndex, 1.16, --accessToken, ????????, --userType, Legacy, --versionType, PCL2, --width, 854, --height, 480]
+Java HotSpot(TM) 64-Bit Server VM warning: INFO: os::commit_memory(0x0000000505000000, 2346713088, 0) failed; error='页面文件太小，无法完成操作。' (DOS error/errno=1455)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 2346713088 bytes for Failed to commit area from 0x0000000505000000 to 0x0000000590e00000 of length 2346713088.
+# An error report file with more information is saved as:
+# C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\hs_err_pid23928.log
+[13:36:18.112] [Crash] 步骤 1：收集日志文件完成，收集到 5 个文件
+[13:36:18.112] [Crash] 步骤 2：准备日志文本
+[13:36:18.112] [Crash] hs_err_pid22456.log 分类为 HsErr
+[13:36:18.112] [Crash] hs_err_pid23928.log 分类为 HsErr
+[13:36:18.112] [Crash] latest.log 分类为 MinecraftLog
+[13:36:18.112] [Crash] debug.log 分类为 MinecraftLog
+[13:36:18.112] [Crash] RawOutput.log 分类为 MinecraftLog
+[13:36:18.112] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\logs\latest.log，作为 Minecraft 或启动器日志
+[13:36:18.112] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\logs\debug.log，作为 Minecraft 或启动器日志
+[13:36:18.112] [Crash] 输出报告：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\2392890795722\RawOutput.log，作为 Minecraft 或启动器日志
+[13:36:18.112] [Crash] 导入分析：C:\Users\Administrator\AppData\Local\Temp\PCL\CrashAnalyzer\2392890795722\RawOutput.log，作为启动器日志
+[13:36:18.112] [Crash] 导入分析：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\logs\latest.log，作为 Minecraft 日志
+[13:36:18.112] [Crash] 输出报告：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\hs_err_pid23928.log，作为虚拟机错误信息
+[13:36:18.112] [Crash] 导入分析：C:\Users\Administrator\Desktop\.minecraft\versions\The Pixelmon Modpack\hs_err_pid23928.log，作为虚拟机错误信息
+[13:36:18.112] [Crash] 步骤 2：准备日志文本完成，找到游戏日志、虚拟机日志用作分析
+[13:36:18.112] [Crash] 步骤 3：分析崩溃原因
+[13:36:18.112] [Crash] 可能的崩溃原因：内存不足
+[13:36:18.112] [Crash] 可能的崩溃原因：内存不足
+[13:36:18.112] [Crash] 步骤 3：分析崩溃原因完成，找到 1 条可能的原因
+[13:36:18.112] [Crash]  - 内存不足
+[13:36:18.137] [System] 窗口已置顶，位置：(79.3333333333333, 146.666666666667), 810 x 500
+[13:36:18.142] [Control] 普通弹窗：Minecraft 出现错误
+Minecraft 内存不足，导致其无法继续运行。
+这很可能是由于你为游戏分配的内存不足，或是游戏的配置要求过高。
+
+你可以在启动设置中增加为游戏分配的内存，删除配置要求较高的材质、Mod、光影。
+如果这依然不奏效，请在开始游戏前尽量关闭其他软件，或者……换台电脑？
+如果要寻求帮助，请向他人发送错误报告文件，而不是发送这个窗口的截图。
+[13:36:46.031] [Control] 按下按钮：导出错误报告
+[13:36:46.032] [Control] 普通弹框返回：2
+[13:36:50.471] [Animation] 两个动画帧间隔 359 ms
+[13:36:56.343] [UI] 选择文件返回：C:\Users\Administrator\Desktop\错误报告-2023-6-3_13.36.46.zip
+[13:36:56.443] [System] 诊断信息：
+操作系统：Microsoft Windows 10 企业版 LTSC
+剩余内存：9635 M / 16326 M
+DPI：144（150%）
+文件位置：C:\Users\Administrator\Desktop\
